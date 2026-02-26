@@ -108,11 +108,17 @@
             border: 1px solid #30363d;
             border-radius: 12px;
             padding: 20px;
-            transition: border-color 0.3s;
+            cursor: pointer;
+            transition: all 0.3s;
         }
 
         .news-card:hover {
             border-color: #58a6ff;
+        }
+
+        .news-card.expanded {
+            border-color: #58a6ff;
+            cursor: default;
         }
 
         .news-source {
@@ -129,9 +135,32 @@
             margin-bottom: 10px;
         }
 
+        .news-content {
+            display: none;
+            color: #8b949e;
+            font-size: 0.9rem;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #30363d;
+        }
+
+        .news-card.expanded .news-content {
+            display: block;
+        }
+
         .news-time {
             color: #8b949e;
             font-size: 0.8rem;
+        }
+
+        .news-expand-hint {
+            color: #58a6ff;
+            font-size: 0.8rem;
+            margin-top: 10px;
+        }
+
+        .news-card.expanded .news-expand-hint {
+            display: none;
         }
 
         .horoscope-grid {
@@ -347,24 +376,38 @@
             `;
         });
 
-        // Știri (static - actualizat manual)
+        // Știri cu expand
         const news = [
-            { source: 'Digi24', title: 'Ultimele știri din România - EVENIMENT', time: 'Acum' },
-            { source: 'Digi24', title: 'Poliția Română recomandă vigilență sporită', time: 'Acum' },
-            { source: 'Mediafax', title: 'Se anunță modificări importante în legislație', time: 'Acum' },
-            { source: 'Digi24', title: 'Vremea se schimbă radical în România', time: 'Acum' },
-            { source: 'Digi24', title: 'Transportul public din București - actualizări', time: 'Acum' },
-            { source: 'Mediafax', title: 'Economie: cursul valutar azi', time: 'Acum' },
-            { source: 'Digi24', title: 'Activități culturale în weekend', time: 'Acum' },
-            { source: 'Digi24', title: 'Sfaturi pentru șoferi în condiții de trafic', time: 'Acum' }
+            { source: 'Digi24', title: 'Ultimele știri din România - EVENIMENT', content: 'Detalii complete despre evenimentele recente din România. Rămâneți conectați pentru actualizări live.', time: 'Acum' },
+            { source: 'Digi24', title: 'Poliția Română recomandă vigilență sporită', content: 'Autoritățile le recomandă cetățenilor să fie atenți și să raporteze orice activitate suspectă.', time: 'Acum' },
+            { source: 'Mediafax', title: 'Se anunță modificări importante în legislație', content: 'Parlamentul dezbate noi proiecte de lege care ar putea afecta milioane de români.', time: 'Acum' },
+            { source: 'Digi24', title: 'Vremea se schimbă radical în România', content: 'Meteorologii anunță o răcire bruscă a vremii în următoarele zile. Recomandăm să vă pregătiți pentru temperaturi scăzute.', time: 'Acum' },
+            { source: 'Digi24', title: 'Transportul public din București - actualizări', content: 'STB anunță modificări în programul de circulație pentru mai multe linii de autobuz și tramvai.', time: 'Acum' },
+            { source: 'Mediafax', title: 'Economie: cursul valutar azi', content: 'Euro și dolarul înregistrează fluctuații minime astăzi pe piața valutară românească.', time: 'Acum' },
+            { source: 'Digi24', title: 'Activități culturale în weekend', content: 'Teatrele și muzeele din România oferă evenimente speciale pentru weekendul acesta.', time: 'Acum' },
+            { source: 'Digi24', title: 'Sfaturi pentru șoferi în condiții de trafic', content: 'Poliția rutieră recomandă șoferilor să fie atenți la condus, mai ales în traficul intens.', time: 'Acum' }
         ];
+
+        function toggleNews(card) {
+            const wasExpanded = card.classList.contains('expanded');
+            
+            // Close all
+            document.querySelectorAll('.news-card').forEach(c => c.classList.remove('expanded'));
+            
+            // Toggle clicked
+            if (!wasExpanded) {
+                card.classList.add('expanded');
+            }
+        }
 
         news.forEach(n => {
             document.getElementById('newsGrid').innerHTML += `
-                <div class="news-card">
+                <div class="news-card" onclick="toggleNews(this)">
                     <div class="news-source">${n.source}</div>
                     <div class="news-title">${n.title}</div>
                     <div class="news-time">${n.time}</div>
+                    <div class="news-content">${n.content}</div>
+                    <div class="news-expand-hint">Click pentru detalii...</div>
                 </div>
             `;
         });
