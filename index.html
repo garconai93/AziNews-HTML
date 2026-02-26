@@ -189,7 +189,10 @@
                         <div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div>
                         <div class="news-title">${n.title}</div>
                         <div class="news-time">${n.time}</div>
-                        <div class="news-content">${n.content}</div>
+                        <div class="news-content">
+                            ${n.content}
+                            <div style="margin-top: 10px;"><a href="${n.url}" target="_blank" style="color: #58a6ff; text-decoration: none;">📎 Citește pe ${n.source}</a></div>
+                        </div>
                         <div class="news-expand-hint">Click pentru detalii...</div>
                     </div>
                 </div>`;
