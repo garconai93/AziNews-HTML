@@ -62,8 +62,10 @@
 
         .cookie-banner { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #161b22; border-top: 1px solid #30363d; padding: 20px; text-align: center; z-index: 1000; }
         .cookie-banner p { margin: 0 0 15px 0; color: #8b949e; font-size: 0.9rem; }
-        .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; }
+        .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; margin: 0 5px; }
         .cookie-banner button:hover { background: #4393e6; }
+        .cookie-banner .reject { background: #333; }
+        .cookie-banner .reject:hover { background: #444; }
 
         @media (max-width: 768px) {
             .info-cards { grid-template-columns: repeat(2, 1fr); }
@@ -151,8 +153,11 @@
     </footer>
 
     <div class="cookie-banner" id="cookieBanner">
-        <p>🍪 Acest site nu folosește cookies. Vizionare plăcută!</p>
-        <button onclick="document.getElementById('cookieBanner').style.display='none'">Înțeles</button>
+        <p>🍪 Folosim cookies pentru a afișa reclame Google. <a href="privacy.html" style="color: #58a6ff;">Citește Politica de Confidențialitate</a></p>
+        <div>
+            <button onclick="acceptCookies()">Accept</button>
+            <button class="reject" onclick="rejectCookies()">Respinge</button>
+        </div>
     </div>
 
     <script>
@@ -232,6 +237,23 @@
                     </div>
                 </div>`;
         });
+
+        // Cookie consent
+        function checkCookieConsent() {
+            if (!localStorage.getItem('cookieConsent')) {
+                document.getElementById('cookieBanner').style.display = 'block';
+            }
+        }
+        function acceptCookies() {
+            localStorage.setItem('cookieConsent', 'accepted');
+            document.getElementById('cookieBanner').style.display = 'none';
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        }
+        function rejectCookies() {
+            localStorage.setItem('cookieConsent', 'rejected');
+            document.getElementById('cookieBanner').style.display = 'none';
+        }
+        checkCookieConsent();
     </script>
 </body>
 </html>
