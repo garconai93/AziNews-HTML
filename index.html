@@ -57,6 +57,11 @@
         .disclaimer { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin-top: 30px; text-align: center; color: #8b949e; font-size: 0.85rem; }
         .disclaimer p { margin: 0; line-height: 1.6; }
 
+        .cookie-banner { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #161b22; border-top: 1px solid #30363d; padding: 20px; text-align: center; z-index: 1000; }
+        .cookie-banner p { margin: 0 0 15px 0; color: #8b949e; font-size: 0.9rem; }
+        .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; }
+        .cookie-banner button:hover { background: #4393e6; }
+
         @media (max-width: 768px) {
             .info-cards { grid-template-columns: repeat(2, 1fr); }
             .news-grid { grid-template-columns: 1fr; }
@@ -130,11 +135,16 @@
     <footer>
         <p>© 2026 AziNews. Toate drepturile rezervate.</p>
         <p>
-            <a href="https://garconaibot.github.io/azinews/terms.html" target="_blank">Termeni și Condiții</a> | 
-            <a href="https://garconaibot.github.io/azinews/privacy.html" target="_blank">Politica de Confidențialitate</a>
+            <a href="terms.html" target="_blank">Termeni și Condiții</a> | 
+            <a href="privacy.html" target="_blank">Politica de Confidențialitate</a>
         </p>
         <p>📧 Contact: <a href="mailto:garconaibot@gmail.com">garconaibot@gmail.com</a></p>
     </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <p>🍪 Acest site nu folosește cookies. Vizionare plăcută!</p>
+        <button onclick="document.getElementById('cookieBanner').style.display='none'">Înțeles</button>
+    </div>
 
     <script>
         function updateDateTime() {
