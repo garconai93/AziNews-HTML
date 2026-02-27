@@ -133,6 +133,8 @@ def git_push():
     """Face commit și push la GitHub"""
     import subprocess
     import os
+    import urllib.request
+    import json
     try:
         # Configure git to use gh for credentials
         subprocess.run(["git", "config", "--global", "credential.helper", "!gh auth git-credential"], check=False)
@@ -142,10 +144,53 @@ def git_push():
         subprocess.run(["git", "commit", "-m", f"Auto-update: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], check=True)
         subprocess.run(["git", "push"], check=True)
         print("Push la GitHub făcut!")
+        
+        # Purge Cloudflare cache
+        print("Curăț cache Cloudflare...")
+        cloudflare_purge("azinews.ro")
+        
         return True
     except Exception as e:
         print(f"Eroare git: {e}")
         return False
+
+def cloudflare_purge(domain):
+    """Purge cache Cloudflare pentru un domeniu"""
+    import urllib.request
+    import json
+    
+    # Configurație - păstrată local
+    cf_email = "garconai93@gmail.com"
+    cf_api_key = "db01e87b90a3508e9253fab849ef182c1ae40"
+    
+    # Zone IDs
+    zone_ids = {
+        "azinews.ro": "159d3820fe1ca3c29737db911e7e38ed",
+        "flacarafood.ro": "f557a7215089ff0040c4235271faf16e"
+    }
+    
+    zone_id = zone_ids.get(domain)
+    if not zone_id:
+        print(f"Nu am găsit Zone ID pentru {domain}")
+        return
+    
+    url = f"https://api.cloudflare.com/client/v4/zones/{zone_id}/purge_cache"
+    data = json.dumps({"purge_everything": True}).encode('utf-8')
+    
+    req = urllib.request.Request(url, data=data, method='POST')
+    req.add_header('X-Auth-Email', cf_email)
+    req.add_header('X-Auth-Key', cf_api_key)
+    req.add_header('Content-Type', 'application/json')
+    
+    try:
+        with urllib.request.urlopen(req, timeout=10) as response:
+            result = json.loads(response.read().decode())
+            if result.get('success'):
+                print(f"✓ Cache purjat pentru {domain}")
+            else:
+                print(f"Eroare Cloudflare: {result}")
+    except Exception as e:
+        print(f"Eroare la purge cache: {e}")
 
 def main():
     print(f"AziNews Updater - {datetime.now()}")
