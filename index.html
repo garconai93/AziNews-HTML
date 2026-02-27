@@ -16,6 +16,16 @@
         header h1 span { color: #58a6ff; }
         .date { color: #8b949e; font-size: 1rem; }
 
+        .newsletter-toggle { margin-top: 15px; }
+        .newsletter-btn { background: #58a6ff; color: #fff; border: none; padding: 10px 20px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; }
+        .newsletter-btn:hover { background: #4393e6; }
+        .newsletter-form { display: none; margin-top: 10px; }
+        .newsletter-form.show { display: block; }
+        .newsletter-form input { padding: 10px; border-radius: 6px; border: 1px solid #30363d; background: #161b22; color: #c9d1d9; width: 200px; }
+        .newsletter-form button { padding: 10px 15px; border-radius: 6px; border: none; background: #238636; color: #fff; cursor: pointer; margin-left: 5px; }
+        .newsletter-success { display: none; color: #238636; margin-top: 10px; }
+        .newsletter-success.show { display: block; }
+
         .info-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-bottom: 40px; }
         .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; text-align: center; }
         .card-icon { font-size: 2rem; margin-bottom: 10px; }
@@ -79,6 +89,14 @@
         <div class="container">
             <h1>📰 AziNews</h1>
             <p class="date" id="currentDate"></p>
+            <div class="newsletter-toggle">
+                <button onclick="toggleNewsletter()" class="newsletter-btn">📧 Abonare Newsletter</button>
+                <div class="newsletter-form" id="newsletterForm">
+                    <input type="email" id="newsletterEmail" placeholder="Email-ul tău" required>
+                    <button onclick="subscribeNewsletter()" class="subscribe-btn">Abonează-te</button>
+                </div>
+                <p class="newsletter-success" id="newsletterSuccess">✅ Te-ai abonat cu succes!</p>
+            </div>
         </div>
     </header>
 
@@ -254,6 +272,26 @@
             document.getElementById('cookieBanner').style.display = 'none';
         }
         checkCookieConsent();
+
+        // Newsletter
+        function toggleNewsletter() {
+            document.getElementById('newsletterForm').classList.toggle('show');
+        }
+        function subscribeNewsletter() {
+            const email = document.getElementById('newsletterEmail').value;
+            if (email) {
+                // Save to localStorage (pentru demo - în producție ar trebui un backend)
+                let subscribers = JSON.parse(localStorage.getItem('newsletterSubs') || '[]');
+                if (!subscribers.includes(email)) {
+                    subscribers.push(email);
+                    localStorage.setItem('newsletterSubs', JSON.stringify(subscribers));
+                }
+                document.getElementById('newsletterForm').classList.remove('show');
+                document.getElementById('newsletterSuccess').classList.add('show');
+                document.getElementById('newsletterEmail').value = '';
+                setTimeout(() => document.getElementById('newsletterSuccess').classList.remove('show'), 3000);
+            }
+        }
     </script>
 </body>
 </html>
