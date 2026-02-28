@@ -207,6 +207,10 @@ def main():
     # Combină (8 + 8)
     all_news = (digi_news[:8] + mediafax_news[:8])[:16]
     
+    # Amestecă aleatoriu pentru a nu fi toate Digi24 primele
+    import random
+    random.shuffle(all_news)
+    
     if all_news:
         print(f"Total: {len(all_news)} știri")
         update_html(all_news)
