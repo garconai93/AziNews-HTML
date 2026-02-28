@@ -1,5 +1,5 @@
 // Service Worker for AziNews PWA
-const CACHE_NAME = 'azinews-v2';
+const CACHE_NAME = 'azinews-v3';
 const urlsToCache = [
   '/',
   '/index.html'
@@ -10,7 +10,7 @@ self.addEventListener('install', event => {
         caches.open(CACHE_NAME)
             .then(cache => cache.addAll(urlsToCache))
     );
-    self.skipWaiting(); // Force update
+    self.skipWaiting();
 });
 
 self.addEventListener('activate', event => {
@@ -25,9 +25,25 @@ self.addEventListener('activate', event => {
     self.clients.claim();
 });
 
+// Network-first strategy - always try to get fresh content
 self.addEventListener('fetch', event => {
+    // Skip cross-origin requests (like news feeds, radio streams)
+    if (!event.request.url.startsWith(self.location.origin)) {
+        return;
+    }
+    
     event.respondWith(
-        caches.match(event.request)
-            .then(response => response || fetch(event.request))
+        fetch(event.request)
+            .then(response => {
+                // Clone the response before caching
+                const responseClone = response.clone();
+                caches.open(CACHE_NAME)
+                    .then(cache => cache.put(event.request, responseClone));
+                return response;
+            })
+            .catch(() => {
+                // If network fails, try cache
+                return caches.match(event.request);
+            })
     );
 });
