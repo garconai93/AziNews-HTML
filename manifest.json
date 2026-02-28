@@ -2,7 +2,7 @@
   "name": "AziNews",
   "short_name": "AziNews",
   "description": "Știri din România - Digi24, Mediafax",
-  "id": "azinews",
+  "id": "azinews-v3",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
