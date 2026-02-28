@@ -179,12 +179,30 @@
         updateDateTime();
         setInterval(updateDateTime, 60000);
 
-        fetch('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true')
-            .then(r => r.json()).then(d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; }).catch(() => {});
-        fetch('https://api.frankfurter.app/latest?from=EUR&to=RON')
-            .then(r => r.json()).then(d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON; }).catch(() => {});
-        fetch('https://api.frankfurter.app/latest?from=USD&to=RON')
-            .then(r => r.json()).then(d => { document.getElementById('usd').textContent = d.rates.RON; }).catch(() => {});
+        // Cached API calls (1 hour)
+        const CACHE_DURATION = 60 * 60 * 1000; // 1 hour
+        
+        function fetchWithCache(url, key, updateFn) {
+            const cached = localStorage.getItem(key);
+            if (cached) {
+                const data = JSON.parse(cached);
+                if (Date.now() - data.timestamp < CACHE_DURATION) {
+                    updateFn(data.value);
+                    return;
+                }
+            }
+            fetch(url).then(r => r.json()).then(d => {
+                localStorage.setItem(key, JSON.stringify({ timestamp: Date.now(), value: d }));
+                updateFn(d);
+            }).catch(() => {});
+        }
+        
+        fetchWithCache('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true', 'azinews_weather', 
+            d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        fetchWithCache('https://api.frankfurter.app/latest?from=EUR&to=RON', 'azinews_eur',
+            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON; });
+        fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
+            d => { document.getElementById('usd').textContent = d.rates.RON; });
 
         const audio = document.getElementById('radioPlayer');
         audio.volume = 0.15;
