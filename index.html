@@ -100,8 +100,12 @@
         <div class="container">
             <div class="newsletter" style="margin: 20px auto; max-width: 500px;">
                 <h3 style="font-size: 1.1rem;">📬 Newsletter</h3>
-                <p style="font-size: 0.9rem;">Adaugă email-ul tău!</p>
-                <a href="https://docs.google.com/spreadsheets/d/1FbOt3Z8bvarDu5g7beb3QWQ7o1sXw_KJKIJ7JgvrQbQ/edit" target="_blank" class="newsletter-btn" style="text-decoration: none; display: inline-block;">Adaugă Email</a>
+                <p style="font-size: 0.9rem;">Adaugă email-ul tău pentru noutăți!</p>
+                <form id="newsletterForm" class="newsletter-form" style="flex-direction: column; align-items: center;">
+                    <input type="email" id="newsletterEmail" class="newsletter-input" placeholder="email@tău.ro" required style="max-width: 100%;">
+                    <button type="submit" class="newsletter-btn">Abonează-te</button>
+                </form>
+                <p id="newsletterMsg" class="newsletter-success" style="display: none;"></p>
             </div>
         </div>
     </header>
@@ -278,6 +282,34 @@
             document.getElementById('cookieBanner').style.display = 'none';
         }
         checkCookieConsent();
+        
+        // Newsletter subscription - send to Google Forms in background
+        document.getElementById('newsletterForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const email = document.getElementById('newsletterEmail').value;
+            const msgEl = document.getElementById('newsletterMsg');
+            
+            try {
+                // Google Apps Script endpoint for newsletter
+                const scriptUrl = 'https://script.google.com/macros/s/AKfycbwqdqVJo5KH9JCfmgTynC4EVNODp-ZU4Qt56XFAfL-b-GvubWGHW9dnZbLgG7nTw0PPzA/exec';
+                
+                await fetch(scriptUrl, {
+                    method: 'POST',
+                    mode: 'no-cors',
+                    headers: { 'Content-Type': 'text/plain' },
+                    body: JSON.stringify({ email: email })
+                });
+                
+                msgEl.textContent = '✅ Te-ai abonat cu succes!';
+                msgEl.style.color = '#3fb950';
+                msgEl.style.display = 'block';
+                document.getElementById('newsletterEmail').value = '';
+            } catch (err) {
+                msgEl.textContent = '❌ Eroare. Încearcă din nou.';
+                msgEl.style.color = '#f85149';
+                msgEl.style.display = 'block';
+            }
+        });
         
         // Register Service Worker for PWA
         if ('serviceWorker' in navigator) {
