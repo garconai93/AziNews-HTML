@@ -220,7 +220,7 @@
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
         });
 
-        // Pozele reale din RSS Digi24
+        // Știri Digi24 + Mediafax - amestecate aleatoriu
         const news = [
     { source: 'Digi24', url: 'https://www.digi24.ro/stiri/infotrafic-ceata-in-zece-judete-restrictii-de-circulatie-pe-a1-deva-sibiu-din-cauza-unui-incendiu-la-un-autoturism-3652293', title: "Infotrafic: ceață în zece județe, restricții de circulație pe A1 Deva - Sibiu din cauza unui incendiu la un autoturism", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMiUyRjE5JTJGMjE1Mzk3NV8yMTUz/OTc1X3NodXR0ZXJzdG9ja180OTM1ODY3/MTkuanBnJmhhc2g9YmM4MDZkMTg2ZWM4MGY2Y2M0MzIyMDUwYWRhZjAwYWU=.jpg', content: "Traficul rutier este afectat de ceaţă în zece judeţe sâmbătă dimineaţă, anunţă Centrul Infotrafic din IGPR. De asemenea, sunt restricţii de trafic pe A1 Sibiu - Deva, din cauza unui incendiu izbucnit ", time: 'Acum' },
     { source: 'Digi24', url: 'https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-28-februarie-2-3652281', title: "Digistoria - cele mai importante evenimente petrecute pe 28 februarie", image: 'https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjI4JTJGMjYwOTYwNl8yNjA5/NjA2X0RpZ2ktMjRfMjAyNl8wMl8yOF8w/N18yOV8zNy5wbmcmaGFzaD1lYzJmNmUz/MmNmMzY2MTVhNWMwZTlmZjJkNGE5MzFkMA==.png', content: "Cele mai importante evenimente petrecute pe 28 februarie.", time: 'Acum' },
@@ -239,6 +239,12 @@
     { source: 'Mediafax', url: 'https://www.mediafax.ro/social/incendiu-pe-a1-sibiu-deva-si-ceata-densa-pe-zeci-de-drumuri-din-tara-conditii-dificile-de-circulatie-23694309', title: "Incendiu pe A1 Sibiu-Deva și ceață densă pe zeci de drumuri din țară. Condiții dificile de circulație", image: 'https://www.mediafax.ro//wp-content/uploads/2025/10/ceata-densa-3-1024x576.png', content: "Un autoturism a luat foc pe banda de urgență a autostrăzii A1, la kilometrul 273, sensul Sibiu. Simultan, ceața îngreunează traficul în zece județe.", time: 'Acum' },
     { source: 'Mediafax', url: 'https://www.mediafax.ro/stiinta-sanatate/descoperire-socanta-in-spania-o-societate-izolata-macinata-de-boli-si-consangvinitate-a-supravietuit-cinci-secole-in-pesteri-23694304', title: "Descoperire șocantă în Spania: o societate izolată, măcinată de boli și consangvinitate, a supraviețuit cinci secole în peșteri", image: 'https://www.mediafax.ro//wp-content/uploads/2026/02/las-gobas.jpg', content: "Niște formațiuni stâncoase aparent banale au ascuns timp de secole o poveste tulburătoare din nordul Spaniei. În cavitățile săpate direct în piatră, o comunitate medievală a trăit izolată aproape 500 ", time: 'Acum' },
 ];
+
+        // Amestecă știrile aleatoriu
+        for (let i = news.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [news[i], news[j]] = [news[j], news[i]];
+        }
 
         function toggleNews(card) {
             const wasExpanded = card.classList.contains('expanded');
