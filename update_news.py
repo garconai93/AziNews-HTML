@@ -5,6 +5,7 @@ Extrage 8 știri de pe Digi24 + 8 de pe mediafax.ro și actualizează index.html
 """
 import json
 import re
+import os
 from datetime import datetime
 from pathlib import Path
 
@@ -158,16 +159,21 @@ def cloudflare_purge(domain):
     """Purge cache Cloudflare pentru un domeniu"""
     import urllib.request
     import json
+    import os
     
-    # Configurație - păstrată local
-    cf_email = "garconai93@gmail.com"
-    cf_api_key = "db01e87b90a3508e9253fab849ef182c1ae40"
+    # Configurație din variabile de mediu (nu în cod!)
+    cf_email = os.environ.get('CF_EMAIL', '')
+    cf_api_key = os.environ.get('CF_API_KEY', '')
     
-    # Zone IDs
+    # Zone IDs din variabile de mediu
     zone_ids = {
-        "azinews.ro": "159d3820fe1ca3c29737db911e7e38ed",
-        "flacarafood.ro": "f557a7215089ff0040c4235271faf16e"
+        'azinews.ro': os.environ.get('CF_ZONE_ID_azinews', ''),
+        'flacarafood.ro': os.environ.get('CF_ZONE_ID_flacarafood', '')
     }
+    
+    if not cf_api_key or not cf_email:
+        print("⚠️ Cloudflare API keys not set. Skipping cache purge.")
+        return
     
     zone_id = zone_ids.get(domain)
     if not zone_id:

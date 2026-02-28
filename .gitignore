@@ -1,0 +1,8 @@
+# AziNews - date sensibile (NU trimite pe GitHub!)
+.env
+*.env
+config.py
+secrets.py
+credentials.json
+*.key
+api_keys.py
