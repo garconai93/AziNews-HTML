@@ -177,7 +177,7 @@
             document.getElementById('day').textContent = days[now.getDay()];
         }
         updateDateTime();
-        setInterval(updateDateTime, 1000);
+        setInterval(updateDateTime, 60000);
 
         fetch('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true')
             .then(r => r.json()).then(d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; }).catch(() => {});
