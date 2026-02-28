@@ -283,6 +283,21 @@
         }
         checkCookieConsent();
         
+        // Check for app update on iOS
+        const APP_VERSION = 'v3-' + new Date().getDate();
+        const lastVersion = localStorage.getItem('azinews_version');
+        
+        if (lastVersion !== APP_VERSION) {
+            localStorage.setItem('azinews_version', APP_VERSION);
+            // Clear old cache and reload
+            if ('caches' in window) {
+                caches.keys().then(keys => {
+                    keys.forEach(key => caches.delete(key));
+                });
+            }
+            window.location.reload();
+        }
+        
         // Register Service Worker for PWA
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker.register('sw.js')
