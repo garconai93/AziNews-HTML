@@ -233,12 +233,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: 'Berbac', msg: 'Energie maximă' }, { sign: 'Taur', msg: 'Zi de relaxare' },
-            { sign: 'Gemeni', msg: 'Zi dinamică' }, { sign: 'Rac', msg: 'Timp cu familia' },
-            { sign: 'Leu', msg: 'Strălucești' }, { sign: 'Fecioară', msg: 'Sănătate' },
-            { sign: 'Balanță', msg: 'Echilibru' }, { sign: 'Scorpion', msg: 'Putere' },
-            { sign: 'Săgetător', msg: 'Aventură' }, { sign: 'Capricorn', msg: 'Responsabil' },
-            { sign: 'Vărsător', msg: 'Inovație' }, { sign: 'Pești', msg: 'Creativitate' }
+            { sign: "Pești", msg: "Compasiune profundă" },
+            { sign: "Gemeni", msg: "Flexibilitate și adaptabilitate" },
+            { sign: "Fecioară", msg: "Sănătate și bunăstare" },
+            { sign: "Săgetător", msg: "Optimism exploziv" },
+            { sign: "Capricorn", msg: "Ambitionează sus" },
+            { sign: "Balanță", msg: "Frumusețe și artă" },
+            { sign: "Scorpion", msg: "Descoperiri importante" },
+            { sign: "Leu", msg: "Strălucești în orice situație" },
+            { sign: "Taur", msg: "Zi de relaxare și reflecție" },
+            { sign: "Vărsător", msg: "Schimbări benefice" },
+            { sign: "Rac", msg: "Protecție și siguranță" },
+            { sign: "Berbec", msg: "Opportunități profesionale" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;

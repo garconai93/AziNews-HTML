@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 AziNews Auto-Updater
-Extrage știri de pe Digi24, Mediafax, HotNews, Europa FM și actualizează index.html
+Extrage știri de pe Digi24, Mediafax, Europa FM, Libertatea, Adevărul
 """
 import json
 import re
@@ -9,7 +9,6 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-# Fișierele
 HTML_FILE = Path(__file__).parent / "index.html"
 
 def fetch_digi24_news():
@@ -100,51 +99,6 @@ def fetch_mediafax_news():
         print(f"Eroare Mediafax: {e}")
     return news
 
-def fetch_hotnews_news():
-    """Preia știri de pe HotNews RSS"""
-    news = []
-    try:
-        import urllib.request
-        url = "https://hotnews.ro/feed"
-        
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, timeout=15) as response:
-            content = response.read().decode('utf-8')
-        
-        items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
-        for item in items[:8]:
-            title_match = re.search(r'<title><!\[CDATA\[(.*?)\]\]></title>', item)
-            if not title_match:
-                title_match = re.search(r'<title>(.*?)</title>', item)
-            
-            link_match = re.search(r'<link>(.*?)</link>', item)
-            desc_match = re.search(r'<description><!\[CDATA\[(.*?)\]\]></description>', item)
-            if not desc_match:
-                desc_match = re.search(r'<description>(.*?)</description>', item)
-            
-            img_match = re.search(r'<media:content[^>]*url="([^"]+)"', item)
-            if not img_match:
-                img_match = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
-            
-            if title_match and link_match:
-                title = title_match.group(1).strip()
-                link = link_match.group(1).strip()
-                desc = desc_match.group(1).strip() if desc_match else ""
-                desc = re.sub(r'<[^>]+>', '', desc)[:200]
-                img = img_match.group(1) if img_match else ""
-                
-                news.append({
-                    "source": "HotNews",
-                    "url": link,
-                    "title": title,
-                    "image": img,
-                    "content": desc,
-                    "time": "Acum"
-                })
-    except Exception as e:
-        print(f"Eroare HotNews: {e}")
-    return news
-
 def fetch_europafm_news():
     """Preia știri de pe Europa FM RSS"""
     news = []
@@ -190,6 +144,92 @@ def fetch_europafm_news():
         print(f"Eroare Europa FM: {e}")
     return news
 
+def fetch_libertatea_news():
+    """Preia știri de pe Libertatea RSS"""
+    news = []
+    try:
+        import urllib.request
+        url = "https://www.libertatea.ro/rss"
+        
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=15) as response:
+            content = response.read().decode('utf-8')
+        
+        items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+        for item in items[:8]:
+            title_match = re.search(r'<title><!\[CDATA\[(.*?)\]\]></title>', item)
+            if not title_match:
+                title_match = re.search(r'<title>(.*?)</title>', item)
+            
+            link_match = re.search(r'<link>(.*?)</link>', item)
+            desc_match = re.search(r'<description><!\[CDATA\[(.*?)\]\]></description>', item)
+            if not desc_match:
+                desc_match = re.search(r'<description>(.*?)</description>', item)
+            
+            img_match = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
+            
+            if title_match and link_match:
+                title = title_match.group(1).strip()
+                link = link_match.group(1).strip()
+                desc = desc_match.group(1).strip() if desc_match else ""
+                desc = re.sub(r'<[^>]+>', '', desc)[:200]
+                img = img_match.group(1) if img_match else ""
+                
+                news.append({
+                    "source": "Libertatea",
+                    "url": link,
+                    "title": title,
+                    "image": img,
+                    "content": desc,
+                    "time": "Acum"
+                })
+    except Exception as e:
+        print(f"Eroare Libertatea: {e}")
+    return news
+
+def fetch_adevarul_news():
+    """Preia știri de pe Adevărul RSS"""
+    news = []
+    try:
+        import urllib.request
+        url = "https://www.adevarul.ro/rss"
+        
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=15) as response:
+            content = response.read().decode('utf-8')
+        
+        items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+        for item in items[:8]:
+            title_match = re.search(r'<title><!\[CDATA\[(.*?)\]\]></title>', item)
+            if not title_match:
+                title_match = re.search(r'<title>(.*?)</title>', item)
+            
+            link_match = re.search(r'<link>(.*?)</link>', item)
+            desc_match = re.search(r'<description><!\[CDATA\[(.*?)\]\]></description>', item)
+            if not desc_match:
+                desc_match = re.search(r'<description>(.*?)</description>', item)
+            
+            img_match = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
+            
+            if title_match and link_match:
+                title = title_match.group(1).strip()
+                link = link_match.group(1).strip()
+                desc = desc_match.group(1).strip() if desc_match else ""
+                desc = re.sub(r'<[^>]+>', '', desc)[:200]
+                img = img_match.group(1) if img_match else ""
+                
+                news.append({
+                    "source": "Adevărul",
+                    "url": link,
+                    "title": title,
+                    "image": img,
+                    "content": desc,
+                    "time": "Acum"
+                })
+    except Exception as e:
+        print(f"Eroare Adevărul: {e}")
+    return news
+
 def update_html(news_list):
     """Actualizează index.html cu noile știri"""
     if not HTML_FILE.exists():
@@ -198,7 +238,6 @@ def update_html(news_list):
     
     html_content = HTML_FILE.read_text(encoding='utf-8')
     
-    # Creează array-ul JavaScript cu știrile
     news_js = "const news = [\n"
     for n in news_list:
         img = n.get('image', '') or ''
@@ -207,11 +246,9 @@ def update_html(news_list):
         news_js += f'''    {{ source: '{n["source"]}', url: '{n["url"]}', title: "{title}", image: '{img}', content: "{content}", time: '{n["time"]}' }},\n'''
     news_js += "];"
     
-    # Înlocuiește vechiul array de știri
     pattern = r'const news = \[.*?\];'
     html_content = re.sub(pattern, news_js, html_content, flags=re.DOTALL)
     
-    # Scrie fișierul
     HTML_FILE.write_text(html_content, encoding='utf-8')
     print(f"Actualizat cu {len(news_list)} știri!")
     return True
@@ -219,7 +256,6 @@ def update_html(news_list):
 def git_push():
     """Face commit și push la GitHub"""
     import subprocess
-    import os
     try:
         subprocess.run(["git", "config", "--global", "credential.helper", "!gh auth git-credential"], check=False)
         
@@ -236,7 +272,7 @@ def git_push():
         return False
 
 def cloudflare_purge(domain):
-    """Purge cache Cloudflare pentru un domeniu"""
+    """Purge cache Cloudflare"""
     import urllib.request
     import json
     import os
@@ -279,7 +315,6 @@ def cloudflare_purge(domain):
 def main():
     print(f"AziNews Updater - {datetime.now()}")
     
-    # Preia știrile de la toate sursele
     print("Preiau știri de pe Digi24...")
     digi_news = fetch_digi24_news()
     print(f"  -> {len(digi_news)} știri Digi24")
@@ -288,18 +323,21 @@ def main():
     mediafax_news = fetch_mediafax_news()
     print(f"  -> {len(mediafax_news)} știri Mediafax")
     
-    print("Preiau știri de pe HotNews...")
-    hotnews_news = fetch_hotnews_news()
-    print(f"  -> {len(hotnews_news)} știri HotNews")
-    
     print("Preiau știri de pe Europa FM...")
     europafm_news = fetch_europafm_news()
     print(f"  -> {len(europafm_news)} știri Europa FM")
     
-    # Combină (8 de la fiecare = 32 total)
-    all_news = (digi_news[:8] + mediafax_news[:8] + hotnews_news[:8] + europafm_news[:8])[:32]
+    print("Preiau știri de pe Libertatea...")
+    libertatea_news = fetch_libertatea_news()
+    print(f"  -> {len(libertatea_news)} știri Libertatea")
     
-    # Amestecă aleatoriu
+    print("Preiau știri de pe Adevărul...")
+    adevarul_news = fetch_adevarul_news()
+    print(f"  -> {len(adevarul_news)} știri Adevărul")
+    
+    # Combină (5 surse x 8 = 40 total)
+    all_news = (digi_news[:8] + mediafax_news[:8] + europafm_news[:8] + libertatea_news[:8] + adevarul_news[:8])[:40]
+    
     import random
     random.shuffle(all_news)
     
