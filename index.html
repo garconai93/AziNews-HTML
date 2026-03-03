@@ -408,12 +408,12 @@
                     <img src="${n.image}" alt="${n.title}" class="news-image" onerror="this.style.display='none'">
                     <div class="news-body">
                         <div class="news-source-row">
-            <div class="news-source-row"><div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div><button class="news-share" onclick="shareNews('${n.url}', '${n.title.replace("'", "\'")}', '${n.source}')" title="Share">📤</button></div><button class="news-share" onclick="shareNews(n.url, n.title, n.source)" title="Share">📤</button></div>
+            <div class="news-source-row"><div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div><button class="news-share" onclick="shareNews('${n.url}', '${n.title.replace("'", "\'")}', '${n.source}')" title="Share">📤</button></div></div>
                         <div class="news-title">${n.title}</div>
                         <div class="news-time">${n.time}</div>
                         <div class="news-content">
                             ${n.content}
-                            <div style="margin-top: 10px;"><a href="${n.url}" target="_blank" style="color: #58a6ff; text-decoration: none;">📎 Citește pe ${n.source}</a></div><button class="news-share" onclick="shareNews(n.url, n.title, n.source)" title="Share">📤</button></div>
+                            <div style="margin-top: 10px;"><a href="${n.url}" target="_blank" style="color: #58a6ff; text-decoration: none;">📎 Citește pe ${n.source}</a></div></div>
                         </div>
                         <div class="news-expand-hint">Click pentru detalii...</div>
                     </div>
