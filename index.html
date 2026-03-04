@@ -332,9 +332,9 @@
             }, LONG_CACHE);
         
         fetchWithCache('https://api.frankfurter.app/latest?from=EUR&to=RON', 'azinews_eur',
-            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON; });
+            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON + ' RON'; });
         fetchWithCache('https://api.frankfurter.app/latest?from=USD&to=RON', 'azinews_usd',
-            d => { document.getElementById('usd').textContent = d.rates.RON; });
+            d => { document.getElementById('usd').textContent = '$ ' + d.rates.RON + ' RON'; });
 
         // Wikipedia Picture of the Day
         const today = new Date();
