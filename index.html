@@ -372,11 +372,11 @@
             if (el.style.display === 'none') {
                 el.style.display = 'grid';
                 if (!currencyRatesLoaded) {
-                    fetch('https://api.frankfurter.app/latest?from=RON&to=EUR,USD,GBP,CHF,HUF,PLN,CZK')
+                    fetch('https://api.frankfurter.app/latest?from=RON&to=EUR,USD,GBP,CHF,HUF,PLN,CZK,TRY')
                         .then(r => r.json()).then(data => {
-                            const flags = { EUR: '🇪🇺', USD: '🇺🇸', GBP: '🇬🇧', CHF: '🇨🇭', HUF: '🇭🇺', PLN: '🇵🇱', CZK: '🇨🇿' };
-                            const names = { EUR: 'Euro', USD: 'Dolar', GBP: 'Lira', CHF: 'Franco', HUF: 'Forint', PLN: 'Zlot', CZK: 'Coroana' };
-                            const currencies = ['EUR', 'USD', 'GBP', 'CHF', 'HUF', 'PLN', 'CZK'];
+                            const flags = { EUR: '🇪🇺', USD: '🇺🇸', GBP: '🇬🇧', CHF: '🇨🇭', HUF: '🇭🇺', PLN: '🇵🇱', CZK: '🇨🇿', TRY: '🇹🇷' };
+                            const names = { EUR: 'Euro', USD: 'Dolar', GBP: 'Lira', CHF: 'Franco', HUF: 'Forint', PLN: 'Zlot', CZK: 'Coroana', TRY: 'Lira' };
+                            const currencies = ['EUR', 'USD', 'GBP', 'CHF', 'HUF', 'PLN', 'CZK', 'TRY'];
                             let html = '';
                             currencies.forEach(c => {
                                 const rate = (1 / data.rates[c]).toFixed(4);
