@@ -234,7 +234,14 @@
                 <div class="card-icon">☀️</div>
                 <div class="card-title">Vremea <span style="font-size:10px;">▼</span></div>
                 <div class="card-value" id="weather">--°C</div>
-                <div class="card-sub">București</div>
+                <div class="card-sub">
+                    <input type="text" id="city-search" placeholder="Caută oraș..." 
+                           style="background:transparent;border:none;color:inherit;font-size:14px;width:120px;padding:2px;"
+                           onclick="event.stopPropagation(); showCityDropdown()"
+                           onkeyup="searchCity(this.value)">
+                    <div id="city-dropdown" style="display:none;position:absolute;background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:8px;padding:8px;z-index:1000;max-height:200px;overflow-y:auto;width:180px;">
+                    </div>
+                </div>
             </div>
             <div id="weather-forecast" class="forecast-section" style="display: none; grid-column: 1 / -1;"></div>
             <div class="card" onclick="toggleCurrencyRates()" style="cursor: pointer;">
@@ -347,6 +354,76 @@
         fetchWithCache('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true', 'azinews_weather', 
             d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
         
+        // Weather search by city
+        let currentCity = { name: 'București', lat: 44.43, lon: 26.10 };
+        
+        function showCityDropdown() {
+            const dropdown = document.getElementById('city-dropdown');
+            dropdown.style.display = 'block';
+            dropdown.innerHTML = getCityButtons();
+        }
+        
+        function getCityButtons() {
+            const cities = [
+                {name: 'București', lat: 44.43, lon: 26.10},
+                {name: 'Cluj-Napoca', lat: 46.77, lon: 23.60},
+                {name: 'Timișoara', lat: 45.75, lon: 21.23},
+                {name: 'Iași', lat: 47.16, lon: 27.59},
+                {name: 'Constanța', lat: 44.18, lon: 28.65},
+                {name: 'Craiova', lat: 44.32, lon: 23.80},
+                {name: 'Brașov', lat: 45.64, lon: 25.59},
+                {name: 'Galați', lat: 45.42, lon: 28.04},
+                {name: 'Ploiești', lat: 44.94, lon: 26.02},
+                {name: 'Oradea', lat: 47.06, lon: 21.92}
+            ];
+            return cities.map(c => `<div onclick="selectCity('${c.name}', ${c.lat}, ${c.lon})" 
+                style="padding:8px;cursor:pointer;border-radius:4px;hover:background:var(--bg-tertiary)">📍 ${c.name}</div>`).join('');
+        }
+        
+        function searchCity(query) {
+            const dropdown = document.getElementById('city-dropdown');
+            if (query.length < 2) {
+                dropdown.innerHTML = getCityButtons();
+                return;
+            }
+            fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(query)}&count=5&language=ro&format=json`)
+                .then(r => r.json()).then(d => {
+                    if (d.results) {
+                        dropdown.innerHTML = d.results.map(c => `<div onclick="selectCity('${c.name}', ${c.latitude}, ${c.longitude})" 
+                            style="padding:8px;cursor:pointer;">📍 ${c.name}, ${c.country}</div>`).join('');
+                    }
+                });
+        }
+        
+        function selectCity(name, lat, lon) {
+            currentCity = { name: name, lat: lat, lon: lon };
+            document.getElementById('city-search').value = name;
+            document.getElementById('city-dropdown').style.display = 'none';
+            // Update weather
+            fetchWithCache(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`, 'azinews_weather_' + name, 
+                d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+            // Save to localStorage
+            localStorage.setItem('azinews_city', JSON.stringify(currentCity));
+        }
+        
+        // Load saved city
+        const savedCity = localStorage.getItem('azinews_city');
+        if (savedCity) {
+            currentCity = JSON.parse(savedCity);
+            document.getElementById('city-search').value = currentCity.name;
+            fetchWithCache(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&current_weather=true`, 'azinews_weather', 
+                d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        }
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            const dropdown = document.getElementById('city-dropdown');
+            const input = document.getElementById('city-search');
+            if (!dropdown.contains(e.target) && e.target !== input) {
+                dropdown.style.display = 'none';
+            }
+        });
+        
         // Weather 7-day forecast
         let weatherForecastLoaded = false;
         function toggleWeatherForecast() {
@@ -354,7 +431,7 @@
             if (el.style.display === 'none') {
                 el.style.display = 'grid';
                 if (!weatherForecastLoaded) {
-                    fetch('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=auto')
+                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=auto`)
                         .then(r => r.json()).then(d => {
                             const days = ['Dum', 'Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm'];
                             let html = '';
