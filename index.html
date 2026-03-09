@@ -112,6 +112,108 @@
             border-color: var(--accent);
         }
 
+        /* Menu button (left side) */
+        .menu-toggle {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1001;
+            transition: all 0.3s;
+        }
+
+        .menu-toggle:hover {
+            border-color: var(--accent);
+        }
+
+        .menu-toggle.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        /* Dropdown menu */
+        .menu-dropdown {
+            display: none;
+            position: fixed;
+            top: 80px;
+            left: 20px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 15px;
+            z-index: 1002;
+            min-width: 220px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        }
+
+        .menu-dropdown.show {
+            display: block;
+        }
+
+        .menu-section {
+            margin-bottom: 15px;
+        }
+
+        .menu-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .menu-section-title {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .menu-options {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .menu-option {
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 6px 12px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .menu-option:hover {
+            border-color: var(--accent);
+        }
+
+        .menu-option.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+            border-color: var(--accent);
+        }
+
+        .menu-reset {
+            width: 100%;
+            text-align: center;
+            background: transparent;
+            border: 1px dashed var(--border-color);
+            margin-top: 10px;
+        }
+
+        .menu-reset:hover {
+            border-color: var(--accent);
+            border-style: solid;
+        }
+
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Inter', sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.6; }
         .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
@@ -215,6 +317,32 @@
 </head>
 <body>
     <button class="theme-toggle" onclick="toggleTheme()" title="Dark/Light Mode">🌙</button>
+    <button class="menu-toggle" onclick="toggleMenu()" title="Filtrează știrile">☰</button>
+    
+    <!-- Dropdown Menu -->
+    <div class="menu-dropdown" id="menuDropdown">
+        <div class="menu-section">
+            <div class="menu-section-title">Categorii</div>
+            <div class="menu-options">
+                <div class="menu-option" data-category="politic" onclick="filterNews('category', 'politic', this)">Politică</div>
+                <div class="menu-option" data-category="sport" onclick="filterNews('category', 'sport', this)">Sport</div>
+                <div class="menu-option" data-category="economic" onclick="filterNews('category', 'economic', this)">Economic</div>
+                <div class="menu-option" data-category="tech" onclick="filterNews('category', 'tech', this)">Tech</div>
+                <div class="menu-option" data-category="social" onclick="filterNews('category', 'social', this)">Social</div>
+            </div>
+        </div>
+        <div class="menu-section">
+            <div class="menu-section-title">Surse</div>
+            <div class="menu-options">
+                <div class="menu-option" data-source="Digi24" onclick="filterNews('source', 'Digi24', this)">Digi24</div>
+                <div class="menu-option" data-source="Mediafax" onclick="filterNews('source', 'Mediafax', this)">Mediafax</div>
+                <div class="menu-option" data-source="Europa FM" onclick="filterNews('source', 'Europa FM', this)">Europa FM</div>
+                <div class="menu-option" data-source="Libertatea" onclick="filterNews('source', 'Libertatea', this)">Libertatea</div>
+                <div class="menu-option" data-source="Adevărul" onclick="filterNews('source', 'Adevărul', this)">Adevărul</div>
+            </div>
+        </div>
+        <div class="menu-option menu-reset" onclick="resetFilters()">🔄 Arată toate știrile</div>
+    </div>
     <header>
         <div class="container">
             <h1>AziNews</h1>
@@ -283,7 +411,7 @@
             <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
 
-        <div class="section">
+        <div class="section news-section">
             <h2>Știri din România</h2>
             <div class="news-grid" id="newsGrid"></div>
         </div>
@@ -689,6 +817,97 @@
             document.body.classList.add('light-mode');
             document.querySelector('.theme-toggle').textContent = '☀️';
         }
+
+        // Menu functions
+        let currentFilter = { type: null, value: null };
+        
+        function toggleMenu() {
+            const menu = document.getElementById('menuDropdown');
+            const btn = document.querySelector('.menu-toggle');
+            menu.classList.toggle('show');
+            btn.classList.toggle('active');
+        }
+
+        function filterNews(type, value, element) {
+            currentFilter = { type, value };
+            
+            // Update active state
+            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
+            if (element) element.classList.add('active');
+            
+            // Close menu
+            document.getElementById('menuDropdown').classList.remove('show');
+            document.querySelector('.menu-toggle').classList.remove('active');
+            
+            // Filter news
+            const newsCards = document.querySelectorAll('.news-card');
+            let visibleCount = 0;
+            
+            newsCards.forEach(card => {
+                const source = card.querySelector('.news-source').textContent;
+                const title = card.querySelector('.news-title').textContent.toLowerCase();
+                const content = (card.querySelector('.news-content')?.textContent || '').toLowerCase();
+                const text = (title + ' ' + content).toLowerCase();
+                
+                let show = true;
+                
+                if (type === 'source') {
+                    show = source === value;
+                } else if (type === 'category') {
+                    // Simple category detection based on keywords
+                    const categoryKeywords = {
+                        'politic': ['politic', 'guvern', 'parlament', 'senat', 'PSD', 'PNL', 'USR', 'AUR', 'președinte', 'ministru', 'aleger', 'vot', 'coalitie', 'Bolojan', 'Ciolacu', 'Iohannis'],
+                        'sport': ['sport', 'fotbal', 'tenis', 'liga', 'campionat', 'meci', 'echipa', 'gol', 'soccer', 'tennis'],
+                        'economic': ['economie', 'bani', 'pret', 'lei', 'euro', 'dolar', ' bursa', 'actiuni', 'bani', 'creștere', 'scumpire', 'ieftinire', 'taxe', 'impozit', 'transmit', 'transmitere'],
+                        'tech': ['tech', 'digital', 'AI', 'inteligen', 'robot', 'aplicație', 'google', 'microsoft', 'apple', 'facebook', 'meta', 'hacker', 'cyber', 'date', 'internet'],
+                        'social': ['social', 'sanatate', 'educatie', 'scandal', 'accident', 'crime', 'masura', 'roman', 'tara']
+                    };
+                    
+                    const keywords = categoryKeywords[value] || [];
+                    show = keywords.some(kw => text.includes(kw));
+                }
+                
+                card.style.display = show ? 'block' : 'none';
+                if (show) visibleCount++;
+            });
+            
+            // Update header to show filter
+            const sectionTitle = document.querySelector('.news-section h2');
+            if (sectionTitle) {
+                if (currentFilter.type === 'source') {
+                    sectionTitle.textContent = `Știri - ${value}`;
+                } else if (currentFilter.type === 'category') {
+                    sectionTitle.textContent = `Știri - ${value.charAt(0).toUpperCase() + value.slice(1)}`;
+                }
+            }
+        }
+
+        function resetFilters() {
+            currentFilter = { type: null, value: null };
+            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
+            
+            document.querySelectorAll('.news-card').forEach(card => {
+                card.style.display = 'block';
+            });
+            
+            const sectionTitle = document.querySelector('.news-section h2');
+            if (sectionTitle) {
+                sectionTitle.textContent = 'Știri din România';
+            }
+            
+            document.getElementById('menuDropdown').classList.remove('show');
+            document.querySelector('.menu-toggle').classList.remove('active');
+        }
+
+        // Close menu when clicking outside
+        document.addEventListener('click', function(e) {
+            const menu = document.getElementById('menuDropdown');
+            const btn = document.querySelector('.menu-toggle');
+            if (!menu.contains(e.target) && !btn.contains(e.target)) {
+                menu.classList.remove('show');
+                btn.classList.remove('active');
+            }
+        });
     </script>
 
     <script>
