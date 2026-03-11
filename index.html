@@ -687,18 +687,18 @@
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Gemeni", msg: "Zi dinamică și interesantă" },
-            { sign: "Taur", msg: "Zi de relaxare și reflecție" },
-            { sign: "Berbec", msg: "Momente favoabile în relații" },
-            { sign: "Capricorn", msg: "Disciplină de fier" },
-            { sign: "Balanță", msg: "Diplomație excelentă" },
-            { sign: "Leu", msg: "Strălucești în orice situație" },
-            { sign: "Vărsător", msg: "Gândire unică" },
-            { sign: "Pești", msg: "Visatori romantici" },
+            { sign: "Leu", msg: "Atenție din partea celorlalți" },
+            { sign: "Săgetător", msg: "Călătorii benefice" },
             { sign: "Rac", msg: "Protecție și siguranță" },
-            { sign: "Fecioară", msg: "Perfecțiune în lucruri" },
-            { sign: "Săgetător", msg: "Aventură și explorare" },
-            { sign: "Scorpion", msg: "Transformări pozitive" },
+            { sign: "Berbec", msg: "Opportunități profesionale" },
+            { sign: "Taur", msg: "Stabilitate financiară" },
+            { sign: "Pești", msg: "Intuiție spirituală" },
+            { sign: "Fecioară", msg: "Organizare impecabilă" },
+            { sign: "Gemeni", msg: "Noi cunoștințe valoroase" },
+            { sign: "Capricorn", msg: "Succes garantat" },
+            { sign: "Scorpion", msg: "Putere și determinare" },
+            { sign: "Vărsător", msg: "Gândire unică" },
+            { sign: "Balanță", msg: "Justiție și fair-play" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
