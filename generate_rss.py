@@ -42,7 +42,7 @@ rss = '''<?xml version="1.0" encoding="UTF-8"?>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
 '''.format(date=datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0200'))
 
-for i, item in enumerate(news_items):
+for i, item in enumerate(news_items[:10]):
     rss += '''    <item>
         <title>{title}</title>
         <link>{url}</link>
