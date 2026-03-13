@@ -5,38 +5,8 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 13 Mar 2026 15:47:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 15:51:14 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Un cilindru misterios cu înălțimea unei clădiri cu patru etaje a ieşit brusc din pământ în Japonia. Cum explică autoritățile situația</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/un-cilindru-misterios-cu-inaltimea-unei-cladiri-cu-patru-etaje-a-iesit-brusc-din-pamant-in-japonia-cum-explica-autoritatile-situatia-3675589</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/un-cilindru-misterios-cu-inaltimea-unei-cladiri-cu-patru-etaje-a-iesit-brusc-din-pamant-in-japonia-cum-explica-autoritatile-situatia-3675589</guid>
-    </item>
-    <item>
-        <title>Un șofer prins de radar de 1.000 de ori a plătit amenzi mai mari decât valoarea mașinii</title>
-        <link>https://www.libertatea.ro/stiri/sofer-prins-de-radar-de-1-000-de-ori-a-platit-amenzi-mai-mari-decat-valoarea-masinii-sua-5659328</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/sofer-prins-de-radar-de-1-000-de-ori-a-platit-amenzi-mai-mari-decat-valoarea-masinii-sua-5659328</guid>
-    </item>
-    <item>
-        <title>Când spune Ilie Bolojan că s-ar putea redeschide circulația pe calea ferată Cluj-Oradea</title>
-        <link>https://www.mediafax.ro/economic/cand-spune-ilie-bolojan-ca-s-ar-putea-redeschide-circulatia-pe-calea-ferata-cluj-oradea-23702529</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/cand-spune-ilie-bolojan-ca-s-ar-putea-redeschide-circulatia-pe-calea-ferata-cluj-oradea-23702529</guid>
-    </item>
-    <item>
-        <title>Mojtaba Khamenei ar fi în comă. Liderul Suprem al Iranului nici nu știe că a fost numit în locul tatălui său (presa israeliană)</title>
-        <link>https://www.digi24.ro/stiri/externe/mojtava-khamenei-ar-fi-in-coma-liderul-suprem-al-iranului-nici-nu-stie-ca-a-fost-numit-in-locul-tatalui-sau-presa-israeliana-3675689</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mojtava-khamenei-ar-fi-in-coma-liderul-suprem-al-iranului-nici-nu-stie-ca-a-fost-numit-in-locul-tatalui-sau-presa-israeliana-3675689</guid>
-    </item>
-    <item>
-        <title>Patru militari americani au murit în timpul unei operațiuni asupra Iranului. Avionul de realimentare în care se aflau s-a prăbușit în vestul Irakului</title>
-        <link>https://www.europafm.ro/patru-militari-americani-au-murit-in-timpul-unei-operatiuni-asupra-iranului-avionul-de-realimentare-in-care-se-aflau-s-a-prabusit-in-vestul-irakului/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/patru-militari-americani-au-murit-in-timpul-unei-operatiuni-asupra-iranului-avionul-de-realimentare-in-care-se-aflau-s-a-prabusit-in-vestul-irakului/</guid>
-    </item>
     <item>
         <title>România în Direct. Tu știi ce mai fac părinții tăi?</title>
         <link>https://www.europafm.ro/romania-in-direct-tu-stii-ce-mai-fac-parintii-tai/</link>
@@ -44,28 +14,58 @@
         <guid isPermaLink="true">https://www.europafm.ro/romania-in-direct-tu-stii-ce-mai-fac-parintii-tai/</guid>
     </item>
     <item>
-        <title>Înșelăciune de 128.000 de euro. Un bărbat care pretindea că este agent imobiliar, arestat după ce a înlocuit banii cu bancnote din jocuri</title>
-        <link>https://adevarul.ro/stiri-locale/iasi/inselaciune-de-128000-de-euro-un-barbat-care-2514930.html</link>
+        <title>Reacția Rusiei după ce SUA au ridicat temporar sancțiunile pentru achiziția petrolului rusesc: „Interesele noastre coincid”</title>
+        <link>https://www.libertatea.ro/stiri/reactie-rusia-sua-derogare-sactiuni-petrol-rusia-razboi-iran-reactii-ue-5659360</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/reactie-rusia-sua-derogare-sactiuni-petrol-rusia-razboi-iran-reactii-ue-5659360</guid>
+    </item>
+    <item>
+        <title>Poluare pe Nistru. Moldova a cerut activarea Mecanismului de Protecție Civilă al UE</title>
+        <link>https://www.mediafax.ro/externe/poluare-pe-nistru-moldova-a-cerut-activarea-mecanismului-de-protectie-civila-al-ue-23702541</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/poluare-pe-nistru-moldova-a-cerut-activarea-mecanismului-de-protectie-civila-al-ue-23702541</guid>
+    </item>
+    <item>
+        <title>Schimbare surprinzătoare în topul operațiilor estetice. Implanturile mamare pierd teren. Dr. Ina Petrescu: „A fost cumva un val al exagerărilor”</title>
+        <link>https://www.libertatea.ro/entertainment/schimbare-surprinzatoare-in-topul-operatiilor-estetice-implanturile-mamare-pierd-teren-dr-ina-petrescu-a-fost-cumva-un-val-al-exagerarilor-5659028</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/schimbare-surprinzatoare-in-topul-operatiilor-estetice-implanturile-mamare-pierd-teren-dr-ina-petrescu-a-fost-cumva-un-val-al-exagerarilor-5659028</guid>
+    </item>
+    <item>
+        <title>Donald Tusk sfidează veto-ul prezidențial: Polonia va folosi împrumuturile din programul SAFE. Anunțul Comisiei Europene</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/donald-tusk-sfideaza-veto-ul-prezidential-polonia-va-folosi-imprumuturile-din-programul-safe-3675541</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/donald-tusk-sfideaza-veto-ul-prezidential-polonia-va-folosi-imprumuturile-din-programul-safe-3675541</guid>
+    </item>
+    <item>
+        <title>Ce a realizat Adrian Kaan după ce a fost eliminat de la Survivor România 2026: „Sunt recunoscător”</title>
+        <link>https://www.libertatea.ro/entertainment/adrian-kaan-eliminat-survivor-romania-2026-ce-a-realizat-exclusiv-5659103</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/adrian-kaan-eliminat-survivor-romania-2026-ce-a-realizat-exclusiv-5659103</guid>
+    </item>
+    <item>
+        <title>DEȘTEPTAREA: „Hobby Dogging” – Tendința ciudată a plimbărilor cu lesa… dar fără câine | AUDIO</title>
+        <link>https://www.europafm.ro/desteptarea-hobby-dogging-tendinta-ciudata-a-plimbarilor-cu-lesa-dar-fara-caine/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/desteptarea-hobby-dogging-tendinta-ciudata-a-plimbarilor-cu-lesa-dar-fara-caine/</guid>
+    </item>
+    <item>
+        <title>Bolojan, despre creșterea prețurilor la benzină și motorină: „Vom lua măsuri pentru a atenua impactul”</title>
+        <link>https://adevarul.ro/politica/bolojan-despre-cresterea-preturilor-la-benzina-si-2514938.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/iasi/inselaciune-de-128000-de-euro-un-barbat-care-2514930.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/bolojan-despre-cresterea-preturilor-la-benzina-si-2514938.html</guid>
     </item>
     <item>
-        <title>Ce spune premierul Ilie Bolojan despre introducerea serviciului militar obligatoriu</title>
-        <link>https://www.mediafax.ro/politic/ce-spune-premierul-ilie-bolojan-despre-introducerea-serviciului-militar-obligatoriu-23702526</link>
+        <title>Ilie Bolojan, despre finanțările PNRR:  Sunt peste 20.000 de proiecte.  Trebuie să le finalizăm lucrările până la sfârșitul lunii august</title>
+        <link>https://www.mediafax.ro/politic/ilie-bolojan-despre-finantarile-pnrr-sunt-peste-20-000-de-proiecte-trebuie-sa-le-finalizam-lucrarile-pana-la-sfarsitul-lunii-august-23702535</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/ce-spune-premierul-ilie-bolojan-despre-introducerea-serviciului-militar-obligatoriu-23702526</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ilie-bolojan-despre-finantarile-pnrr-sunt-peste-20-000-de-proiecte-trebuie-sa-le-finalizam-lucrarile-pana-la-sfarsitul-lunii-august-23702535</guid>
     </item>
     <item>
-        <title>Banking sector taxation increases, but the state loses money from BNR revenues</title>
-        <link>https://www.mediafax.ro/english/banking-sector-taxation-increases-but-the-state-loses-money-from-bnr-revenues-23702523</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/english/banking-sector-taxation-increases-but-the-state-loses-money-from-bnr-revenues-23702523</guid>
-    </item>
-    <item>
-        <title>Victor Alistar: We have an average of resolved cases, twice and almost, above the EU average</title>
-        <link>https://www.mediafax.ro/english/victor-alistar-we-have-an-average-of-resolved-cases-twice-and-almost-above-the-eu-average-23702512</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/english/victor-alistar-we-have-an-average-of-resolved-cases-twice-and-almost-above-the-eu-average-23702512</guid>
+        <title>Mojtaba Khamenei ar fi în comă. Liderul Suprem al Iranului nici nu știe că a fost numit în locul tatălui său (presa israeliană)</title>
+        <link>https://www.digi24.ro/stiri/externe/mojtava-khamenei-ar-fi-in-coma-liderul-suprem-al-iranului-nici-nu-stie-ca-a-fost-numit-in-locul-tatalui-sau-presa-israeliana-3675689</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mojtava-khamenei-ar-fi-in-coma-liderul-suprem-al-iranului-nici-nu-stie-ca-a-fost-numit-in-locul-tatalui-sau-presa-israeliana-3675689</guid>
     </item>
 </channel>
 </rss>

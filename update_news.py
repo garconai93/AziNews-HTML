@@ -33,6 +33,7 @@ def fetch_news(source_name, url):
             title_elem = item.find('title')
             link_elem = item.find('link')
             pubdate_elem = item.find('pubDate')
+            desc_elem = item.find('description')
             enclosure = item.find('enclosure')
             
             image_url = ""
@@ -68,12 +69,18 @@ def fetch_news(source_name, url):
                     except:
                         pass
                 
+                # Get description/content
+                content_str = ""
+                if desc_elem is not None and desc_elem.text:
+                    content_str = re.sub(r'<[^>]+>', '', desc_elem.text).strip()[:200]
+                
                 news.append({
                     "source": source_name,
                     "url": link,
                     "title": title[:150],
                     "image": image_url,
-                    "time": time_str
+                    "time": time_str,
+                    "content": content_str
                 })
                 
     except Exception as e:
@@ -87,6 +94,7 @@ def update_index_html(all_news):
     news_js = "const news = [\n"
     for item in all_news:
         title_escaped = item['title'].replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
+        content_escaped = item.get('content', '').replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
         image = item.get('image', '')
         time_str = item.get('time', '')
         
@@ -95,6 +103,8 @@ def update_index_html(all_news):
             news_item += f', image: "{image}"'
         if time_str:
             news_item += f', time: "{time_str}"'
+        if content_escaped:
+            news_item += f', content: "{content_escaped}"'
         news_item += " },\n"
         news_js += news_item
     news_js = news_js.rstrip(',\n') + "\n];"
