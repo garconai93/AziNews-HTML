@@ -9,7 +9,7 @@ from datetime import datetime
 
 SOURCES = [
     ("Digi24", "https://www.digi24.ro/rss"),
-    ("Mediafax", "https://www.mediafax.rss"),
+    ("Mediafax", "https://www.mediafax.ro/feed"),
     ("Europa FM", "https://www.europafm.ro/feed/"),
     ("Libertatea", "https://www.libertatea.ro/rss"),
     ("Adevarul", "https://adevarul.ro/rss"),
@@ -31,6 +31,17 @@ def fetch_news(source_name, url):
         for item in root.findall('.//item')[:10]:
             title_elem = item.find('title')
             link_elem = item.find('link')
+            enclosure = item.find('enclosure')
+            
+            image_url = ""
+            if enclosure is not None:
+                image_url = enclosure.get('url', '')
+            
+            # Also try media:content
+            if not image_url:
+                media_content = item.find('.//{http://search.yahoo.com/mrss/}content')
+                if media_content is not None:
+                    image_url = media_content.get('url', '')
             
             if title_elem is not None and link_elem is not None:
                 title = (title_elem.text or "").strip()
@@ -46,7 +57,8 @@ def fetch_news(source_name, url):
                 news.append({
                     "source": source_name,
                     "url": link,
-                    "title": title[:150]
+                    "title": title[:150],
+                    "image": image_url
                 })
                 
     except Exception as e:
@@ -60,7 +72,11 @@ def update_index_html(all_news):
     news_js = "const news = [\n"
     for item in all_news:
         title_escaped = item['title'].replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ')
-        news_js += f"    {{ source: '{item['source']}', url: '{item['url']}', title: \"{title_escaped}\" }},\n"
+        image = item.get('image', '')
+        if image:
+            news_js += f"    {{ source: '{item['source']}', url: '{item['url']}', title: \"{title_escaped}\", image: \"{image}\" }},\n"
+        else:
+            news_js += f"    {{ source: '{item['source']}', url: '{item['url']}', title: \"{title_escaped}\" }},\n"
     news_js = news_js.rstrip(',\n') + "\n];"
     
     # Read current index.html
