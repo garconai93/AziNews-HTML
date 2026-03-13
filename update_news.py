@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 import re
 import os
 from datetime import datetime
+import random
 
 SOURCES = [
     ("Digi24", "https://www.digi24.ro/rss"),
@@ -107,6 +108,9 @@ def main():
         news = fetch_news(name, url)
         print(f"  -> {len(news)} știri")
         all_news.extend(news)
+    
+    # Amestecă știrile
+    random.shuffle(all_news)
     
     if all_news:
         update_index_html(all_news)
