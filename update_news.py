@@ -69,10 +69,20 @@ def fetch_news(source_name, url):
                     except:
                         pass
                 
-                # Get description/content
+                # Get description/content - stop at word boundary, not mid-word
                 content_str = ""
                 if desc_elem is not None and desc_elem.text:
-                    content_str = re.sub(r'<[^>]+>', '', desc_elem.text).strip()[:200]
+                    cleaned = re.sub(r'<[^>]+>', '', desc_elem.text).strip()
+                    if len(cleaned) > 150:
+                        # Find last space before 150 chars
+                        cut = cleaned[:150]
+                        last_space = cut.rfind(' ')
+                        if last_space > 100:
+                            content_str = cut[:last_space] + "..."
+                        else:
+                            content_str = cut + "..."
+                    else:
+                        content_str = cleaned
                 
                 news.append({
                     "source": source_name,
