@@ -671,7 +671,14 @@
         fetch(`https://en.wikipedia.org/api/rest_v1/feed/featured/${y}/${m}/${d}`)
             .then(r => r.json())
             .then(data => {
-                const tod = data.tfa || data.mostread?.articles?.[0];
+                // Try tfa first, then mostread, then onthisday
+                let tod = data.tfa;
+                if (!tod?.thumbnail && data.mostread?.articles) {
+                    tod = data.mostread.articles.find(a => a.thumbnail) || data.mostread.articles[0];
+                }
+                if (!tod?.thumbnail && data.onthisday) {
+                    tod = data.onthisday.find(a => a.thumbnail) || null;
+                }
                 if (tod && tod.thumbnail) {
                     document.getElementById('pod-image').src = tod.thumbnail.source;
                     document.getElementById('pod-image').style.display = 'block';
