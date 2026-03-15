@@ -5,25 +5,43 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 15 Mar 2026 03:01:35 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 04:01:34 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Ministrul Educaţiei, în mijlocul studenţilor protestatari: Îmi doresc un buget mai mare pentru studenţi și o schimbare de mentalitate</title>
-        <link>https://www.digi24.ro/stiri/actualitate/educatie/ministrul-educatiei-in-mijlocul-studentilor-protestatari-imi-doresc-un-buget-mai-mare-pentru-studenti-si-o-schimbare-de-mentalitate-3677139</link>
+        <title>Ciprian Ciucu: „Îmi doresc încă două mandate de primar, pentru că lucrurile astea se fac într-un ciclu de 10 ani”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ciprian-ciucu-imi-doresc-inca-doua-mandate-de-primar-pentru-ca-lucrurile-astea-se-fac-intr-un-ciclu-de-10-ani-3677135</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/educatie/ministrul-educatiei-in-mijlocul-studentilor-protestatari-imi-doresc-un-buget-mai-mare-pentru-studenti-si-o-schimbare-de-mentalitate-3677139</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ciprian-ciucu-imi-doresc-inca-doua-mandate-de-primar-pentru-ca-lucrurile-astea-se-fac-intr-un-ciclu-de-10-ani-3677135</guid>
     </item>
     <item>
-        <title>Mituri despre alimente și obiceiuri considerate nesănătoase. Dr. Mihaela Bilic:  „Pentru cei care iubesc masa de seară, să știți că nu e o greșeală”</title>
-        <link>https://www.europafm.ro/alimente-si-obiceiuri-considerate-nesanatoase-dr-mihaela-bilic-incepe-masa-cu-o-salata-de-frunze-este-un-obicei-bun-pentru-cei-care-iubesc-masa-de-seara-sa-stiti-ca-nu/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/alimente-si-obiceiuri-considerate-nesanatoase-dr-mihaela-bilic-incepe-masa-cu-o-salata-de-frunze-este-un-obicei-bun-pentru-cei-care-iubesc-masa-de-seara-sa-stiti-ca-nu/</guid>
-    </item>
-    <item>
-        <title>Franța respinge informațiile privind trimiterea unor nave de război în Strâmtoarea Ormuz: „Opriți alarmismul”</title>
-        <link>https://www.mediafax.ro/externe/franta-respinge-informatiile-privind-trimiterea-unor-nave-de-razboi-in-stramtoarea-ormuz-opriti-alarmismul-23703139</link>
+        <title>Trump spune cum se va derula războiul din Iran în zilele următoare: „Când vom termina cu țărmul, în două zile, puterea lor va fi decimată. Termenii nu</title>
+        <link>https://www.mediafax.ro/stirile-zilei/trump-spune-cum-se-va-derula-razboiul-din-iran-in-zilele-urmatoare-cand-vom-termina-cu-tarmul-in-doua-zile-puterea-lor-va-fi-decimata-termenii-nu-sunt-inca-suficienti-de-buni-pentru-o-int-23703172</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/franta-respinge-informatiile-privind-trimiterea-unor-nave-de-razboi-in-stramtoarea-ormuz-opriti-alarmismul-23703139</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/trump-spune-cum-se-va-derula-razboiul-din-iran-in-zilele-urmatoare-cand-vom-termina-cu-tarmul-in-doua-zile-puterea-lor-va-fi-decimata-termenii-nu-sunt-inca-suficienti-de-buni-pentru-o-int-23703172</guid>
+    </item>
+    <item>
+        <title>Când sunt Rusaliile în 2026 și câte zile libere avem. Sărbătoarea de la finalul primăverii, plină de semnificații</title>
+        <link>https://adevarul.ro/stiri-interne/societate/cand-sunt-rusaliile-in-2026-si-cate-zile-libere-2513508.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/cand-sunt-rusaliile-in-2026-si-cate-zile-libere-2513508.html</guid>
+    </item>
+    <item>
+        <title>Captură importantă la granița României. Polițiștii au descoperit peste o sută de arme într-un camion oprit la punctul de frontieră Calafat | AUDIO</title>
+        <link>https://www.europafm.ro/captura-importanta-la-granita-romaniei-politistii-au-descoperit-peste-o-suta-de-arme-intr-un-camion-oprit-la-punctul-de-frontiera-calafat/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/captura-importanta-la-granita-romaniei-politistii-au-descoperit-peste-o-suta-de-arme-intr-un-camion-oprit-la-punctul-de-frontiera-calafat/</guid>
+    </item>
+    <item>
+        <title>Elveția ia o decizie surpriză: închide spațiul aerian pentru avioanele SUA, în cazul războiului împotriva Iranului</title>
+        <link>https://www.mediafax.ro/stirile-zilei/elvetia-ia-o-decizie-surpriza-inchide-spatiul-aerian-pentru-avioanele-sua-in-cazul-razboiului-impotriva-iranului-23703145</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/elvetia-ia-o-decizie-surpriza-inchide-spatiul-aerian-pentru-avioanele-sua-in-cazul-razboiului-impotriva-iranului-23703145</guid>
+    </item>
+    <item>
+        <title>Război în Iran, ziua 16: Israelul se confruntă cu o penurie critică de rachete de interceptare, iar Trump cere Chinei să trimită nave în strâmtoarea O</title>
+        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-15-martie-2026-5661380</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-15-martie-2026-5661380</guid>
     </item>
     <item>
         <title>Familia în care s-au născut consecutiv 14 băieți, contrar regulii 50/50: ipoteza cercetătorilor</title>
@@ -32,40 +50,22 @@
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/familie-nascut-consecutiv-14-baieti-contrar-regula-50-50-ipoteza-cercetatori-5661288</guid>
     </item>
     <item>
-        <title>Iranul neagă că noul lider suprem ar fi rănit, după ce șeful Pentagonului a spus că este „probabil desfigurat” după atacurile SUA</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/iranul-neaga-ca-noul-lider-suprem-ar-fi-ranit-2515213.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/iranul-neaga-ca-noul-lider-suprem-ar-fi-ranit-2515213.html</guid>
+        <title>Ciprian Ciucu a anunțat ce salariu are ca primar al Bucureștiului: „Dacă nu eşti ticălos şi nu furi, nu te îmbogăţeşti”. Cineva l-a înjurat</title>
+        <link>https://www.libertatea.ro/stiri/ce-salariu-are-ciprian-ciucu-primarul-capitalei-5661252</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ce-salariu-are-ciprian-ciucu-primarul-capitalei-5661252</guid>
     </item>
     <item>
-        <title>Bihor: Angajări în schimbul mitei la două spitale publice din Oradea. Un asistent medical pretindea de la candidați între 1.500 şi 5.000 de euro | AUD</title>
-        <link>https://www.europafm.ro/bihor-angajari-in-schimbul-mitei-la-doua-spitale-publice-din-oradea-un-asistent-medical-pretindea-de-la-candidati-intre-1-500-si-5-000-de-euro/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/bihor-angajari-in-schimbul-mitei-la-doua-spitale-publice-din-oradea-un-asistent-medical-pretindea-de-la-candidati-intre-1-500-si-5-000-de-euro/</guid>
-    </item>
-    <item>
-        <title>Secretele omletei perfecte: 3 variante europene demențiale. Cum se face adevărata omletă franțuzească</title>
-        <link>https://adevarul.ro/stil-de-viata/bucatarie/secretele-omletei-perfecte-3-variante-europene-2514455.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/bucatarie/secretele-omletei-perfecte-3-variante-europene-2514455.html</guid>
-    </item>
-    <item>
-        <title>Cu ce se ocupă Gică Hagi, la un an de când a renunțat să antreneze. „Ne bombardează în fiecare zi”</title>
-        <link>https://adevarul.ro/sport/cu-ce-se-ocupa-gica-hagi-la-un-an-de-cand-a-2515224.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/cu-ce-se-ocupa-gica-hagi-la-un-an-de-cand-a-2515224.html</guid>
-    </item>
-    <item>
-        <title>Un şofer beat, cu alcoolemie de peste 1 la mie, a provocat un accident pe un bulevard din Ploieşti, apoi a fugit</title>
-        <link>https://www.digi24.ro/stiri/actualitate/un-sofer-beat-cu-alcoolemie-de-peste-1-la-mie-a-provocat-un-accident-pe-un-bulevard-din-ploiesti-apoi-a-fugit-3677143</link>
+        <title>„Operațiunea Epic Mistake”. Cinci motive pentru care prețul petrolului nu va reveni la normal după războiul din Iran</title>
+        <link>https://www.digi24.ro/stiri/externe/operatiunea-epic-mistake-cinci-motive-pentru-care-preturile-petrolului-nu-vor-reveni-la-normal-dupa-razboiul-din-iran-3675145</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/un-sofer-beat-cu-alcoolemie-de-peste-1-la-mie-a-provocat-un-accident-pe-un-bulevard-din-ploiesti-apoi-a-fugit-3677143</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/operatiunea-epic-mistake-cinci-motive-pentru-care-preturile-petrolului-nu-vor-reveni-la-normal-dupa-razboiul-din-iran-3675145</guid>
     </item>
     <item>
-        <title>Războiul din Orientul Mijlociu, ziua 16. Netanyahu a luat legătura cu Zelenski. Israel anunță noi lovituri în Iran, iar tensiunile se extind în regiun</title>
-        <link>https://www.mediafax.ro/externe/razboiul-din-orientul-mijlociu-ziua-16-netanyahu-a-luat-legatura-cu-zelenski-israel-anunta-noi-lovituri-in-iran-iar-tensiunile-se-extind-in-regiune-f1-anuleaza-cursele-din-regiune-23703150</link>
+        <title>Acuzații grave la unul din cele mai faimoase restaurante din lume: la Norma s-a creat un climat de abuz, spun angajații</title>
+        <link>https://www.mediafax.ro/life-inedit/acuzatii-grave-la-unul-din-cele-mai-faimoase-restaurante-din-lume-la-norma-s-a-creat-un-climat-de-abuz-spun-angajatii-23700163</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/razboiul-din-orientul-mijlociu-ziua-16-netanyahu-a-luat-legatura-cu-zelenski-israel-anunta-noi-lovituri-in-iran-iar-tensiunile-se-extind-in-regiune-f1-anuleaza-cursele-din-regiune-23703150</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/acuzatii-grave-la-unul-din-cele-mai-faimoase-restaurante-din-lume-la-norma-s-a-creat-un-climat-de-abuz-spun-angajatii-23700163</guid>
     </item>
 </channel>
 </rss>
