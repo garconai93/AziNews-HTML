@@ -5,19 +5,25 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 05 Apr 2026 17:00:39 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 17:05:04 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Polițiștii au scos pistolul pe stradă, în București, ca să dea jos de la volan un șofer pe care l-au urmărit prin oraș</title>
-        <link>https://www.libertatea.ro/stiri/politisti-scos-pistol-strada-bucuresti-dea-jos-volan-sofer-baut-fugise-5688637</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/politisti-scos-pistol-strada-bucuresti-dea-jos-volan-sofer-baut-fugise-5688637</guid>
+        <title>Mircea Lucescu, la Terapie Intensivă: starea sa de sănătate s-a înrăutățit</title>
+        <link>https://www.europafm.ro/mircea-lucescu-la-terapie-intensiva-starea-sa-de-sanatate-s-a-inrautatit-2/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/mircea-lucescu-la-terapie-intensiva-starea-sa-de-sanatate-s-a-inrautatit-2/</guid>
     </item>
     <item>
-        <title>Liderul democraților din Senatul SUA atacă discursul lui Donald Trump la adresa Iranului: „Se dezlănțuie ca un nebun”</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/liderul-democratilor-din-senatul-sua-ataca-discursul-lui-donald-trump-la-adresa-iranului-se-dezlantuie-ca-un-nebun-3711793</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/liderul-democratilor-din-senatul-sua-ataca-discursul-lui-donald-trump-la-adresa-iranului-se-dezlantuie-ca-un-nebun-3711793</guid>
+        <title>Dennis Man, campion cu PSV în Olanda</title>
+        <link>https://www.mediafax.ro/sport/dennis-man-campion-cu-psv-in-olanda-23715422</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/dennis-man-campion-cu-psv-in-olanda-23715422</guid>
+    </item>
+    <item>
+        <title>Zeci de persoane evacuate după ce o cisternă cu GPL s-a răsturnat pe DN1</title>
+        <link>https://www.europafm.ro/zeci-de-persoane-evacuate-dupa-ce-o-cisterna-cu-gpl-s-a-rasturnat-pe-dn1/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/zeci-de-persoane-evacuate-dupa-ce-o-cisterna-cu-gpl-s-a-rasturnat-pe-dn1/</guid>
     </item>
     <item>
         <title>Dispută politică în jurul rapperului american Kanye West. Prezenţa lui la un festival din Londra, contestată de politicieni, sponsori și lideri evrei</title>
@@ -26,160 +32,10 @@
         <guid isPermaLink="true">https://adevarul.ro/showbiz/muzica/disputa-politica-in-jurul-rapperului-american-2520573.html</guid>
     </item>
     <item>
-        <title>Speranțe pentru persoanele născute cu surditate. Studiu: O singură injecție i-ar putea ajuta enorm</title>
-        <link>https://www.europafm.ro/sperante-pentru-persoanele-nascute-cu-surditate-studiu-o-singura-injectie-i-ar-putea-ajuta-enorm/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/sperante-pentru-persoanele-nascute-cu-surditate-studiu-o-singura-injectie-i-ar-putea-ajuta-enorm/</guid>
-    </item>
-    <item>
-        <title>Rezultate LOTO - Duminică, 5 aprilie 2026. Numerele extrase și premiile puse în joc de Loteria Română</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-duminica-5-aprilie-2026-reporturi-importante-la-6-49-si-noroc-la-joker-sunt-in-joc-peste-121-milioane-de-euro-3709755</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-duminica-5-aprilie-2026-reporturi-importante-la-6-49-si-noroc-la-joker-sunt-in-joc-peste-121-milioane-de-euro-3709755</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 37. Iranienii au atacat instalații energetice din Golf / Pilotul american salvat este „grav rănit”</title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-5-aprilie-2026-5688236</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-5-aprilie-2026-5688236</guid>
-    </item>
-    <item>
-        <title>Povestea tânărului fără adăpost care conduce acum un business de milioane</title>
-        <link>https://adevarul.ro/stiri-externe/sua/povestea-tanarului-fara-adapost-care-conduce-acum-2520561.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/povestea-tanarului-fara-adapost-care-conduce-acum-2520561.html</guid>
-    </item>
-    <item>
-        <title>Urmează o zi cu temperaturi de vară, apoi vremea se schimbă radical. ANM anunță furtuni și ninsori, zonele afectate</title>
-        <link>https://www.digi24.ro/meteo/urmeaza-o-zi-cu-temperaturi-de-vara-cum-va-fi-vremea-saptamana-viitoare-in-toate-regiunile-tarii-3711799</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/meteo/urmeaza-o-zi-cu-temperaturi-de-vara-cum-va-fi-vremea-saptamana-viitoare-in-toate-regiunile-tarii-3711799</guid>
-    </item>
-    <item>
-        <title>Premierul Marii Britanii critică prezența lui Kanye West la un festival din Londra, sponsorul Pepsi se retrage. West, criticat din cauza antisemitismu</title>
-        <link>https://www.g4media.ro/premierul-marii-britanii-critica-prezenta-lui-kanye-west-la-un-festival-din-londra-sponsorul-pepsi-se-retrage-west-criticat-din-cauza-antisemitismului.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/premierul-marii-britanii-critica-prezenta-lui-kanye-west-la-un-festival-din-londra-sponsorul-pepsi-se-retrage-west-criticat-din-cauza-antisemitismului.html</guid>
-    </item>
-    <item>
-        <title>Cât a ajuns să coste un kilogram de carne de miel în România și în Spania înainte de Paște/ Prețuri în piață și măcelărie pentru produsele proaspete</title>
-        <link>https://www.g4media.ro/cat-a-ajuns-sa-coste-un-kilogram-de-carne-de-miel-in-romania-si-in-spania-inainte-de-paste-preturi-in-piata-si-macelarie-pentru-produsele-proaspete.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cat-a-ajuns-sa-coste-un-kilogram-de-carne-de-miel-in-romania-si-in-spania-inainte-de-paste-preturi-in-piata-si-macelarie-pentru-produsele-proaspete.html</guid>
-    </item>
-    <item>
-        <title>Miniștrii unei țări nu mai au voie să călătorească în străinătate din cauza scumpirii combustibililor: „Sunt vremuri foarte grele”</title>
-        <link>https://www.libertatea.ro/stiri/ministrii-unei-tari-nu-mai-au-voie-sa-calatoreasca-in-strainatate-din-cauza-scumpirii-combustibililor-sunt-vremuri-foarte-grele-5688617</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ministrii-unei-tari-nu-mai-au-voie-sa-calatoreasca-in-strainatate-din-cauza-scumpirii-combustibililor-sunt-vremuri-foarte-grele-5688617</guid>
-    </item>
-    <item>
-        <title>Survivor România, 5 aprilie 2026. Un concurent din echipa Faimoșilor va fi eliminat din competiție</title>
-        <link>https://www.libertatea.ro/entertainment/survivor-romania-5-aprilie-2026-un-concurent-din-echipa-faimosilor-va-fi-eliminat-din-competitie-5688368</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/survivor-romania-5-aprilie-2026-un-concurent-din-echipa-faimosilor-va-fi-eliminat-din-competitie-5688368</guid>
-    </item>
-    <item>
-        <title>Mihai Stoichiță a fost în salonul lui Mircea Lucescu de la Spitalul Universitar: „Nu poate să vorbească, nu răspunde la nimic”</title>
-        <link>https://www.libertatea.ro/sport/mihai-stoichita-vizita-salon-mircea-lucescu-spitalul-universitar-5688614</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/sport/mihai-stoichita-vizita-salon-mircea-lucescu-spitalul-universitar-5688614</guid>
-    </item>
-    <item>
-        <title>Premierul Marii Britanii critică prezența lui Kanye West la un festival din Londra</title>
-        <link>https://www.mediafax.ro/externe/premierul-marii-britanii-critica-prezenta-lui-kanye-west-la-un-festival-din-londra-23715406</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/premierul-marii-britanii-critica-prezenta-lui-kanye-west-la-un-festival-din-londra-23715406</guid>
-    </item>
-    <item>
-        <title>Theodor Paleologu despre Mihai Neamțu (AUR): Imbecilul care spunea în 2025 că furtul coifului de la Coțofenești „a fost prețul integrării noastre în S</title>
-        <link>https://www.g4media.ro/theodor-paleologu-despre-mihai-neamtu-aur-imbecilul-care-spunea-in-2025-ca-furtul-coifului-de-la-cotofenesti-a-fost-pretul-integrarii-noastre-in-schengen.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/theodor-paleologu-despre-mihai-neamtu-aur-imbecilul-care-spunea-in-2025-ca-furtul-coifului-de-la-cotofenesti-a-fost-pretul-integrarii-noastre-in-schengen.html</guid>
-    </item>
-    <item>
-        <title>Un șofer băut, urmărit ca în filme pe străzile din București: când a fost prins a încercat iar să fugă de polițiști și a lovit cu mașina un agent</title>
-        <link>https://www.libertatea.ro/stiri/sofer-baut-urmarit-strazi-bucuresti-incercat-iar-fuga-lovit-masina-politist-5688620</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/sofer-baut-urmarit-strazi-bucuresti-incercat-iar-fuga-lovit-masina-politist-5688620</guid>
-    </item>
-    <item>
-        <title>Primăria Municipiului București anunță începerea lucrărilor de consolidare la patru pasaje din capitală</title>
-        <link>https://www.mediafax.ro/stirile-zilei/primaria-municipiului-bucuresti-anunta-inceperea-lucrarilor-de-consolidare-la-patru-pasaje-din-capitala-23715429</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/primaria-municipiului-bucuresti-anunta-inceperea-lucrarilor-de-consolidare-la-patru-pasaje-din-capitala-23715429</guid>
-    </item>
-    <item>
-        <title>Moaştele Sfântului Lazăr, depuse la Catedrala Patriarhală</title>
-        <link>https://www.europafm.ro/moastele-sfantului-lazar-depuse-la-catedrala-patriarhala/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/moastele-sfantului-lazar-depuse-la-catedrala-patriarhala/</guid>
-    </item>
-    <item>
-        <title>Ministerul Educaţiei despre Liviu Maior (ministru în 1992-1996): România îi datorează, în mare măsură, sistemul de educaţie de azi</title>
-        <link>https://www.g4media.ro/ministerul-educatiei-despre-liviu-maior-ministru-in-1992-1996-romania-ii-datoreaza-in-mare-masura-sistemul-de-educatie-de-azi.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ministerul-educatiei-despre-liviu-maior-ministru-in-1992-1996-romania-ii-datoreaza-in-mare-masura-sistemul-de-educatie-de-azi.html</guid>
-    </item>
-    <item>
         <title>Târgul de Paște de la Craiova. Orașul se transformă într-o lume de poveste: spectacol pe lac și activități pentru întreaga familie</title>
         <link>https://adevarul.ro/stiri-locale/craiova/targul-de-paste-de-la-craiova-orasul-se-2520568.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-locale/craiova/targul-de-paste-de-la-craiova-orasul-se-2520568.html</guid>
-    </item>
-    <item>
-        <title>Fostul șef al serviciului secret al Ungariei, după ce Serbia a susținut că a dejucat un atentat împotriva conductei care duce gaz rusesc la Budapesta:</title>
-        <link>https://www.g4media.ro/fostul-sef-al-serviciului-secret-al-ungariei-dupa-ce-serbia-a-sustinut-ca-a-dejucat-un-atentat-impotriva-conductei-care-duce-gaz-rusesc-la-budapesta-operatiune-sub-steag-fals-se-stia-ca-e-pregatita.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/fostul-sef-al-serviciului-secret-al-ungariei-dupa-ce-serbia-a-sustinut-ca-a-dejucat-un-atentat-impotriva-conductei-care-duce-gaz-rusesc-la-budapesta-operatiune-sub-steag-fals-se-stia-ca-e-pregatita.html</guid>
-    </item>
-    <item>
-        <title>A venit momentul ca misiunea Artemis 2 să doboare recordul stabilit de Apollo 13</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/a-venit-momentul-ca-misiunea-artemis-2-sa-doboare-recordul-stabilit-de-apollo-13-3711739</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/a-venit-momentul-ca-misiunea-artemis-2-sa-doboare-recordul-stabilit-de-apollo-13-3711739</guid>
-    </item>
-    <item>
-        <title>O pernă de scaun de pe Titanic, scoasă la licitație cu 180.000 de lire sterline</title>
-        <link>https://www.g4media.ro/o-perna-de-scaun-de-pe-titanic-scoasa-la-licitatie-cu-180-000-de-lire-sterline.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/o-perna-de-scaun-de-pe-titanic-scoasa-la-licitatie-cu-180-000-de-lire-sterline.html</guid>
-    </item>
-    <item>
-        <title>Cel puțin 11 persoane au fost ucise în urma unui atac israelian asupra Libanului</title>
-        <link>https://www.mediafax.ro/stirile-zilei/cel-putin-11-persoane-au-fost-ucise-in-urma-unui-atac-israelian-asupra-libanului-23715419</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/cel-putin-11-persoane-au-fost-ucise-in-urma-unui-atac-israelian-asupra-libanului-23715419</guid>
-    </item>
-    <item>
-        <title>Mariano Navone, rege la Țiriac Open! Argentinianul a obținut primul titlu ATP din carieră</title>
-        <link>https://adevarul.ro/sport/mariano-navone-rege-la-tiriac-open-argentinianul-2520566.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/mariano-navone-rege-la-tiriac-open-argentinianul-2520566.html</guid>
-    </item>
-    <item>
-        <title>Naistul de 19 ani care l-a impresionat pe Gheorghe Zamfir: „Tata a crescut singur trei copii și mi-a transmis valoarea muncii”</title>
-        <link>https://www.libertatea.ro/stiri/viorel-papuc-naist-19-ani-impresie-gheorghe-zamfir-tata-transmis-valoare-munca-5686980</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/viorel-papuc-naist-19-ani-impresie-gheorghe-zamfir-tata-transmis-valoare-munca-5686980</guid>
-    </item>
-    <item>
-        <title>Focuri de armă raportate în apropierea Casei Albe: Serviciul Secret al SUA a deschis o anchetă</title>
-        <link>https://www.g4media.ro/serviciul-secret-al-sua-investigheaza-informatii-privind-focuri-de-arma-in-apropierea-casei-albe.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/serviciul-secret-al-sua-investigheaza-informatii-privind-focuri-de-arma-in-apropierea-casei-albe.html</guid>
-    </item>
-    <item>
-        <title>Președintele american vrea să reconstruiască celebra închisoare Alcatraz, vizitată în prezent de milioane de turiști | AUDIO</title>
-        <link>https://www.europafm.ro/presedintele-american-vrea-sa-reconscruiasca-celebra-inchisoare-alcatraz-vizitata-in-prezent-de-milioane-de-turisti/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/presedintele-american-vrea-sa-reconscruiasca-celebra-inchisoare-alcatraz-vizitata-in-prezent-de-milioane-de-turisti/</guid>
-    </item>
-    <item>
-        <title>Numerele câștigătoare la tragerile Loto de duminică, 5 aprilie. Report de peste 12 milioane de euro la Joker</title>
-        <link>https://adevarul.ro/stiri-interne/societate/numerele-castigatoare-la-tragerile-loto-de-2520576.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/numerele-castigatoare-la-tragerile-loto-de-2520576.html</guid>
     </item>
     <item>
         <title>Ce impact va avea părăsirea CSI, organizație fondată de Kremlin, asupra Chișinăului</title>
@@ -188,52 +44,52 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/ce-impact-va-avea-parasirea-csi-organizatie-2520524.html</guid>
     </item>
     <item>
-        <title>Tadej Pogacar, de neoprit. Slovenul îl învinge pe Van der Poel și câștigă Turul Flandrei</title>
-        <link>https://www.g4media.ro/tadej-pogacar-de-neoprit-slovenul-il-invinge-pe-van-der-poel-si-castiga-turul-flandrei.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/tadej-pogacar-de-neoprit-slovenul-il-invinge-pe-van-der-poel-si-castiga-turul-flandrei.html</guid>
-    </item>
-    <item>
-        <title>Trump amenință: Voi prelua controlul asupra petrolului iranian dacă nu se ajunge la un acord. SUA au trimis arme protestatarilor</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/trump-ameninta-voi-prelua-controlul-asupra-petrolului-iranian-daca-nu-se-ajunge-la-un-acord-sua-au-trimis-arme-protestatarilor-3711635</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/trump-ameninta-voi-prelua-controlul-asupra-petrolului-iranian-daca-nu-se-ajunge-la-un-acord-sua-au-trimis-arme-protestatarilor-3711635</guid>
-    </item>
-    <item>
-        <title>Orașele subterane ale Iranului, fortărețele ascunse care sfidează bombardamentele SUA și ale Israelului</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/orasele-subterane-ale-iranului-fortaretele-2520552.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/orasele-subterane-ale-iranului-fortaretele-2520552.html</guid>
-    </item>
-    <item>
-        <title>Rusia a furnizat Iranului informații despre peste 50 de instalații energetice israeliene, afirmă Volodimir Zelenski</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia-a-furnizat-iranului-informatii-despre-peste-50-de-instalatii-energetice-israeliene-afirma-volodimir-zelenski-3711657</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia-a-furnizat-iranului-informatii-despre-peste-50-de-instalatii-energetice-israeliene-afirma-volodimir-zelenski-3711657</guid>
-    </item>
-    <item>
         <title>Donald Trump amenință că va lovi marți centralele electrice și podurile din Iran: „Deschideți nenorocita de strâmtoare”</title>
         <link>https://www.libertatea.ro/stiri/donald-trump-ameninta-ca-va-lovi-marti-centralele-electrice-si-podurile-din-iran-deschideti-nenorocita-de-stramtoare-5688643</link>
         <description>Libertatea</description>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-ameninta-ca-va-lovi-marti-centralele-electrice-si-podurile-din-iran-deschideti-nenorocita-de-stramtoare-5688643</guid>
     </item>
     <item>
-        <title>Dragoș Pîslaru atacă PSD: Avem prea mulți farisei care nu mai pot de grija oamenilor și de fapt își numără cutiile de pantofi.</title>
-        <link>https://www.mediafax.ro/stirile-zilei/dragos-pislaru-ataca-psd-avem-prea-multi-farisei-care-nu-mai-pot-de-grija-oamenilor-si-de-fapt-isi-numara-cutiile-de-pantofi-23715402</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/dragos-pislaru-ataca-psd-avem-prea-multi-farisei-care-nu-mai-pot-de-grija-oamenilor-si-de-fapt-isi-numara-cutiile-de-pantofi-23715402</guid>
+        <title>O pernă de scaun de pe Titanic, scoasă la licitație cu 180.000 de lire sterline</title>
+        <link>https://www.g4media.ro/o-perna-de-scaun-de-pe-titanic-scoasa-la-licitatie-cu-180-000-de-lire-sterline.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/o-perna-de-scaun-de-pe-titanic-scoasa-la-licitatie-cu-180-000-de-lire-sterline.html</guid>
     </item>
     <item>
-        <title>Paștele Catolic. La Miercurea Ciuc a avut loc tradiționala ceremonie de sfințire a bucatelor. Au participat mii ce credincioși | GALERIE FOTO</title>
-        <link>https://www.europafm.ro/pastele-catolic-la-miercurea-ciuc-a-avut-loc-traditionala-ceremonie-de-sfintire-a-bucatelor-au-participat-mii-ce-credinciosi/</link>
+        <title>Focuri de armă raportate în apropierea Casei Albe: Serviciul Secret al SUA a deschis o anchetă</title>
+        <link>https://www.g4media.ro/serviciul-secret-al-sua-investigheaza-informatii-privind-focuri-de-arma-in-apropierea-casei-albe.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/serviciul-secret-al-sua-investigheaza-informatii-privind-focuri-de-arma-in-apropierea-casei-albe.html</guid>
+    </item>
+    <item>
+        <title>Naistul de 19 ani care l-a impresionat pe Gheorghe Zamfir: „Tata a crescut singur trei copii și mi-a transmis valoarea muncii”</title>
+        <link>https://www.libertatea.ro/stiri/viorel-papuc-naist-19-ani-impresie-gheorghe-zamfir-tata-transmis-valoare-munca-5686980</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/viorel-papuc-naist-19-ani-impresie-gheorghe-zamfir-tata-transmis-valoare-munca-5686980</guid>
+    </item>
+    <item>
+        <title>Survivor România, 5 aprilie 2026. Un concurent din echipa Faimoșilor va fi eliminat din competiție</title>
+        <link>https://www.libertatea.ro/entertainment/survivor-romania-5-aprilie-2026-un-concurent-din-echipa-faimosilor-va-fi-eliminat-din-competitie-5688368</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/survivor-romania-5-aprilie-2026-un-concurent-din-echipa-faimosilor-va-fi-eliminat-din-competitie-5688368</guid>
+    </item>
+    <item>
+        <title>Preț record pentru o amintire de pe Titanic: suma colosală cu care se vinde o pernă</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/pret-record-pentru-o-amintire-de-pe-titanic-suma-2520571.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/pret-record-pentru-o-amintire-de-pe-titanic-suma-2520571.html</guid>
+    </item>
+    <item>
+        <title>Speranțe pentru persoanele născute cu surditate. Studiu: O singură injecție i-ar putea ajuta enorm</title>
+        <link>https://www.europafm.ro/sperante-pentru-persoanele-nascute-cu-surditate-studiu-o-singura-injectie-i-ar-putea-ajuta-enorm/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/pastele-catolic-la-miercurea-ciuc-a-avut-loc-traditionala-ceremonie-de-sfintire-a-bucatelor-au-participat-mii-ce-credinciosi/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/sperante-pentru-persoanele-nascute-cu-surditate-studiu-o-singura-injectie-i-ar-putea-ajuta-enorm/</guid>
     </item>
     <item>
-        <title>Dennis Man, campion cu PSV în Olanda</title>
-        <link>https://www.mediafax.ro/sport/dennis-man-campion-cu-psv-in-olanda-23715422</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/dennis-man-campion-cu-psv-in-olanda-23715422</guid>
+        <title>Horoscop 6 – 12 aprilie 2026: Mintea „gemenilor” lucrează intens, iar apele se limpezesc pentru „pești”</title>
+        <link>https://www.libertatea.ro/lifestyle/horoscop-6-12-aprilie-2026-mintea-gemenilor-lucreaza-intens-iar-apele-se-limpezesc-pentru-pesti-5687518</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-6-12-aprilie-2026-mintea-gemenilor-lucreaza-intens-iar-apele-se-limpezesc-pentru-pesti-5687518</guid>
     </item>
     <item>
         <title>Volodimir Zelenski efectuează prima vizită în Siria pentru discuții cu președintele Ahmed al-Sharaa</title>
@@ -254,46 +110,22 @@
         <guid isPermaLink="true">https://www.europafm.ro/ministra-mediului-cere-ca-toti-padurarii-sa-aiba-camere-video-corporale-dupa-ce-alti-doi-padurari-au-fort-batuti-de-hotii-de-lemne/</guid>
     </item>
     <item>
+        <title>Premierul Marii Britanii critică prezența lui Kanye West la un festival din Londra</title>
+        <link>https://www.mediafax.ro/externe/premierul-marii-britanii-critica-prezenta-lui-kanye-west-la-un-festival-din-londra-23715406</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/premierul-marii-britanii-critica-prezenta-lui-kanye-west-la-un-festival-din-londra-23715406</guid>
+    </item>
+    <item>
+        <title>Orașele subterane ale Iranului, fortărețele ascunse care sfidează bombardamentele SUA și ale Israelului</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/orasele-subterane-ale-iranului-fortaretele-2520552.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/orasele-subterane-ale-iranului-fortaretele-2520552.html</guid>
+    </item>
+    <item>
         <title>Criza petrolului prinde viteză: „Nimeni nu scapă de scumpiri”, avertizează experții americani</title>
         <link>https://www.digi24.ro/stiri/externe/sua/criza-petrolului-prinde-viteza-nimeni-nu-scapa-de-scumpiri-avertizeaza-expertii-americani-3711719</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/criza-petrolului-prinde-viteza-nimeni-nu-scapa-de-scumpiri-avertizeaza-expertii-americani-3711719</guid>
-    </item>
-    <item>
-        <title>De Florii, străzile Timișoarei s-au umplut de flori și artiști | VIDEO</title>
-        <link>https://www.europafm.ro/de-florii-strazile-timisoarei-s-au-umplut-de-flori-si-artisti/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/de-florii-strazile-timisoarei-s-au-umplut-de-flori-si-artisti/</guid>
-    </item>
-    <item>
-        <title>Premierul Ilie Bolojan: „Guvernul nu are niciun beneficiu de pe urma creşterilor la carburanţi. Dimpotrivă”</title>
-        <link>https://www.europafm.ro/premierul-ilie-bolojan-guvernul-nu-are-niciun-beneficiu-de-pe-urma-cresterilor-la-carburanti-dimpotriva/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/premierul-ilie-bolojan-guvernul-nu-are-niciun-beneficiu-de-pe-urma-cresterilor-la-carburanti-dimpotriva/</guid>
-    </item>
-    <item>
-        <title>Horoscop 6 – 12 aprilie 2026: Mintea „gemenilor” lucrează intens, iar apele se limpezesc pentru „pești”</title>
-        <link>https://www.libertatea.ro/lifestyle/horoscop-6-12-aprilie-2026-mintea-gemenilor-lucreaza-intens-iar-apele-se-limpezesc-pentru-pesti-5687518</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-6-12-aprilie-2026-mintea-gemenilor-lucreaza-intens-iar-apele-se-limpezesc-pentru-pesti-5687518</guid>
-    </item>
-    <item>
-        <title>Viktor Orbán, după ce a fost comparat cu fostul dictator român: Sunt un orator mai bun decât Ceaușescu</title>
-        <link>https://www.g4media.ro/viktor-orban-dupa-ce-a-fost-comparat-cu-fostul-dictator-roman-sunt-un-orator-mai-bun-decat-ceausescu.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/viktor-orban-dupa-ce-a-fost-comparat-cu-fostul-dictator-roman-sunt-un-orator-mai-bun-decat-ceausescu.html</guid>
-    </item>
-    <item>
-        <title>Preț record pentru o amintire de pe Titanic: suma colosală cu care se vinde o pernă</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/pret-record-pentru-o-amintire-de-pe-titanic-suma-2520571.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/pret-record-pentru-o-amintire-de-pe-titanic-suma-2520571.html</guid>
-    </item>
-    <item>
-        <title>UTA Arad este noul lider în play-out-ul Superligii</title>
-        <link>https://www.mediafax.ro/sport/uta-arad-este-noul-lider-in-play-out-ul-superligii-23715409</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/uta-arad-este-noul-lider-in-play-out-ul-superligii-23715409</guid>
     </item>
     <item>
         <title>Bomba demografică riscă să explodeze pe buletinele de vot. Sociolog: „Noile generații votează, în general, partide percepute ca anti-sistem”</title>
@@ -302,52 +134,28 @@
         <guid isPermaLink="true">https://adevarul.ro/politica/bomba-demografica-risca-sa-explodeze-pe-buletinele-2520156.html</guid>
     </item>
     <item>
-        <title>Zeci de persoane evacuate după ce o cisternă cu GPL s-a răsturnat pe DN1</title>
-        <link>https://www.europafm.ro/zeci-de-persoane-evacuate-dupa-ce-o-cisterna-cu-gpl-s-a-rasturnat-pe-dn1/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/zeci-de-persoane-evacuate-dupa-ce-o-cisterna-cu-gpl-s-a-rasturnat-pe-dn1/</guid>
-    </item>
-    <item>
-        <title>OPEC+ anunță o majorare simbolică a producției de petrol pe fondul conflictului din Orientul Mijlociu</title>
-        <link>https://www.mediafax.ro/economic/opec-majoreaza-simbolic-productia-de-petrol-in-timp-ce-razboiul-afecteaza-livrarile-23715414</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/opec-majoreaza-simbolic-productia-de-petrol-in-timp-ce-razboiul-afecteaza-livrarile-23715414</guid>
-    </item>
-    <item>
-        <title>China este pregătită să colaboreze cu Rusia pentru soluționarea conflictului din Orientul Mijlociu</title>
-        <link>https://www.mediafax.ro/stirile-zilei/china-este-pregatita-sa-colaboreze-cu-rusia-pentru-solutionarea-conflictului-din-orientul-mijlociu-23715426</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/china-este-pregatita-sa-colaboreze-cu-rusia-pentru-solutionarea-conflictului-din-orientul-mijlociu-23715426</guid>
-    </item>
-    <item>
-        <title>„Se scrie istorie!” NASA a publicat imagini cu fața ascunsă a Lunii văzută de echipajul Artemis II</title>
-        <link>https://adevarul.ro/stil-de-viata/stiinta/se-scrie-istorie-nasa-a-publicat-imagini-cu-2520569.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/stiinta/se-scrie-istorie-nasa-a-publicat-imagini-cu-2520569.html</guid>
-    </item>
-    <item>
-        <title>Naufragiu în Marea Mediterană: Peste 70 de migranţi sunt daţi dispăruţi</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/peste-70-de-migranti-sunt-dati-disparuti-in-urma-unui-naufragiu-in-mediterana-3711645</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/peste-70-de-migranti-sunt-dati-disparuti-in-urma-unui-naufragiu-in-mediterana-3711645</guid>
-    </item>
-    <item>
-        <title>Mircea Lucescu, la Terapie Intensivă: starea sa de sănătate s-a înrăutățit</title>
-        <link>https://www.europafm.ro/mircea-lucescu-la-terapie-intensiva-starea-sa-de-sanatate-s-a-inrautatit-2/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/mircea-lucescu-la-terapie-intensiva-starea-sa-de-sanatate-s-a-inrautatit-2/</guid>
-    </item>
-    <item>
-        <title>Artistul Virgil Scripcariu, care a realizat o sculptură emblematică pentru Timișoara, cere primăriei să înlăture de lângă creația sa decorațiunile de </title>
-        <link>https://www.g4media.ro/artistul-virgil-cripcariu-care-a-realizat-o-sculptura-emblematica-pentru-timisoara-cere-primariei-sa-inlature-de-langa-creatia-sa-decoratiunile-de-paste-care-infatiseaza-niste-oua-cu-picioare.html</link>
+        <title>Premierul Marii Britanii critică prezența lui Kanye West la un festival din Londra, sponsorul Pepsi se retrage. West, criticat din cauza antisemitismu</title>
+        <link>https://www.g4media.ro/premierul-marii-britanii-critica-prezenta-lui-kanye-west-la-un-festival-din-londra-sponsorul-pepsi-se-retrage-west-criticat-din-cauza-antisemitismului.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/artistul-virgil-cripcariu-care-a-realizat-o-sculptura-emblematica-pentru-timisoara-cere-primariei-sa-inlature-de-langa-creatia-sa-decoratiunile-de-paste-care-infatiseaza-niste-oua-cu-picioare.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/premierul-marii-britanii-critica-prezenta-lui-kanye-west-la-un-festival-din-londra-sponsorul-pepsi-se-retrage-west-criticat-din-cauza-antisemitismului.html</guid>
     </item>
     <item>
-        <title>Zelenski: Ucraina e pregătită să ajute la deblocarea Strâmtorii Ormuz, dar aliații nu ne-au cerut acest lucru</title>
-        <link>https://www.digi24.ro/stiri/externe/zelenski-ucraina-e-pregatita-sa-ajute-la-deblocarea-stramtorii-ormuz-dar-aliatii-nu-ne-au-cerut-acest-lucru-3711687</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/zelenski-ucraina-e-pregatita-sa-ajute-la-deblocarea-stramtorii-ormuz-dar-aliatii-nu-ne-au-cerut-acest-lucru-3711687</guid>
+        <title>Theodor Paleologu despre Mihai Neamțu (AUR): Imbecilul care spunea în 2025 că furtul coifului de la Coțofenești „a fost prețul integrării noastre în S</title>
+        <link>https://www.g4media.ro/theodor-paleologu-despre-mihai-neamtu-aur-imbecilul-care-spunea-in-2025-ca-furtul-coifului-de-la-cotofenesti-a-fost-pretul-integrarii-noastre-in-schengen.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/theodor-paleologu-despre-mihai-neamtu-aur-imbecilul-care-spunea-in-2025-ca-furtul-coifului-de-la-cotofenesti-a-fost-pretul-integrarii-noastre-in-schengen.html</guid>
+    </item>
+    <item>
+        <title>Cel puțin 11 persoane au fost ucise în urma unui atac israelian asupra Libanului</title>
+        <link>https://www.mediafax.ro/stirile-zilei/cel-putin-11-persoane-au-fost-ucise-in-urma-unui-atac-israelian-asupra-libanului-23715419</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/cel-putin-11-persoane-au-fost-ucise-in-urma-unui-atac-israelian-asupra-libanului-23715419</guid>
+    </item>
+    <item>
+        <title>Primăria Municipiului București anunță începerea lucrărilor de consolidare la patru pasaje din capitală</title>
+        <link>https://www.mediafax.ro/stirile-zilei/primaria-municipiului-bucuresti-anunta-inceperea-lucrarilor-de-consolidare-la-patru-pasaje-din-capitala-23715429</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/primaria-municipiului-bucuresti-anunta-inceperea-lucrarilor-de-consolidare-la-patru-pasaje-din-capitala-23715429</guid>
     </item>
     <item>
         <title>Taxa turistică într-o destinație din Europa preferată de români a crescut cu 100%</title>
@@ -356,16 +164,208 @@
         <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/taxa-turistica-barcelona-preferata-romani-a-crescut-100-5688634</guid>
     </item>
     <item>
+        <title>Dragoș Pîslaru atacă PSD: Avem prea mulți farisei care nu mai pot de grija oamenilor și de fapt își numără cutiile de pantofi.</title>
+        <link>https://www.mediafax.ro/stirile-zilei/dragos-pislaru-ataca-psd-avem-prea-multi-farisei-care-nu-mai-pot-de-grija-oamenilor-si-de-fapt-isi-numara-cutiile-de-pantofi-23715402</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/dragos-pislaru-ataca-psd-avem-prea-multi-farisei-care-nu-mai-pot-de-grija-oamenilor-si-de-fapt-isi-numara-cutiile-de-pantofi-23715402</guid>
+    </item>
+    <item>
+        <title>Liderul democraților din Senatul SUA atacă discursul lui Donald Trump la adresa Iranului: „Se dezlănțuie ca un nebun”</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/liderul-democratilor-din-senatul-sua-ataca-discursul-lui-donald-trump-la-adresa-iranului-se-dezlantuie-ca-un-nebun-3711793</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/liderul-democratilor-din-senatul-sua-ataca-discursul-lui-donald-trump-la-adresa-iranului-se-dezlantuie-ca-un-nebun-3711793</guid>
+    </item>
+    <item>
+        <title>Tadej Pogacar, de neoprit. Slovenul îl învinge pe Van der Poel și câștigă Turul Flandrei</title>
+        <link>https://www.g4media.ro/tadej-pogacar-de-neoprit-slovenul-il-invinge-pe-van-der-poel-si-castiga-turul-flandrei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/tadej-pogacar-de-neoprit-slovenul-il-invinge-pe-van-der-poel-si-castiga-turul-flandrei.html</guid>
+    </item>
+    <item>
+        <title>Rezultate LOTO - Duminică, 5 aprilie 2026. Numerele extrase și premiile puse în joc de Loteria Română</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-duminica-5-aprilie-2026-reporturi-importante-la-6-49-si-noroc-la-joker-sunt-in-joc-peste-121-milioane-de-euro-3709755</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/rezultate-loto-duminica-5-aprilie-2026-reporturi-importante-la-6-49-si-noroc-la-joker-sunt-in-joc-peste-121-milioane-de-euro-3709755</guid>
+    </item>
+    <item>
+        <title>Ministerul Educaţiei despre Liviu Maior (ministru în 1992-1996): România îi datorează, în mare măsură, sistemul de educaţie de azi</title>
+        <link>https://www.g4media.ro/ministerul-educatiei-despre-liviu-maior-ministru-in-1992-1996-romania-ii-datoreaza-in-mare-masura-sistemul-de-educatie-de-azi.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ministerul-educatiei-despre-liviu-maior-ministru-in-1992-1996-romania-ii-datoreaza-in-mare-masura-sistemul-de-educatie-de-azi.html</guid>
+    </item>
+    <item>
+        <title>Paștele Catolic. La Miercurea Ciuc a avut loc tradiționala ceremonie de sfințire a bucatelor. Au participat mii ce credincioși | GALERIE FOTO</title>
+        <link>https://www.europafm.ro/pastele-catolic-la-miercurea-ciuc-a-avut-loc-traditionala-ceremonie-de-sfintire-a-bucatelor-au-participat-mii-ce-credinciosi/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/pastele-catolic-la-miercurea-ciuc-a-avut-loc-traditionala-ceremonie-de-sfintire-a-bucatelor-au-participat-mii-ce-credinciosi/</guid>
+    </item>
+    <item>
+        <title>Zelenski: Ucraina e pregătită să ajute la deblocarea Strâmtorii Ormuz, dar aliații nu ne-au cerut acest lucru</title>
+        <link>https://www.digi24.ro/stiri/externe/zelenski-ucraina-e-pregatita-sa-ajute-la-deblocarea-stramtorii-ormuz-dar-aliatii-nu-ne-au-cerut-acest-lucru-3711687</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/zelenski-ucraina-e-pregatita-sa-ajute-la-deblocarea-stramtorii-ormuz-dar-aliatii-nu-ne-au-cerut-acest-lucru-3711687</guid>
+    </item>
+    <item>
+        <title>OPEC+ anunță o majorare simbolică a producției de petrol pe fondul conflictului din Orientul Mijlociu</title>
+        <link>https://www.mediafax.ro/economic/opec-majoreaza-simbolic-productia-de-petrol-in-timp-ce-razboiul-afecteaza-livrarile-23715414</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/opec-majoreaza-simbolic-productia-de-petrol-in-timp-ce-razboiul-afecteaza-livrarile-23715414</guid>
+    </item>
+    <item>
         <title>Senatori americani vor ca Trump să interzică producătorilor auto chinezi să fabrice maşini în SUA</title>
         <link>https://www.digi24.ro/stiri/externe/senatori-americani-vor-ca-trump-sa-interzica-producatorilor-auto-chinezi-sa-fabrice-masini-in-sua-3711699</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/senatori-americani-vor-ca-trump-sa-interzica-producatorilor-auto-chinezi-sa-fabrice-masini-in-sua-3711699</guid>
     </item>
     <item>
+        <title>Urmează o zi cu temperaturi de vară, apoi vremea se schimbă radical. ANM anunță furtuni și ninsori, zonele afectate</title>
+        <link>https://www.digi24.ro/meteo/urmeaza-o-zi-cu-temperaturi-de-vara-cum-va-fi-vremea-saptamana-viitoare-in-toate-regiunile-tarii-3711799</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/meteo/urmeaza-o-zi-cu-temperaturi-de-vara-cum-va-fi-vremea-saptamana-viitoare-in-toate-regiunile-tarii-3711799</guid>
+    </item>
+    <item>
+        <title>Numerele câștigătoare la tragerile Loto de duminică, 5 aprilie. Report de peste 12 milioane de euro la Joker</title>
+        <link>https://adevarul.ro/stiri-interne/societate/numerele-castigatoare-la-tragerile-loto-de-2520576.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/numerele-castigatoare-la-tragerile-loto-de-2520576.html</guid>
+    </item>
+    <item>
+        <title>Un șofer băut, urmărit ca în filme pe străzile din București: când a fost prins a încercat iar să fugă de polițiști și a lovit cu mașina un agent</title>
+        <link>https://www.libertatea.ro/stiri/sofer-baut-urmarit-strazi-bucuresti-incercat-iar-fuga-lovit-masina-politist-5688620</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/sofer-baut-urmarit-strazi-bucuresti-incercat-iar-fuga-lovit-masina-politist-5688620</guid>
+    </item>
+    <item>
+        <title>Livetext Război în Iran, ziua 37. Iranienii au atacat instalații energetice din Golf / Pilotul american salvat este „grav rănit”</title>
+        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-5-aprilie-2026-5688236</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-5-aprilie-2026-5688236</guid>
+    </item>
+    <item>
+        <title>Mihai Stoichiță a fost în salonul lui Mircea Lucescu de la Spitalul Universitar: „Nu poate să vorbească, nu răspunde la nimic”</title>
+        <link>https://www.libertatea.ro/sport/mihai-stoichita-vizita-salon-mircea-lucescu-spitalul-universitar-5688614</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/sport/mihai-stoichita-vizita-salon-mircea-lucescu-spitalul-universitar-5688614</guid>
+    </item>
+    <item>
+        <title>UTA Arad este noul lider în play-out-ul Superligii</title>
+        <link>https://www.mediafax.ro/sport/uta-arad-este-noul-lider-in-play-out-ul-superligii-23715409</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/uta-arad-este-noul-lider-in-play-out-ul-superligii-23715409</guid>
+    </item>
+    <item>
+        <title>Artistul Virgil Scripcariu, care a realizat o sculptură emblematică pentru Timișoara, cere primăriei să înlăture de lângă creația sa decorațiunile de </title>
+        <link>https://www.g4media.ro/artistul-virgil-cripcariu-care-a-realizat-o-sculptura-emblematica-pentru-timisoara-cere-primariei-sa-inlature-de-langa-creatia-sa-decoratiunile-de-paste-care-infatiseaza-niste-oua-cu-picioare.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/artistul-virgil-cripcariu-care-a-realizat-o-sculptura-emblematica-pentru-timisoara-cere-primariei-sa-inlature-de-langa-creatia-sa-decoratiunile-de-paste-care-infatiseaza-niste-oua-cu-picioare.html</guid>
+    </item>
+    <item>
+        <title>Viktor Orbán, după ce a fost comparat cu fostul dictator român: Sunt un orator mai bun decât Ceaușescu</title>
+        <link>https://www.g4media.ro/viktor-orban-dupa-ce-a-fost-comparat-cu-fostul-dictator-roman-sunt-un-orator-mai-bun-decat-ceausescu.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/viktor-orban-dupa-ce-a-fost-comparat-cu-fostul-dictator-roman-sunt-un-orator-mai-bun-decat-ceausescu.html</guid>
+    </item>
+    <item>
+        <title>190 de angajați ai Grupului DIGI au participat la competiția de alergare Băneasa Forest Run</title>
+        <link>https://www.digi24.ro/stiri/actualitate/190-de-angajati-ai-grupului-digi-au-participat-la-competitia-de-alergare-baneasa-forest-run-3711813</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/190-de-angajati-ai-grupului-digi-au-participat-la-competitia-de-alergare-baneasa-forest-run-3711813</guid>
+    </item>
+    <item>
+        <title>China este pregătită să colaboreze cu Rusia pentru soluționarea conflictului din Orientul Mijlociu</title>
+        <link>https://www.mediafax.ro/stirile-zilei/china-este-pregatita-sa-colaboreze-cu-rusia-pentru-solutionarea-conflictului-din-orientul-mijlociu-23715426</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/china-este-pregatita-sa-colaboreze-cu-rusia-pentru-solutionarea-conflictului-din-orientul-mijlociu-23715426</guid>
+    </item>
+    <item>
+        <title>Rusia a furnizat Iranului informații despre peste 50 de instalații energetice israeliene, afirmă Volodimir Zelenski</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia-a-furnizat-iranului-informatii-despre-peste-50-de-instalatii-energetice-israeliene-afirma-volodimir-zelenski-3711657</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia-a-furnizat-iranului-informatii-despre-peste-50-de-instalatii-energetice-israeliene-afirma-volodimir-zelenski-3711657</guid>
+    </item>
+    <item>
+        <title>Ucraina, gata să intervină pentru deblocarea strâmtorii Ormuz. Zelenski:  „Nimeni nu ne-a cerut să ajutăm”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/ucraina-gata-sa-intervina-pentru-deblocarea-2520575.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/ucraina-gata-sa-intervina-pentru-deblocarea-2520575.html</guid>
+    </item>
+    <item>
+        <title>Polițiștii au scos pistolul pe stradă, în București, ca să dea jos de la volan un șofer pe care l-au urmărit prin oraș</title>
+        <link>https://www.libertatea.ro/stiri/politisti-scos-pistol-strada-bucuresti-dea-jos-volan-sofer-baut-fugise-5688637</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/politisti-scos-pistol-strada-bucuresti-dea-jos-volan-sofer-baut-fugise-5688637</guid>
+    </item>
+    <item>
+        <title>De Florii, străzile Timișoarei s-au umplut de flori și artiști | VIDEO</title>
+        <link>https://www.europafm.ro/de-florii-strazile-timisoarei-s-au-umplut-de-flori-si-artisti/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/de-florii-strazile-timisoarei-s-au-umplut-de-flori-si-artisti/</guid>
+    </item>
+    <item>
+        <title>Povestea tânărului fără adăpost care conduce acum un business de milioane</title>
+        <link>https://adevarul.ro/stiri-externe/sua/povestea-tanarului-fara-adapost-care-conduce-acum-2520561.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/povestea-tanarului-fara-adapost-care-conduce-acum-2520561.html</guid>
+    </item>
+    <item>
         <title>Capsula Orion, cu cei patru astronauți care au plecat spre Lună, văzută de pe o terasă din București</title>
         <link>https://www.mediafax.ro/social/capsula-orion-cu-cei-patru-astronauti-care-au-plecat-spre-luna-vazuta-de-pe-o-terasa-din-bucuresti-23715400</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/social/capsula-orion-cu-cei-patru-astronauti-care-au-plecat-spre-luna-vazuta-de-pe-o-terasa-din-bucuresti-23715400</guid>
+    </item>
+    <item>
+        <title>Premierul Ilie Bolojan: „Guvernul nu are niciun beneficiu de pe urma creşterilor la carburanţi. Dimpotrivă”</title>
+        <link>https://www.europafm.ro/premierul-ilie-bolojan-guvernul-nu-are-niciun-beneficiu-de-pe-urma-cresterilor-la-carburanti-dimpotriva/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/premierul-ilie-bolojan-guvernul-nu-are-niciun-beneficiu-de-pe-urma-cresterilor-la-carburanti-dimpotriva/</guid>
+    </item>
+    <item>
+        <title>Cât a ajuns să coste un kilogram de carne de miel în România și în Spania înainte de Paște/ Prețuri în piață și măcelărie pentru produsele proaspete</title>
+        <link>https://www.g4media.ro/cat-a-ajuns-sa-coste-un-kilogram-de-carne-de-miel-in-romania-si-in-spania-inainte-de-paste-preturi-in-piata-si-macelarie-pentru-produsele-proaspete.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cat-a-ajuns-sa-coste-un-kilogram-de-carne-de-miel-in-romania-si-in-spania-inainte-de-paste-preturi-in-piata-si-macelarie-pentru-produsele-proaspete.html</guid>
+    </item>
+    <item>
+        <title>Trump amenință: Voi prelua controlul asupra petrolului iranian dacă nu se ajunge la un acord. SUA au trimis arme protestatarilor</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/trump-ameninta-voi-prelua-controlul-asupra-petrolului-iranian-daca-nu-se-ajunge-la-un-acord-sua-au-trimis-arme-protestatarilor-3711635</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/trump-ameninta-voi-prelua-controlul-asupra-petrolului-iranian-daca-nu-se-ajunge-la-un-acord-sua-au-trimis-arme-protestatarilor-3711635</guid>
+    </item>
+    <item>
+        <title>Moaştele Sfântului Lazăr, depuse la Catedrala Patriarhală</title>
+        <link>https://www.europafm.ro/moastele-sfantului-lazar-depuse-la-catedrala-patriarhala/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/moastele-sfantului-lazar-depuse-la-catedrala-patriarhala/</guid>
+    </item>
+    <item>
+        <title>Miniștrii unei țări nu mai au voie să călătorească în străinătate din cauza scumpirii combustibililor: „Sunt vremuri foarte grele”</title>
+        <link>https://www.libertatea.ro/stiri/ministrii-unei-tari-nu-mai-au-voie-sa-calatoreasca-in-strainatate-din-cauza-scumpirii-combustibililor-sunt-vremuri-foarte-grele-5688617</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/ministrii-unei-tari-nu-mai-au-voie-sa-calatoreasca-in-strainatate-din-cauza-scumpirii-combustibililor-sunt-vremuri-foarte-grele-5688617</guid>
+    </item>
+    <item>
+        <title>Președintele american vrea să reconstruiască celebra închisoare Alcatraz, vizitată în prezent de milioane de turiști | AUDIO</title>
+        <link>https://www.europafm.ro/presedintele-american-vrea-sa-reconscruiasca-celebra-inchisoare-alcatraz-vizitata-in-prezent-de-milioane-de-turisti/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/presedintele-american-vrea-sa-reconscruiasca-celebra-inchisoare-alcatraz-vizitata-in-prezent-de-milioane-de-turisti/</guid>
+    </item>
+    <item>
+        <title>A venit momentul ca misiunea Artemis 2 să doboare recordul stabilit de Apollo 13</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/a-venit-momentul-ca-misiunea-artemis-2-sa-doboare-recordul-stabilit-de-apollo-13-3711739</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/a-venit-momentul-ca-misiunea-artemis-2-sa-doboare-recordul-stabilit-de-apollo-13-3711739</guid>
+    </item>
+    <item>
+        <title>„Se scrie istorie!” NASA a publicat imagini cu fața ascunsă a Lunii văzută de echipajul Artemis II</title>
+        <link>https://adevarul.ro/stil-de-viata/stiinta/se-scrie-istorie-nasa-a-publicat-imagini-cu-2520569.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/stiinta/se-scrie-istorie-nasa-a-publicat-imagini-cu-2520569.html</guid>
+    </item>
+    <item>
+        <title>Fostul șef al serviciului secret al Ungariei, după ce Serbia a susținut că a dejucat un atentat împotriva conductei care duce gaz rusesc la Budapesta:</title>
+        <link>https://www.g4media.ro/fostul-sef-al-serviciului-secret-al-ungariei-dupa-ce-serbia-a-sustinut-ca-a-dejucat-un-atentat-impotriva-conductei-care-duce-gaz-rusesc-la-budapesta-operatiune-sub-steag-fals-se-stia-ca-e-pregatita.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/fostul-sef-al-serviciului-secret-al-ungariei-dupa-ce-serbia-a-sustinut-ca-a-dejucat-un-atentat-impotriva-conductei-care-duce-gaz-rusesc-la-budapesta-operatiune-sub-steag-fals-se-stia-ca-e-pregatita.html</guid>
     </item>
 </channel>
 </rss>
