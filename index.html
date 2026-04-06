@@ -1343,6 +1343,31 @@
                 btn.classList.remove('active');
             }
         });
+
+        async function shareNews(url, title, source) {
+            const shareText = `${title} - ${source}`;
+            
+            if (navigator.share) {
+                // Mobile: use native share
+                try {
+                    await navigator.share({
+                        title: shareText,
+                        url: url
+                    });
+                } catch(e) {
+                    // User cancelled or error
+                }
+            } else {
+                // Desktop: copy to clipboard
+                try {
+                    await navigator.clipboard.writeText(url);
+                    alert('Link copiat în clipboard! 📋');
+                } catch(e) {
+                    // Fallback
+                    prompt('Copiază link-ul:', url);
+                }
+            }
+        }
     </script>
 
     <!-- env.js TREBUIE să fie în .gitignore - conține HF_TOKEN -->
