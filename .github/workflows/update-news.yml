@@ -7,13 +7,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-and-deploy:
+  update-news:
     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write
-      pages: write
-      
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -33,32 +29,43 @@ jobs:
           python3 update_news.py
           python3 generate_rss.py
 
-      - name: Inject GROQ API Key into HTML (for deployment only)
-        run: |
-          sed -i "s|GROQ_API_KEY_PLACEHOLDER|${{ secrets.GROQ_API_KEY }}|g" index.html
-
-      - name: Commit and push to master (without key)
+      - name: Commit and push news files only
         run: |
           git config --local user.email "garconaibot@gmail.com"
           git config --local user.name "GitHub Actions"
-          git fetch origin gh-pages
-          git pull origin gh-pages --allow-unrelated-histories || true
-          git add .
-          git diff --staged --quiet || git commit -m "Auto-update: $(date)"
-          
-          # Push only changed files except index.html (to avoid secret detection)
-          git checkout --ours . || true
-          git checkout HEAD~0 -- index.html 2>/dev/null || true
-          git add update_news.py all_news.json feed.xml 2>/dev/null
-          git diff --staged --quiet || git commit -m "Auto-update: $(date)"
+          git fetch origin gh-pages 2>/dev/null || true
+          git fetch origin master
+          git add all_news.json feed.xml 2>/dev/null
+          git diff --staged --quiet || git commit -m "Auto-update news: $(date)"
           git push origin master:master || true
 
-      - name: Deploy to GitHub Pages (gh-pages branch with key injected)
+  deploy-to-gh-pages:
+    needs: update-news
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Inject GROQ API Key
         run: |
-          # Create gh-pages branch with injected key
-          git fetch origin gh-pages 2>/dev/null || git checkout --orphan gh-pages
-          git checkout master -- index.html
           sed -i "s|GROQ_API_KEY_PLACEHOLDER|${{ secrets.GROQ_API_KEY }}|g" index.html
-          git add index.html
-          git commit -m "Deploy with GROQ key: $(date)"
-          git push origin gh-pages:gh-pages --force
+          cat index.html | grep -o "Bearer .*" | head -1
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
