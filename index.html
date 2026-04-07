@@ -320,6 +320,7 @@
         .news-content { display: none; color: #8b949e; font-size: 0.9rem; margin-top: 15px; padding-top: 15px; border-top: 1px solid #30363d; }
         .news-card.expanded .news-content { display: block; }
         .news-time { color: #8b949e; font-size: 0.8rem; }
+        .news-ad { padding: 10px 0; grid-column: 1 / -1; }
         
         .news-share { 
             background: transparent; 
@@ -1953,6 +1954,17 @@ IMPORTANT: Focus on news that matters most - geopolitical events, economy, major
             if (nextBatch.length > 0) {
                 renderNewsBatch(nextBatch);
                 currentIndex += nextBatch.length;
+                
+                // Insert AdSense after every 10 total news items
+                if (currentIndex % 10 === 0 && currentIndex < news.length) {
+                    const grid = document.getElementById('newsGrid');
+                    const adDiv = document.createElement('div');
+                    adDiv.className = 'news-ad';
+                    adDiv.style.cssText = 'grid-column: 1 / -1; margin: 15px 0; text-align: center;';
+                    adDiv.innerHTML = '<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>';
+                    grid.appendChild(adDiv);
+                    try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
+                }
             }
             
             // Hide loader if no more news
