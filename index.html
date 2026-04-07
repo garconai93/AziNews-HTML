@@ -440,18 +440,21 @@
                 <div class="card-sub">ETH: $<span id="eth">--</span></div>
             </div>
             <div id="crypto-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
-            <div class="card">
+            <div class="card" onclick="toggleTopNews(this)" style="cursor: pointer;">
                 <div class="card-icon">🤖</div>
                 <div class="card-title">Top News</div>
                 <div id="top-news-container" style="display: none;">
                     <div id="top-news-list" style="font-size: 13px; line-height: 1.5;"></div>
                     <div style="font-size: 10px; color: #888; margin-top: 8px; text-align: right;">✨ generat cu AziNews AI</div>
                 </div>
-                <div id="top-news-loading" style="text-align: center; padding: 20px; color: #888;">
+                <div id="top-news-loading" style="text-align: center; padding: 20px; color: #888; display: none;">
                     <div style="font-size: 20px;">🔄</div>
                     <div style="font-size: 11px;">Se generează...</div>
                 </div>
-                <button id="top-news-btn" onclick="generateTopNews()" style="background: #58a6ff; color: #fff; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: 12px; width: 100%;">Vezi Top 10 Știri</button>
+                <div id="top-news-btn-container" style="display: block;">
+                    <button id="top-news-btn" onclick="event.stopPropagation(); generateTopNews()" style="background: #58a6ff; color: #fff; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: 12px; width: 100%;">Vezi Top 10 Știri</button>
+                </div>
+                <div class="news-expand-hint">Click pentru detalii...</div>
             </div>
         </div>
 
@@ -1833,6 +1836,28 @@ IMPORTANT: Focus on news that matters most - geopolitical events, economy, major
             const wasExpanded = card.classList.contains('expanded');
             document.querySelectorAll('.news-card').forEach(c => c.classList.remove('expanded'));
             if (!wasExpanded) card.classList.add('expanded');
+        }
+        
+        function toggleTopNews(card) {
+            const container = document.getElementById('top-news-container');
+            const btnContainer = document.getElementById('top-news-btn-container');
+            const wasExpanded = card.classList.contains('expanded');
+            
+            if (wasExpanded) {
+                // Collapse
+                card.classList.remove('expanded');
+                container.style.display = 'none';
+                btnContainer.style.display = 'block';
+            } else {
+                // Expand (show what's already generated, or generate if empty)
+                card.classList.add('expanded');
+                btnContainer.style.display = 'none';
+                container.style.display = 'block';
+                // Auto-generate if empty
+                if (document.getElementById('top-news-list').innerHTML.trim() === '') {
+                    generateTopNews();
+                }
+            }
         }
 
         const BATCH_SIZE = 30;
