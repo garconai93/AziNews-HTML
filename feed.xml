@@ -5,55 +5,13 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 07 Apr 2026 02:00:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:00:42 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>OpenAI solicită autorităților din California și Delaware să investigheze „comportamentul anticoncurențial” al lui Musk</title>
-        <link>https://www.mediafax.ro/externe/openai-solicita-autoritatilor-din-california-si-delaware-sa-investigheze-comportamentul-anticoncurential-al-lui-musk-23716026</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/openai-solicita-autoritatilor-din-california-si-delaware-sa-investigheze-comportamentul-anticoncurential-al-lui-musk-23716026</guid>
-    </item>
-    <item>
-        <title>Primarul din Mureș care a furat curent, acuzat că a racordat ilegal vestiarul terenului de fotbal și 12 stâlpi de iluminat stradal</title>
-        <link>https://www.libertatea.ro/stiri/primar-mures-a-furat-curent-a-racordat-ilegal-vestiar-teren-fotbal-si-12-stalpi-iluminat-stradal-5690273</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/primar-mures-a-furat-curent-a-racordat-ilegal-vestiar-teren-fotbal-si-12-stalpi-iluminat-stradal-5690273</guid>
-    </item>
-    <item>
-        <title>Franța a câștigat 13 miliarde de euro după ce și-a vândut aurul din SUA și și-a modernizat rezevele</title>
-        <link>https://www.libertatea.ro/stiri/franta-a-castigat-treisprezece-miliarde-de-euro-dupa-ce-isi-retrage-aurul-din-sua-5690237</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/franta-a-castigat-treisprezece-miliarde-de-euro-dupa-ce-isi-retrage-aurul-din-sua-5690237</guid>
-    </item>
-    <item>
-        <title>O turistă din Germania a murit în fața copiilor după ce a fost lovită de un balcon prăbușit în Grecia</title>
-        <link>https://www.libertatea.ro/lifestyle/o-turista-din-germania-a-murit-in-fata-copiilor-lovita-de-un-balcon-prabusit-in-grecia-5690192</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/o-turista-din-germania-a-murit-in-fata-copiilor-lovita-de-un-balcon-prabusit-in-grecia-5690192</guid>
-    </item>
-    <item>
-        <title>De ce ajung pacienții cu COVID-19 la ATI și în 2026? Explicațiile doctoriței Elena Copaciu</title>
-        <link>https://adevarul.ro/stiri-interne/sanatate/de-ce-ajung-pacientii-cu-covid-19-la-ati-si-in-2520810.html</link>
+        <title>Coiful de la Coțofenești nu este singular în România. Face parte dintr-o serie limitată de coifuri princiare și are inclusiv un „frate geamăn”</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/coiful-de-la-cotofenesti-nu-este-singular-in-2520812.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/de-ce-ajung-pacientii-cu-covid-19-la-ati-si-in-2520810.html</guid>
-    </item>
-    <item>
-        <title>Un bărbat și-a cumpărat casa visurilor în Sicilia: a costat cât o Dacia Duster</title>
-        <link>https://www.libertatea.ro/stiri/barbat-a-cumparat-casa-visurilor-in-sicilia-a-costat-cat-o-dacia-duster-5690184</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/barbat-a-cumparat-casa-visurilor-in-sicilia-a-costat-cat-o-dacia-duster-5690184</guid>
-    </item>
-    <item>
-        <title>Livetext Război în Iran, ziua 39. Trump respinge propunerea Teheranului de încetare a focului / Atacurile iraniene au costat Israelul 15 miliarde de d</title>
-        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-7-aprilie-2026-5690307</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-7-aprilie-2026-5690307</guid>
-    </item>
-    <item>
-        <title>Războiul brânzeturilor: SUA contestă monopolul Europei pe „parmezan”, „feta“ și „gorgonzola“</title>
-        <link>https://adevarul.ro/stiri-externe/sua/razboiul-branzeturilor-sua-contesta-monopolul-2520779.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/razboiul-branzeturilor-sua-contesta-monopolul-2520779.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/coiful-de-la-cotofenesti-nu-este-singular-in-2520812.html</guid>
     </item>
     <item>
         <title>Ungaria plasează sub protecție militară conducta de gaz de la granița cu Serbia</title>
@@ -62,16 +20,22 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/ungaria-plaseaza-sub-protectie-militara-conducta-2520910.html</guid>
     </item>
     <item>
-        <title>Donald Trump spune că iranienii îl roagă să-i bombardeze: „Vă rugăm, veniți înapoi”</title>
-        <link>https://www.libertatea.ro/stiri/donald-trump-spune-ca-iranienii-il-roaga-sa-i-bombardeze-va-rugam-veniti-inapoi-5690220</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-spune-ca-iranienii-il-roaga-sa-i-bombardeze-va-rugam-veniti-inapoi-5690220</guid>
+        <title>Asasinarea liderilor inamici – armă legitimă sau linie roșie? O veche dilemă readusă în prim-plan</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/asasinarea-liderilor-inamici-arma-legitima-sau-2520796.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/asasinarea-liderilor-inamici-arma-legitima-sau-2520796.html</guid>
     </item>
     <item>
-        <title>Prețul petrolului crește pe fondul retoricii tot mai dure a lui Trump față de Iran</title>
-        <link>https://www.mediafax.ro/economic/pretul-petrolului-creste-pe-fondul-retoricii-tot-mai-dure-a-lui-trump-fata-de-iran-23716054</link>
+        <title>De ce ajung pacienții cu COVID-19 la ATI și în 2026? Explicațiile doctoriței Elena Copaciu</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/de-ce-ajung-pacientii-cu-covid-19-la-ati-si-in-2520810.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/de-ce-ajung-pacientii-cu-covid-19-la-ati-si-in-2520810.html</guid>
+    </item>
+    <item>
+        <title>Un senator american avertizează: Fiți atenți atunci când președintele vostru promite să comită crime de război</title>
+        <link>https://www.mediafax.ro/externe/un-senator-american-avertizeaza-fiti-atenti-atunci-cand-presedintele-vostru-promite-sa-comita-crime-de-razboi-23716061</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/pretul-petrolului-creste-pe-fondul-retoricii-tot-mai-dure-a-lui-trump-fata-de-iran-23716054</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-senator-american-avertizeaza-fiti-atenti-atunci-cand-presedintele-vostru-promite-sa-comita-crime-de-razboi-23716061</guid>
     </item>
     <item>
         <title>„Mergând pe coji de ouă”. Cum gestionează Trump armistițiul său fragil cu China</title>
@@ -80,16 +44,16 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/mergand-pe-coji-de-oua-cum-gestioneaza-trump-2520774.html</guid>
     </item>
     <item>
-        <title>Echipajul Artemis 2 a botezat un crater „Carroll” în onoarea soției decedate a comandantului misiunii</title>
-        <link>https://www.mediafax.ro/externe/echipajul-artemis-2-a-botezat-un-crater-carroll-in-onoarea-sotiei-decedate-a-comandantului-misiunii-23716048</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/echipajul-artemis-2-a-botezat-un-crater-carroll-in-onoarea-sotiei-decedate-a-comandantului-misiunii-23716048</guid>
+        <title>Primarul din Mureș care a furat curent, acuzat că a racordat ilegal vestiarul terenului de fotbal și 12 stâlpi de iluminat stradal</title>
+        <link>https://www.libertatea.ro/stiri/primar-mures-a-furat-curent-a-racordat-ilegal-vestiar-teren-fotbal-si-12-stalpi-iluminat-stradal-5690273</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/primar-mures-a-furat-curent-a-racordat-ilegal-vestiar-teren-fotbal-si-12-stalpi-iluminat-stradal-5690273</guid>
     </item>
     <item>
-        <title>Asasinarea liderilor inamici – armă legitimă sau linie roșie? O veche dilemă readusă în prim-plan</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/asasinarea-liderilor-inamici-arma-legitima-sau-2520796.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/asasinarea-liderilor-inamici-arma-legitima-sau-2520796.html</guid>
+        <title>Donald Trump spune că iranienii îl roagă să-i bombardeze: „Vă rugăm, veniți înapoi”</title>
+        <link>https://www.libertatea.ro/stiri/donald-trump-spune-ca-iranienii-il-roaga-sa-i-bombardeze-va-rugam-veniti-inapoi-5690220</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/donald-trump-spune-ca-iranienii-il-roaga-sa-i-bombardeze-va-rugam-veniti-inapoi-5690220</guid>
     </item>
     <item>
         <title>Ruschița, muntele de marmură din Banat, redescoperit odată cu construcția „Drumului Marmurei”</title>
@@ -98,52 +62,46 @@
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/calatorii/ruschita-muntele-de-marmura-din-banat-2520789.html</guid>
     </item>
     <item>
+        <title>Livetext Război în Iran, ziua 39. Trump respinge propunerea Teheranului de încetare a focului / Atacurile iraniene au costat Israelul 15 miliarde de d</title>
+        <link>https://www.libertatea.ro/stiri/razboi-iran-israel-sua-7-aprilie-2026-5690307</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/razboi-iran-israel-sua-7-aprilie-2026-5690307</guid>
+    </item>
+    <item>
+        <title>Ghid de supraviețuire pentru părinți: Cum gestionezi reacțiile negative ale primului copil</title>
+        <link>https://adevarul.ro/dezvoltare-personala/relatii/ghid-de-supravietuire-pentru-parinti-cum-2520799.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/relatii/ghid-de-supravietuire-pentru-parinti-cum-2520799.html</guid>
+    </item>
+    <item>
+        <title>O turistă din Germania a murit în fața copiilor după ce a fost lovită de un balcon prăbușit în Grecia</title>
+        <link>https://www.libertatea.ro/lifestyle/o-turista-din-germania-a-murit-in-fata-copiilor-lovita-de-un-balcon-prabusit-in-grecia-5690192</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/o-turista-din-germania-a-murit-in-fata-copiilor-lovita-de-un-balcon-prabusit-in-grecia-5690192</guid>
+    </item>
+    <item>
         <title>Trump ține lumea în suspans cu mesajele sale schimbătoare privind mersul războiului cu Iranul</title>
         <link>https://adevarul.ro/stiri-externe/in-lume/trump-tine-lumea-in-suspans-cu-mesajele-sale-2520909.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/trump-tine-lumea-in-suspans-cu-mesajele-sale-2520909.html</guid>
     </item>
     <item>
-        <title>Psihologii spun că cei care nu își fac niciodată patul dimineața ar putea avea una dintre cele mai căutate calități la locul de muncă</title>
-        <link>https://www.mediafax.ro/life-inedit/psihologii-spun-ca-cei-care-nu-isi-fac-niciodata-patul-dimineata-ar-putea-avea-una-dintre-cele-mai-cautate-calitati-la-locul-de-munca-23716038</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/psihologii-spun-ca-cei-care-nu-isi-fac-niciodata-patul-dimineata-ar-putea-avea-una-dintre-cele-mai-cautate-calitati-la-locul-de-munca-23716038</guid>
-    </item>
-    <item>
-        <title>Ultimatumul lui Trump privind Strâmtoarea Ormuz se apropie. Iranul nu dă semne că ar fi de acord</title>
-        <link>https://www.mediafax.ro/externe/ultimatumul-lui-trump-privind-stramtoarea-ormuz-se-apropie-iranul-nu-da-semne-ca-ar-fi-de-acord-23716056</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ultimatumul-lui-trump-privind-stramtoarea-ormuz-se-apropie-iranul-nu-da-semne-ca-ar-fi-de-acord-23716056</guid>
-    </item>
-    <item>
-        <title>Directorul festivalului Wireless apără participarea lui Kanye West</title>
-        <link>https://www.mediafax.ro/cultura-media/directorul-festivalului-wireless-apara-participarea-lui-kanye-west-23716045</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/directorul-festivalului-wireless-apara-participarea-lui-kanye-west-23716045</guid>
-    </item>
-    <item>
-        <title>Volodimir Zelenski i-a propus lui Vladimir Putin un armistițiu în sectorul energetic</title>
-        <link>https://www.libertatea.ro/stiri/volodimir-zelenski-i-a-propus-lui-vladimir-putin-un-armistitiu-in-sectorul-energetic-5690272</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/volodimir-zelenski-i-a-propus-lui-vladimir-putin-un-armistitiu-in-sectorul-energetic-5690272</guid>
-    </item>
-    <item>
-        <title>Inundații în sudul Rusiei: cinci morți, mii de persoane evacuate</title>
-        <link>https://www.mediafax.ro/externe/inundatii-in-sudul-rusiei-cinci-morti-mii-de-persoane-evacuate-23716031</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/inundatii-in-sudul-rusiei-cinci-morti-mii-de-persoane-evacuate-23716031</guid>
-    </item>
-    <item>
-        <title>Cum poți să faci grătar la curte, fără teama că vei fi amendat</title>
-        <link>https://adevarul.ro/stil-de-viata/cum-poti-sa-faci-gratar-la-curte-fara-teama-ca-2520732.html</link>
+        <title>Planul care poate transforma România în pivot al industriei militare europene. Oficial: „După 2030, producția noastră să nu mai poată fi ocolită”</title>
+        <link>https://adevarul.ro/stiri-interne/planul-care-poate-transforma-romania-in-pivot-al-2520770.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/cum-poti-sa-faci-gratar-la-curte-fara-teama-ca-2520732.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/planul-care-poate-transforma-romania-in-pivot-al-2520770.html</guid>
     </item>
     <item>
-        <title>Coiful de la Coțofenești nu este singular în România. Face parte dintr-o serie limitată de coifuri princiare și are inclusiv un „frate geamăn”</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/coiful-de-la-cotofenesti-nu-este-singular-in-2520812.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/coiful-de-la-cotofenesti-nu-este-singular-in-2520812.html</guid>
+        <title>Haosul din politica externă a UE determină apeluri la o reformă radicală a diplomației</title>
+        <link>https://www.mediafax.ro/externe/haosul-din-politica-externa-a-ue-determina-apeluri-la-o-reforma-radicala-a-diplomatiei-23716059</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/haosul-din-politica-externa-a-ue-determina-apeluri-la-o-reforma-radicala-a-diplomatiei-23716059</guid>
+    </item>
+    <item>
+        <title>Cercetătorii au descoperit un „comutator” ascuns în creier care îți spune să te oprești din mâncat</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/cercetatorii-au-descoperit-un-comutator-ascuns-in-creier-care-iti-spune-sa-te-opresti-din-mancat-23716051</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/cercetatorii-au-descoperit-un-comutator-ascuns-in-creier-care-iti-spune-sa-te-opresti-din-mancat-23716051</guid>
     </item>
     <item>
         <title>Universitatea Craiova a rezolvat meciul cu CFR Cluj în doar cinci minute și este pe 2 în Superliga, la egalitate de puncte cu liderul</title>
@@ -152,10 +110,76 @@
         <guid isPermaLink="true">https://www.libertatea.ro/sport/superliga-play-off-universitatea-craiova-cfr-cluj-scor-2-0-5690190</guid>
     </item>
     <item>
-        <title>Cercetătorii au descoperit un „comutator” ascuns în creier care îți spune să te oprești din mâncat</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/cercetatorii-au-descoperit-un-comutator-ascuns-in-creier-care-iti-spune-sa-te-opresti-din-mancat-23716051</link>
+        <title>Războiul brânzeturilor: SUA contestă monopolul Europei pe „parmezan”, „feta“ și „gorgonzola“</title>
+        <link>https://adevarul.ro/stiri-externe/sua/razboiul-branzeturilor-sua-contesta-monopolul-2520779.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/razboiul-branzeturilor-sua-contesta-monopolul-2520779.html</guid>
+    </item>
+    <item>
+        <title>Prețul petrolului crește pe fondul retoricii tot mai dure a lui Trump față de Iran</title>
+        <link>https://www.mediafax.ro/economic/pretul-petrolului-creste-pe-fondul-retoricii-tot-mai-dure-a-lui-trump-fata-de-iran-23716054</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/cercetatorii-au-descoperit-un-comutator-ascuns-in-creier-care-iti-spune-sa-te-opresti-din-mancat-23716051</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/pretul-petrolului-creste-pe-fondul-retoricii-tot-mai-dure-a-lui-trump-fata-de-iran-23716054</guid>
+    </item>
+    <item>
+        <title>Volodimir Zelenski i-a propus lui Vladimir Putin un armistițiu în sectorul energetic</title>
+        <link>https://www.libertatea.ro/stiri/volodimir-zelenski-i-a-propus-lui-vladimir-putin-un-armistitiu-in-sectorul-energetic-5690272</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/volodimir-zelenski-i-a-propus-lui-vladimir-putin-un-armistitiu-in-sectorul-energetic-5690272</guid>
+    </item>
+    <item>
+        <title>Echipajul Artemis 2 a botezat un crater „Carroll” în onoarea soției decedate a comandantului misiunii</title>
+        <link>https://www.mediafax.ro/externe/echipajul-artemis-2-a-botezat-un-crater-carroll-in-onoarea-sotiei-decedate-a-comandantului-misiunii-23716048</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/echipajul-artemis-2-a-botezat-un-crater-carroll-in-onoarea-sotiei-decedate-a-comandantului-misiunii-23716048</guid>
+    </item>
+    <item>
+        <title>Directorul festivalului Wireless apără participarea lui Kanye West</title>
+        <link>https://www.mediafax.ro/cultura-media/directorul-festivalului-wireless-apara-participarea-lui-kanye-west-23716045</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/directorul-festivalului-wireless-apara-participarea-lui-kanye-west-23716045</guid>
+    </item>
+    <item>
+        <title>Ultimatumul lui Trump privind Strâmtoarea Ormuz se apropie. Iranul nu dă semne că ar fi de acord</title>
+        <link>https://www.mediafax.ro/externe/ultimatumul-lui-trump-privind-stramtoarea-ormuz-se-apropie-iranul-nu-da-semne-ca-ar-fi-de-acord-23716056</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/ultimatumul-lui-trump-privind-stramtoarea-ormuz-se-apropie-iranul-nu-da-semne-ca-ar-fi-de-acord-23716056</guid>
+    </item>
+    <item>
+        <title>Franța a câștigat 13 miliarde de euro după ce și-a vândut aurul din SUA și și-a modernizat rezevele</title>
+        <link>https://www.libertatea.ro/stiri/franta-a-castigat-treisprezece-miliarde-de-euro-dupa-ce-isi-retrage-aurul-din-sua-5690237</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/franta-a-castigat-treisprezece-miliarde-de-euro-dupa-ce-isi-retrage-aurul-din-sua-5690237</guid>
+    </item>
+    <item>
+        <title>Psihologii spun că cei care nu își fac niciodată patul dimineața ar putea avea una dintre cele mai căutate calități la locul de muncă</title>
+        <link>https://www.mediafax.ro/life-inedit/psihologii-spun-ca-cei-care-nu-isi-fac-niciodata-patul-dimineata-ar-putea-avea-una-dintre-cele-mai-cautate-calitati-la-locul-de-munca-23716038</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/psihologii-spun-ca-cei-care-nu-isi-fac-niciodata-patul-dimineata-ar-putea-avea-una-dintre-cele-mai-cautate-calitati-la-locul-de-munca-23716038</guid>
+    </item>
+    <item>
+        <title>Un bărbat și-a cumpărat casa visurilor în Sicilia: a costat cât o Dacia Duster</title>
+        <link>https://www.libertatea.ro/stiri/barbat-a-cumparat-casa-visurilor-in-sicilia-a-costat-cat-o-dacia-duster-5690184</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/barbat-a-cumparat-casa-visurilor-in-sicilia-a-costat-cat-o-dacia-duster-5690184</guid>
+    </item>
+    <item>
+        <title>Inundații în sudul Rusiei: cinci morți, mii de persoane evacuate</title>
+        <link>https://www.mediafax.ro/externe/inundatii-in-sudul-rusiei-cinci-morti-mii-de-persoane-evacuate-23716031</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/inundatii-in-sudul-rusiei-cinci-morti-mii-de-persoane-evacuate-23716031</guid>
+    </item>
+    <item>
+        <title>OpenAI solicită autorităților din California și Delaware să investigheze „comportamentul anticoncurențial” al lui Musk</title>
+        <link>https://www.mediafax.ro/externe/openai-solicita-autoritatilor-din-california-si-delaware-sa-investigheze-comportamentul-anticoncurential-al-lui-musk-23716026</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/openai-solicita-autoritatilor-din-california-si-delaware-sa-investigheze-comportamentul-anticoncurential-al-lui-musk-23716026</guid>
+    </item>
+    <item>
+        <title>Cum poți să faci grătar la curte, fără teama că vei fi amendat</title>
+        <link>https://adevarul.ro/stil-de-viata/cum-poti-sa-faci-gratar-la-curte-fara-teama-ca-2520732.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/cum-poti-sa-faci-gratar-la-curte-fara-teama-ca-2520732.html</guid>
     </item>
     <item>
         <title>Un sanctuar roman recent descoperit ridică semne de întrebare privind ritualuri șocante</title>
@@ -342,30 +366,6 @@
         <link>https://www.digi24.ro/stiri/externe/zelenski-propune-un-armistitiu-energetic-rusiei-daca-opresc-atacurile-vom-face-la-fel-3713853</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/zelenski-propune-un-armistitiu-energetic-rusiei-daca-opresc-atacurile-vom-face-la-fel-3713853</guid>
-    </item>
-    <item>
-        <title>Accident în Giurgiu: o femeie și doi copii, răniți. Șofer testat pozitiv la droguri</title>
-        <link>https://www.mediafax.ro/social/accident-in-giurgiu-o-femeie-si-doi-copii-raniti-sofer-testat-pozitiv-la-droguri-23715991</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/accident-in-giurgiu-o-femeie-si-doi-copii-raniti-sofer-testat-pozitiv-la-droguri-23715991</guid>
-    </item>
-    <item>
-        <title>Astronauţii din misiunea Artemis 2 doboară recordul Apollo 13: Au ajuns la cea mai mare distanță de Pământ din istorie</title>
-        <link>https://www.digi24.ro/stiri/externe/astronautii-din-misiunea-artemis-2-doboara-recordul-apollo-13-au-ajuns-la-cea-mai-mare-distanta-de-pamant-din-istorie-3713895</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/astronautii-din-misiunea-artemis-2-doboara-recordul-apollo-13-au-ajuns-la-cea-mai-mare-distanta-de-pamant-din-istorie-3713895</guid>
-    </item>
-    <item>
-        <title>Artemis 2 bate recordul stabilit de Apollo. Echipajul a ajuns la cea mai mare distanță de Terra</title>
-        <link>https://adevarul.ro/stil-de-viata/stiinta/artemis-2-bate-recordul-stabilit-de-apollo-2520900.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/stiinta/artemis-2-bate-recordul-stabilit-de-apollo-2520900.html</guid>
-    </item>
-    <item>
-        <title>UE cere statelor membre să nu adopte măsuri ample pentru a compensa prețurile carburanților. Ar putea duce la o criză fiscală</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/ue-cere-statelor-membre-sa-nu-adopte-masuri-ample-pentru-a-compensa-preturile-carburantilor-ar-putea-duce-la-o-criza-fiscala-3713859</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ue-cere-statelor-membre-sa-nu-adopte-masuri-ample-pentru-a-compensa-preturile-carburantilor-ar-putea-duce-la-o-criza-fiscala-3713859</guid>
     </item>
 </channel>
 </rss>
