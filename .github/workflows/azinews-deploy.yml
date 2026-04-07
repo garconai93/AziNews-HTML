@@ -3,7 +3,7 @@ name: AziNews Deploy
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours for Top News refresh
+    - cron: '0 */3 * * *'  # Every 3 hours for Top News refresh
   workflow_dispatch:
 
 jobs:
