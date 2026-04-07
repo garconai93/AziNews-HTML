@@ -537,7 +537,7 @@
             }).catch(() => {});
         }
         
-        // Weather with fallback chain: wttr -> open-meteo -> cached
+        // Weather with fallback chain: open-meteo -> wttr -> cached
         function fetchWeather() {
             const weatherEl = document.getElementById('weather');
             const cacheKey = 'azinews_weather';
@@ -549,25 +549,24 @@
                 if (data.temp) weatherEl.textContent = data.temp + '°C';
             }
             
-            // Try wttr.in first
-            fetch(`https://wttr.in/Bucharest?format=j1`)
+            // Try open-meteo first (supports 7-day forecast)
+            fetch(`https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true&daily=weathercode,temperature_2m_max,temperature_2m_min&forecast_days=7&timezone=Europe/Bucharest`)
                 .then(r => r.json())
                 .then(d => {
-                    const temp = d.current_condition[0].temp_C;
+                    const temp = Math.round(d.current_weather.temperature);
                     weatherEl.textContent = temp + '°C';
                     localStorage.setItem(cacheKey, JSON.stringify({ temp: temp, timestamp: Date.now() }));
                 })
                 .catch(() => {
-                    // Fallback to open-meteo
-                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true&timezone=Europe/Bucharest`)
+                    // Fallback to wttr.in
+                    fetch(`https://wttr.in/Bucharest?format=j1`)
                         .then(r => r.json())
                         .then(d => {
-                            const temp = Math.round(d.current_weather.temperature);
+                            const temp = d.current_condition[0].temp_C;
                             weatherEl.textContent = temp + '°C';
                             localStorage.setItem(cacheKey, JSON.stringify({ temp: temp, timestamp: Date.now() }));
                         })
                         .catch(() => {
-                            // Both failed - keep cached or --°C
                             console.log('Weather APIs unavailable');
                         });
                 });
@@ -631,20 +630,20 @@
             document.getElementById('city-search').value = name;
             document.getElementById('city-dropdown').style.display = 'none';
             
-            // Fetch weather for city (wttr.in fallback chain)
-            fetch(`https://wttr.in/${encodeURIComponent(name)}?format=j1`)
+            // Fetch weather for city (open-meteo first, wttr backup)
+            fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&daily=weathercode,temperature_2m_max,temperature_2m_min&forecast_days=7&timezone=Europe/Bucharest`)
                 .then(r => r.json())
                 .then(d => {
-                    const temp = d.current_condition[0].temp_C;
+                    const temp = Math.round(d.current_weather.temperature);
                     document.getElementById('weather').textContent = temp + '°C';
                     localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
                 })
                 .catch(() => {
-                    // Fallback to open-meteo
-                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&timezone=Europe/Bucharest`)
+                    // Fallback to wttr.in
+                    fetch(`https://wttr.in/${encodeURIComponent(name)}?format=j1`)
                         .then(r => r.json())
                         .then(d => {
-                            const temp = Math.round(d.current_weather.temperature);
+                            const temp = d.current_condition[0].temp_C;
                             document.getElementById('weather').textContent = temp + '°C';
                             localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
                         });
@@ -659,15 +658,24 @@
             try {
                 currentCity = JSON.parse(savedCity);
                 document.getElementById('city-search').value = currentCity.name;
-                // Update weather for saved city
-                fetch(`https://wttr.in/${encodeURIComponent(currentCity.name)}?format=j1`)
+                // Update weather for saved city (open-meteo first)
+                fetch(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&current_weather=true&daily=weathercode,temperature_2m_max,temperature_2m_min&forecast_days=7&timezone=Europe/Bucharest`)
                     .then(r => r.json())
                     .then(d => {
-                        const temp = d.current_condition[0].temp_C;
+                        const temp = Math.round(d.current_weather.temperature);
                         document.getElementById('weather').textContent = temp + '°C';
                         localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
                     })
-                    .catch(() => {});
+                    .catch(() => {
+                        // Fallback to wttr
+                        fetch(`https://wttr.in/${encodeURIComponent(currentCity.name)}?format=j1`)
+                            .then(r => r.json())
+                            .then(d => {
+                                const temp = d.current_condition[0].temp_C;
+                                document.getElementById('weather').textContent = temp + '°C';
+                                localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
+                            });
+                    });
             } catch(e) {}
         }
         
@@ -680,46 +688,46 @@
             }
         });
         
-        // Weather 7-day forecast
+        // Weather 7-day forecast (open-meteo primary, wttr fallback)
         let weatherForecastLoaded = false;
         function toggleWeatherForecast() {
             const el = document.getElementById('weather-forecast');
             if (el.style.display === 'none') {
                 el.style.display = 'grid';
                 if (!weatherForecastLoaded) {
-                    // Try wttr first, then open-meteo
-                    fetch(`https://wttr.in/${encodeURIComponent(currentCity.name)}?format=j1`)
+                    // Try open-meteo first (7-day forecast)
+                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&forecast_days=7&timezone=Europe/Bucharest`)
                         .then(r => r.json())
                         .then(d => {
                             const days = ['Dum', 'Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm'];
                             let html = '';
-                            d.weather.forEach(day => {
-                                const date = new Date(day.date);
-                                const dayName = days[date.getDay()];
+                            d.daily.time.forEach((date, i) => {
+                                const dayName = days[new Date(date).getDay()];
                                 html += `<div class="forecast-day">
                                     <div class="forecast-day-name">${dayName}</div>
-                                    <div class="forecast-temp">${day.maxtempC}°</div>
-                                    <div class="forecast-temp-min">${day.mintempC}°</div>
-                                    <div class="forecast-info">💧 ${day.hourly[4].chanceofrain}%</div>
+                                    <div class="forecast-temp">${d.daily.temperature_2m_max[i]}°</div>
+                                    <div class="forecast-temp-min">${d.daily.temperature_2m_min[i]}°</div>
+                                    <div class="forecast-info">💧 ${d.daily.precipitation_sum[i]}mm</div>
                                 </div>`;
                             });
                             el.innerHTML = html;
                             weatherForecastLoaded = true;
                         })
                         .catch(() => {
-                            // Fallback to open-meteo
-                            fetch(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=auto`)
-                                .then(r => r.json()).then(d => {
+                            // Fallback to wttr (3-day forecast)
+                            fetch(`https://wttr.in/${encodeURIComponent(currentCity.name)}?format=j1`)
+                                .then(r => r.json())
+                                .then(d => {
                                     const days = ['Dum', 'Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm'];
                                     let html = '';
-                                    d.daily.time.forEach((date, i) => {
-                                        const dayName = days[new Date(date).getDay()];
+                                    d.weather.forEach(day => {
+                                        const date = new Date(day.date);
+                                        const dayName = days[date.getDay()];
                                         html += `<div class="forecast-day">
                                             <div class="forecast-day-name">${dayName}</div>
-                                            <div class="forecast-temp">${d.daily.temperature_2m_max[i]}°</div>
-                                            <div class="forecast-temp-min">${d.daily.temperature_2m_min[i]}°</div>
-                                            <div class="forecast-info">💧 ${d.daily.precipitation_sum[i]}mm</div>
-                                            <div class="forecast-info">💨 ${d.daily.wind_speed_10m_max[i]}km/h</div>
+                                            <div class="forecast-temp">${day.maxtempC}°</div>
+                                            <div class="forecast-temp-min">${day.mintempC}°</div>
+                                            <div class="forecast-info">💧 ${day.hourly[4].chanceofrain}%</div>
                                         </div>`;
                                     });
                                     el.innerHTML = html;
