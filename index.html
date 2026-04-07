@@ -537,8 +537,42 @@
             }).catch(() => {});
         }
         
-        fetchWithCache('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true', 'azinews_weather', 
-            d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        // Weather with fallback chain: wttr -> open-meteo -> cached
+        function fetchWeather() {
+            const weatherEl = document.getElementById('weather');
+            const cacheKey = 'azinews_weather';
+            const cached = localStorage.getItem(cacheKey);
+            
+            // Show cached data immediately if available
+            if (cached) {
+                const data = JSON.parse(cached);
+                if (data.temp) weatherEl.textContent = data.temp + '°C';
+            }
+            
+            // Try wttr.in first
+            fetch(`https://wttr.in/Bucharest?format=j1`)
+                .then(r => r.json())
+                .then(d => {
+                    const temp = d.current_condition[0].temp_C;
+                    weatherEl.textContent = temp + '°C';
+                    localStorage.setItem(cacheKey, JSON.stringify({ temp: temp, timestamp: Date.now() }));
+                })
+                .catch(() => {
+                    // Fallback to open-meteo
+                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true&timezone=Europe/Bucharest`)
+                        .then(r => r.json())
+                        .then(d => {
+                            const temp = Math.round(d.current_weather.temperature);
+                            weatherEl.textContent = temp + '°C';
+                            localStorage.setItem(cacheKey, JSON.stringify({ temp: temp, timestamp: Date.now() }));
+                        })
+                        .catch(() => {
+                            // Both failed - keep cached or --°C
+                            console.log('Weather APIs unavailable');
+                        });
+                });
+        }
+        fetchWeather();
         
         // Weather search by city
         let currentCity = { name: 'București', lat: 44.43, lon: 26.10 };
@@ -572,33 +606,41 @@
                 dropdown.innerHTML = getCityButtons();
                 return;
             }
-            fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(query)}&count=5&language=ro&format=json`)
-                .then(r => r.json()).then(d => {
-                    if (d.results) {
-                        dropdown.innerHTML = d.results.map(c => `<div onclick="selectCity('${c.name}', ${c.latitude}, ${c.longitude})" 
-                            style="padding:8px;cursor:pointer;">📍 ${c.name}, ${c.country}</div>`).join('');
-                    }
-                });
+            // Use wttr.in geocoding
+            fetch(`https://wttr.in/${encodeURIComponent(query)}?format=1`)
+                .then(r => r.text())
+                .then(d => {
+                    // wttr returns text format, extract location if found
+                    dropdown.innerHTML = `<div style="padding:8px;cursor:pointer;">📍 ${query}</div>`;
+                })
+                .catch(() => {});
         }
         
         function selectCity(name, lat, lon) {
             currentCity = { name: name, lat: lat, lon: lon };
             document.getElementById('city-search').value = name;
             document.getElementById('city-dropdown').style.display = 'none';
-            // Update weather
-            fetchWithCache(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`, 'azinews_weather_' + name, 
-                d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
-            // Save to localStorage
+            
+            // Fetch weather for city (wttr.in fallback chain)
+            fetch(`https://wttr.in/${encodeURIComponent(name)}?format=j1`)
+                .then(r => r.json())
+                .then(d => {
+                    const temp = d.current_condition[0].temp_C;
+                    document.getElementById('weather').textContent = temp + '°C';
+                    localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
+                })
+                .catch(() => {
+                    // Fallback to open-meteo
+                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true&timezone=Europe/Bucharest`)
+                        .then(r => r.json())
+                        .then(d => {
+                            const temp = Math.round(d.current_weather.temperature);
+                            document.getElementById('weather').textContent = temp + '°C';
+                            localStorage.setItem('azinews_weather', JSON.stringify({ temp: temp, timestamp: Date.now() }));
+                        });
+                });
+            
             localStorage.setItem('azinews_city', JSON.stringify(currentCity));
-        }
-        
-        // Load saved city
-        const savedCity = localStorage.getItem('azinews_city');
-        if (savedCity) {
-            currentCity = JSON.parse(savedCity);
-            document.getElementById('city-search').value = currentCity.name;
-            fetchWithCache(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&current_weather=true`, 'azinews_weather', 
-                d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
         }
         
         // Close dropdown when clicking outside
