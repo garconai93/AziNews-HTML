@@ -882,8 +882,10 @@
             const loading = document.getElementById('top-news-loading');
             const btn = document.getElementById('top-news-btn');
             const btnContainer = document.getElementById('top-news-btn-container');
+            const card = btn.closest('.card');
             
-            // Show loading - hide button container, show loading
+            // Expand card to full width + show loading
+            card.classList.add('top-news-expanded');
             btnContainer.style.display = 'none';
             loading.style.display = 'block';
             
