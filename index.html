@@ -443,7 +443,7 @@
                 <div class="card-icon">📸</div>
                 <div class="card-title">Wiki Photo Day</div>
                 <a id="pod-link" href="#" target="_blank">
-                    <img id="pod-image" src="" alt="Wikipedia Picture of the Day" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; display: none; cursor: pointer;">
+                    <img id="pod-image" src="" alt="Wikipedia Picture of the Day" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; display: none; cursor: pointer;" loading="lazy">
                 </a>
             </div>
         </div>
@@ -1503,7 +1503,7 @@
         news.forEach(n => {
             document.getElementById('newsGrid').innerHTML += `
                 <div class="news-card" onclick="toggleNews(this)">
-                    <img src="${n.image}" alt="${n.title}" class="news-image" onerror="this.style.display='none'">
+                    <img src="${n.image}" alt="${n.title}" class="news-image" loading="lazy" onerror="this.style.display='none'">
                     <div class="news-body">
                         <div class="news-source-row">
                         <div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div>
