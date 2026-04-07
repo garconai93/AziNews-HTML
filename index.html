@@ -881,10 +881,11 @@
             const container = document.getElementById('top-news-container');
             const loading = document.getElementById('top-news-loading');
             const btn = document.getElementById('top-news-btn');
+            const btnContainer = document.getElementById('top-news-btn-container');
             
-            // Show loading
+            // Show loading - hide button container, show loading
+            btnContainer.style.display = 'none';
             loading.style.display = 'block';
-            btn.style.display = 'none';
             
             // Build context from current news
             const newsItems = window.news || [];
@@ -952,10 +953,8 @@ IMPORTANT: Focus on news that matters most - geopolitical events, economy, major
             btn.style.display = 'none';
         }
         
-        // Auto-generate on page load if cache expired
-        const cachedTopNews = localStorage.getItem(TOP_NEWS_CACHE_KEY);
-        // Always generate fresh Top News on load
-        setTimeout(() => generateTopNews(), 2000);
+        // Don't auto-generate - user clicks button to see Top News
+        const cachedTopNews = localStorage.getItem('azinews_topnews');
 
         const audio = document.getElementById('radioPlayer');
         audio.volume = 0.15;
@@ -2136,14 +2135,11 @@ IMPORTANT: Focus on news that matters most - geopolitical events, economy, major
                 container.style.display = 'none';
                 btnContainer.style.display = 'block';
             } else {
-                // Expand (show what's already generated, or generate if empty)
+                // Expand - only show container, NO auto-generate
+                // User must click the button to generate
                 card.classList.add('top-news-expanded');
                 btnContainer.style.display = 'none';
                 container.style.display = 'block';
-                // Auto-generate if empty
-                if (document.getElementById('top-news-list').innerHTML.trim() === '') {
-                    generateTopNews();
-                }
             }
         }
 
