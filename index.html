@@ -283,6 +283,8 @@
         .info-cards .card.top-news-expanded {
             grid-column: 1 / -1;
             text-align: left;
+            overflow-y: auto;
+            max-height: 80vh;
         }
         @media (max-width: 768px) {
             .info-cards .card.top-news-expanded {
@@ -2103,13 +2105,11 @@ IMPORTANT: Focus on news that matters most - geopolitical events, economy, major
                 card.classList.remove('top-news-expanded');
                 container.style.display = 'none';
                 btnContainer.style.display = 'block';
-                document.body.style.overflow = '';
             } else {
                 // Expand (show what's already generated, or generate if empty)
                 card.classList.add('top-news-expanded');
                 btnContainer.style.display = 'none';
                 container.style.display = 'block';
-                document.body.style.overflow = 'hidden';
                 // Auto-generate if empty
                 if (document.getElementById('top-news-list').innerHTML.trim() === '') {
                     generateTopNews();
