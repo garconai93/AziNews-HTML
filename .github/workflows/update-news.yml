@@ -29,6 +29,10 @@ jobs:
           python3 update_news.py
           python3 generate_rss.py
 
+      - name: Inject GROQ API Key into HTML
+        run: |
+          sed -i "s|GROQ_API_KEY_PLACEHOLDER|${{ secrets.GROQ_API_KEY }}|g" index.html
+
       - name: Commit and push
         run: |
           git config --local user.email "garconaibot@gmail.com"

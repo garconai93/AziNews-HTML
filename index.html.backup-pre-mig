@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AziNews - Știri din România</title>
+    <meta name="description" content="Știri din România - Digi24, Mediafax">
+    <meta name="google-site-verification" content="google-site-verification-code">
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZG88DTDR53"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZG88DTDR53');
+    </script>
+    <meta name="theme-color" content="#58a6ff">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/garconaibot/AziNews-HTML/master/icon-192.png">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9063451798744835" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --border-color: #30363d;
+            --text-primary: #f0f6fc;
+            --text-secondary: #8b949e;
+            --accent: #58a6ff;
+        }
+        
+        html.light-mode, body.light-mode {
+            background: #ffffff;
+        }
+        
+        body.light-mode {
+            --bg-primary: #ffffff;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f0f0f0;
+            --border-color: #000000;
+            --text-primary: #000000;
+            --text-secondary: #333333;
+            --accent: #000000;
+        }
+        
+        body.light-mode .card, 
+        body.light-mode .news-card,
+        body.light-mode .horoscope-item,
+        body.light-mode .radio-section,
+        body.light-mode .disclaimer, body.light-mode .forecast-section { background: #ffffff; }
+        body.light-mode .forecast-day { background: #f5f5f5;
+        }
+        
+        body.light-mode .forecast-day-name,
+        body.light-mode .forecast-temp-min { color: #000000 !important; }
+        
+        body.light-mode .forecast-temp { color: #000000 !important; }
+        body.light-mode .cookie-banner {
+            background: var(--bg-secondary);
+            border-color: var(--border-color);
+        }
+        
+        body.light-mode header,
+        body.light-mode footer,
+        body.light-mode .section h2 {
+            border-color: var(--border-color);
+            color: #000000 !important;
+        }
+        
+        body.light-mode header h1,
+        body.light-mode .news-title,
+        body.light-mode .card-value,
+        body.light-mode .horoscope-sign,
+        body.light-mode .radio-title {
+            color: #000000 !important;
+        }
+        
+        body.light-mode .date,
+        body.light-mode .card-title,
+        body.light-mode .card-sub,
+        body.light-mode .news-source,
+        body.light-mode .news-time,
+        body.light-mode .news-content,
+        body.light-mode .horoscope-msg,
+        body.light-mode footer,
+        body.light-mode .menu-option,
+        body.light-mode .menu-section-title {
+            color: #000000 !important;
+        }
+        
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1001;
+            transition: all 0.3s;
+        }
+        
+        .theme-toggle:hover {
+            border-color: var(--accent);
+        }
+
+        /* Menu button (left side) */
+        .menu-toggle {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1001;
+            transition: all 0.3s;
+            padding: 0;
+        }
+
+        .menu-toggle svg {
+            width: 24px;
+            height: 24px;
+            fill: var(--text-primary);
+        }
+
+        .menu-toggle:hover {
+            border-color: var(--accent);
+        }
+
+        .menu-toggle:hover svg {
+            fill: var(--accent);
+        }
+
+        .menu-toggle.active {
+            background: var(--accent);
+            border-color: var(--accent);
+        }
+
+        .menu-toggle.active svg {
+            fill: var(--bg-primary);
+        }
+
+        /* Dropdown menu */
+        .menu-dropdown {
+            display: none;
+            position: fixed;
+            top: 80px;
+            left: 20px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 15px;
+            z-index: 1002;
+            min-width: 220px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        }
+
+        .menu-dropdown.show {
+            display: block;
+        }
+
+        .menu-section {
+            margin-bottom: 15px;
+        }
+
+        .menu-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .menu-section-title {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .menu-options {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .menu-option {
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 6px 12px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .menu-option:hover {
+            border-color: var(--accent);
+        }
+
+        .menu-option.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+            border-color: var(--accent);
+        }
+
+        .menu-reset {
+            width: 100%;
+            text-align: center;
+            background: transparent;
+            border: 1px dashed var(--border-color);
+            margin-top: 10px;
+        }
+
+        .menu-reset:hover {
+            border-color: var(--accent);
+            border-style: solid;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.6; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        
+        header { text-align: center; padding: 30px 20px; border-bottom: 1px solid #30363d; margin-bottom: 30px; }
+        header h1 { font-size: 2.5rem; font-weight: 700; color: #f0f6fc; margin-bottom: 5px; }
+        header h1 span { color: #58a6ff; }
+        .date { color: #8b949e; font-size: 1rem; }
+
+        .info-cards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-bottom: 40px; }
+        .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; text-align: center; }
+        .card-icon { font-size: 2rem; margin-bottom: 10px; }
+        .card-title { font-size: 0.9rem; color: #8b949e; margin-bottom: 5px; }
+        .card-value { font-size: 1.5rem; font-weight: 600; color: #f0f6fc; }
+        .card-sub { font-size: 0.8rem; color: #8b949e; }
+
+        .section { margin-bottom: 40px; text-align: center; }
+        .section h2 { font-size: 1.5rem; color: #f0f6fc; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #30363d; }
+
+        .news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+        .news-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; cursor: pointer; transition: all 0.3s; }
+        .news-card:hover { border-color: #58a6ff; }
+        .news-card.expanded { border-color: #58a6ff; }
+        .news-image { width: 100%; height: 180px; object-fit: cover; background: #21262d; }
+        .news-body { padding: 20px; }
+        .news-source { color: #58a6ff; font-size: 0.8rem; font-weight: 600; margin-bottom: 8px; }
+        .news-source a { color: inherit; text-decoration: none; }
+        .news-source a:hover { text-decoration: underline; }
+        .news-title { color: #f0f6fc; font-size: 1rem; font-weight: 500; margin-bottom: 10px; }
+        .news-content { display: none; color: #8b949e; font-size: 0.9rem; margin-top: 15px; padding-top: 15px; border-top: 1px solid #30363d; }
+        .news-card.expanded .news-content { display: block; }
+        .news-time { color: #8b949e; font-size: 0.8rem; }
+        
+        .news-share { 
+            background: transparent; 
+            border: none; 
+            color: var(--accent); 
+            cursor: pointer; 
+            font-size: 1rem;
+            margin-left: 10px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            transition: all 0.3s;
+        }
+        
+        .news-share:hover { 
+            background: var(--accent); 
+            color: var(--bg-primary); 
+        }
+        
+        .news-source-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .news-expand-hint { color: #58a6ff; font-size: 0.8rem; margin-top: 10px; }
+        .news-card.expanded .news-expand-hint { display: none; }
+
+        
+
+        .horoscope-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; justify-content: center; }
+        .horoscope-item { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; text-align: center; }
+        .horoscope-sign { font-weight: 600; color: #f0f6fc; margin-bottom: 5px; }
+        .horoscope-msg { color: #8b949e; font-size: 0.85rem; }
+
+        .radio-section { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 25px; text-align: center; }
+        .radio-title { font-size: 1.2rem; color: #f0f6fc; margin-bottom: 15px; }
+        .radio-player audio { width: 100%; max-width: 400px; }
+
+        footer { text-align: center; padding: 30px 20px; border-top: 1px solid #30363d; margin-top: 40px; color: #8b949e; font-size: 0.9rem; }
+        footer a { color: #58a6ff; text-decoration: none; margin: 0 10px; }
+        footer a:hover { text-decoration: underline; }
+
+        .disclaimer { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin-top: 30px; text-align: center; color: #8b949e; font-size: 0.85rem; }
+        .disclaimer p { margin: 0; line-height: 1.6; }
+        
+        .adsbygoogle { margin: 20px 0; }
+
+        .cookie-banner { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #161b22; border-top: 1px solid #30363d; padding: 20px; text-align: center; z-index: 1000; }
+        .cookie-banner p { margin: 0 0 15px 0; color: #8b949e; font-size: 0.9rem; }
+        .cookie-banner button { background: #58a6ff; color: #fff; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-size: 0.9rem; margin: 0 5px; }
+        
+        .forecast-section { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; padding: 15px; background: #161b22; border-radius: 12px; margin-top: 10px; }
+        .forecast-day { text-align: center; padding: 10px; background: #21262d; border-radius: 8px; cursor: pointer; }
+        .forecast-day-name { font-size: 12px; color: #8b949e; margin-bottom: 5px; }
+        .forecast-temp { font-size: 14px; font-weight: bold; color: #f0f6fc; }
+        .forecast-temp-min { font-size: 12px; color: #8b949e; }
+        .forecast-info { font-size: 10px; color: #58a6ff; margin-top: 5px; }
+        .cookie-banner button:hover { background: #4393e6; }
+        .cookie-banner .reject { background: #333; }
+        .cookie-banner .reject:hover { background: #444; }
+
+        @media (max-width: 768px) {
+            .info-cards { grid-template-columns: repeat(2, 1fr); }
+            .news-grid { grid-template-columns: 1fr; }
+            .horoscope-grid { grid-template-columns: repeat(2, 1fr); }
+            .adsbygoogle { display: none !important; }
+        }
+    </style>
+</head>
+<body>
+    <button class="theme-toggle" onclick="toggleTheme()" title="Dark/Light Mode">🌙</button>
+    <button class="menu-toggle" onclick="toggleMenu()" title="Filtrează știrile">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        </svg>
+    </button>
+    
+    <!-- Dropdown Menu -->
+    <div class="menu-dropdown" id="menuDropdown">
+        <div class="menu-section">
+            <div class="menu-section-title">Surse</div>
+            <div class="menu-options">
+                <div class="menu-option" data-source="Digi24" onclick="filterNews('source', 'Digi24', this)">Digi24</div>
+                <div class="menu-option" data-source="Mediafax" onclick="filterNews('source', 'Mediafax', this)">Mediafax</div>
+                <div class="menu-option" data-source="Europa FM" onclick="filterNews('source', 'Europa FM', this)">Europa FM</div>
+                <div class="menu-option" data-source="Libertatea" onclick="filterNews('source', 'Libertatea', this)">Libertatea</div>
+                <div class="menu-option" data-source="Adevarul" onclick="filterNews('source', 'Adevarul', this)">Adevărul</div>
+                <div class="menu-option" data-source="G4Media" onclick="filterNews('source', 'G4Media', this)">G4Media</div>
+            </div>
+        </div>
+        <div class="menu-option menu-reset" onclick="resetFilters()">🔄 Arată toate știrile</div>
+    </div>
+    <header>
+        <div class="container">
+            <h1>AziNews</h1>
+            <p class="date" id="currentDate"></p>
+        </div>
+    </header>
+
+    <!-- AdSense after header -->
+    <div class="container">
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543211" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
+    <div class="container">
+        <div class="info-cards">
+            <div class="card" onclick="toggleWeatherForecast()" style="cursor: pointer;">
+                <div class="card-icon">☀️</div>
+                <div class="card-title">Vremea <span style="font-size:10px;">▼</span></div>
+                <div class="card-value" id="weather">--°C</div>
+                <div class="card-sub">
+                    <input type="text" id="city-search" placeholder="Caută oraș..." 
+                           style="background:transparent;border:none;color:inherit;font-size:14px;width:100%;padding:2px;text-align:center;"
+                           onclick="event.stopPropagation(); showCityDropdown()"
+                           onkeyup="searchCity(this.value)">
+                    <div id="city-dropdown" style="display:none;position:absolute;background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:8px;padding:8px;z-index:1000;max-height:200px;overflow-y:auto;width:180px;">
+                    </div>
+                </div>
+            </div>
+            <div id="weather-forecast" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
+            <div class="card" onclick="toggleCurrencyRates()" style="cursor: pointer;">
+                <div class="card-icon">💰</div>
+                <div class="card-title">Curs <span style="font-size:10px;">▼</span></div>
+                <div class="card-value" id="eur">€ --</div>
+                <div class="card-sub">$ <span id="usd">--</span> RON</div>
+            </div>
+            <div id="currency-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
+            <div class="card" onclick="toggleCryptoRates()" style="cursor: pointer;">
+                <div class="card-icon">₿</div>
+                <div class="card-title">Crypto <span style="font-size:10px;">▼</span></div>
+                <div class="card-value" id="btc">BTC: $--</div>
+                <div class="card-sub">ETH: $<span id="eth">--</span></div>
+            </div>
+            <div id="crypto-rates" class="forecast-section" style="display: none; grid-template-columns: repeat(4, 1fr); grid-column: 1 / -1;"></div>
+            <div class="card">
+                <div class="card-icon">📸</div>
+                <div class="card-title">Wiki Photo Day</div>
+                <a id="pod-link" href="#" target="_blank">
+                    <img id="pod-image" src="" alt="Wikipedia Picture of the Day" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; display: none; cursor: pointer;">
+                </a>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Radio Live</h2>
+            <div class="radio-section">
+                <div class="radio-title">🎵 Enjoy Radio</div>
+                <audio id="radioPlayer" controls>
+                    <source src="https://live.enjoyradio.ro/radio/8000/enjoylive.mp3" type="audio/mp3">
+                </audio>
+            </div>
+        </div>
+
+        <!-- AdSense after radio -->
+        <div class="section">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+
+        <div class="section news-section">
+            <h2>Știri din România</h2>
+            <div class="news-grid" id="newsGrid"></div>
+        </div>
+
+        <div class="section">
+            <h2>Horoscop</h2>
+            <div class="horoscope-grid" id="horoscopeGrid"></div>
+        </div>
+
+        <!-- AdSense bottom -->
+        <div class="section">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543210" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+
+        <div class="disclaimer">
+            <p><strong>Disclaimer:</strong> AziNews este un agregator de știri publice și radio. Nu deținem conținutul afișat. Toate știrile și posturile de radio aparțin surselor originale (Digi24, Mediafax, Europa FM, Libertatea, Adevărul, G4Media, Enjoy Radio). Acest serviciu este doar în scop informativ.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2026 AziNews. Toate drepturile rezervate.</p>
+        <p>
+            <a href="terms.html" target="_blank">Termeni și Condiții</a> | 
+            <a href="privacy.html" target="_blank">Politica de Confidențialitate</a> |
+            <a href="despre.html">Despre</a> |
+            <a href="contact.html">Contact</a>
+        </p>
+    </footer>
+
+    <div class="cookie-banner" id="cookieBanner">
+        <p>🍪 Folosim cookies pentru a afișa reclame Google. <a href="privacy.html" style="color: #58a6ff;">Citește Politica de Confidențialitate</a></p>
+        <div>
+            <button onclick="acceptCookies()">Accept</button>
+            <button class="reject" onclick="rejectCookies()">Respinge</button>
+        </div>
+    </div>
+
+    <script>
+        function updateDateTime() {
+            const now = new Date();
+            const days = ['Duminică', 'Luni', 'Marți', 'Miercuri', 'Joi', 'Vineri', 'Sâmbătă'];
+            const months = ['Ianuarie', 'Februarie', 'Martie', 'Aprilie', 'Mai', 'Iunie', 'Iulie', 'August', 'Septembrie', 'Octombrie', 'Noiembrie', 'Decembrie'];
+            document.getElementById('currentDate').textContent = days[now.getDay()] + ', ' + now.getDate() + ' ' + months[now.getMonth()] + ' ' + now.getFullYear() + ' | România';
+        }
+        updateDateTime();
+        setInterval(updateDateTime, 60000);
+
+        // Cached API calls (1 hour)
+        const CACHE_DURATION = 60 * 60 * 1000; // 1 hour
+        const LONG_CACHE = 24 * 60 * 60 * 1000; // 24 ore pentru crypto
+        
+        function fetchWithCache(url, key, updateFn, duration = CACHE_DURATION) {
+            const cached = localStorage.getItem(key);
+            if (cached) {
+                const data = JSON.parse(cached);
+                if (Date.now() - data.timestamp < duration) {
+                    updateFn(data.value);
+                    return;
+                }
+            }
+            fetch(url).then(r => r.json()).then(d => {
+                localStorage.setItem(key, JSON.stringify({ timestamp: Date.now(), value: d }));
+                updateFn(d);
+            }).catch(() => {});
+        }
+        
+        fetchWithCache('https://api.open-meteo.com/v1/forecast?latitude=44.43&longitude=26.10&current_weather=true', 'azinews_weather', 
+            d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        
+        // Weather search by city
+        let currentCity = { name: 'București', lat: 44.43, lon: 26.10 };
+        
+        function showCityDropdown() {
+            const dropdown = document.getElementById('city-dropdown');
+            dropdown.style.display = 'block';
+            dropdown.innerHTML = getCityButtons();
+        }
+        
+        function getCityButtons() {
+            const cities = [
+                {name: 'București', lat: 44.43, lon: 26.10},
+                {name: 'Cluj-Napoca', lat: 46.77, lon: 23.60},
+                {name: 'Timișoara', lat: 45.75, lon: 21.23},
+                {name: 'Iași', lat: 47.16, lon: 27.59},
+                {name: 'Constanța', lat: 44.18, lon: 28.65},
+                {name: 'Craiova', lat: 44.32, lon: 23.80},
+                {name: 'Brașov', lat: 45.64, lon: 25.59},
+                {name: 'Galați', lat: 45.42, lon: 28.04},
+                {name: 'Ploiești', lat: 44.94, lon: 26.02},
+                {name: 'Oradea', lat: 47.06, lon: 21.92}
+            ];
+            return cities.map(c => `<div onclick="selectCity('${c.name}', ${c.lat}, ${c.lon})" 
+                style="padding:8px;cursor:pointer;border-radius:4px;hover:background:var(--bg-tertiary)">📍 ${c.name}</div>`).join('');
+        }
+        
+        function searchCity(query) {
+            const dropdown = document.getElementById('city-dropdown');
+            if (query.length < 2) {
+                dropdown.innerHTML = getCityButtons();
+                return;
+            }
+            fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(query)}&count=5&language=ro&format=json`)
+                .then(r => r.json()).then(d => {
+                    if (d.results) {
+                        dropdown.innerHTML = d.results.map(c => `<div onclick="selectCity('${c.name}', ${c.latitude}, ${c.longitude})" 
+                            style="padding:8px;cursor:pointer;">📍 ${c.name}, ${c.country}</div>`).join('');
+                    }
+                });
+        }
+        
+        function selectCity(name, lat, lon) {
+            currentCity = { name: name, lat: lat, lon: lon };
+            document.getElementById('city-search').value = name;
+            document.getElementById('city-dropdown').style.display = 'none';
+            // Update weather
+            fetchWithCache(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current_weather=true`, 'azinews_weather_' + name, 
+                d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+            // Save to localStorage
+            localStorage.setItem('azinews_city', JSON.stringify(currentCity));
+        }
+        
+        // Load saved city
+        const savedCity = localStorage.getItem('azinews_city');
+        if (savedCity) {
+            currentCity = JSON.parse(savedCity);
+            document.getElementById('city-search').value = currentCity.name;
+            fetchWithCache(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&current_weather=true`, 'azinews_weather', 
+                d => { document.getElementById('weather').textContent = d.current_weather.temperature + '°C'; });
+        }
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            const dropdown = document.getElementById('city-dropdown');
+            const input = document.getElementById('city-search');
+            if (!dropdown.contains(e.target) && e.target !== input) {
+                dropdown.style.display = 'none';
+            }
+        });
+        
+        // Weather 7-day forecast
+        let weatherForecastLoaded = false;
+        function toggleWeatherForecast() {
+            const el = document.getElementById('weather-forecast');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!weatherForecastLoaded) {
+                    fetch(`https://api.open-meteo.com/v1/forecast?latitude=${currentCity.lat}&longitude=${currentCity.lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=auto`)
+                        .then(r => r.json()).then(d => {
+                            const days = ['Dum', 'Lun', 'Mar', 'Mie', 'Joi', 'Vin', 'Sâm'];
+                            let html = '';
+                            d.daily.time.forEach((date, i) => {
+                                const dayName = days[new Date(date).getDay()];
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${dayName}</div>
+                                    <div class="forecast-temp">${d.daily.temperature_2m_max[i]}°</div>
+                                    <div class="forecast-temp-min">${d.daily.temperature_2m_min[i]}°</div>
+                                    <div class="forecast-info">💧 ${d.daily.precipitation_sum[i]}mm</div>
+                                    <div class="forecast-info">💨 ${d.daily.wind_speed_10m_max[i]}km/h</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            weatherForecastLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
+        
+        // Currency rates - multiple currencies
+        let currencyRatesLoaded = false;
+        function toggleCurrencyRates() {
+            const el = document.getElementById('currency-rates');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!currencyRatesLoaded) {
+                    fetch('https://open.er-api.com/v6/latest/RON')
+                        .then(r => r.json()).then(data => {
+                            const flags = { EUR: '🇪🇺', USD: '🇺🇸', GBP: '🇬🇧', CHF: '🇨🇭', HUF: '🇭🇺', PLN: '🇵🇱', CZK: '🇨🇿', TRY: '🇹🇷' };
+                            const names = { EUR: 'Euro', USD: 'Dolar', GBP: 'Lira', CHF: 'Franco', HUF: 'Forint', PLN: 'Zlot', CZK: 'Coroana', TRY: 'Lira' };
+                            const currencies = ['EUR', 'USD', 'GBP', 'CHF', 'HUF', 'PLN', 'CZK', 'TRY'];
+                            let html = '';
+                            currencies.forEach(c => {
+                                const rate = (1 / data.rates[c]).toFixed(4);
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${flags[c]} ${c}</div>
+                                    <div class="forecast-temp">${rate} RON</div>
+                                    <div class="forecast-info">${names[c]}</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            currencyRatesLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
+        
+        fetchWithCache('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd', 'azinews_crypto',
+            d => { 
+                document.getElementById('btc').textContent = 'BTC: $' + d.bitcoin.usd.toLocaleString(); 
+                document.getElementById('eth').textContent = d.ethereum.usd.toLocaleString(); 
+            }, LONG_CACHE);
+        
+        // EUR Rate
+        fetchWithCache('https://open.er-api.com/v6/latest/EUR', 'azinews_eur',
+            d => { document.getElementById('eur').textContent = '€ ' + d.rates.RON + ' RON'; },
+            30 * 60 * 1000);
+        
+        // USD Rate - with fallback
+        fetchWithCache('https://open.er-api.com/v6/latest/USD', 'azinews_usd',
+            d => { document.getElementById('usd').textContent = d.rates.RON; },
+            30 * 60 * 1000);
+        
+        // Fallback: try alternative API if main fails
+        setTimeout(() => {
+            if (document.getElementById('usd').textContent === '--') {
+                fetch('https://open.er-api.com/v6/latest/USD')
+                    .then(r => r.json())
+                    .then(d => {
+                        if (d.rates && d.rates.RON) {
+                            document.getElementById('usd').textContent = d.rates.RON.toFixed(2);
+                        }
+                    }).catch(() => {});
+            }
+            if (document.getElementById('eur').textContent === '€ -- RON') {
+                fetch('https://open.er-api.com/v6/latest/EUR')
+                    .then(r => r.json())
+                    .then(d => {
+                        if (d.rates && d.rates.RON) {
+                            document.getElementById('eur').textContent = '€ ' + d.rates.RON.toFixed(2) + ' RON';
+                        }
+                    }).catch(() => {});
+            }
+        }, 3000);
+
+        // Crypto - top 8 coins
+        let cryptoRatesLoaded = false;
+        function toggleCryptoRates() {
+            const el = document.getElementById('crypto-rates');
+            if (el.style.display === 'none') {
+                el.style.display = 'grid';
+                if (!cryptoRatesLoaded) {
+                    fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin,ethereum,binancecoin,solana,ripple,cardano,dogecoin,polkadot&order=market_cap_desc&sparkline=false&price_change_percentage=24h')
+                        .then(r => r.json()).then(data => {
+                            const icons = { bitcoin: '₿', ethereum: 'Ξ', binancecoin: 'B', solana: 'S', ripple: 'X', cardano: 'A', dogecoin: 'Ð', polkadot: '●' };
+                            let html = '';
+                            data.forEach(coin => {
+                                const change = coin.price_change_percentage_24h.toFixed(2);
+                                const color = change >= 0 ? '#3fb950' : '#f85149';
+                                html += `<div class="forecast-day">
+                                    <div class="forecast-day-name">${icons[coin.id]} ${coin.symbol.toUpperCase()}</div>
+                                    <div class="forecast-temp">$${coin.current_price.toLocaleString()}</div>
+                                    <div class="forecast-info" style="color:${color}">${change >= 0 ? '▲' : '▼'} ${Math.abs(change)}%</div>
+                                    <div class="forecast-info">MCap: $${(coin.market_cap/1e9).toFixed(1)}B</div>
+                                </div>`;
+                            });
+                            el.innerHTML = html;
+                            cryptoRatesLoaded = true;
+                        });
+                }
+            } else {
+                el.style.display = 'none';
+            }
+        }
+
+        // Wikipedia Picture of the Day
+        const today = new Date();
+        const y = today.getFullYear();
+        const m = String(today.getMonth() + 1).padStart(2, '0');
+        const d = String(today.getDate()).padStart(2, '0');
+        fetch(`https://en.wikipedia.org/api/rest_v1/feed/featured/${y}/${m}/${d}`)
+            .then(r => r.json())
+            .then(data => {
+                // Try tfa first, then mostread, then onthisday
+                let tod = data.tfa;
+                if (!tod?.thumbnail && data.mostread?.articles) {
+                    tod = data.mostread.articles.find(a => a.thumbnail) || data.mostread.articles[0];
+                }
+                if (!tod?.thumbnail && data.onthisday) {
+                    tod = data.onthisday.find(a => a.thumbnail) || null;
+                }
+                if (tod && tod.thumbnail) {
+                    document.getElementById('pod-image').src = tod.thumbnail.source;
+                    document.getElementById('pod-image').style.display = 'block';
+                    const articleUrl = tod.content_urls?.desktop?.page || 
+                                      'https://en.wikipedia.org/wiki/' + encodeURIComponent(tod.title);
+                    document.getElementById('pod-link').href = articleUrl;
+                }
+            })
+            .catch(() => {});
+
+        const audio = document.getElementById('radioPlayer');
+        audio.volume = 0.15;
+        audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
+
+        const horoscope = [
+            { sign: "Vărsător", msg: "Schimbări benefice" },
+            { sign: "Fecioară", msg: "Analiză profundă" },
+            { sign: "Leu", msg: "Succes în afaceri" },
+            { sign: "Berbec", msg: "Zi perfectă pentru inițiative noi" },
+            { sign: "Scorpion", msg: "Transformări pozitive" },
+            { sign: "Pești", msg: "Visatori romantici" },
+            { sign: "Săgetător", msg: "Filozofie de viață" },
+            { sign: "Gemeni", msg: "Flexibilitate și adaptabilitate" },
+            { sign: "Rac", msg: "Timp prețios cu familia" },
+            { sign: "Capricorn", msg: "Obiective clare" },
+            { sign: "Taur", msg: "Conexiuni emoționale puternice" },
+            { sign: "Balanță", msg: "Frumusețe și artă" },
+        ];
+        horoscope.forEach(h => {
+            document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
+        });
+
+        // Știri Digi24 + Mediafax - actualizate zilnic de cron
+        const news = [
+    { source: 'G4Media', url: 'https://www.g4media.ro/daniel-ricciardo-multumeste-redbull-ca-l-a-fortat-sa-se-retraga-din-formula-1.html', title: "Daniel Ricciardo mulțumește RedBull că l-a forțat să se retragă din Formula 1", image: "https://www.g4media.ro//wp-content/uploads/2026/02/Daniel-Ricciardo-si-Max-Verstappen-1024x611.jpg", time: "06:53", content: "Ajuns la 36 de ani, Daniel Ricciardo le mulțumește celor de la RedBull că l-au forțat să se retragă din Formula 1. Fostul pilot australian..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/politica/rafila-apara-decizia-de-a-nu-mai-cumpara-2519785.html', title: "Rafila apără decizia de a nu mai cumpăra vaccinurile COVID. Voiculescu îl contrazice: „400 de milioane de euro a costat România lipsa unei decizii”", image: "https://cdn.adh.reperio.news/image-f/fa8bfc01-006d-403d-8ab4-943df42b4abe/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "07:19", content: "Alexandru Rafila susține că decizia de a nu cumpăra 29 de milioane de doze de vaccin COVID-19 a fost corectă. În replică, Vlad Voiculescu afirmă că..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/femeie-abandonat-baietel-6-ani-camera-hotel-2-saptamani-ingrijit-angajati-5683537', title: "Femeia și-a abandonat băiețelul de 6 ani într-o cameră de hotel timp de două săptămâni, în China: „Mamă, nu te învinovățesc! Sunt deja un bărbat, o să", image: "https://static4.libertatea.ro/wp-content/uploads/2026/04/chengcheng-620x349.jpg", time: "07:30", content: "Chengcheng, un băiețel de 6 ani, a fost lăsat singur de mama lui într-un hotel din Zhengzhou, China, timp de peste două săptămâni. Copilul a fost..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/razboi-iran-israel-sua-2-aprilie-2026-5684656', title: "Livetext Război în Iran, ziua 34: Prețul petrolului crește din nou, după ce Donald Trump a promis să continue războiul împotriva Iranului", image: "https://static4.libertatea.ro/wp-content/uploads/2026/04/o-racheta-cazuta-in-west-bank-palestina-620x413.jpg", time: "08:15", content: "Trump a ținut primul discurs adresat americanilor despre războiul din Iran în care a reiterat declarațiile sale anterioare, susținând că obiectivele..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/cultura-media/lindsey-buckingham-chitaristul-trupei-fleetwood-mac-atacat-de-o-femeie-cu-o-substanta-necunoscuta-23713784', title: "Lindsey Buckingham, chitaristul trupei Fleetwood Mac, atacat de o femeie cu o substanță necunoscută", image: "https://www.mediafax.ro//wp-content/uploads/2026/04/lindsey-buckingham-chitaristul-trupei-fleetwood-mac-1024x603.jpg", time: "07:51", content: "Lindsey Buckingham, fostul chitarist și co-vocalist al trupei Fleetwood Mac, a fost atacat de o femeie care ar fi aruncat asupra sa o substanță..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/meteo/cod-galben-de-ploi-si-vant-in-aproape-toata-tara-ninsori-la-munte-la-peste-1-800-de-metri-23713772', title: "Cod galben de ploi și vânt în aproape toată țara. Ninsori la munte, la peste 1.800 de metri", image: "https://www.mediafax.ro//wp-content/uploads/2026/04/8074876-mediafax_foto-alexandra_pandrea_gmn-1-1024x672.jpg", time: "07:18", content: "Vremea rea nu se dezice, așa că joi vremea va fi închisă: meteorologii anunță cod galben de vânt în Muntenia și sud-estul Olteniei, iar în Oltenia,..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/sport/nationala-romaniei-respinsa-de-un-fotbalist-de-2519796.html', title: "Naționala României, respinsă de un fotbalist de perspectivă. I-a refuzat pe tricolori și a ales să reprezinte Turcia", image: "https://cdn.adh.reperio.news/image-6/646154df-5f82-449c-a02e-17c543b7ba40/index.webp?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "07:21", content: "Umit Akdag are 22 de ani." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/life-inedit/o-inscriptie-greaca-misterioasa-ar-putea-dezvalui-existenta-unui-templu-pierdut-sub-marea-moschee-din-siria-23713794', title: "O inscripție greacă misterioasă ar putea dezvălui existența unui templu pierdut sub Marea Moschee din Siria", image: "https://www.mediafax.ro//wp-content/uploads/2026/04/ggteyqgwkaa6fnf-1024x768.jpg", time: "07:55", content: "O inscripție greacă descoperită recent în interiorul Marii Moschei din Homs, Siria, reînvie o dezbatere de lungă durată privind amplasamentul..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/interviurile-adevarul/florin-barbu-ministrul-agriculturii-la-2519805.html', title: "Florin Barbu, ministrul Agriculturii, la Interviurile Adevărul de la ora 14.00", image: "https://cdn.adh.reperio.news/image-b/bbca79b9-edd8-4926-a8fc-56b44b2126fa/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "07:48", content: "Ministrul va aborda teme de interes pentru această perioadă, precum acciza la carburanți, cum afectează acest lucru fermierii, scumpirea legumelor." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/sua/jd-vance-isi-pregateste-candidatura-la-2519780.html', title: "JD Vance își pregătește candidatura la prezidențialele din 2028. A scris o carte despre convertirea la catolicism", image: "https://cdn.adh.reperio.news/image-c/c0076063-12ca-4b45-9998-1be05fdd984c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "07:06", content: "Vicepreşedintele american JD Vance a anunţat o nouă carte de memorii centrată pe convertirea sa la catolicism, contribuind la speculaţiile tot mai..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-interne/societate/rezultate-loto-joi-2-aprilie-report-de-peste-12-2519797.html', title: "Rezultate loto joi, 2 aprilie. Report de peste 12 milioane de euro la Joker", image: "https://cdn.adh.reperio.news/image-6/66dd4eb5-f6b8-4436-9df4-638631dc38c0/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "07:28", content: "Joi, 2 aprilie 2026, au loc noi trageri Loto 6/49, Noroc, Joker, Noroc Plus, Loto 5/40 și Super Noroc. La tragerile loto de duminică, 29 martie,..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/cristian-anton-frauda-examene-soferi/', title: "Şeful Autorităţii Rutiere Române, Cristian Anton, arestat preventiv | AUDIO", image: "https://www.europafm.ro/wp-content/uploads/2026/04/Cristian-Anton-Inquam-Photos-Octav-Ganea-200x200.jpg", time: "16:20", content: "Cristian Anton, șeful Autorității Rutiere Române (ARR), a fost arestat preventiv marți, după ce judecătorii Tribunalului Cluj au acceptat propunerea..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/constantin-toma-psd-ului-i-se-rezerva-o-soarta-proasta-daca-va-urma-ceea-ce-indeamna-domnul-sorin-grindeanu-risca-sa-ajunga-inclusiv-in-opozitie.html', title: "Constantin Toma: PSD-ului i se rezervă o soartă proastă dacă va urma ceea ce îndeamnă domnul Sorin Grindeanu / Riscă să ajungă inclusiv în opoziţie", image: "https://www.g4media.ro//wp-content/uploads/2026/02/toma-ciolacu-1024x767.jpg", time: "07:52", content: "Primarul municipiului Buzău, Constantin Toma, afirmă că sunt mulţi colegi social-democraţi care îl susţin la guvernare pe premierul Ilie Bolojan şi..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/politic/ciucu-despre-propunerea-eliminarii-gratuitatilor-pentru-parcari-serviciul-public-de-parcari-nu-isi-mai-justifica-existenta-23713771', title: "Ciucu, despre propunerea eliminării gratuităților pentru parcări: Serviciul public de parcări nu își mai justifică existența", image: "https://www.mediafax.ro//wp-content/uploads/2026/04/8119419-mediafax_foto-alexandru_nechez-1-1024x683.jpg", time: "07:29", content: "Primarul general al Capitalei, Ciprian Ciucu, a propus eliminarea tuturor gratuităților acordate în parcările administrate de instituția pe care o..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/starmer-si-von-der-leyen-discuta-apropierea-relatiilor-dintre-regatul-unit-si-uniunea-europeana-23713779', title: "Starmer și von der Leyen discută apropierea relațiilor dintre Regatul Unit și Uniunea Europeană", image: "https://www.mediafax.ro//wp-content/uploads/2026/04/8038469-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg", time: "07:38", content: "Keir Starmer și Ursula von der Leyen vor să apropie din nou relațiile dintre Regatul Unit și Uniunea Europeană și să colaboreze mai strâns, inclusiv..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/primul-discurs-trump-inceputul-razboiului-iranul-conflictul-aproape-final-stramtoarea-ormuz-se-va-redeschide-tacere-totala-nato-5684755', title: "Primul discurs al lui Trump de la începutul războiului cu Iranul: „Conflictul este aproape de final, Strâmtoarea Ormuz se va redeschide”. Tăcere total", image: "https://static4.libertatea.ro/wp-content/uploads/2026/04/trump-620x413.jpg", time: "07:45", content: "Donald Trump a susţinut miercuri seara, la Casa Albă, primul său discurs oficial de la începutul războiului din Orientul Mijlociu, asigurând că..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/mihai-fifor-dupa-declaratiile-lui-trump-privind-nato-chiar-sua-ar-fi-vulnerabile-romania-prinsa-in-cel-mai-prost-moment-articolul-5-nu-dispare-dar-devine-mult-mai-putin-credibil.html', title: "Mihai Fifor, după declarațiile lui Trump privind NATO: Chiar SUA ar fi vulnerabile / România, prinsă în cel mai prost moment / Articolul 5 nu dispare,", image: "https://www.g4media.ro//wp-content/uploads/2025/11/WhatsApp-Image-2025-11-09-at-09.29.33-1024x576.jpeg", time: "06:26", content: "O eventuală retragere a SUA din NATO nu ar fi un câștig pentru Washington, ci ar însemna pierderea rețelei de alianțe, cel mai important..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/liniile-aeriene-turcesti-au-adaugat-orasul-timisoara-pe-lista-destinatiilor-avioanele-vor-zbura-de-la-istanbul-cu-o-frecventa-de-cinci-ori-pe-saptamana.html', title: "Liniile Aeriene Turcești au adăugat orașul Timișoara pe lista destinațiilor / Avioanele vor zbura de la Istanbul cu o frecvență de cinci ori pe săptăm", image: "https://www.g4media.ro//wp-content/uploads/2023/05/avion-turkish-airlines-819x1024.jpg", time: "06:21", content: "Compania THY (Liniile Aeriene Turcești) a adăugat orașul românesc Timișoara pe lista destinațiilor sale. Timișoara este cel de al patrulea oraș..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/rogobete-romania-plata-pfizer/', title: "Alexandru Rogobete, clarificări după ce România a pierdut procesul cu Pfizer: „Este o măsură executorie. Banii vor veni, cel mai probabil, din bugetul", image: "https://www.europafm.ro/wp-content/uploads/2025/10/FotoJet-78-200x200.jpg", time: "17:55", content: "România a pierdut procesul cu Pfizer privind achiziția de vaccinuri anti-Covid, iar statul va trebui să plătească aproximativ șase miliarde de lei..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/sport/romania-in-top-30-la-campionatele-mondiale-de-scrima-pentru-juniori-la-sabie-23713786', title: "România, în Top 30 la Campionatele Mondiale de Scrimă pentru juniori la sabie", image: "https://www.mediafax.ro//wp-content/uploads/2026/04/campionatele-mondiale-de-scrima-juniori-576x1024.jpg", time: "07:38", content: "Prima zi a competiției de la Campionatele Mondiale de Scrimă pentru juniori și cadeți, de la Rio (Brazilia), a adus evoluții solide pentru sportivii..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/ministrul-apararii-anunta-reducerea-tarifului-de-inchiriere-pentru-stadionul-steaua-3706411', title: "Ministrul Apărării anunță reducerea tarifului de închiriere pentru stadionul Steaua", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjEl/MkYwOSUyRjAyJTJGMTM3ODMxNl8xMzc4/MzE2X3N0YWRpb251bC1zdGVhdWEtaW5x/dWFtLW9jdGF2LWdhbmVhLmpwZyZoYXNo/PWEyYTNlZTZmZmFjODNiMzJkMGZmNTJiOTJjZjExYTc4.jpg", time: "09:46", content: "Ministrul Apărării, Radu Miruţă, a anunţat, joi, reducerea cu 10.000 de euro a tarifului de închiriere pentru Stadionul Steaua. „De astăzi, stadionul..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/social/ciucu-explica-de-ce-vrea-ca-bucurestenii-care-au-masini-electrice-si-hibride-sa-plateasca-parcare-3706365', title: "Ciucu explică de ce vrea ca bucureștenii care au mașini electrice și hibride să plătească parcare", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjA1JTJGMjU3OTI3MF8yNTc5/MjcwX2NpcHJpYW4tY2l1Y3UtNC5qcGcm/aGFzaD0zNzgyOTdiOGJiNTJjMTc0MWVhNjNmMjAyOGE5MTdmNw==.jpg", time: "09:36", content: "Primarul Capitalei Ciprian Ciucu a anunțat că va propune eliminarea tuturor gratuităților acordate în parcările administrate de Primăria Municipiului..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/sport/universitatea-craiova-face-totul-pentru-primul-2519784.html', title: "Universitatea Craiova face totul pentru primul titlu din 1990 încoace. Decizia luată de conducerea clubului de Ziua Păcălelilor", image: "https://cdn.adh.reperio.news/image-3/3cc86dc5-b569-4a00-8819-8d01a26c4219/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0.14%252C1%252C0.774%26f%3Djpeg&file=image.jpeg", time: "07:10", content: "Antrenorul portughez Filipe Coelho va rămâne la conducerea echipei." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/social/disputa-pe-vaccinurile-pfizer-alexandru-rafila-apara-neachizitia-dozelor-vlad-voiculescu-acuza-pierderi-de-milioane-de-euro-3706405', title: "Cazul Pfizer. Rafila: A fost corect să nu cumpărăm 29 de milioane de doze de vaccin COVID-19. Vlad Voiculescu îl contrazice", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjAyJTJGMjY2MjAyMF8yNjYy/MDIwX3JhZmlsYS12b2ljdWxlc2N1LWNv/bGFqLmpwZyZoYXNoPTExMWMyNDY5ZTVmOTgxMDkyNzllMGJlNmY0M2E3MjI3.jpg", time: "10:09", content: "Fostul ministru al Sănătății, actual deputat PSD, Alexandru Rafila, a susținut că decizia de a nu mai achiziționa 29 de milioane de doze de vaccin..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/alina-gorghiu-legea-femicid-protectie/', title: "Alina Gorghiu, despre legea femicidului: „Se schimbă foarte multe la nivelul de protecție pe care statul îl poate oferi”. Care sunt principalele preve", image: "https://www.europafm.ro/wp-content/uploads/2026/04/Alina-Gorghiu-200x200.jpg", time: "16:47", content: "Alina Gorghiu, deputat PNL și președinte al Comisiei parlamentare „România fără violență domestică”, a declarat miercuri, în emisiunea Piața..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/avertisment-dur-privind-criza-petrolului-seful-aie-multe-tari-vor-introduce-probabil-rationalizarea-aprilie-va-fi-mai-rea-ca-martie-3706475', title: "Avertisment dur privind criza petrolului. Șeful AIE: Multe țări vor introduce probabil raționalizarea. Aprilie va fi mai rea ca martie", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjAyJTJGMjY2MjA5OF8yNjYy/MDk4X3Byb2ZpbWVkaWEtMTA4NTUyMTMx/MS5qcGcmaGFzaD04ZGYzNGIyNmQyYzk4YmNjOTRkYjQ5NzNhZDI4YzJhMw==.jpg", time: "10:49", content: "Directorul executiv al Agenției Internaționale pentru Energie (AIE), Fatih Birol, a avertiat că „multe țări vor introduce probabil curând..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/rusia-a-exportat-55-de-milioane-de-metri-cubi-de-gaze-in-europa-cu-22-la-suta-mai-mult-decat-in-2025-5684764', title: "Rusia a exportat 55.000.000 de metri cubi de gaze pe zi în Europa, în martie, cu 22% mai mult decât în 2025", image: "https://static4.libertatea.ro/wp-content/uploads/2026/04/gazprom-620x349.jpg", time: "07:30", content: "Aprovizionarea medie zilnică de gaze naturale către Europa prin conducta submarină TurkStream a crescut cu 22% față de anul precedent, la 55 de..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-externe/europa/intalnire-de-urgenta-in-regatul-unit-pe-tema-2519781.html', title: "Întâlnire de urgență în Regatul Unit pe tema Strâmtorii Ormuz. Sunt așteptați reprezentanți a 35 de țări", image: "https://cdn.adh.reperio.news/image-0/0a0ee0be-7fd3-4ce9-878e-a4184c1fef82/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "06:51", content: "Regatul Unit va reuni 35 de țări pentru a analiza modalități de redeschidere a Strâmtorii Ormuz, ruta vitală pentru transportul de petrol și gaze,..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/politic/ciolacu-ataca-iscusitele-afaceri-mesterite-de-liderii-pnl-si-usr-privind-pfizer-tocmai-au-majorat-deficitul-cu-vreo-5-miliarde-de-lei-23713767', title: "Ciolacu atacă „iscusitele afaceri meșterite de liderii PNL și USR” privind Pfizer: Tocmai „au majorat deficitul cu vreo 5 miliarde de lei”", image: "https://www.mediafax.ro//wp-content/uploads/2025/03/8025490-mediafax_foto-andreea_alexandru-3-1024x683.jpg", time: "07:06", content: "Fostul prim-ministru, Marcel Ciolacu, critică PNL și USR în contextul costurilor generate de contractele pentru vaccinuri, susținând că România are..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/ce-au-facut-5-adolescenti-cu-geanta-cu-88-000-de-dolari-pe-care-au-gasit-o-in-centrul-moscovei-5683818', title: "Ce au făcut 5 adolescenți cu geanta cu 88.000 de dolari pe care au găsit-o în centrul Moscovei: „Ca să se șteargă urmele”", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/bancnote-dolari-3-620x362.jpg", time: "07:10", content: "Un grup de adolescenți a găsit o geantă cu 88.000 de dolari în cartierul moscovit Meșceanski, pe 31 martie. Potrivit postului REN TV, citat de Holod..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/consum-alcool-stadioane-senat/', title: "Proiectul de lege privind consumul de alcool pe stadioane, aprobat de Senat. Unii senatori s-au opus, reclamând încălcarea regulamentului: Este inacce", image: "https://www.europafm.ro/wp-content/uploads/2026/04/alcool-stadion-Shutterstock-200x200.jpg", time: "13:32", content: "Proiectul de lege care permite vânzarea și consumul de băuturi slab alcoolizate pe stadioane a trecut de Senat. Votul final va avea loc în Camera..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/reactie-alexandru-rafila-romania-proces-pierdut-pfizer-vaccinuri-anti-covid-nu-puteam-semna-in-tacere-plati-uriase-5684765', title: "Reacția lui Alexandru Rafila, după ce România a pierdut în primă instanță procesul cu Pfizer: „Nu puteam semna, în tăcere, plăți uriașe”", image: "https://static4.libertatea.ro/wp-content/uploads/2026/04/rafila-reactie-proces-pfizer-620x362.png", time: "08:04", content: "Alexandru Rafila a reacționat, într-un mesaj public postat pe pagina sa de Facebook, după ce România a pierdut în primă instanță procesul cu Pfizer..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/cum-sa-protejezi-masina-de-rugina-greseli-ce-trebuie-evitate-5684334', title: "Cum să protejezi mașina de rugină: „Greșeli comune ce trebuie evitate”", image: "https://static4.libertatea.ro/wp-content/uploads/2026/04/masina-rugina-620x349.jpg", time: "07:20", content: "Coroziunea caroseriei afectează autoturismele, iar prevenirea este esențială pentru a evita costuri suplimentare. Greșelile șoferilor, precum..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/mapamond/razboi-in-orientul-mijlociu-ziua-34-iranul-acuza-sua-ca-folosesc-diplomatia-doar-ca-un-preludiu-pentru-a-si-impune-cererile-3706087', title: "Război în Orientul Mijlociu, ziua 34. Iranul promite atacuri „și mai devastatoare” împotriva SUA și a Israelului", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjAyJTJGMjY2MTgyN18yNjYx/ODI3X2lyYW4tMS1hcHJpbGllLmpwZyZo/YXNoPTEyMDNiOTg5NmIxNTE0YTgzMmI5ZWZkMzMyODFmNjYx.jpg", time: "10:36", content: "Războiul din Orientul Mijlociu a intrat în cea de-a 34-a zi. Statele Unite au anunțat miercuri, 1 aprilie, că au lovit peste 12.300 de ținte iraniene..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/italia-cauta-selectioner-lista-posibililor-inlocuitori-ai-lui-gattuso-dupa-ratarea-calificarii-la-cm-2026.html', title: "Italia caută selecționer – Lista posibililor înlocuitori ai lui Gattuso după ratarea calificării la CM 2026", image: "https://www.g4media.ro//wp-content/uploads/2025/06/Gennaro-Gattuso.jpg", time: "06:26", content: "Italia va vedea de la televizor al treilea Campionat Mondial de fotbal la rând. Squadra Azzurra a fost eliminată de Bosnia, iar calciomercato.com..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/pretul-petrolului-a-crescut-dupa-ce-donald-trump-a-declarat-sua-vor-lovi-puternic-iranul-si-vor-termina-treaba-5684759', title: "Prețul petrolului a crescut după ce Donald Trump a declarat că SUA vor lovi puternic Iranul și „vor duce treaba la bun sfârșit”", image: "https://static4.libertatea.ro/wp-content/uploads/2026/04/declaratii-donald-trump-620x362.jpg", time: "07:38", content: "Prețul petrolului a crescut cu peste 4%, după ce președintele Donald Trump a declarat în primul său discurs național de la Casa Albă de la începutul..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/romania-legea-femicid-incertitudine-politica/', title: "Piața Victoriei. Invitată este Alina Gorghiu, deputat PNL și președinte al Comisiei parlamentare „România fără violență domestică”", image: "https://www.europafm.ro/wp-content/uploads/2026/04/Alina-Gorghiu-Inquam-Photos-Cornel-Putan-200x200.jpg", time: "13:47", content: "România adoptă, în sfârșit, o lege care numește explicit o realitate dureroasă: femicidul. Este un pas important și o promisiune de protecție. Dar,..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/justitie/horatiu-potra-afla-astazi-daca-va-fi-eliberat-sau-nu-din-arestul-preventiv-3706429', title: "Horațiu Potra află astăzi dacă va fi eliberat sau nu din arestul preventiv", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNyUyRjE2JTJGMjMwNzY2N18yMzA3/NjY3X2hvcmF0aXUtcG90cmEtaW5xdWFt/LWdlb3JnZS1jYWxpbi5qcGcmaGFzaD02/MzhjNmU3ZWIxMGNiYmVlOGVhMjE0NzE2MjRlNGQ5Mg==.jpg", time: "09:54", content: "Instanța supremă urmează să decidă astăzi dacă Horațiu Potra va fi sau nu eliberat din arestul preventiv. După ultima ședință de judecată,..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/regele-charles-camilla-vizita-sua-aprilie/', title: "Regele Charles al III-lea și regina Camilla vor efectua o vizită de stat în SUA la sfârșitul lunii aprilie | AUDIO", image: "https://www.europafm.ro/wp-content/uploads/2026/04/regele-Charles-al-III-lea-si-regina-Camilla-Shutterstock-200x200.jpg", time: "12:52", content: "Regele Charles al III-lea și regina Camilla vor vizita Statele Unite între 27 și 30 aprilie 2026, marcând prima lor vizită în SUA după încoronare și..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/trump-critica-nato-pe-macron-si-pe-starmer-la-un-pranz-de-paste-organizat-la-casa-alba-nato-nu-va-fi-acolo-daca-va-avea-vreodata-loc-ala-mare-stiti-ce-vreau-sa-spun-prin-ala-mare.html', title: "Trump critică NATO, pe Macron şi pe Starmer la un prânz de Paşte organizat la Casa Albă / ”NATO nu va fi acolo dacă va avea vreodată loc ‘ăla mare’. Ş", image: "https://www.g4media.ro//wp-content/uploads/2025/10/Screenshot-2025-10-09-at-09.50.31-1024x756.jpg", time: "07:29", content: "Preşedintele american Donald Trump a criticat miercuri NATO, pe preşedintele francez Emmanuel Macron şi pe premierul britanic Keir Starmer pentru..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/grindeanu-schimbare-protocol-coalitie/', title: "Sorin Grindeanu, despre întâlnirea cu președintele Nicușor Dan: „Nu am avut nici discuție telefonică, nici stabilită vreo întâlnire”. „Este un fake ne", image: "https://www.europafm.ro/wp-content/uploads/2026/03/Nicusor-Dan-si-Sorin-Grindeanu-sursa-Inquam-Photos-George-Calin-200x200.jpg", time: "14:11", content: "Președintele PSD, Sorin Grindeanu, afirmă că eventualele modificări ale protocolului coaliției vor fi discutate doar dacă situația o impune și..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/rockerul-bruce-springsteen-isi-incepe-turneul-politic-la-minneapolis-actuala-administratie-de-la-casa-alba-distruge-idealul-american-23713774', title: "Rockerul Bruce Springsteen își începe turneul politic la Minneapolis. „Actuala administrație de la Casă Albă distruge idealul american”", image: "https://www.mediafax.ro//wp-content/uploads/2026/01/8054417-hepta_mediafax_foto-zuma_press_hepta-1024x763.jpg", time: "07:42", content: "În timpul primei reprezentații a turneului său american „Land of Hope and Dreams”, rockerul Bruce Springsteen a declarat pe scenă că Donald Trump a..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/romania-polonia-plata-pfizer-vaccinuri/', title: "România a pierdut procesul cu Pfizer și e obligată să plătească toate dozele de vaccin anti-COVID. Decizia nu este definitivă", image: "https://www.europafm.ro/wp-content/uploads/2026/04/Pfizer-Shutterstock-200x200.jpg", time: "14:19", content: "Un tribunal din Bruxelles a decis miercuri ca Polonia și România să plătească companiei farmaceutice Pfizer sumele restante pentru vaccinurile..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/medic-bucuresti-mort-incendiu/', title: "Medic din Capitală, găsit înjunghiat în urma incendiului izbucnit în apartamentul său. Anchetatorii iau în calcul trei ipoteze | AUDIO", image: "https://www.europafm.ro/wp-content/uploads/2026/04/Politie-Inquam-Photos-Cosmin-Enache-200x200.jpg", time: "14:38", content: "Un medic din București a murit într-un incendiu suspect, fiind găsit cu răni prin înjunghiere. Alte două persoane au fost intoxicate cu fum, iar 18..." },
+    { source: 'Europa FM', url: 'https://www.europafm.ro/ambasador-sua-angajament-nato-constanta/', title: "Ambasadorul SUA în România: „Angajamentul Statelor Unite față de NATO și Articolul 5 este de neclintit”. Ce spune despre baza militară Mihail Kogălnic", image: "https://www.europafm.ro/wp-content/uploads/2026/04/ambasadorul-SUA-in-Romania-Darryl-Nirenberg-Sursa-Feri-Europa-FM-200x200.jpg", time: "14:54", content: "Ambasadorul american în România reafirmă angajamentul ferm al Statelor Unite față de NATO și față de Articolul 5 privind protejarea aliaților. S-a..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/cel-mai-mare-recensamant-din-lume-prima-numaratoare-a-populatiei-dupa-peste-15-ani-in-india-3706421', title: "Cel mai mare recensământ din lume. Prima numărătoare a populației după peste 15 ani în India", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjAyJTJGMjY2MjAzOF8yNjYy/MDM4X0luZGlhLmpwZyZoYXNoPTM2YTU2/NjA5OGRkN2ZhYjI0NTQ0NzI0ZjM3MmZjZjg4.jpg", time: "10:25", content: "India a iniţiat miercuri prima fază a unui recensământ de a amploare inedită şi care îşi propune să înregistreze circa 1,45 miliarde de persoane..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/economie/avertismentul-sindicalistilor-o-taxare-suplimentara-pentru-segmentul-de-explorare-si-productie-va-lovi-in-motorul-industriei-petrolier-3706481', title: "Avertismentul sindicaliștilor: O taxare suplimentară pentru segmentul de explorare şi producţie va lovi în motorul industriei petrolier", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA2dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjAl/MkYwOSUyRjIxJTJGMTIzMDMxMV8xMjMw/MzExX2ludGVyaW9yLXJhZmluYXJpZS5q/cGcmaGFzaD1hZWU4ZTE2NjliMTNiNWMxODJjMmExYjQ1ZGUxYWVmYg==.jpg", time: "10:50", content: "Stabilitatea socială este o condiţie esenţială a redresării economice, iar aceasta nu poate exista în prezenţa unor oameni care abia îşi mai permit..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/externe/razboiul-din-orientul-mijlociu-ziua-34-israelul-a-interceptat-un-atac-cu-rachete-lansate-de-teheran-trump-a-sustinut-primul-discurs-la-casa-alba-despre-razboi-preturile-la-petrol-au-crescut-ime-23713695', title: "Războiul din Orientul Mijlociu, ziua 34 | Israelul a interceptat un atac cu rachete lansate de Teheran / Trump a susținut primul discurs la Casa Albă ", image: "https://www.mediafax.ro//wp-content/uploads/2026/04/hepta_8778145-1024x683.jpg", time: "07:43", content: "Războiul din Orientul Mijlociu a intrat în cea de-a 34-a zi a conflictului. La scurt timp după primul discurs al lui Donald Trump la Casa Albă de la..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/externe/trump-il-ironizeaza-pe-macron-dupa-o-discutie-telefonica-sotia-sa-il-trateaza-foarte-rau-3706445', title: "Trump îl ironizează pe Macron după o discuție telefonică: „Soția sa îl tratează foarte rău”", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwMiUyRjI1JTJGMjE5NzE2NV8yMTk3/MTY1X21hY3Jvbi10cnVtcC5qcGcmaGFz/aD0yMDdjOWU0YzU0YzU4MzM4NDBjNTlmZjUwZTg3OGRhOA==.jpg", time: "10:49", content: "Președintele SUA, Donald Trump, a lansat un nou atac la adresa liderilor europeni, ironizându-l pe președintele francez Emmanuel Macron și criticând..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/iarna-fara-zapada-a-epuizat-rezervorul-de-energie-curata-al-europei-suntem-un-sistem-care-depinde-de-vreme-suntem-mult-mai-vulnerabili-daca-vremea-merge-prost.html', title: "Iarna fără zăpadă a epuizat rezervorul de energie curată al Europei / „Suntem un sistem care depinde de vreme. Suntem mult mai vulnerabili dacă vremea", image: "https://www.g4media.ro//wp-content/uploads/2024/05/Svalbard-1024x683.jpg", time: "06:36", content: "Exporturile de energie hidro ale Norvegiei sunt serios afectate de cea mai secetoasă iarnă din ultimii ani, ceea ce împinge în sus preţurile la..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stil-de-viata/viata-sanatoasa/clinici-de-transplant-de-par-in-turcia-la-ce-2519812.html', title: "Clinici de Transplant de Păr în Turcia: La Ce Trebuie Să Fii Atent Când Alegi Corect?", image: "https://cdn.adh.reperio.news/image-e/e3ca4bd8-b8ea-48c1-b5c0-2e3413c4639f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "07:57", content: "Alegerea celei mai bune clinici de implant par din Turcia necesită mult mai mult decât simpla privire la aspectul site-ului web sau la fotografiile..." },
+    { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/social/ins-populatia-romaniei-continua-sa-scada-cu-cat-s-a-redus-numarul-romanilor-in-doar-un-an-3706527', title: "INS: Populația României continuă să scadă. Cu cât s-a redus numărul românilor în doar un an", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwNCUyRjI0JTJGOTA2NDk3XzkwNjQ5/N19mZW1laS1vYW1lbmktcGUtc3RyYWRh/LWJ1Y3VyZXN0aS1yb21hbmlhX3NodXR0/ZXJzdG9ja18yODQxMTMxNzUtMi5qcGcm/aGFzaD1jZTkzNTFlNzUyMTI0YTI4Y2EzYzIxNjlmMzI3MzFlYQ==.jpg", time: "10:44", content: "Populaţia României a ajuns, la 1 ianuarie 2026, la 21,646 milioane de persoane, în scădere cu 0,5% faţă de aceeaşi perioadă din anul anterior,..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/malaezia-implementeaza-o-politica-de-telemunca-pentru-economisirea-energiei-042-euro-costa-aici-litrul-de-benzina-pentru-o-anumita-categorie-de-cetateni.html', title: "Malaezia implementează o „politică de telemuncă” pentru economisirea energiei / 0,42 euro costă aici litrul de benzină, pentru o anumită categorie de ", image: "https://www.g4media.ro//wp-content/uploads/2022/03/benzinarie-Sursa-foto-Pixabay-1-e1646922551352-1024x685.jpg", time: "07:07", content: "Guvernul din Malaezia va implementa o &#8222;politică de telemuncă&#8221; pentru ministere, agenţii, organisme publice şi întreprinderi de stat..." },
+    { source: 'Mediafax', url: 'https://www.mediafax.ro/life-inedit/care-sunt-cele-mai-politicoase-tari-din-lume-europa-domina-clasamentul-global-23713762', title: "Care sunt cele mai politicoase țări din lume? Europa domină clasamentul global", image: "https://www.mediafax.ro//wp-content/uploads/2026/04/7897482-mediafax_foto-ap_martin_meissner-1024x683.jpg", time: "07:22", content: "Un studiu arată că statele europene domină clasamentul mondial al celor mai politicoase națiuni, însă modul în care locuitorii își evaluează propriul..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/lifestyle/povestea-celei-mai-varstnice-testoase-din-istorie-jonathan-are-193-de-ani-si-traieste-pe-insula-sfanta-elena-5684739', title: "Jonathan, țestoasa gigant, încă trăiește la aproape 200 de ani, în ciuda zvonurilor despre moartea sa", image: "https://static4.libertatea.ro/wp-content/uploads/2026/04/jonathan-testoasa-gigant-inca-traieste-la-aproape-200-de-ani--foto-620x362.jpg", time: "07:51", content: "În ciuda zvonurilor despre moartea sa care s-au răspândit pe rețelele sociale, cel mai vârstnic animal terestru din lume, o țestoasă gigant pe nume..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-locale/oradea/doctorita-din-oradea-suspectata-ca-si-a-ucis-si-2519755.html', title: "Doctorița din Oradea suspectată că și-a ucis și îngropat propriul copil, absolvită de vină. Cum a scăpat de acuzația de omor", image: "https://cdn.adh.reperio.news/image-2/242dfb3e-0f67-4890-ad97-fd96f6e23b88/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "06:51", content: "Cazul doctoriței din Oradea suspectate că și-a ucis și îngropat propriul copil, născut în secret. Decizia vine după șase ani în care nu au reușit să..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/statistica-populatia-romaniei-a-scazut-la-21646-de-milioane-la-1-ianuarie-2026-in-scadere-cu-05-fata-de-anul-trecut-indicele-de-imbatranire-demografica-a-crescut.html', title: "STATISTICĂ / Populaţia României a scăzut la 21,646 de milioane, la 1 ianuarie 2026, în scădere cu 0,5% față de anul trecut / Indicele de îmbătrânire d", image: "https://www.g4media.ro//wp-content/uploads/2025/09/dreamstime_m_21897394-1024x683.jpg", time: "06:40", content: "Populaţia României a ajuns, la 1 ianuarie 2026, la 21,646 milioane de persoane, în scădere cu 0,5% faţă de aceeaşi perioadă din anul anterior,..." },
+    { source: 'G4Media', url: 'https://www.g4media.ro/ciolacu-din-iscusitele-afaceri-mesterite-de-liderii-pnl-si-usr-romania-are-de-plata-mult-peste-1-miliard-de-euro-cu-executare.html', title: "Ciolacu: Din iscusitele afaceri meșterite de liderii PNL și USR, România are de plată  mult peste 1 miliard de euro. Cu executare!", image: "https://www.g4media.ro//wp-content/uploads/2024/08/4_INSTANT_PSD_CONGRES_06_INQUAM_Photos_Octav_Ganea-1024x683.jpg", time: "07:56", content: "Fostul prim-ministru, Marcel Ciolacu, critică PNL și USR în contextul costurilor generate de contractele pentru vaccinuri, susținând că România are..." },
+    { source: 'Libertatea', url: 'https://www.libertatea.ro/stiri/donald-trump-ameninta-degeaba-nu-poate-de-unul-singur-sa-retraga-statele-unite-din-nato-5684785', title: "Donald Trump amenință degeaba: nu poate decide de unul singur să retragă Statele Unite din NATO", image: "https://static4.libertatea.ro/wp-content/uploads/2026/03/mark-rutte-donald-trump-profimedia-1068060745-620x413.jpg", time: "08:05", content: "Președintele SUA, Donald Trump, ia în calcul retragerea țării din NATO, dar o lege semnată în 2023 de Joe Biden interzice acest lucru fără aprobarea..." },
+    { source: 'Adevarul', url: 'https://adevarul.ro/stiri-interne/societate/romania-imbatraneste-populatia-se-micsoreaza-cat-2519778.html', title: "România îmbătrânește, populația se micșorează. Cât a scăzut numărul românilor în doar un an", image: "https://cdn.adh.reperio.news/image-a/aec368cd-eaaf-4e63-8ab6-7b03f86631ee/index.webp?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg", time: "06:45", content: "Populația României după domiciliu a fost de 21,64 milioane de persoane la 1 ianuarie, în scădere cu 0,5% față de anul trecut, potrivit Institutul..." }
+];
+
+        function toggleNews(card) {
+            const wasExpanded = card.classList.contains('expanded');
+            document.querySelectorAll('.news-card').forEach(c => c.classList.remove('expanded'));
+            if (!wasExpanded) card.classList.add('expanded');
+        }
+
+        news.forEach(n => {
+            document.getElementById('newsGrid').innerHTML += `
+                <div class="news-card" onclick="toggleNews(this)">
+                    <img src="${n.image}" alt="${n.title}" class="news-image" onerror="this.style.display='none'">
+                    <div class="news-body">
+                        <div class="news-source-row">
+                        <div class="news-source"><a href="${n.url}" target="_blank">${n.source}</a></div>
+                    </div>
+                        <div class="news-title">${n.title}</div>
+                        <div class="news-time">${n.time}</div>
+                        <div class="news-content">
+                            ${n.content}
+                            <div style="margin-top: 10px;"><a href="${n.url}" target="_blank" style="color: #58a6ff; text-decoration: none;">📎 Citește pe ${n.source}</a><button class="news-share" onclick="shareNews('${n.url}', '${n.title.replace("'", "\'")}', '${n.source}')" title="Share" style="margin-left: 10px;">↗️</button></div></div>
+                        </div>
+                        <div class="news-expand-hint">Click pentru detalii...</div>
+                    </div>
+                </div>`;
+        });
+
+        // Cookie consent
+        function checkCookieConsent() {
+            if (!localStorage.getItem('cookieConsent')) {
+                document.getElementById('cookieBanner').style.display = 'block';
+            }
+        }
+        function acceptCookies() {
+            localStorage.setItem('cookieConsent', 'accepted');
+            document.getElementById('cookieBanner').style.display = 'none';
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        }
+        function rejectCookies() {
+            localStorage.setItem('cookieConsent', 'rejected');
+            document.getElementById('cookieBanner').style.display = 'none';
+        }
+        checkCookieConsent();
+        
+        // Check for app update on iOS
+        const APP_VERSION = 'v3-' + new Date().getDate();
+        const lastVersion = localStorage.getItem('azinews_version');
+        
+        if (lastVersion !== APP_VERSION) {
+            localStorage.setItem('azinews_version', APP_VERSION);
+            // Clear old cache and reload
+            if ('caches' in window) {
+                caches.keys().then(keys => {
+                    keys.forEach(key => caches.delete(key));
+                });
+            }
+            window.location.reload();
+        }
+        
+        // Register Service Worker for PWA
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js')
+                .then(reg => console.log('SW registered'))
+                .catch(err => console.log('SW error', err));
+        }
+    </script>
+
+    <script>
+        function toggleTheme() {
+            document.body.classList.toggle('light-mode');
+            const isLight = document.body.classList.contains('light-mode');
+            localStorage.setItem('theme', isLight ? 'light' : 'dark');
+            document.querySelector('.theme-toggle').textContent = isLight ? '☀️' : '🌙';
+        }
+        
+        // Load saved theme
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'light') {
+            document.body.classList.add('light-mode');
+            document.querySelector('.theme-toggle').textContent = '☀️';
+        }
+
+        // Menu functions
+        let currentFilter = { type: null, value: null };
+        
+        function toggleMenu() {
+            const menu = document.getElementById('menuDropdown');
+            const btn = document.querySelector('.menu-toggle');
+            menu.classList.toggle('show');
+            btn.classList.toggle('active');
+        }
+
+        function filterNews(type, value, element) {
+            currentFilter = { type, value };
+            
+            // Update active state
+            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
+            if (element) element.classList.add('active');
+            
+            // Close menu
+            document.getElementById('menuDropdown').classList.remove('show');
+            document.querySelector('.menu-toggle').classList.remove('active');
+            
+            // Filter news
+            const newsCards = document.querySelectorAll('.news-card');
+            let visibleCount = 0;
+            
+            newsCards.forEach(card => {
+                const sourceEl = card.querySelector('.news-source');
+                const source = sourceEl ? sourceEl.textContent.trim() : '';
+                const title = card.querySelector('.news-title').textContent.toLowerCase();
+                const content = (card.querySelector('.news-content')?.textContent || '').toLowerCase();
+                const text = (title + ' ' + content).toLowerCase();
+                
+                let show = true;
+                
+                if (type === 'source') {
+                    // Partial match - e.g., "Adevarul" matches "Adevărul"
+                    show = source.toLowerCase().includes(value.toLowerCase());
+                } else if (type === 'category') {
+                    // Simple category detection based on keywords
+                    const categoryKeywords = {
+                        'politic': ['guvern', 'parlament', 'președinte', 'premier', 'alegeri', 'partid', 'opoziție', 'coaliție', 'lege', 'ordonanță', 'minister', 'ministru', 'demisie', 'moțiune', 'parlamentari', 'senat', 'deputați', 'campanie electorală', 'reformă', 'constituție', 'consiliu', 'ambasadă', 'diplomație', 'politician', 'negocieri', 'administrație', 'protest', 'comisie', 'justiție', 'vot', 'decizie politică', 'corupție', 'lider', 'alianță', 'funcție publică', 'decret', 'referendum', 'ședință guvern', 'legislativ', 'executiv', 'campanie politică', 'lider de partid', 'promisiuni electorale', 'transparență', 'administrație locală', 'primărie', 'consiliu local', 'prefectură', 'anchetă', 'guvernare', 'intervenție stat', 'decret prezidențial', 'inițiativă legislativă', 'negocieri internaționale', 'integrare europeană', 'bruxelles', 'nato', 'politica externă', 'securitate națională', 'interes public', 'sprijin politic', 'reformă constituțională', 'alegeri locale', 'alegeri parlamentare', 'alegeri prezidențiale', 'mandat', 'putere executivă', 'stat de drept', 'diplomație internațională', 'sancțiuni', 'relații bilaterale'],
+                        'sport': ['fotbal', 'tenis', 'baschet', 'handbal', 'volei', 'formula 1', 'echipă', 'scor', 'meci', 'campionat', 'turneu', 'antrenor', 'jucător', 'gol', 'arbitru', 'cupă', 'victorie', 'înfrângere', 'transfer', 'lot', 'selecționer', 'performanță', 'stadion', 'trofeu', 'clasament', 'competiție', 'liga', 'campioană', 'record', 'penalty', 'adversar', 'titlu', 'calificare', 'sportiv', 'federație', 'olimpiadă', 'medalii', 'antenament', 'campionat mondial', 'campionat european', 'strategie', 'performanță sportivă', 'transfer internațional', 'accidentare', 'revenire', 'echipament sportiv', 'sponsor', 'suporter', 'galerie', 'arbitraj', 'ligă națională', 'competiție internațională', 'jucător vedetă', 'antrenor principal', 'scor final', 'prelungiri', 'repriză', 'trofeu câștigat', 'supercupă', 'titlu național', 'carieră sportivă', 'federație sportivă', 'decizie arbitrală', 'doping', 'pregătire fizică', 'cantonament', 'sport individual', 'sport de echipă', 'club sportiv'],
+                        'economic': ['economie', 'inflație', 'pib', 'bursă', 'acțiuni', 'investiții', 'dobânzi', 'bancă', 'credit', 'datorie', 'fiscalitate', 'impozit', 'buget', 'comerț', 'exporturi', 'importuri', 'industrie', 'salarii', 'pensii', 'șomaj', 'profit', 'pierdere', 'companie', 'afaceri', 'startup', 'piață', 'curs valutar', 'euro', 'dolar', 'energie', 'petrol', 'gaze', 'finanțe', 'fmi', 'bnr', 'producție', 'agricultură', 'transporturi', 'logistică', 'criză economică', 'piață financiară', 'acțiuni bursiere', 'profit net', 'analiză economică', 'capital', 'dezvoltare economică', 'creștere economică', 'deficit bugetar', 'investiții străine', 'fonduri europene', 'salariu minim', 'costuri de producție', 'restructurare', 'exportator', 'importator', 'taxa pe valoare adăugată', 'sistem bancar', 'credit ipotecar', 'digitalizare economică', 'economie globală', 'antreprenoriat', 'piață muncii', 'inovație economică', 'recesiune', 'putere de cumpărare', 'fonduri de investiții', 'audit', 'contabilitate', 'strategie financiară', 'competiție economică', 'transport internațional', 'comerț online', 'piață imobiliară', 'prețuri', 'energie regenerabilă'],
+                        'tech': ['tehnologie', 'gadget', 'smartphone', 'telefon', 'calculator', 'software', 'hardware', 'internet', 'ai', 'inteligență artificială', 'robot', 'cloud', 'server', 'criptomonedă', 'blockchain', 'aplicație', 'sistem', 'programare', 'rețea', 'cibernetic', 'securitate', 'date', 'social media', 'platformă', 'startup tech', 'google', 'apple', 'microsoft', 'inovare', 'dezvoltatori', 'openai', 'automatizare', 'vr', 'ar', 'dronă', 'update', 'hacking', 'semiconductori', 'știință și tehnologie', 'procesor', 'gpu', 'rețea neurală', 'machine learning', 'deep learning', 'inovație digitală', 'tehnologie de ultimă generație', 'update software', 'lansare produs', 'tehnologie 5g', 'satelit', 'robotizare', 'ai generativ', 'open source', 'cod sursă', 'dezvoltare web', 'api', 'containerizare', 'cloud computing', 'big data', 'iot', 'internet of things', 'securitate cibernetică', 'atac informatic', 'breșă de date', 'criptare', 'streaming', 'platformă digitală', 'aplicație mobilă', 'ecosistem digital', 'metaverse', 'integrare inteligentă', 'tehnologie verde', 'energie tehnologică', 'inovație hardware'],
+                        'social': ['educație', 'sănătate', 'cultură', 'comunitate', 'familie', 'tineret', 'eveniment', 'caritate', 'voluntariat', 'ong', 'școală', 'universitate', 'spital', 'medic', 'profesor', 'societate', 'elev', 'inegalitate', 'sărăcie', 'discriminare', 'drepturi', 'femeie', 'copil', 'muncă', 'religie', 'biserică', 'demografie', 'migrație', 'tradiție', 'festival', 'artă', 'mediu', 'ecologie', 'comportament', 'stil de viață', 'bărbat', 'educație online', 'sănătate publică', 'asistență socială', 'drepturile omului', 'protecția copilului', 'violență domestică', 'incluziune socială', 'diversitate', 'acces la educație', 'salarii profesori', 'reformă educațională', 'sistem medical', 'spitale private', 'sănătate mentală', 'campanie umanitară', 'donare de sânge', 'persoane cu dizabilități', 'sprijin comunitar', 'activism civic', 'viață cotidiană', 'familie modernă', 'tineri', 'pensionari', 'condiții de trai', 'mediu urban', 'poluare', 'reciclare', 'inițiative locale', 'festival cultural', 'artă modernă', 'teatru', 'film', 'muzică', 'tradiții', 'patrimoniu', 'evenimente sociale', 'participare civică']
+                    };
+                    
+                    const keywords = categoryKeywords[value] || [];
+                    show = keywords.some(kw => text.toLowerCase().includes(kw.toLowerCase()));
+                }
+                
+                card.style.display = show ? 'block' : 'none';
+                if (show) visibleCount++;
+            });
+            
+            // Update header to show filter
+            const sectionTitle = document.querySelector('.news-section h2');
+            if (sectionTitle) {
+                if (currentFilter.type === 'source') {
+                    sectionTitle.textContent = `Știri - ${value}`;
+                } else if (currentFilter.type === 'category') {
+                    sectionTitle.textContent = `Știri - ${value.charAt(0).toUpperCase() + value.slice(1)}`;
+                }
+            }
+        }
+
+        function resetFilters() {
+            currentFilter = { type: null, value: null };
+            document.querySelectorAll('.menu-option').forEach(opt => opt.classList.remove('active'));
+            
+            document.querySelectorAll('.news-card').forEach(card => {
+                card.style.display = 'block';
+            });
+            
+            const sectionTitle = document.querySelector('.news-section h2');
+            if (sectionTitle) {
+                sectionTitle.textContent = 'Știri din România';
+            }
+            
+            document.getElementById('menuDropdown').classList.remove('show');
+            document.querySelector('.menu-toggle').classList.remove('active');
+        }
+
+        // Close menu when clicking outside
+        document.addEventListener('click', function(e) {
+            const menu = document.getElementById('menuDropdown');
+            const btn = document.querySelector('.menu-toggle');
+            if (!menu.contains(e.target) && !btn.contains(e.target)) {
+                menu.classList.remove('show');
+                btn.classList.remove('active');
+            }
+        });
+    </script>
+
+    <script>
+        async function shareNews(url, title, source) {
+            const shareText = `${title} - ${source}`;
+            
+            if (navigator.share) {
+                // Mobile: use native share
+                try {
+                    await navigator.share({
+                        title: shareText,
+                        url: url
+                    });
+                } catch(e) {
+                    // User cancelled or error
+                }
+            } else {
+                // Desktop: copy to clipboard
+                try {
+                    await navigator.clipboard.writeText(url);
+                    alert('Link copiat în clipboard! 📋');
+                } catch(e) {
+                    // Fallback
+                    const input = document.createElement('input');
+                    input.value = url;
+                    document.body.appendChild(input);
+                    input.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(input);
+                    alert('Link copiat! 📋');
+                }
+            }
+        }
+    </script>
+</body>
+</html>
