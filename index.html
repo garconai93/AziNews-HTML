@@ -310,6 +310,7 @@
         .news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
         .news-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; cursor: pointer; transition: all 0.3s; }
         .news-card:hover { border-color: #58a6ff; }
+        .news-ad { margin: 10px 0; padding: 10px; background: transparent; border-radius: 8px; text-align: center; }
         .news-card.expanded { border-color: #58a6ff; }
         .news-image { width: 100%; height: 180px; object-fit: cover; background: #21262d; }
         .news-body { padding: 20px; }
@@ -426,12 +427,6 @@
         </div>
     </header>
 
-    <!-- AdSense after header -->
-    <div class="container">
-        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543211" data-ad-format="auto" data-full-width-responsive="true"></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-    </div>
-
     <div class="container">
         <div class="info-cards">
             <div class="card" onclick="toggleWeatherForecast()" style="cursor: pointer;">
@@ -490,12 +485,6 @@
             </div>
         </div>
 
-        <!-- AdSense after radio -->
-        <div class="section">
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </div>
-
         <div class="section news-section">
             <h2>Știri din România</h2>
             <div class="news-grid" id="newsGrid"></div>
@@ -504,12 +493,6 @@
         <div class="section">
             <h2>Horoscop</h2>
             <div class="horoscope-grid" id="horoscopeGrid"></div>
-        </div>
-
-        <!-- AdSense bottom -->
-        <div class="section">
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="9876543210" data-ad-format="auto" data-full-width-responsive="true"></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
         </div>
 
         <div class="disclaimer">
@@ -1889,7 +1872,8 @@ IMPORTANT: Focus on news that matters most - geopolitical events, economy, major
         
         function renderNewsBatch(newsToRender) {
             const grid = document.getElementById('newsGrid');
-            newsToRender.forEach(n => {
+            let adCounter = 0;
+            newsToRender.forEach((n, index) => {
                 grid.innerHTML += `
                 <div class="news-card" onclick="toggleNews(this)">
                     <img src="${n.image}" alt="${n.title}" class="news-image" loading="lazy" onerror="this.style.display='none'">
@@ -1906,6 +1890,16 @@ IMPORTANT: Focus on news that matters most - geopolitical events, economy, major
                         <div class="news-expand-hint">Click pentru detalii...</div>
                     </div>
                 </div>`;
+                
+                // Insert AdSense after every 10 news items (but not after the last item)
+                adCounter++;
+                if (adCounter % 10 === 0 && adCounter < newsToRender.length) {
+                    grid.innerHTML += `
+                    <div class="news-ad" style="grid-column: 1 / -1;">
+                        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9063451798744835" data-ad-slot="1234567890" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                    </div>`;
+                }
             });
         }
         
