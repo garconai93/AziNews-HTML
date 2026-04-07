@@ -5,73 +5,13 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 07 Apr 2026 03:39:52 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 04:00:45 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Războiul brânzeturilor: SUA contestă monopolul Europei pe „parmezan”, „feta“ și „gorgonzola“</title>
-        <link>https://adevarul.ro/stiri-externe/sua/razboiul-branzeturilor-sua-contesta-monopolul-2520779.html</link>
+        <title>China cere un nou scut energetic: Xi Jinping accelerează investițiile în cărbune, nuclear și regenerabile pentru a contracara criza globală a petrolul</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/china-cere-un-nou-scut-energetic-xi-jinping-2520915.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/razboiul-branzeturilor-sua-contesta-monopolul-2520779.html</guid>
-    </item>
-    <item>
-        <title>Haosul din politica externă a UE determină apeluri la o reformă radicală a diplomației</title>
-        <link>https://www.mediafax.ro/externe/haosul-din-politica-externa-a-ue-determina-apeluri-la-o-reforma-radicala-a-diplomatiei-23716059</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/haosul-din-politica-externa-a-ue-determina-apeluri-la-o-reforma-radicala-a-diplomatiei-23716059</guid>
-    </item>
-    <item>
-        <title>Ultimele audieri în numirea șefilor marilor parchete din România</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ultimele-audieri-in-numirea-sefilor-marilor-parchete-din-romania-23715867</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ultimele-audieri-in-numirea-sefilor-marilor-parchete-din-romania-23715867</guid>
-    </item>
-    <item>
-        <title>„Mergând pe coji de ouă”. Cum gestionează Trump armistițiul său fragil cu China</title>
-        <link>https://adevarul.ro/stiri-externe/sua/mergand-pe-coji-de-oua-cum-gestioneaza-trump-2520774.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/mergand-pe-coji-de-oua-cum-gestioneaza-trump-2520774.html</guid>
-    </item>
-    <item>
-        <title>„Noi vrem Groenlanda”. Trump reaprinde tensiunile din NATO înaintea întâlnirii cu Mark Rutte, la Washington</title>
-        <link>https://adevarul.ro/stiri-externe/sua/noi-vrem-groenlanda-trump-reaprinde-tensiunile-2520913.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/noi-vrem-groenlanda-trump-reaprinde-tensiunile-2520913.html</guid>
-    </item>
-    <item>
-        <title>Cercetătorii au descoperit un „comutator” ascuns în creier care îți spune să te oprești din mâncat</title>
-        <link>https://www.mediafax.ro/stiinta-sanatate/cercetatorii-au-descoperit-un-comutator-ascuns-in-creier-care-iti-spune-sa-te-opresti-din-mancat-23716051</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/cercetatorii-au-descoperit-un-comutator-ascuns-in-creier-care-iti-spune-sa-te-opresti-din-mancat-23716051</guid>
-    </item>
-    <item>
-        <title>Prețul petrolului crește pe fondul retoricii tot mai dure a lui Trump față de Iran</title>
-        <link>https://www.mediafax.ro/economic/pretul-petrolului-creste-pe-fondul-retoricii-tot-mai-dure-a-lui-trump-fata-de-iran-23716054</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/pretul-petrolului-creste-pe-fondul-retoricii-tot-mai-dure-a-lui-trump-fata-de-iran-23716054</guid>
-    </item>
-    <item>
-        <title>Psihologii spun că cei care nu își fac niciodată patul dimineața ar putea avea una dintre cele mai căutate calități la locul de muncă</title>
-        <link>https://www.mediafax.ro/life-inedit/psihologii-spun-ca-cei-care-nu-isi-fac-niciodata-patul-dimineata-ar-putea-avea-una-dintre-cele-mai-cautate-calitati-la-locul-de-munca-23716038</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/psihologii-spun-ca-cei-care-nu-isi-fac-niciodata-patul-dimineata-ar-putea-avea-una-dintre-cele-mai-cautate-calitati-la-locul-de-munca-23716038</guid>
-    </item>
-    <item>
-        <title>Ungaria plasează sub protecție militară conducta de gaz de la granița cu Serbia</title>
-        <link>https://adevarul.ro/stiri-externe/europa/ungaria-plaseaza-sub-protectie-militara-conducta-2520910.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/ungaria-plaseaza-sub-protectie-militara-conducta-2520910.html</guid>
-    </item>
-    <item>
-        <title>Israelul a lansat un „val de lovituri” aeriene împotriva Iranului, „menite să distrugă infrastructura regimului terorist”</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/israelul-a-lansat-un-val-de-lovituri-aeriene-2520911.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/israelul-a-lansat-un-val-de-lovituri-aeriene-2520911.html</guid>
-    </item>
-    <item>
-        <title>De ce ajung pacienții cu COVID-19 la ATI și în 2026? Explicațiile doctoriței Elena Copaciu</title>
-        <link>https://adevarul.ro/stiri-interne/sanatate/de-ce-ajung-pacientii-cu-covid-19-la-ati-si-in-2520810.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/de-ce-ajung-pacientii-cu-covid-19-la-ati-si-in-2520810.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/china-cere-un-nou-scut-energetic-xi-jinping-2520915.html</guid>
     </item>
     <item>
         <title>Coiful de la Coțofenești nu este singular în România. Face parte dintr-o serie limitată de coifuri princiare și are inclusiv un „frate geamăn”</title>
@@ -80,16 +20,28 @@
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/coiful-de-la-cotofenesti-nu-este-singular-in-2520812.html</guid>
     </item>
     <item>
-        <title>Când sunt deschise mall-urile de Paște. Orarul complet pentru București</title>
-        <link>https://adevarul.ro/stiri-locale/bucuresti/cand-sunt-deschise-mall-urile-de-paste-orarul-2520791.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/cand-sunt-deschise-mall-urile-de-paste-orarul-2520791.html</guid>
+        <title>Ultimatumul lui Trump privind Strâmtoarea Ormuz se apropie. Iranul nu dă semne că ar fi de acord</title>
+        <link>https://www.mediafax.ro/externe/ultimatumul-lui-trump-privind-stramtoarea-ormuz-se-apropie-iranul-nu-da-semne-ca-ar-fi-de-acord-23716056</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/ultimatumul-lui-trump-privind-stramtoarea-ormuz-se-apropie-iranul-nu-da-semne-ca-ar-fi-de-acord-23716056</guid>
     </item>
     <item>
-        <title>Un senator american avertizează: Fiți atenți atunci când președintele vostru promite să comită crime de război</title>
-        <link>https://www.mediafax.ro/externe/un-senator-american-avertizeaza-fiti-atenti-atunci-cand-presedintele-vostru-promite-sa-comita-crime-de-razboi-23716061</link>
+        <title>Ultimele audieri în numirea șefilor marilor parchete din România</title>
+        <link>https://www.mediafax.ro/stirile-zilei/ultimele-audieri-in-numirea-sefilor-marilor-parchete-din-romania-23715867</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-senator-american-avertizeaza-fiti-atenti-atunci-cand-presedintele-vostru-promite-sa-comita-crime-de-razboi-23716061</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ultimele-audieri-in-numirea-sefilor-marilor-parchete-din-romania-23715867</guid>
+    </item>
+    <item>
+        <title>De ce ajung pacienții cu COVID-19 la ATI și în 2026? Explicațiile doctoriței Elena Copaciu</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/de-ce-ajung-pacientii-cu-covid-19-la-ati-si-in-2520810.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/de-ce-ajung-pacientii-cu-covid-19-la-ati-si-in-2520810.html</guid>
+    </item>
+    <item>
+        <title>A fost eliberat cel de-al doilea cetățean japonez reținut în Iran</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/a-fost-eliberat-cel-de-al-doilea-cetatean-japonez-2520914.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/a-fost-eliberat-cel-de-al-doilea-cetatean-japonez-2520914.html</guid>
     </item>
     <item>
         <title>Asasinarea liderilor inamici – armă legitimă sau linie roșie? O veche dilemă readusă în prim-plan</title>
@@ -98,16 +50,58 @@
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/asasinarea-liderilor-inamici-arma-legitima-sau-2520796.html</guid>
     </item>
     <item>
-        <title>SUA și Israelul pregătesc lovituri asupra noii ținte majore în război: economia Iranului</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/sua-si-israelul-pregatesc-lovituri-asupra-noii-2520816.html</link>
+        <title>Echipajul Artemis 2 a botezat un crater „Carroll” în onoarea soției decedate a comandantului misiunii</title>
+        <link>https://www.mediafax.ro/externe/echipajul-artemis-2-a-botezat-un-crater-carroll-in-onoarea-sotiei-decedate-a-comandantului-misiunii-23716048</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/echipajul-artemis-2-a-botezat-un-crater-carroll-in-onoarea-sotiei-decedate-a-comandantului-misiunii-23716048</guid>
+    </item>
+    <item>
+        <title>Prețul petrolului crește pe fondul retoricii tot mai dure a lui Trump față de Iran</title>
+        <link>https://www.mediafax.ro/economic/pretul-petrolului-creste-pe-fondul-retoricii-tot-mai-dure-a-lui-trump-fata-de-iran-23716054</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/pretul-petrolului-creste-pe-fondul-retoricii-tot-mai-dure-a-lui-trump-fata-de-iran-23716054</guid>
+    </item>
+    <item>
+        <title>Când sunt deschise mall-urile de Paște. Orarul complet pentru București</title>
+        <link>https://adevarul.ro/stiri-locale/bucuresti/cand-sunt-deschise-mall-urile-de-paste-orarul-2520791.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/sua-si-israelul-pregatesc-lovituri-asupra-noii-2520816.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/cand-sunt-deschise-mall-urile-de-paste-orarul-2520791.html</guid>
+    </item>
+    <item>
+        <title>„Toate drumurile duc la scumpiri”. Avertismentul șoc al șefei FMI: războiul din Orientul Mijlociu va crește prețurile și va încetini economia globală</title>
+        <link>https://adevarul.ro/stiri-externe/sua/toate-drumurile-duc-la-scumpiri-avertismentul-2520916.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/toate-drumurile-duc-la-scumpiri-avertismentul-2520916.html</guid>
+    </item>
+    <item>
+        <title>Haosul din politica externă a UE determină apeluri la o reformă radicală a diplomației</title>
+        <link>https://www.mediafax.ro/externe/haosul-din-politica-externa-a-ue-determina-apeluri-la-o-reforma-radicala-a-diplomatiei-23716059</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/haosul-din-politica-externa-a-ue-determina-apeluri-la-o-reforma-radicala-a-diplomatiei-23716059</guid>
     </item>
     <item>
         <title>Planul care poate transforma România în pivot al industriei militare europene. Oficial: „După 2030, producția noastră să nu mai poată fi ocolită”</title>
         <link>https://adevarul.ro/stiri-interne/planul-care-poate-transforma-romania-in-pivot-al-2520770.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/planul-care-poate-transforma-romania-in-pivot-al-2520770.html</guid>
+    </item>
+    <item>
+        <title>RO-Alert în nordul județului Tulcea, după atacuri cu drone ale Rusiei în apropierea frontierei</title>
+        <link>https://www.mediafax.ro/politic/ro-alert-in-nordul-judetului-tulcea-dupa-atacuri-cu-drone-ale-rusiei-in-apropierea-frontierei-23716073</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ro-alert-in-nordul-judetului-tulcea-dupa-atacuri-cu-drone-ale-rusiei-in-apropierea-frontierei-23716073</guid>
+    </item>
+    <item>
+        <title>„Mergând pe coji de ouă”. Cum gestionează Trump armistițiul său fragil cu China</title>
+        <link>https://adevarul.ro/stiri-externe/sua/mergand-pe-coji-de-oua-cum-gestioneaza-trump-2520774.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/mergand-pe-coji-de-oua-cum-gestioneaza-trump-2520774.html</guid>
+    </item>
+    <item>
+        <title>Israelul a lansat un „val de lovituri” aeriene împotriva Iranului, „menite să distrugă infrastructura regimului terorist”</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/israelul-a-lansat-un-val-de-lovituri-aeriene-2520911.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/israelul-a-lansat-un-val-de-lovituri-aeriene-2520911.html</guid>
     </item>
     <item>
         <title>Ghid de supraviețuire pentru părinți: Cum gestionezi reacțiile negative ale primului copil</title>
@@ -122,16 +116,70 @@
         <guid isPermaLink="true">https://www.mediafax.ro/externe/donald-trump-a-vorbit-cu-echipajul-misiunii-artemis-2-i-a-invitat-la-casa-alba-si-le-a-spus-ca-le-va-cere-autografe-23716066</guid>
     </item>
     <item>
-        <title>Echipajul Artemis 2 a botezat un crater „Carroll” în onoarea soției decedate a comandantului misiunii</title>
-        <link>https://www.mediafax.ro/externe/echipajul-artemis-2-a-botezat-un-crater-carroll-in-onoarea-sotiei-decedate-a-comandantului-misiunii-23716048</link>
+        <title>De ce oamenii nu au mai revenit pe Lună timp de peste 50 de ani</title>
+        <link>https://www.mediafax.ro/life-inedit/de-ce-oamenii-nu-au-mai-revenit-pe-luna-timp-de-peste-50-de-ani-23716070</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/echipajul-artemis-2-a-botezat-un-crater-carroll-in-onoarea-sotiei-decedate-a-comandantului-misiunii-23716048</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/de-ce-oamenii-nu-au-mai-revenit-pe-luna-timp-de-peste-50-de-ani-23716070</guid>
     </item>
     <item>
-        <title>Ultimatumul lui Trump privind Strâmtoarea Ormuz se apropie. Iranul nu dă semne că ar fi de acord</title>
-        <link>https://www.mediafax.ro/externe/ultimatumul-lui-trump-privind-stramtoarea-ormuz-se-apropie-iranul-nu-da-semne-ca-ar-fi-de-acord-23716056</link>
+        <title>Secetele constituie un mediu propice pentru dezvoltarea bacteriilor rezistente la antibiotice</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/secetele-constituie-un-mediu-propice-pentru-dezvoltarea-bacteriilor-rezistente-la-antibiotice-23716068</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ultimatumul-lui-trump-privind-stramtoarea-ormuz-se-apropie-iranul-nu-da-semne-ca-ar-fi-de-acord-23716056</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/secetele-constituie-un-mediu-propice-pentru-dezvoltarea-bacteriilor-rezistente-la-antibiotice-23716068</guid>
+    </item>
+    <item>
+        <title>Candidații respinși de CSM susțin noi interviuri la Ministerul Justiției. Test decisiv pentru Cristina Chiriac, Marinela Mincă şi Gil Julien Grigore I</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/candidatii-respinsi-de-csm-sustin-noi-interviuri-2520917.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/candidatii-respinsi-de-csm-sustin-noi-interviuri-2520917.html</guid>
+    </item>
+    <item>
+        <title>SUA și Israelul pregătesc lovituri asupra noii ținte majore în război: economia Iranului</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/sua-si-israelul-pregatesc-lovituri-asupra-noii-2520816.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/sua-si-israelul-pregatesc-lovituri-asupra-noii-2520816.html</guid>
+    </item>
+    <item>
+        <title>Războiul brânzeturilor: SUA contestă monopolul Europei pe „parmezan”, „feta“ și „gorgonzola“</title>
+        <link>https://adevarul.ro/stiri-externe/sua/razboiul-branzeturilor-sua-contesta-monopolul-2520779.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/razboiul-branzeturilor-sua-contesta-monopolul-2520779.html</guid>
+    </item>
+    <item>
+        <title>Ungaria plasează sub protecție militară conducta de gaz de la granița cu Serbia</title>
+        <link>https://adevarul.ro/stiri-externe/europa/ungaria-plaseaza-sub-protectie-militara-conducta-2520910.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/ungaria-plaseaza-sub-protectie-militara-conducta-2520910.html</guid>
+    </item>
+    <item>
+        <title>Un senator american avertizează: Fiți atenți atunci când președintele vostru promite să comită crime de război</title>
+        <link>https://www.mediafax.ro/externe/un-senator-american-avertizeaza-fiti-atenti-atunci-cand-presedintele-vostru-promite-sa-comita-crime-de-razboi-23716061</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-senator-american-avertizeaza-fiti-atenti-atunci-cand-presedintele-vostru-promite-sa-comita-crime-de-razboi-23716061</guid>
+    </item>
+    <item>
+        <title>Cercetătorii au descoperit un „comutator” ascuns în creier care îți spune să te oprești din mâncat</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/cercetatorii-au-descoperit-un-comutator-ascuns-in-creier-care-iti-spune-sa-te-opresti-din-mancat-23716051</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/cercetatorii-au-descoperit-un-comutator-ascuns-in-creier-care-iti-spune-sa-te-opresti-din-mancat-23716051</guid>
+    </item>
+    <item>
+        <title>„Noi vrem Groenlanda”. Trump reaprinde tensiunile din NATO înaintea întâlnirii cu Mark Rutte, la Washington</title>
+        <link>https://adevarul.ro/stiri-externe/sua/noi-vrem-groenlanda-trump-reaprinde-tensiunile-2520913.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/noi-vrem-groenlanda-trump-reaprinde-tensiunile-2520913.html</guid>
+    </item>
+    <item>
+        <title>Mărturii despre criza recrutării în armata ucraineană: „Un bilet doar dus”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/marturii-despre-criza-recrutarii-in-armata-2520842.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/marturii-despre-criza-recrutarii-in-armata-2520842.html</guid>
+    </item>
+    <item>
+        <title>Psihologii spun că cei care nu își fac niciodată patul dimineața ar putea avea una dintre cele mai căutate calități la locul de muncă</title>
+        <link>https://www.mediafax.ro/life-inedit/psihologii-spun-ca-cei-care-nu-isi-fac-niciodata-patul-dimineata-ar-putea-avea-una-dintre-cele-mai-cautate-calitati-la-locul-de-munca-23716038</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/psihologii-spun-ca-cei-care-nu-isi-fac-niciodata-patul-dimineata-ar-putea-avea-una-dintre-cele-mai-cautate-calitati-la-locul-de-munca-23716038</guid>
     </item>
     <item>
         <title>Directorul festivalului Wireless apără participarea lui Kanye West</title>
@@ -318,54 +366,6 @@
         <link>https://adevarul.ro/economie/haos-pe-pietele-globale-dupa-amenintarile-lui-2520906.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/economie/haos-pe-pietele-globale-dupa-amenintarile-lui-2520906.html</guid>
-    </item>
-    <item>
-        <title>Accident grav în Hunedoara: doi adolescenți de 17 ani, răniți după ce motocicleta lor a fost proiectată într-un tractor</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/accident-grav-in-hunedoara-doi-adolescenti-de-17-ani-raniti-dupa-ce-motocicleta-lor-a-fost-proiectata-intr-un-tractor-3713945</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/accident-grav-in-hunedoara-doi-adolescenti-de-17-ani-raniti-dupa-ce-motocicleta-lor-a-fost-proiectata-intr-un-tractor-3713945</guid>
-    </item>
-    <item>
-        <title>Horoscop 7 aprilie: Poate că te simți blocat, dar soluția este mai simplă decât pare</title>
-        <link>https://www.mediafax.ro/horoscop/horoscop-7-aprilie-poate-ca-te-simti-blocat-dar-solutia-este-mai-simpla-decat-pare-23716007</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-7-aprilie-poate-ca-te-simti-blocat-dar-solutia-este-mai-simpla-decat-pare-23716007</guid>
-    </item>
-    <item>
-        <title>Ucraina a propus un armistițiu energetic Rusiei</title>
-        <link>https://www.mediafax.ro/externe/ucraina-a-propus-un-armistitiu-energetic-rusiei-23716005</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ucraina-a-propus-un-armistitiu-energetic-rusiei-23716005</guid>
-    </item>
-    <item>
-        <title>Ucraina a propus un armistițiu energetic Rusiei / ”Cel puțin pentru Paște”</title>
-        <link>https://www.g4media.ro/ucraina-a-propus-un-armistitiu-energetic-rusiei-cel-putin-pentru-paste.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/ucraina-a-propus-un-armistitiu-energetic-rusiei-cel-putin-pentru-paste.html</guid>
-    </item>
-    <item>
-        <title>Singurul scenariu în care SUA și Iranul ar putea depune armele în 2026 - Analiza unui expert român în Orientul Mijlociu</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/singurul-scenariu-in-care-sua-si-iranul-ar-putea-2520602.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/singurul-scenariu-in-care-sua-si-iranul-ar-putea-2520602.html</guid>
-    </item>
-    <item>
-        <title>UPDATE: Ce presupune intervenția pe care o va suporta marți Mircea Lucescu și cine este medicul venit din Franța care îl va opera / Cum se simte antre</title>
-        <link>https://www.mediafax.ro/sport/update-ce-presupune-interventia-pe-care-o-va-suporta-marti-mircea-lucescu-si-cine-este-medicul-venit-din-franta-care-il-va-opera-cum-se-simte-antrenorul-roman-23715967</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/update-ce-presupune-interventia-pe-care-o-va-suporta-marti-mircea-lucescu-si-cine-este-medicul-venit-din-franta-care-il-va-opera-cum-se-simte-antrenorul-roman-23715967</guid>
-    </item>
-    <item>
-        <title>Dreptul lui Kanye West de a intra în Marea Britanie ar putea fi revizuit</title>
-        <link>https://www.mediafax.ro/life-inedit/dreptul-lui-kanye-west-de-a-intra-in-marea-britanie-ar-putea-fi-revizuit-23715998</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/dreptul-lui-kanye-west-de-a-intra-in-marea-britanie-ar-putea-fi-revizuit-23715998</guid>
-    </item>
-    <item>
-        <title>Universitatea Craiova învinge pe CFR Cluj și rămâne la egalitate cu Universitatea Cluj în fruntea clasamentului din Superliga</title>
-        <link>https://www.mediafax.ro/sport/universitatea-craiova-invinge-pe-cfr-cluj-si-ramane-la-egalitate-cu-universitatea-cluj-in-fruntea-clasamentului-din-superliga-23715997</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/universitatea-craiova-invinge-pe-cfr-cluj-si-ramane-la-egalitate-cu-universitatea-cluj-in-fruntea-clasamentului-din-superliga-23715997</guid>
     </item>
 </channel>
 </rss>
