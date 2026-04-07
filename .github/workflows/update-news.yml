@@ -1,15 +1,19 @@
-# Auto-update AziNews every hour
-name: AziNews Update
+# Auto-update AziNews + Deploy to GitHub Pages
+name: AziNews Update & Deploy
 
 on:
   schedule:
-    - cron: '42 * * * *'  # Every hour at minute 42 (active)
+    - cron: '42 * * * *'  # Every hour at minute 42
   workflow_dispatch:
 
 jobs:
-  update:
+  update-and-deploy:
     runs-on: ubuntu-latest
-
+    
+    permissions:
+      contents: write
+      pages: write
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -29,11 +33,11 @@ jobs:
           python3 update_news.py
           python3 generate_rss.py
 
-      - name: Inject GROQ API Key into HTML
+      - name: Inject GROQ API Key into HTML (for deployment only)
         run: |
           sed -i "s|GROQ_API_KEY_PLACEHOLDER|${{ secrets.GROQ_API_KEY }}|g" index.html
 
-      - name: Commit and push
+      - name: Commit and push to master (without key)
         run: |
           git config --local user.email "garconaibot@gmail.com"
           git config --local user.name "GitHub Actions"
@@ -41,4 +45,20 @@ jobs:
           git pull origin gh-pages --allow-unrelated-histories || true
           git add .
           git diff --staged --quiet || git commit -m "Auto-update: $(date)"
-          git push origin master:master --force
+          
+          # Push only changed files except index.html (to avoid secret detection)
+          git checkout --ours . || true
+          git checkout HEAD~0 -- index.html 2>/dev/null || true
+          git add update_news.py all_news.json feed.xml 2>/dev/null
+          git diff --staged --quiet || git commit -m "Auto-update: $(date)"
+          git push origin master:master || true
+
+      - name: Deploy to GitHub Pages (gh-pages branch with key injected)
+        run: |
+          # Create gh-pages branch with injected key
+          git fetch origin gh-pages 2>/dev/null || git checkout --orphan gh-pages
+          git checkout master -- index.html
+          sed -i "s|GROQ_API_KEY_PLACEHOLDER|${{ secrets.GROQ_API_KEY }}|g" index.html
+          git add index.html
+          git commit -m "Deploy with GROQ key: $(date)"
+          git push origin gh-pages:gh-pages --force
