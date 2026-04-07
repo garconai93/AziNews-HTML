@@ -496,6 +496,9 @@
         </p>
     </footer>
 
+    <!-- Infinite scroll sentinel - triggers loading more news -->
+    <div id="infiniteScrollSentinel" style="height: 10px; width: 100%;"></div>
+
     <div class="cookie-banner" id="cookieBanner">
         <p>🍪 Folosim cookies pentru a afișa reclame Google. <a href="privacy.html" style="color: #58a6ff;">Citește Politica de Confidențialitate</a></p>
         <div>
@@ -1528,8 +1531,13 @@
             if (!wasExpanded) card.classList.add('expanded');
         }
 
-        news.forEach(n => {
-            document.getElementById('newsGrid').innerHTML += `
+        const BATCH_SIZE = 30;
+        let currentIndex = 0;
+        
+        function renderNewsBatch(newsToRender) {
+            const grid = document.getElementById('newsGrid');
+            newsToRender.forEach(n => {
+                grid.innerHTML += `
                 <div class="news-card" onclick="toggleNews(this)">
                     <img src="${n.image}" alt="${n.title}" class="news-image" loading="lazy" onerror="this.style.display='none'">
                     <div class="news-body">
@@ -1545,7 +1553,36 @@
                         <div class="news-expand-hint">Click pentru detalii...</div>
                     </div>
                 </div>`;
-        });
+            });
+        }
+        
+        function loadMoreNews() {
+            const nextBatch = news.slice(currentIndex, currentIndex + BATCH_SIZE);
+            if (nextBatch.length > 0) {
+                renderNewsBatch(nextBatch);
+                currentIndex += nextBatch.length;
+            }
+            
+            // Hide loader if no more news
+            if (currentIndex >= news.length) {
+                const loader = document.getElementById('loadMoreLoader');
+                if (loader) loader.style.display = 'none';
+            }
+        }
+        
+        // Initial load
+        loadMoreNews();
+        
+        // Infinite scroll with Intersection Observer
+        const sentinel = document.getElementById('infiniteScrollSentinel');
+        if (sentinel) {
+            const observer = new IntersectionObserver((entries) => {
+                if (entries[0].isIntersecting && currentIndex < news.length) {
+                    loadMoreNews();
+                }
+            }, { rootMargin: '200px' });
+            observer.observe(sentinel);
+        }
 
         // Cookie consent
         function checkCookieConsent() {
