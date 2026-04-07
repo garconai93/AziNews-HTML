@@ -1,15 +1,15 @@
-# Auto-update AziNews + Deploy to GitHub Pages
-name: AziNews Update & Deploy
+# Auto-update AziNews every hour
+name: AziNews Update
 
 on:
   schedule:
-    - cron: '42 * * * *'  # Every hour at minute 42
+    - cron: '42 * * * *'  # Every hour at minute 42 (active)
   workflow_dispatch:
 
 jobs:
-  update-news:
+  update:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -29,41 +29,12 @@ jobs:
           python3 update_news.py
           python3 generate_rss.py
 
-      - name: Commit and push news files only
+      - name: Commit and push
         run: |
           git config --local user.email "garconaibot@gmail.com"
           git config --local user.name "GitHub Actions"
-          git fetch origin master
-          git add all_news.json feed.xml 2>/dev/null
-          git diff --staged --quiet || git commit -m "Auto-update news: $(date)"
-          git push origin master:master || true
-
-  deploy-to-gh-pages:
-    needs: update-news
-    runs-on: ubuntu-latest
-    permissions:
-      id-token: write
-      contents: read
-      pages: write
-      
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-
-      - name: Inject GROQ API Key
-        run: |
-          sed -i "s|GROQ_API_KEY_PLACEHOLDER|${{ secrets.GROQ_API_KEY }}|g" index.html
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          git fetch origin gh-pages
+          git pull origin gh-pages --allow-unrelated-histories || true
+          git add .
+          git diff --staged --quiet || git commit -m "Auto-update: $(date)"
+          git push origin master:master --force
