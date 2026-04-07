@@ -5,283 +5,43 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 07 Apr 2026 14:10:35 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 15:59:04 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Neptun Deep ar putea aduce peste 20 de miliarde de euro la bugetul României. Virgil Popescu: „Veniturile statului cresc automat”</title>
-        <link>https://adevarul.ro/economie/neptun-deep-ar-putea-aduce-peste-20-de-miliarde-de-2521068.html</link>
+        <title>Ministrul Justiției a trimis propunerile pentru șefiile marilor parchete. Mingea este acum la președintele Nicușor Dan</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/ministrul-justitiei-a-trimis-propunerile-pentru-2521139.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/economie/neptun-deep-ar-putea-aduce-peste-20-de-miliarde-de-2521068.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ministrul-justitiei-a-trimis-propunerile-pentru-2521139.html</guid>
     </item>
     <item>
-        <title>Andrei Miercure, actorul din ”Metronom”, ”Cazul Samca” sau ”Anul nou care n-a fost fost”: ”Nu poți să pretinzi că ești artist, dacă nu ești în primul </title>
-        <link>https://www.mediafax.ro/cultura-media/andrei-miercure-actorul-din-metronom-cazul-samca-sau-anul-nou-care-n-a-fost-fost-nu-poti-sa-pretinzi-ca-esti-artist-daca-nu-esti-in-p-23716429</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/andrei-miercure-actorul-din-metronom-cazul-samca-sau-anul-nou-care-n-a-fost-fost-nu-poti-sa-pretinzi-ca-esti-artist-daca-nu-esti-in-p-23716429</guid>
-    </item>
-    <item>
-        <title>Cererea mondială pentru energia rusă este în creștere, anunță Kremlinul</title>
-        <link>https://www.mediafax.ro/stirile-zilei/cererea-mondiala-pentru-energia-rusa-este-in-crestere-anunta-kremlinul-23716331</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/cererea-mondiala-pentru-energia-rusa-este-in-crestere-anunta-kremlinul-23716331</guid>
-    </item>
-    <item>
-        <title>Animalul discret care îți curăță grădina de dăunători noaptea – și de ce ar trebui să-l protejezi</title>
-        <link>https://www.mediafax.ro/agricultura/animalul-discret-care-iti-curata-gradina-de-daunatori-noaptea-si-de-ce-ar-trebui-sa-l-protejezi-23716407</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/agricultura/animalul-discret-care-iti-curata-gradina-de-daunatori-noaptea-si-de-ce-ar-trebui-sa-l-protejezi-23716407</guid>
-    </item>
-    <item>
-        <title>UE cere măsuri pentru riscurile de securitate generate de conflictul din Orientul Mijlociu</title>
-        <link>https://www.mediafax.ro/externe/ue-cere-masuri-pentru-riscurile-de-securitate-generate-de-conflictul-din-orientul-mijlociu-23716377</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/ue-cere-masuri-pentru-riscurile-de-securitate-generate-de-conflictul-din-orientul-mijlociu-23716377</guid>
-    </item>
-    <item>
-        <title>Kanye West a primit interdicție de intrare în Marea Britanie, în urma acuzațiilor de antisemitism</title>
-        <link>https://adevarul.ro/showbiz/vedete/kanye-west-a-primit-interdictie-de-intrare-in-2521117.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/vedete/kanye-west-a-primit-interdictie-de-intrare-in-2521117.html</guid>
-    </item>
-    <item>
-        <title>Primarul comunei mureșene Sânpetru de Câmpie, inculpat pentru furt de energie electrică şi instigare / Prejudiciul este estimat de procurori la 1,3 mi</title>
-        <link>https://www.g4media.ro/primarul-comunei-muresene-sanpetru-de-campie-inculpat-pentru-furt-de-energie-electrica-si-instigare-prejudiciul-este-estimat-de-procurori-la-13-milioane-de-lei.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/primarul-comunei-muresene-sanpetru-de-campie-inculpat-pentru-furt-de-energie-electrica-si-instigare-prejudiciul-este-estimat-de-procurori-la-13-milioane-de-lei.html</guid>
-    </item>
-    <item>
-        <title>Ciprian Ciucu propune reducerea numărului de benzi de pe Calea Victoriei și a vitezei de circulație:  Paradigma de mobilitate din București se schimbă</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ciprian-ciucu-propune-reducerea-numarului-de-benzi-de-pe-calea-victoriei-si-a-vitezei-de-circulatie-paradigma-de-mobilitate-din-bucuresti-se-schimba-23716499</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ciprian-ciucu-propune-reducerea-numarului-de-benzi-de-pe-calea-victoriei-si-a-vitezei-de-circulatie-paradigma-de-mobilitate-din-bucuresti-se-schimba-23716499</guid>
-    </item>
-    <item>
-        <title>George Simion, după decizia CNA: „Lovitura de stat merge mai departe: au retras licența Realitatea TV, era singura televiziune mare care ne dădea voie</title>
-        <link>https://www.g4media.ro/george-simion-dupa-decizia-cna-lovitura-de-stat-merge-mai-departe-au-retras-licenta-realitatea-tv-era-singura-televiziune-mare-care-ne-dadea-voie-sa-vorbim.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/george-simion-dupa-decizia-cna-lovitura-de-stat-merge-mai-departe-au-retras-licenta-realitatea-tv-era-singura-televiziune-mare-care-ne-dadea-voie-sa-vorbim.html</guid>
-    </item>
-    <item>
-        <title>Compania Elbit Systems se pregăteşte să înceapă livrarea dronelor Watchkeeper X către România, după ce ministrul Apărării a amenințat cu anularea cont</title>
-        <link>https://www.europafm.ro/drone-elbit-systems-romania-testare-finala/</link>
+        <title>Ministrul Sănătății, despre Mircea Lucescu: „Prognosticul este rezervat”. „Este într-o stare critică” | AUDIO</title>
+        <link>https://www.europafm.ro/mircea-lucescu-stare-critica-terapie-intensiva-ecmo/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/drone-elbit-systems-romania-testare-finala/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/mircea-lucescu-stare-critica-terapie-intensiva-ecmo/</guid>
     </item>
     <item>
-        <title>Cum se umilea Viktor Orban în fața lui Putin. O conversație telefonică dintre cei doi a ajuns în presă: „Sunt la dispoziția dumneavoastră”</title>
-        <link>https://adevarul.ro/stiri-externe/europa/cum-se-umilea-viktor-orban-in-fata-lui-putin-o-2521121.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/cum-se-umilea-viktor-orban-in-fata-lui-putin-o-2521121.html</guid>
+        <title>Primăria Arad nu va disponibiliza niciun angajat / În ultimii cinci ani susține că şi-a redus organigrama cu 316 posturi</title>
+        <link>https://www.g4media.ro/primaria-arad-nu-va-disponibiliza-niciun-angajat-in-ultimii-cinci-ani-sustine-ca-si-a-redus-organigrama-cu-316-posturi.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/primaria-arad-nu-va-disponibiliza-niciun-angajat-in-ultimii-cinci-ani-sustine-ca-si-a-redus-organigrama-cu-316-posturi.html</guid>
     </item>
     <item>
-        <title>Poate fi Iranul „scos din joc” într-o singură noapte? O analiză a cifrelor și țintelor</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/poate-fi-iranul-scos-din-joc-intr-o-singura-2521054.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/poate-fi-iranul-scos-din-joc-intr-o-singura-2521054.html</guid>
-    </item>
-    <item>
-        <title>Prețul petrolului rusesc a atins un nivel record. Creșterea a atins 230% în cazul sortimentului Urals</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/pretul-petrolului-rusesc-a-atins-un-nivel-record-cresterea-a-atins-230-in-cazul-sortimentului-urals-3715147</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/pretul-petrolului-rusesc-a-atins-un-nivel-record-cresterea-a-atins-230-in-cazul-sortimentului-urals-3715147</guid>
-    </item>
-    <item>
-        <title>Sinner începe în forță sezonul pe zgură. Italianul s-a impus la Monte Carlo în fața lui Ugo Humbert</title>
-        <link>https://www.mediafax.ro/sport/sinner-incepe-in-forta-sezonul-pe-zgura-italianul-s-a-impus-la-monte-carlo-in-fata-lui-ugo-humbert-23716437</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/sinner-incepe-in-forta-sezonul-pe-zgura-italianul-s-a-impus-la-monte-carlo-in-fata-lui-ugo-humbert-23716437</guid>
-    </item>
-    <item>
-        <title>Cum încearcă hackerii să fure datele bancare în perioada Paștelui: metodele banale pe care le folosesc online sau la telefon</title>
-        <link>https://www.libertatea.ro/stiri/cum-incearca-hackeri-fure-datele-bancare-perioada-paste-5691176</link>
+        <title>Rareș Cojoc, campion mondial la dans sportiv, interviu integral la 55 de întrebări – powered by Libertatea: „Vreau să fiu un tată prezent, nu doar un </title>
+        <link>https://www.libertatea.ro/lifestyle/rares-cojoc-campion-mondial-la-dans-sportiv-interviu-integral-la-55-de-intrebari-powered-by-libertatea-vreau-sa-fiu-un-tata-prezent-nu-doar-un-tata-campion-5691772</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cum-incearca-hackeri-fure-datele-bancare-perioada-paste-5691176</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/rares-cojoc-campion-mondial-la-dans-sportiv-interviu-integral-la-55-de-intrebari-powered-by-libertatea-vreau-sa-fiu-un-tata-prezent-nu-doar-un-tata-campion-5691772</guid>
     </item>
     <item>
-        <title>Mai sunt de interes pentru români coșurile cadou pentru Paște?</title>
-        <link>https://www.libertatea.ro/publicitate-advertorial/mai-sunt-de-interes-pentru-romani-cosurile-cadou-pentru-paste-5691150</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/publicitate-advertorial/mai-sunt-de-interes-pentru-romani-cosurile-cadou-pentru-paste-5691150</guid>
+        <title>Nicușor Dan, de Ziua Mondială a Sănătății: Un gând de recunoștință pentru tot sistemul sanitar. Mulțumim pentru tot ceea ce faceți</title>
+        <link>https://www.mediafax.ro/stirile-zilei/nicusor-dan-de-ziua-mondiala-a-sanatatii-un-gand-de-recunostinta-pentru-tot-sistemul-sanitar-multumim-pentru-tot-ceea-ce-faceti-23716534</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/nicusor-dan-de-ziua-mondiala-a-sanatatii-un-gand-de-recunostinta-pentru-tot-sistemul-sanitar-multumim-pentru-tot-ceea-ce-faceti-23716534</guid>
     </item>
     <item>
-        <title>„Președintele vă iubește, la fel ca și mine”. Viktor Orban i-a mulțumit lui JD Vance pentru că SUA nu mai ajută Ucraina</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/presedintele-va-iubeste-la-fel-ca-si-mine-viktor-orban-i-a-multumit-lui-jd-vance-pentru-ca-sua-nu-mai-ajuta-ucraina-3715005</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/presedintele-va-iubeste-la-fel-ca-si-mine-viktor-orban-i-a-multumit-lui-jd-vance-pentru-ca-sua-nu-mai-ajuta-ucraina-3715005</guid>
-    </item>
-    <item>
-        <title>BNR estimează că rata inflației va crește în martie-iunie 2026 pe fondul scumpirii carburanților</title>
-        <link>https://www.g4media.ro/bnr-estimeaza-ca-rata-inflatiei-va-creste-in-martie-iunie-2026-pe-fondul-scumpirii-carburantilor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/bnr-estimeaza-ca-rata-inflatiei-va-creste-in-martie-iunie-2026-pe-fondul-scumpirii-carburantilor.html</guid>
-    </item>
-    <item>
-        <title>Vicepreședintele SUA JD Vance acuză Uniunea Europeană de „ingerință străină” în alegerile din Ungaria</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/vicepresedintele-sua-jd-vance-acuza-uniunea-2521113.html</link>
+        <title>Prima locomotivă electrică care poate atinge 200 km pe oră a fost livrată către Autoritatea pentru Reformă Feroviară. Vor urma alte 15</title>
+        <link>https://adevarul.ro/stiri-interne/societate/prima-locomotiva-electrica-care-poate-atinge-200-2521153.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/vicepresedintele-sua-jd-vance-acuza-uniunea-2521113.html</guid>
-    </item>
-    <item>
-        <title>BNR estimează că rata inflației va crește în martie-iunie 2026 pe fondul scumpirii carburanților</title>
-        <link>https://www.mediafax.ro/economic/bnr-estimeaza-ca-rata-inflatiei-va-creste-in-martie-iunie-2026-pe-fondul-scumpirii-carburantilor-23716452</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/bnr-estimeaza-ca-rata-inflatiei-va-creste-in-martie-iunie-2026-pe-fondul-scumpirii-carburantilor-23716452</guid>
-    </item>
-    <item>
-        <title>Ce produse NU ar trebui păstrate niciodată în frigider și de ce / „Roșiile, de exemplu, îți pierd aroma și devin făinoase”</title>
-        <link>https://g4food.ro/cum-pastrezi-corect-fructele-si-legumele-reguli-simple-care-le-creste-durata-de-viata-si-te-ajuta-sa-economisesti/#new_tab</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://g4food.ro/cum-pastrezi-corect-fructele-si-legumele-reguli-simple-care-le-creste-durata-de-viata-si-te-ajuta-sa-economisesti/#new_tab</guid>
-    </item>
-    <item>
-        <title>Academicianul Marius Andruh este noul preşedinte al Academiei Române</title>
-        <link>https://www.g4media.ro/academicianul-marius-andruh-este-noul-presedinte-al-academiei-romane.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/academicianul-marius-andruh-este-noul-presedinte-al-academiei-romane.html</guid>
-    </item>
-    <item>
-        <title>Veolia România continuă Olimpiada de Biodiversitate „Natura dintre Ape”, la nivel național</title>
-        <link>https://www.g4media.ro/veolia-romania-continua-olimpiada-de-biodiversitate-natura-dintre-ape-la-nivel-national.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/veolia-romania-continua-olimpiada-de-biodiversitate-natura-dintre-ape-la-nivel-national.html</guid>
-    </item>
-    <item>
-        <title>CNA a retras licenţa Realitatea Plus | UPDATE. George Simion: ”Lovitura de stat merge mai departe”</title>
-        <link>https://www.mediafax.ro/social/cna-a-retras-licenta-realitatea-plus-23716469</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/cna-a-retras-licenta-realitatea-plus-23716469</guid>
-    </item>
-    <item>
-        <title>Iranul sfidează ultimatumul SUA privind redeschiderea strâmtorii Ormuz. Trump amenință cu atacuri asupra infrastructurii</title>
-        <link>https://www.mediafax.ro/externe/iranul-sfideaza-ultimatumul-sua-privind-redeschiderea-stramtorii-ormuz-trump-ameninta-cu-atacuri-asupra-infrastructurii-23716330</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/iranul-sfideaza-ultimatumul-sua-privind-redeschiderea-stramtorii-ormuz-trump-ameninta-cu-atacuri-asupra-infrastructurii-23716330</guid>
-    </item>
-    <item>
-        <title>„Europa se confruntă cu o penurie iminentă de combustibil”. Războiul din Iran riscă să rețină la sol avioanele</title>
-        <link>https://www.digi24.ro/stiri/externe/europa-se-confrunta-cu-o-penurie-iminenta-de-combustibil-razboiul-din-iran-risca-sa-retina-la-sol-avioanele-din-europa-3714887</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/europa-se-confrunta-cu-o-penurie-iminenta-de-combustibil-razboiul-din-iran-risca-sa-retina-la-sol-avioanele-din-europa-3714887</guid>
-    </item>
-    <item>
-        <title>Donald Trump, mesaj amenințător la adresa Iranului: „O întreagă civilizație va pieri în această noapte”</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/donald-trump-mesaj-amenintator-la-adresa-iranului-o-intreaga-civilizatie-va-pieri-in-aceasta-noapte-3715009</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/donald-trump-mesaj-amenintator-la-adresa-iranului-o-intreaga-civilizatie-va-pieri-in-aceasta-noapte-3715009</guid>
-    </item>
-    <item>
-        <title>FOTOGALERIE Două străduțe din centrul Bucureștiului vor fi pietonalizate. Strada Edgar Quinet și strada Biserica Enei, care mărginesc Universitatea de</title>
-        <link>https://www.g4media.ro/fotogalerie-doua-stradute-din-centrul-bucurestiului-vor-fi-pietonalizate-strada-edgar-quinet-si-strada-biserica-enei-care-marginesc-universitatea-de-arhitectura-la-kilometrul-zero-al-capitalei-sunt.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/fotogalerie-doua-stradute-din-centrul-bucurestiului-vor-fi-pietonalizate-strada-edgar-quinet-si-strada-biserica-enei-care-marginesc-universitatea-de-arhitectura-la-kilometrul-zero-al-capitalei-sunt.html</guid>
-    </item>
-    <item>
-        <title>Bianca Majeczki</title>
-        <link>https://www.europafm.ro/bianca-majeczki/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/bianca-majeczki/</guid>
-    </item>
-    <item>
-        <title>Virgil Popescu, fost ministru al Energiei: „Neptun Deep ar aduce peste 20 de miliarde de euro la buget, fără taxe noi”</title>
-        <link>https://www.digi24.ro/stiri/economie/energie/virgil-popescu-fost-ministru-al-energiei-neptun-deep-ar-aduce-peste-20-de-miliarde-de-euro-la-buget-fara-taxe-noi-3714849</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/virgil-popescu-fost-ministru-al-energiei-neptun-deep-ar-aduce-peste-20-de-miliarde-de-euro-la-buget-fara-taxe-noi-3714849</guid>
-    </item>
-    <item>
-        <title>Activitate intensă la Baza 90 Otopeni în ziua expirării ultimatumului lui Trump către Iran</title>
-        <link>https://www.mediafax.ro/stirile-zilei/activitate-intensa-la-baza-90-otopeni-in-ziua-expirarii-ultimatumului-lui-trump-catre-iran-23716424</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/activitate-intensa-la-baza-90-otopeni-in-ziua-expirarii-ultimatumului-lui-trump-catre-iran-23716424</guid>
-    </item>
-    <item>
-        <title>Chimistul Marius Andruh, ales președinte al Academiei Române / A câștigat în fața filosofului Mircea Dumitru</title>
-        <link>https://www.mediafax.ro/cultura-media/chimistul-marius-andruh-ales-presedinte-al-academiei-romane-a-castigat-in-fata-filosofului-mircea-dumitru-23716413</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/chimistul-marius-andruh-ales-presedinte-al-academiei-romane-a-castigat-in-fata-filosofului-mircea-dumitru-23716413</guid>
-    </item>
-    <item>
-        <title>Abrudean respinge scenariile privind schimbarea premierului Bolojan: „Sunt speculații. Observ că se dau pe surse tot felul de propuneri”</title>
-        <link>https://adevarul.ro/politica/abrudean-respinge-scenariile-privind-schimbarea-2521072.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/abrudean-respinge-scenariile-privind-schimbarea-2521072.html</guid>
-    </item>
-    <item>
-        <title>Reacția lui George Simion după ce CNA a retras licența postului Realitatea TV: „Lovitura de stat merge mai departe”</title>
-        <link>https://adevarul.ro/politica/reactia-lui-george-simion-dupa-ce-cna-a-retras-2521104.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/reactia-lui-george-simion-dupa-ce-cna-a-retras-2521104.html</guid>
-    </item>
-    <item>
-        <title>Sinner, debut spectaculos la ATP Monte Carlo – Victorie în doar 65 de minute</title>
-        <link>https://www.g4media.ro/sinner-debut-spectaculos-la-atp-monte-carlo-victorie-in-doar-65-de-minute.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/sinner-debut-spectaculos-la-atp-monte-carlo-victorie-in-doar-65-de-minute.html</guid>
-    </item>
-    <item>
-        <title>(DOCUMENTE) Președintele Nicușor Dan recunoaște că două persoane din campania sa au fost implicate în scandalul pozelor trucate de la prezidențialele </title>
-        <link>https://www.mediafax.ro/stirile-zilei/documente-presedintele-nicusor-dan-recunoaste-ca-doua-persoane-din-campania-sa-au-fost-implicate-in-scandalul-pozelor-trucate-de-la-prezidentialele-din-2025-legatura-neasteptata-andrei-bicuti-im-23716373</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/documente-presedintele-nicusor-dan-recunoaste-ca-doua-persoane-din-campania-sa-au-fost-implicate-in-scandalul-pozelor-trucate-de-la-prezidentialele-din-2025-legatura-neasteptata-andrei-bicuti-im-23716373</guid>
-    </item>
-    <item>
-        <title>Armata SUA lovește „bijuteria coroanei” energetice a Iranului cu câteva ore înainte de expirarea ultimatumului dat de Trump pentru acordul de pace</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/armata-sua-loveste-bijuteria-coroanei-energetice-2521086.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/armata-sua-loveste-bijuteria-coroanei-energetice-2521086.html</guid>
-    </item>
-    <item>
-        <title>Rețeta de sarmale a Adelinei Pestrițu: „Mergeți la sigur dacă o testați”. Ce ingrediente folosește de Paște 2026</title>
-        <link>https://www.libertatea.ro/entertainment/adelina-pestritu-reteta-sarmale-ingrediente-paste-2026-5690813</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/adelina-pestritu-reteta-sarmale-ingrediente-paste-2026-5690813</guid>
-    </item>
-    <item>
-        <title>Gardienii Revoluției amenință că vor priva SUA și aliații de petrol „ani de zile”</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/gardienii-revolutiei-ameninta-ca-vor-priva-sua-si-2521118.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/gardienii-revolutiei-ameninta-ca-vor-priva-sua-si-2521118.html</guid>
-    </item>
-    <item>
-        <title>Motorina fără acciză pentru fermieri, blocată în Guvern. Florin Barbu: Riscăm pierderi de 3,7 miliarde de euro. Falimentăm agricultura</title>
-        <link>https://www.digi24.ro/stiri/economie/agricultura/motorina-fara-acciza-pentru-fermieri-blocata-in-guvern-florin-barbu-riscam-pierderi-de-37-miliarde-de-euro-falimentam-agricultura-3715003</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/agricultura/motorina-fara-acciza-pentru-fermieri-blocata-in-guvern-florin-barbu-riscam-pierderi-de-37-miliarde-de-euro-falimentam-agricultura-3715003</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan, on Romania’s involvement in securing the Strait of Hormuz: We will not enter into conflict</title>
-        <link>https://www.mediafax.ro/english/nicusor-dan-on-romanias-involvement-in-securing-the-strait-of-hormuz-we-will-not-enter-into-conflict-23716344</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/english/nicusor-dan-on-romanias-involvement-in-securing-the-strait-of-hormuz-we-will-not-enter-into-conflict-23716344</guid>
-    </item>
-    <item>
-        <title>Realitatea Plus se închide. CNA a retras licența postului deținut de Maricel Păcuraru</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/realitatea-plus-se-inchide-cna-a-retras-licenta-2521085.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/realitatea-plus-se-inchide-cna-a-retras-licenta-2521085.html</guid>
-    </item>
-    <item>
-        <title>Adolescent înjunghiat la o întâlnire a comunității Traveller din Londra, lângă celebrul magazin Harrods</title>
-        <link>https://adevarul.ro/stiri-externe/europa/adolescent-injunghiat-la-o-intalnire-a-comunitatii-2521074.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/adolescent-injunghiat-la-o-intalnire-a-comunitatii-2521074.html</guid>
-    </item>
-    <item>
-        <title>Rusia: Un elev de 17 ani cu probleme la învățătură și-a înjunghiat mortal diriginta</title>
-        <link>https://www.mediafax.ro/stirile-zilei/rusia-un-elev-de-17-ani-cu-probleme-la-invatatura-si-a-injunghiat-mortal-diriginta-23716380</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/rusia-un-elev-de-17-ani-cu-probleme-la-invatatura-si-a-injunghiat-mortal-diriginta-23716380</guid>
-    </item>
-    <item>
-        <title>Românii pot petrece Paștele în stațiunile balneare din Ungaria de la 120 euro / persoană</title>
-        <link>https://www.mediafax.ro/life-inedit/romanii-pot-petrece-pastele-in-statiunile-balneare-din-ungaria-de-la-120-euro-persoana-23716451</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/romanii-pot-petrece-pastele-in-statiunile-balneare-din-ungaria-de-la-120-euro-persoana-23716451</guid>
-    </item>
-    <item>
-        <title>BNR: Inflația va crește peste estimări până în vară, pe fondul scumpirii energiei și al războiului din Orientul Mijlociu</title>
-        <link>https://www.digi24.ro/stiri/economie/bnr-inflatia-va-creste-peste-estimari-pana-in-vara-pe-fondul-scumpirii-energiei-si-al-razboiului-din-orientul-mijlociu-3715153</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/bnr-inflatia-va-creste-peste-estimari-pana-in-vara-pe-fondul-scumpirii-energiei-si-al-razboiului-din-orientul-mijlociu-3715153</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/prima-locomotiva-electrica-care-poate-atinge-200-2521153.html</guid>
     </item>
     <item>
         <title>În fața unei grave crize energetice globale, Kremlinul susține că lumea stă la coadă pentru a cumpăra energie rusească</title>
@@ -290,40 +50,208 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/in-fata-unei-grave-crize-energetice-globale-kremlinul-sustine-ca-lumea-sta-la-coada-pentru-a-cumpara-energie-ruseasca-3714989</guid>
     </item>
     <item>
-        <title>CNA a decis retragerea licenței postului TV Realitatea PLUS. Comunicatul oficial</title>
-        <link>https://www.digi24.ro/stiri/cna-a-decis-retragerea-licentei-postului-tv-realitatea-plus-3715073</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/cna-a-decis-retragerea-licentei-postului-tv-realitatea-plus-3715073</guid>
+        <title>BNR estimează că rata inflației va crește în martie-iunie 2026 pe fondul scumpirii carburanților</title>
+        <link>https://www.mediafax.ro/economic/bnr-estimeaza-ca-rata-inflatiei-va-creste-in-martie-iunie-2026-pe-fondul-scumpirii-carburantilor-23716452</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/bnr-estimeaza-ca-rata-inflatiei-va-creste-in-martie-iunie-2026-pe-fondul-scumpirii-carburantilor-23716452</guid>
     </item>
     <item>
-        <title>Zeci de ONG-uri acuză un abuz prin legea de expropriere „în interes privat” pentru minerit. Scrisoare către Ursula von der Leyen</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/zeci-de-ong-uri-acuza-un-abuz-prin-legea-de-expropriere-in-interes-privat-pentru-minerit-scrisoare-catre-ursula-von-der-leyen-3714941</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/zeci-de-ong-uri-acuza-un-abuz-prin-legea-de-expropriere-in-interes-privat-pentru-minerit-scrisoare-catre-ursula-von-der-leyen-3714941</guid>
-    </item>
-    <item>
-        <title>Călin Georgescu pleacă din România după ce i s-a ridicat interdicția de a părăsi țara SURSE</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/calin-georgescu-pleaca-din-romania-dupa-ce-i-s-a-2521100.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/calin-georgescu-pleaca-din-romania-dupa-ce-i-s-a-2521100.html</guid>
-    </item>
-    <item>
-        <title>Viktor Orban era dispus să facă totul pentru a fi pe placul lui Putin. „Pot ajuta în orice fel”. Detaliile unei conversații secrete</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/viktor-orban-era-dispus-sa-faca-totul-pentru-a-fi-pe-placul-lui-putin-pot-ajuta-in-orice-fel-detaliile-unei-conversatii-secrete-3714793</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/viktor-orban-era-dispus-sa-faca-totul-pentru-a-fi-pe-placul-lui-putin-pot-ajuta-in-orice-fel-detaliile-unei-conversatii-secrete-3714793</guid>
-    </item>
-    <item>
-        <title>Criza combustibililor este mai gravă decât cele din 1973, 1979 și 2002 la un loc, afirmă șeful Agenției Internaționale pentru Energie / „Luna martie a</title>
-        <link>https://www.g4media.ro/criza-combustibililor-este-mai-grava-decat-cele-din-1973-1979-si-2002-la-un-loc.html</link>
+        <title>Armata israeliană şi-a încheiat desfăşurarea până la o „linie de apărare avansată” în sudul Libanului pentru a preveni atacurile cu rachete și drone d</title>
+        <link>https://www.g4media.ro/armata-israeliana-si-a-incheiat-desfasurarea-pana-la-o-linie-de-aparare-avansata-in-sudul-libanului-pentru-a-preveni-atacurile-cu-rachete-si-drone-din-partea-gruparii-teroriste-hezbo.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/criza-combustibililor-este-mai-grava-decat-cele-din-1973-1979-si-2002-la-un-loc.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/armata-israeliana-si-a-incheiat-desfasurarea-pana-la-o-linie-de-aparare-avansata-in-sudul-libanului-pentru-a-preveni-atacurile-cu-rachete-si-drone-din-partea-gruparii-teroriste-hezbo.html</guid>
     </item>
     <item>
-        <title>De ce ai mereu senzaţie de foame. Cum poţi controla polifagia</title>
-        <link>https://www.libertatea.ro/lifestyle/de-ce-ai-mereu-senzatie-de-foame-cum-poti-controla-polifagia-5688778</link>
+        <title>Ce produse NU ar trebui păstrate niciodată în frigider și de ce / „Roșiile, de exemplu, îți pierd aroma și devin făinoase”</title>
+        <link>https://g4food.ro/cum-pastrezi-corect-fructele-si-legumele-reguli-simple-care-le-creste-durata-de-viata-si-te-ajuta-sa-economisesti/#new_tab</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://g4food.ro/cum-pastrezi-corect-fructele-si-legumele-reguli-simple-care-le-creste-durata-de-viata-si-te-ajuta-sa-economisesti/#new_tab</guid>
+    </item>
+    <item>
+        <title>85 de lei kilogramul de scrumbie la piață în Brăila, dar numai 10 lei porția la târgul de lângă Polivalentă</title>
+        <link>https://www.libertatea.ro/stiri/stiri-braila-optzeci-si-cinci-de-lei-kilogramul-de-scrumbie-la-piata-in-braila-5691726</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/de-ce-ai-mereu-senzatie-de-foame-cum-poti-controla-polifagia-5688778</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-braila-optzeci-si-cinci-de-lei-kilogramul-de-scrumbie-la-piata-in-braila-5691726</guid>
+    </item>
+    <item>
+        <title>„N-avem niciun plan, îi trimitem la moarte!\</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/n-avem-niciun-plan-ii-trimitem-la-moarte-2520827.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/n-avem-niciun-plan-ii-trimitem-la-moarte-2520827.html</guid>
+    </item>
+    <item>
+        <title>„Președintele vă iubește, la fel ca și mine”. Viktor Orban i-a mulțumit lui JD Vance pentru că SUA nu mai ajută Ucraina</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/presedintele-va-iubeste-la-fel-ca-si-mine-viktor-orban-i-a-multumit-lui-jd-vance-pentru-ca-sua-nu-mai-ajuta-ucraina-3715005</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/presedintele-va-iubeste-la-fel-ca-si-mine-viktor-orban-i-a-multumit-lui-jd-vance-pentru-ca-sua-nu-mai-ajuta-ucraina-3715005</guid>
+    </item>
+    <item>
+        <title>Lucrările pe Valea Oltului se întrerup de miercuri și se reiau după Paști</title>
+        <link>https://www.mediafax.ro/social/lucrarile-pe-valea-oltului-se-intrerup-de-miercuri-si-se-reiau-dupa-pasti-23716483</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/lucrarile-pe-valea-oltului-se-intrerup-de-miercuri-si-se-reiau-dupa-pasti-23716483</guid>
+    </item>
+    <item>
+        <title>Festivalul Wireless a fost anulat după ce rapperului Kanye West i s-a interzis intrarea în Marea Britanie din cauza declarațiilor sale antisemite</title>
+        <link>https://www.g4media.ro/festivalul-wireless-a-fost-anulat-dupa-ce-rapperului-kanye-west-i-s-a-interzis-intrarea-in-marea-britanie-din-cauza-declaratiilor-sale-antisemite.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/festivalul-wireless-a-fost-anulat-dupa-ce-rapperului-kanye-west-i-s-a-interzis-intrarea-in-marea-britanie-din-cauza-declaratiilor-sale-antisemite.html</guid>
+    </item>
+    <item>
+        <title>Andrei Miercure, actorul din ”Metronom”, ”Cazul Samca” sau ”Anul nou care n-a fost fost”: ”Nu poți să pretinzi că ești artist, dacă nu ești în primul </title>
+        <link>https://www.mediafax.ro/cultura-media/andrei-miercure-actorul-din-metronom-cazul-samca-sau-anul-nou-care-n-a-fost-fost-nu-poti-sa-pretinzi-ca-esti-artist-daca-nu-esti-in-p-23716429</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/andrei-miercure-actorul-din-metronom-cazul-samca-sau-anul-nou-care-n-a-fost-fost-nu-poti-sa-pretinzi-ca-esti-artist-daca-nu-esti-in-p-23716429</guid>
+    </item>
+    <item>
+        <title>„Nu sunt din alea rusești”. O comună din Giurgiu a cumpărat 3 drone, dar primarul spune că nu știe cât au costat. La ce vor fi folosite</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/nu-sunt-din-alea-rusesti-o-comuna-din-giurgiu-a-cumparat-3-drone-dar-primarul-spune-ca-nu-stie-cat-au-costat-la-ce-vor-fi-folosite-3715235</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nu-sunt-din-alea-rusesti-o-comuna-din-giurgiu-a-cumparat-3-drone-dar-primarul-spune-ca-nu-stie-cat-au-costat-la-ce-vor-fi-folosite-3715235</guid>
+    </item>
+    <item>
+        <title>WSJ: Iranul a oprit legăturile directe cu SUA, iranienii fac lanțuri umane pe poduri și lângă centrale</title>
+        <link>https://www.mediafax.ro/stirile-zilei/wsj-iranul-a-oprit-legaturile-directe-cu-sua-iranienii-fac-lanturi-umane-pe-poduri-si-langa-centrale-23716537</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/wsj-iranul-a-oprit-legaturile-directe-cu-sua-iranienii-fac-lanturi-umane-pe-poduri-si-langa-centrale-23716537</guid>
+    </item>
+    <item>
+        <title>Kanye West, interzis în Marea Britanie înainte de concertul programat la festivalul Wireless</title>
+        <link>https://www.mediafax.ro/stirile-zilei/kanye-west-interzis-in-marea-britanie-inainte-de-concertul-programat-la-festivalul-wireless-23716488</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/kanye-west-interzis-in-marea-britanie-inainte-de-concertul-programat-la-festivalul-wireless-23716488</guid>
+    </item>
+    <item>
+        <title>Criza Navrom Galați lovește în transportul cu bacul pe Dunăre: program redus și interdicție pentru vehiculele de peste 3,5 tone din 15 aprilie</title>
+        <link>https://www.libertatea.ro/stiri/stiri-galati-criza-navrom-afecteaza-transportul-cu-bacul-pe-dunare-program-redus-interdictie-vehicule-15-aprilie-5691732</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/stiri-galati-criza-navrom-afecteaza-transportul-cu-bacul-pe-dunare-program-redus-interdictie-vehicule-15-aprilie-5691732</guid>
+    </item>
+    <item>
+        <title>CNA a retras licenţa Realitatea Plus | UPDATE. George Simion: ”Lovitura de stat merge mai departe”</title>
+        <link>https://www.mediafax.ro/social/cna-a-retras-licenta-realitatea-plus-23716469</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/cna-a-retras-licenta-realitatea-plus-23716469</guid>
+    </item>
+    <item>
+        <title>Compania Elbit Systems se pregăteşte să înceapă livrarea dronelor Watchkeeper X către România, după ce ministrul Apărării a amenințat cu anularea cont</title>
+        <link>https://www.europafm.ro/drone-elbit-systems-romania-testare-finala/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/drone-elbit-systems-romania-testare-finala/</guid>
+    </item>
+    <item>
+        <title>BNR menține rata dobânzii de politică monetară la 6,5% pe an</title>
+        <link>https://www.mediafax.ro/economic/bnr-mentine-rata-dobanzii-de-politica-monetara-la-65-pe-an-2-23716443</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/bnr-mentine-rata-dobanzii-de-politica-monetara-la-65-pe-an-2-23716443</guid>
+    </item>
+    <item>
+        <title>Vicepreședintele SUA JD Vance acuză Uniunea Europeană de „ingerință străină” în alegerile din Ungaria</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/vicepresedintele-sua-jd-vance-acuza-uniunea-2521113.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/vicepresedintele-sua-jd-vance-acuza-uniunea-2521113.html</guid>
+    </item>
+    <item>
+        <title>Fiecare vot contează! Timișenii au acum șansa să aducă în lumina reflectoarelor unul dintre cele mai spectaculoase sanctuare istorice ale județului Ti</title>
+        <link>https://www.mediafax.ro/comunicate/fiecare-vot-conteaza-timisenii-au-acum-sansa-sa-aduca-in-lumina-reflectoarelor-unul-dintre-cele-mai-spectaculoase-sanctuare-istorice-ale-judetului-timis-23716564</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/comunicate/fiecare-vot-conteaza-timisenii-au-acum-sansa-sa-aduca-in-lumina-reflectoarelor-unul-dintre-cele-mai-spectaculoase-sanctuare-istorice-ale-judetului-timis-23716564</guid>
+    </item>
+    <item>
+        <title>Sistemul „Centauros”: soluția ieftină cu care Grecia schimbă jocul în războiul dronelor. „O umbrelă de protecție foarte extinsă”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/sistemul-centauros-solutia-ieftina-cu-care-grecia-schimba-jocul-in-razboiul-dronelor-o-umbrela-de-protectie-foarte-extinsa-3714945</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/sistemul-centauros-solutia-ieftina-cu-care-grecia-schimba-jocul-in-razboiul-dronelor-o-umbrela-de-protectie-foarte-extinsa-3714945</guid>
+    </item>
+    <item>
+        <title>MApN anunță ultimele pregătiri pentru programul dedicat voluntarilor în armată</title>
+        <link>https://www.digi24.ro/stiri/actualitate/mapn-anunta-ultimele-pregatiri-pentru-programul-dedicat-voluntarilor-in-armata-3715343</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/mapn-anunta-ultimele-pregatiri-pentru-programul-dedicat-voluntarilor-in-armata-3715343</guid>
+    </item>
+    <item>
+        <title>Liderul cecen Ramzan Kadîrov și-a mai dat o medalie: Acum este expert în „dezvoltarea științei”</title>
+        <link>https://www.libertatea.ro/lifestyle/liderul-cecen-ramzan-kadirov-si-a-mai-dat-o-medalie-5691677</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/liderul-cecen-ramzan-kadirov-si-a-mai-dat-o-medalie-5691677</guid>
+    </item>
+    <item>
+        <title>George Simion, după decizia CNA: „Lovitura de stat merge mai departe: au retras licența Realitatea TV, era singura televiziune mare care ne dădea voie</title>
+        <link>https://www.g4media.ro/george-simion-dupa-decizia-cna-lovitura-de-stat-merge-mai-departe-au-retras-licenta-realitatea-tv-era-singura-televiziune-mare-care-ne-dadea-voie-sa-vorbim.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/george-simion-dupa-decizia-cna-lovitura-de-stat-merge-mai-departe-au-retras-licenta-realitatea-tv-era-singura-televiziune-mare-care-ne-dadea-voie-sa-vorbim.html</guid>
+    </item>
+    <item>
+        <title>Starea lui Mircea Lucescu se înrăutățește. Antrenorul a suferit mai multe atacuri cerebrale, iar procedura de montare a unui sistem ECMO nu mai este p</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/starea-lui-mircea-lucescu-se-inrautateste-2521102.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/starea-lui-mircea-lucescu-se-inrautateste-2521102.html</guid>
+    </item>
+    <item>
+        <title>Cât costă cartofii noi în Piața Obor din București, înainte de Paște, în 2026</title>
+        <link>https://www.libertatea.ro/stiri/cat-costa-cartofii-noi-piata-obor-bucuresti-inainte-de-paste-2026-5691722</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cat-costa-cartofii-noi-piata-obor-bucuresti-inainte-de-paste-2026-5691722</guid>
+    </item>
+    <item>
+        <title>Donald Trump, mesaj amenințător la adresa Iranului: „O întreagă civilizație va pieri în această noapte”</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/donald-trump-mesaj-amenintator-la-adresa-iranului-o-intreaga-civilizatie-va-pieri-in-aceasta-noapte-3715009</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/donald-trump-mesaj-amenintator-la-adresa-iranului-o-intreaga-civilizatie-va-pieri-in-aceasta-noapte-3715009</guid>
+    </item>
+    <item>
+        <title>Ciucu: Sunt mai mulți angajați decât trebuie în Primăria București. 400 de posturi, în vizorul reorganizării</title>
+        <link>https://www.mediafax.ro/social/ciucu-sunt-mai-multi-angajati-decat-trebuie-in-primaria-bucuresti-400-de-posturi-in-vizorul-reorganizarii-23716489</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/ciucu-sunt-mai-multi-angajati-decat-trebuie-in-primaria-bucuresti-400-de-posturi-in-vizorul-reorganizarii-23716489</guid>
+    </item>
+    <item>
+        <title>Avertisment sumbru din Rusia: „Un dezastru în Golf ar putea depăși tragedia de la Cernobîl”</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/avertisment-sumbru-din-rusia-un-dezastru-in-golf-ar-putea-depasi-tragedia-de-la-cernobil-3714877</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/avertisment-sumbru-din-rusia-un-dezastru-in-golf-ar-putea-depasi-tragedia-de-la-cernobil-3714877</guid>
+    </item>
+    <item>
+        <title>Regulament nou pentru terasele din București | Primarul Ciprian Ciucu: „După acest regulament al teraselor, va urma un altul pentru fațade și semnalis</title>
+        <link>https://www.g4media.ro/regulament-nou-pentru-terasele-din-bucuresti-primarul-ciprian-ciucu-dupa-acest-regulament-al-teraselor-va-urma-un-altul-pentru-fatade-si-semnalistica-de-firme-ce-dimensiuni-pro.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/regulament-nou-pentru-terasele-din-bucuresti-primarul-ciprian-ciucu-dupa-acest-regulament-al-teraselor-va-urma-un-altul-pentru-fatade-si-semnalistica-de-firme-ce-dimensiuni-pro.html</guid>
+    </item>
+    <item>
+        <title>Guvernul francez avertizează tinerii: gazul ilariant poate ucide</title>
+        <link>https://www.mediafax.ro/externe/guvernul-francez-avertizeaza-tinerii-gazul-ilariant-poate-ucide-23716457</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/guvernul-francez-avertizeaza-tinerii-gazul-ilariant-poate-ucide-23716457</guid>
+    </item>
+    <item>
+        <title>Forțele israeliene au lovit mai multe poduri în centrul Iranului. Cel puțin două persoane au fost ucise</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/fortele-israeliene-au-lovit-mai-multe-poduri-in-2521110.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/fortele-israeliene-au-lovit-mai-multe-poduri-in-2521110.html</guid>
+    </item>
+    <item>
+        <title>Ciucu spune că PSD e „decuplat de la realitate”, PNL îl vrea pe Bolojan: „Suntem un partid cu suflet”</title>
+        <link>https://www.mediafax.ro/politic/ciucu-spune-ca-psd-e-decuplat-de-la-realitate-pnl-il-vrea-pe-bolojan-suntem-un-partid-cu-suflet-23716552</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ciucu-spune-ca-psd-e-decuplat-de-la-realitate-pnl-il-vrea-pe-bolojan-suntem-un-partid-cu-suflet-23716552</guid>
+    </item>
+    <item>
+        <title>De la Budapesta, Vance acuză UE de „amestec” în viitoarele alegeri din Ungaria. Vicepreședintele SUA se dezlănțuie la adresa Uniunii</title>
+        <link>https://www.digi24.ro/stiri/externe/de-la-budapesta-vance-acuza-ue-de-amestec-in-viitoarele-alegeri-din-ungaria-vicepresedintele-sua-se-dezlantuie-la-adresa-uniunii-3715409</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/de-la-budapesta-vance-acuza-ue-de-amestec-in-viitoarele-alegeri-din-ungaria-vicepresedintele-sua-se-dezlantuie-la-adresa-uniunii-3715409</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan, despre criza petrolului: România nu se confruntă cu dificultăți de aprovizionare. Stăm mai bine decât alte țări europene. Ce spune președ</title>
+        <link>https://www.europafm.ro/scenariu-criza-petrol-romania/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/scenariu-criza-petrol-romania/</guid>
+    </item>
+    <item>
+        <title>Propagandiștii Kremlinului, încurajați de modelul Trump, trec la amenințări nucleare: ultimatum de 10 zile pentru Ucraina</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/propagandistii-kremlinului-incurajati-de-modelul-2521115.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/propagandistii-kremlinului-incurajati-de-modelul-2521115.html</guid>
     </item>
     <item>
         <title>Republica Moldova cere aderarea rapidă la UE și promite sprijin pentru securitatea Europei: „Aducem ceva unic la masa negocierilor”</title>
@@ -332,40 +260,112 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/moldova/republica-moldova-cere-aderarea-rapida-la-ue-si-promite-sprijin-pentru-securitatea-europei-aducem-ceva-unic-la-masa-negocierilor-3715155</guid>
     </item>
     <item>
-        <title>Mircea Lucescu, în continuare în stare critică – Răzvan Lucescu a venit de urgență la spital</title>
-        <link>https://www.g4media.ro/mircea-lucescu-in-continuare-in-stare-critica-razvan-lucescu-a-venit-de-urgenta-la-spital.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/mircea-lucescu-in-continuare-in-stare-critica-razvan-lucescu-a-venit-de-urgenta-la-spital.html</guid>
-    </item>
-    <item>
-        <title>Atac armat în apropiere de consulatul Israelului din Istanbul, o zonă intens păzită de poliție. Doi dintre atacatori au fost uciși. Ministrul de Inter</title>
-        <link>https://www.europafm.ro/atac-armat-la-in-apropiere-de-consulatul-israelian-din-istanbul-trei-oameni-au-fost-ucisi-si-doi-au-fost-raniti/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/atac-armat-la-in-apropiere-de-consulatul-israelian-din-istanbul-trei-oameni-au-fost-ucisi-si-doi-au-fost-raniti/</guid>
-    </item>
-    <item>
         <title>Guvernul francez avertizează: gazul ilariant poate ucide / Protoxidul de azot este folosit abuziv de tineri pentru efectele sale euforice</title>
         <link>https://www.g4media.ro/guvernul-francez-avertizeaza-gazul-ilariant-poate-ucide-protoxidul-de-azot-este-folosit-abuziv-de-tineri-pentru-efectele-sale-euforice.html</link>
         <description>G4Media</description>
         <guid isPermaLink="true">https://www.g4media.ro/guvernul-francez-avertizeaza-gazul-ilariant-poate-ucide-protoxidul-de-azot-este-folosit-abuziv-de-tineri-pentru-efectele-sale-euforice.html</guid>
     </item>
     <item>
-        <title>JD Vance ajunge în Ungaria pentru a-și arăta susținerea față de Viktor Orbán înaintea alegerilor parlamentare | AUDIO</title>
-        <link>https://www.europafm.ro/jd-vance-sustine-viktor-orban-alegeri-ungaria/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/jd-vance-sustine-viktor-orban-alegeri-ungaria/</guid>
-    </item>
-    <item>
-        <title>USR respinge proiectul de redenumire a Institutului Levantului, sinecura creată pentru fostul președinte Emil Constantinescu</title>
-        <link>https://www.g4media.ro/usr-respinge-proiectul-de-redenumire-a-institutului-levantului-sinecura-creata-pentru-fostul-presedinte-emil-constantinescu.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/usr-respinge-proiectul-de-redenumire-a-institutului-levantului-sinecura-creata-pentru-fostul-presedinte-emil-constantinescu.html</guid>
-    </item>
-    <item>
-        <title>Bărbați înarmați au atacat o clădire care găzduiește Consulatul Israelului din Istanbul</title>
-        <link>https://www.mediafax.ro/externe/barbati-inarmati-au-atacat-o-cladire-care-gazduieste-consulatul-israelului-din-istanbul-23716337</link>
+        <title>Macron anunță că Iranul a eliberat doi cetățeni francezi</title>
+        <link>https://www.mediafax.ro/externe/macron-anunta-ca-iranul-a-eliberat-doi-cetateni-francezi-23716528</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/barbati-inarmati-au-atacat-o-cladire-care-gazduieste-consulatul-israelului-din-istanbul-23716337</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/macron-anunta-ca-iranul-a-eliberat-doi-cetateni-francezi-23716528</guid>
+    </item>
+    <item>
+        <title>Zeci de ONG-uri acuză un abuz prin legea de expropriere „în interes privat” pentru minerit. Scrisoare către Ursula von der Leyen</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/zeci-de-ong-uri-acuza-un-abuz-prin-legea-de-expropriere-in-interes-privat-pentru-minerit-scrisoare-catre-ursula-von-der-leyen-3714941</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/zeci-de-ong-uri-acuza-un-abuz-prin-legea-de-expropriere-in-interes-privat-pentru-minerit-scrisoare-catre-ursula-von-der-leyen-3714941</guid>
+    </item>
+    <item>
+        <title>Noul președinte al Academiei Române este cel care a dat verdictul de plagiat în cazul lui Victor Ponta: „Copy-paste”</title>
+        <link>https://adevarul.ro/stil-de-viata/cultura/noul-presedinte-al-academiei-romane-este-cel-care-2521070.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/cultura/noul-presedinte-al-academiei-romane-este-cel-care-2521070.html</guid>
+    </item>
+    <item>
+        <title>Cristian Tudor Popescu, după ce Lasconi a fost audiată la DIICOT privind fotografiile postate în timpul campaniei electorale: „A aruncat pe piață așa </title>
+        <link>https://www.europafm.ro/ctp-fotografii-campanie-prezidentiala-fake-news-lasconi/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ctp-fotografii-campanie-prezidentiala-fake-news-lasconi/</guid>
+    </item>
+    <item>
+        <title>Incendiu cu degajare de fum pe Bulevardul Iancu de Hunedoara, peste drum de Nuclearelectrica</title>
+        <link>https://www.mediafax.ro/social/incendiu-cu-degajare-de-fum-pe-bulevardul-iancu-de-hunedoara-peste-drum-de-nuclearelectrica-23716557</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/incendiu-cu-degajare-de-fum-pe-bulevardul-iancu-de-hunedoara-peste-drum-de-nuclearelectrica-23716557</guid>
+    </item>
+    <item>
+        <title>Continuă tensiunile în Guvern pe fondul crizei din agricultură. Proiectul „motorină fără taxe” întârzie, iar riscurile cresc</title>
+        <link>https://adevarul.ro/economie/continua-tensiunile-in-guvern-pe-fondul-crizei-din-2521098.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/economie/continua-tensiunile-in-guvern-pe-fondul-crizei-din-2521098.html</guid>
+    </item>
+    <item>
+        <title>Cum se umilea Viktor Orban în fața lui Putin. O conversație telefonică dintre cei doi a ajuns în presă: „Sunt la dispoziția dumneavoastră”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/cum-se-umilea-viktor-orban-in-fata-lui-putin-o-2521121.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/cum-se-umilea-viktor-orban-in-fata-lui-putin-o-2521121.html</guid>
+    </item>
+    <item>
+        <title>Semne de accidente vasculare ischemice cerebrale și focare de trombembolism pulmonar, la Mircea Lucescu</title>
+        <link>https://www.mediafax.ro/sport/semne-de-accidente-vasculare-ischemice-cerebrale-si-focare-de-trombembolism-pulmonar-la-mircea-lucescu-23716458</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/semne-de-accidente-vasculare-ischemice-cerebrale-si-focare-de-trombembolism-pulmonar-la-mircea-lucescu-23716458</guid>
+    </item>
+    <item>
+        <title>Abrudean respinge scenariile privind schimbarea premierului Bolojan: „Sunt speculații. Observ că se dau pe surse tot felul de propuneri”</title>
+        <link>https://adevarul.ro/politica/abrudean-respinge-scenariile-privind-schimbarea-2521072.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/abrudean-respinge-scenariile-privind-schimbarea-2521072.html</guid>
+    </item>
+    <item>
+        <title>Românii pot petrece Paștele în stațiunile balneare din Ungaria de la 120 euro / persoană</title>
+        <link>https://www.mediafax.ro/life-inedit/romanii-pot-petrece-pastele-in-statiunile-balneare-din-ungaria-de-la-120-euro-persoana-23716451</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/romanii-pot-petrece-pastele-in-statiunile-balneare-din-ungaria-de-la-120-euro-persoana-23716451</guid>
+    </item>
+    <item>
+        <title>BREAKING: Licența Realitatea Plus, retrasă de Consiliul Național al Audiovizualului. Televiziunea care l-a promovat pe Călin Georgescu și discursul an</title>
+        <link>https://www.g4media.ro/licenta-realitatea-plus-retrasa-de-consiliul-national-al-audiovizualului.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/licenta-realitatea-plus-retrasa-de-consiliul-national-al-audiovizualului.html</guid>
+    </item>
+    <item>
+        <title>Incendiu în Sectorul 1 al Capitalei, lângă Piața Victoriei. Fumul s-a propagat în clădire și în imobilele din vecinătate</title>
+        <link>https://adevarul.ro/stiri-locale/bucuresti/incendiu-in-sectorul-1-al-capitalei-langa-piata-2521155.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/incendiu-in-sectorul-1-al-capitalei-langa-piata-2521155.html</guid>
+    </item>
+    <item>
+        <title>Băluță va amenaja în Sectorul 4 un parc care se va numi „Donald J. Trump”. Cristian Tudor Popescu: „Este o cale prin care ei speră să treacă, sub rada</title>
+        <link>https://www.europafm.ro/ctp-sector-4-parc-donald-trump/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ctp-sector-4-parc-donald-trump/</guid>
+    </item>
+    <item>
+        <title>CNA a decis retragerea licenței postului TV Realitatea PLUS. Comunicatul oficial</title>
+        <link>https://www.digi24.ro/stiri/cna-a-decis-retragerea-licentei-postului-tv-realitatea-plus-3715073</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/cna-a-decis-retragerea-licentei-postului-tv-realitatea-plus-3715073</guid>
+    </item>
+    <item>
+        <title>Egiptul anunță o descoperire majoră de gaze naturale în Marea Mediterană, în plină criză energetică</title>
+        <link>https://www.digi24.ro/stiri/economie/egiptul-anunta-o-descoperire-majora-de-gaze-naturale-in-marea-mediterana-in-plina-criza-energetica-3715289</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/egiptul-anunta-o-descoperire-majora-de-gaze-naturale-in-marea-mediterana-in-plina-criza-energetica-3715289</guid>
+    </item>
+    <item>
+        <title>Carmina Fusté: „Atunci când dezinformarea domină, fumătorii adulți rămân fără alternative reale, iar sănătatea publică nu progresează\</title>
+        <link>https://www.digi24.ro/stiri/economie/companii/carmina-fuste-atunci-cand-dezinformarea-domina-fumatorii-adulti-raman-fara-alternative-reale-iar-sanatatea-publica-nu-progreseaza-3715047</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/companii/carmina-fuste-atunci-cand-dezinformarea-domina-fumatorii-adulti-raman-fara-alternative-reale-iar-sanatatea-publica-nu-progreseaza-3715047</guid>
+    </item>
+    <item>
+        <title>Trump ia în calcul controlul petrolului iranian ca instrument de presiune asupra Chinei (Bloomberg)</title>
+        <link>https://www.g4media.ro/trump-ia-in-calcul-controlul-petrolului-iranian-ca-instrument-de-presiune-asupra-chinei-bloomberg.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/trump-ia-in-calcul-controlul-petrolului-iranian-ca-instrument-de-presiune-asupra-chinei-bloomberg.html</guid>
     </item>
 </channel>
 </rss>
