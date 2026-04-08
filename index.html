@@ -893,14 +893,21 @@
             const newsItems = window.news || [];
             const newsContext = newsItems.slice(0, 30).map(n => `- ${n.title} (${n.source})`).join('\n');
             
-            const prompt = `Based on the following Romanian news from today, identify the 10 MOST IMPORTANT news stories. For each news item, provide a brief 1-2 sentence summary explaining why it matters. Format your response EXACTLY like this (numbered list):
+            const prompt = `Analyze the following Romanian news provided below. Identify the 10 MOST IMPORTANT stories from THIS LIST ONLY. Do NOT use any external knowledge. If there are fewer than 10 news items, provide summaries for as many as available.
 
-1. [Short title] - [2 sentence summary explaining significance]
+For each news item, provide:
+1. A short title (max 10 words)
+2. A 1-sentence explanation of why it matters
 
-Here are today's news:
-${newsContext || 'No news available. Generate based on general knowledge of important current events in Romania and world.'}
+Format EXACTLY like this (numbered list, no other text):
+1. [Short title] - [1 sentence significance]
 
-IMPORTANT: Focus on news that matters most - geopolitical events, economy, major policy decisions, significant social issues.`;
+IMPORTANT: Use ONLY the news below. Do NOT invent,猜测, or add any information not present. If the news don't cover a topic, skip it.
+
+Today's news:
+${newsContext}
+
+If the list is empty or too short, respond with: "Nu există suficiente știri disponibile pentru a genera un top."`;
 
             fetch('https://api.groq.com/openai/v1/chat/completions', {
                 method: 'POST',
