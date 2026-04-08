@@ -2308,6 +2308,9 @@ If the list is empty or too short, respond with: "Nu există suficiente știri d
     { source: 'Digi24', url: 'https://www.digi24.ro/stiri/actualitate/evenimente/incep-deniile-in-saptamana-mare-cum-se-desfasoara-si-ce-semnificatie-au-slujbele-patimilor-domnului-3705109', title: "Încep Deniile în Săptămâna Mare: Cum se desfășoară și ce semnificație au slujbele Patimilor Domnului", image: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNCUyRjAxJTJGMjY2MTIyN18yNjYx/MjI3X0RlbmlpbGUtZGluLVNhcHRhbWFu/YS1NYXJlXy1JbnF1YW0tUGhvdG9zLU1h/bGluYS1Ob3JvY2VhLmpwZyZoYXNoPWUw/ZjQ1MzA2NTlmZTk3YTc3MGQzYmU1NDA3MjQ1OWE5.jpg", time: "09:00", date: "05 Apr", content: "Creștinii ortodocși intră, duminică, 5 aprilie 2026, în Săptămâna Mare, cunoscută și drept Săptămâna Patimilor, cea mai intensă perioadă de pregătire..." }
 ];
 
+        // Make news available globally for Top News AI
+        window.news = news;
+
         function toggleNews(card) {
             const wasExpanded = card.classList.contains('expanded');
             document.querySelectorAll('.news-card').forEach(c => c.classList.remove('expanded'));
