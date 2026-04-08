@@ -948,18 +948,30 @@ If the list is empty or too short, respond with: "Nu există suficiente știri d
             const list = document.getElementById('top-news-list');
             const btn = document.getElementById('top-news-btn');
             
-            // Parse the numbered list format
-            list.innerHTML = newsText
-                .split('\n')
-                .filter(line => line.match(/^\d+\./))
-                .map(line => {
-                    const clean = line.replace(/^\d+\.\s*/, '').trim();
-                    return `<div style="margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #30363d;">${clean}</div>`;
-                })
-                .join('');
+            // Parse numbered list format (handles **bold**, (1), 1., etc)
+            const lines = newsText.split('\n').filter(line => line.trim());
+            const items = [];
             
-            container.style.display = 'block';
-            btn.style.display = 'none';
+            for (const line of lines) {
+                // Match numbered items: "1.", "1)", "1 -", "1."
+                const match = line.match(/^\s*(\d+)[.)]\s*(.+)/);
+                if (match) {
+                    // Remove bold/italic markers
+                    let content = match[2].replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*(.*?)\*/g, '$1').trim();
+                    if (content) items.push(`<div style="margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #30363d;">${content}</div>`);
+                }
+            }
+            
+            if (items.length > 0) {
+                list.innerHTML = items.join('');
+                container.style.display = 'block';
+                btn.style.display = 'none';
+            } else {
+                // Fallback: just show the raw text
+                list.innerHTML = `<div style="white-space:pre-wrap;font-size:13px;line-height:1.6;">${newsText}</div>`;
+                container.style.display = 'block';
+                btn.style.display = 'none';
+            }
         }
         
         // Don't auto-generate - user clicks button to see Top News
