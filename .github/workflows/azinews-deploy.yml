@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 */3 * * *'  # Every 3 hours for Top News refresh
   workflow_dispatch:
+  workflow_run:
+    workflows: ["AziNews Update"]
+    types: [completed]
 
 jobs:
   deploy:
