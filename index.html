@@ -982,18 +982,18 @@ If the list is empty or too short, respond with: "Nu există suficiente știri d
         audio.addEventListener('play', () => setTimeout(() => audio.volume = 0.15, 100));
 
         const horoscope = [
-            { sign: "Săgetător", msg: "Călătorii benefice" },
-            { sign: "Berbec", msg: "Success în proiectele personale" },
-            { sign: "Vărsător", msg: "Viitor luminos" },
+            { sign: "Gemeni", msg: "Flexibilitate și adaptabilitate" },
             { sign: "Scorpion", msg: "Putere și determinare" },
-            { sign: "Gemeni", msg: "Comunicare excelentă" },
-            { sign: "Taur", msg: "Conexiuni emoționale puternice" },
-            { sign: "Rac", msg: "Protecție și siguranță" },
-            { sign: "Balanță", msg: "Diplomație excelentă" },
-            { sign: "Leu", msg: "Strălucești în orice situație" },
-            { sign: "Pești", msg: "Intuiție spirituală" },
-            { sign: "Fecioară", msg: "Organizare impecabilă" },
-            { sign: "Capricorn", msg: "Disciplină de fier" },
+            { sign: "Taur", msg: "Zi de relaxare și reflecție" },
+            { sign: "Rac", msg: "Emoții profunde" },
+            { sign: "Berbec", msg: "Success în proiectele personale" },
+            { sign: "Fecioară", msg: "Perfecțiune în lucruri" },
+            { sign: "Vărsător", msg: "Inovație și originalitate" },
+            { sign: "Balanță", msg: "Relații armonioase" },
+            { sign: "Săgetător", msg: "Călătorii benefice" },
+            { sign: "Leu", msg: "Leadership natural" },
+            { sign: "Capricorn", msg: "Succes garantat" },
+            { sign: "Pești", msg: "Creativitate artistică" },
         ];
         horoscope.forEach(h => {
             document.getElementById('horoscopeGrid').innerHTML += `<div class="horoscope-item"><div class="horoscope-sign">${h.sign}</div><div class="horoscope-msg">${h.msg}</div></div>`;
