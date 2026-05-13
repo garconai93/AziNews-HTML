@@ -5,283 +5,25 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 13 May 2026 20:21:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 21:56:36 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-        <title>Ce poate face România pentru a evita o criză economică profundă. Analist economic: E nevoie de disciplină fiscal-bugetară și continuarea reformelor în</title>
-        <link>https://www.europafm.ro/aurelian-dochia-romania-recesiune-inflatie-2026/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/aurelian-dochia-romania-recesiune-inflatie-2026/</guid>
-    </item>
-    <item>
-        <title>Membru AUR, acuzat că ar fi agresat sexual o femeie imobilizată la pat: „Mama a țipat după ajutor”</title>
-        <link>https://adevarul.ro/stiri-interne/societate/membru-aur-acuzat-ca-ar-fi-agresat-sexual-o-2529474.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/membru-aur-acuzat-ca-ar-fi-agresat-sexual-o-2529474.html</guid>
-    </item>
-    <item>
-        <title>Finală decisă la loviturile de departajare: Universitatea Craiova câștigă Cupa României</title>
-        <link>https://www.g4media.ro/u-craiova-castiga-cupa-romaniei-dupa-penaltiuri.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/u-craiova-castiga-cupa-romaniei-dupa-penaltiuri.html</guid>
-    </item>
-    <item>
-        <title>Netanyahu dezvăluie că a vizitat în secret Emiratele Arabe Unite în timpul războiului cu Iran</title>
-        <link>https://www.mediafax.ro/externe/netanyahu-dezvaluie-ca-a-vizitat-in-secret-emiratele-arabe-unite-in-timpul-razboiului-cu-iran-23736610</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/netanyahu-dezvaluie-ca-a-vizitat-in-secret-emiratele-arabe-unite-in-timpul-razboiului-cu-iran-23736610</guid>
-    </item>
-    <item>
-        <title>Val de automedicație cu antiparazitare după o apariție online a actorului Mel Gibson. Oncologii: „Nu există dovezi, doar riscuri grave”</title>
-        <link>https://adevarul.ro/stiri-interne/sanatate/val-de-automedicatie-cu-antiparazitare-dupa-o-2529452.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/val-de-automedicatie-cu-antiparazitare-dupa-o-2529452.html</guid>
-    </item>
-    <item>
-        <title>Zelenski spune că acordul România-Ucraina privind contracararea dronelor va fi gata „în scurt timp”</title>
-        <link>https://www.g4media.ro/zelenski-spune-ca-acordul-romania-ucraina-privind-contracararea-dronelor-va-fi-gata-in-scurt-timp.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/zelenski-spune-ca-acordul-romania-ucraina-privind-contracararea-dronelor-va-fi-gata-in-scurt-timp.html</guid>
-    </item>
-    <item>
-        <title>Zelenski anunță că Ucraina va trimite experți în Letonia și România pentru a contribui la apărarea antiaeriană</title>
-        <link>https://www.digi24.ro/stiri/externe/zelenski-anunta-ca-ucraina-va-trimite-experti-in-romania-pentru-a-contribui-la-apararea-antiaeriana-3768989</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/zelenski-anunta-ca-ucraina-va-trimite-experti-in-romania-pentru-a-contribui-la-apararea-antiaeriana-3768989</guid>
-    </item>
-    <item>
-        <title>Metroul va ajunge în vestul Capitalei până la Chiajna şi Cartierul Latin. A fost aprobat protocolul pentru extinderea magistralei M3</title>
-        <link>https://adevarul.ro/stiri-locale/bucuresti/metrou-va-ajunge-in-vestul-capitalei-pana-la-2529495.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/metrou-va-ajunge-in-vestul-capitalei-pana-la-2529495.html</guid>
-    </item>
-    <item>
-        <title>Rusia l-a dat în urmărire pe fostul ministru britanic al Apărării, Ben Wallace. E cel care a spus: „Trebuie să zdrobim podul blestemat”</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia-l-a-dat-in-urmarire-pe-fostul-ministru-britanic-al-apararii-ben-wallace-e-cel-care-a-spus-trebuie-sa-zdrobim-podul-blestemat-3768945</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia-l-a-dat-in-urmarire-pe-fostul-ministru-britanic-al-apararii-ben-wallace-e-cel-care-a-spus-trebuie-sa-zdrobim-podul-blestemat-3768945</guid>
-    </item>
-    <item>
-        <title>Prețurile alimentelor din Statele Unite au crescut la cel mai ridicat nivel din ultimii aproape doi ani / Economiștii spun că nu doar combustibilul sc</title>
-        <link>https://www.mediafax.ro/externe/preturile-alimentelor-din-statele-unite-au-crescut-la-cel-mai-ridicat-nivel-din-ultimii-aproape-doi-ani-economistii-spun-ca-nu-doar-combustibilul-scump-este-de-vina-23736603</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/preturile-alimentelor-din-statele-unite-au-crescut-la-cel-mai-ridicat-nivel-din-ultimii-aproape-doi-ani-economistii-spun-ca-nu-doar-combustibilul-scump-este-de-vina-23736603</guid>
-    </item>
-    <item>
-        <title>Membrii trupei Metallica au vizitat Centrul Vechi înainte de concert. Ce au mâncat legendarii artiști</title>
-        <link>https://adevarul.ro/showbiz/muzica/membrii-trupei-metallica-au-vizitat-centrul-vechi-2529510.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/showbiz/muzica/membrii-trupei-metallica-au-vizitat-centrul-vechi-2529510.html</guid>
-    </item>
-    <item>
-        <title>Summitul B9 de la Cotroceni. Nicușor Dan a avut o întâlnire bilaterală cu Volodimir Zelenski: „Ne dorim ca industria noastră să beneficieze de experti</title>
-        <link>https://www.libertatea.ro/stiri/summit-b9-bucuresti-program-cotroceni-nicusor-dan-karol-nawrocki-nato-5736757</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/summit-b9-bucuresti-program-cotroceni-nicusor-dan-karol-nawrocki-nato-5736757</guid>
-    </item>
-    <item>
-        <title>Plutonierul care l-a văzut pe băiețelul de cinci ani, căutat timp de două zile la Sebeșu de Sus: „Am și eu la rândul meu doi copii și emoția a fost ma</title>
-        <link>https://www.europafm.ro/plutonierul-care-l-a-vazut-pe-baietelul-de-cinci-ani-cautat-timp-de-doua-zile-la-sebesu-de-sus-am-si-eu-la-randul-meu-doi-copii-si-emotia-a-fost-maxima/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/plutonierul-care-l-a-vazut-pe-baietelul-de-cinci-ani-cautat-timp-de-doua-zile-la-sebesu-de-sus-am-si-eu-la-randul-meu-doi-copii-si-emotia-a-fost-maxima/</guid>
-    </item>
-    <item>
-        <title>Focuri de armă în Senatul din Filipine, unde s-a baricadat mâna dreaptă a fostului președinte în războiul împotriva drogurilor</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/focuri-de-arma-in-senatul-din-filipine-unde-s-a-2529486.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/focuri-de-arma-in-senatul-din-filipine-unde-s-a-2529486.html</guid>
-    </item>
-    <item>
-        <title>Ziua în care București a fost Metallica / În timp ce liderii NATO vorbeau despre înarmare, Bucureștiul vorbea Metallica</title>
-        <link>https://www.mediafax.ro/cultura-media/ziua-in-care-bucuresti-a-fost-metallica-in-timp-ce-liderii-nato-vorbeau-despre-inarmare-bucurestiul-vorbea-metallica-23736641</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/ziua-in-care-bucuresti-a-fost-metallica-in-timp-ce-liderii-nato-vorbeau-despre-inarmare-bucurestiul-vorbea-metallica-23736641</guid>
-    </item>
-    <item>
-        <title>Nouă persoane din Sibiu, bănuite că ar fi blocat contoarele de gaz, reţinute în urma a 40 de percheziţii</title>
-        <link>https://www.g4media.ro/noua-persoane-din-sibiu-banuite-ca-ar-fi-blocat-contoarele-de-gaz-retinute-in-urma-a-40-de-perchezitii.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/noua-persoane-din-sibiu-banuite-ca-ar-fi-blocat-contoarele-de-gaz-retinute-in-urma-a-40-de-perchezitii.html</guid>
-    </item>
-    <item>
-        <title>Ce măsuri poate lua ANRE pentru blocarea „băieților deștepți” din energie. Șeful instituției, George Niculescu: Cea mai mare amendă pentru manipularea</title>
-        <link>https://www.europafm.ro/anre-specula-piata-energie-firme-fantoma/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/anre-specula-piata-energie-firme-fantoma/</guid>
-    </item>
-    <item>
-        <title>Discuții la Cotroceni între Mirabela Grădinaru și Olena Zelenska, în ziua summitului B9 | GALERIE FOTO</title>
-        <link>https://www.europafm.ro/mirabela-gradinaru-olena-zelenska-intalnire-cotroceni-b9/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/mirabela-gradinaru-olena-zelenska-intalnire-cotroceni-b9/</guid>
-    </item>
-    <item>
-        <title>Centrul pentru Monitorizarea Antisemitismului: PSD a folosit și în trecut subiecte legate de evrei și antisemitism în scopuri politice, însă de data a</title>
-        <link>https://www.g4media.ro/centrul-pentru-monitorizarea-antisemitismului-psd-a-folosit-si-in-trecut-subiecte-legate-de-evrei-si-antisemitism-in-scopuri-politice-insa-de-data-aceasta-lucrurile-au-mers-prea-departe.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/centrul-pentru-monitorizarea-antisemitismului-psd-a-folosit-si-in-trecut-subiecte-legate-de-evrei-si-antisemitism-in-scopuri-politice-insa-de-data-aceasta-lucrurile-au-mers-prea-departe.html</guid>
-    </item>
-    <item>
-        <title>Dan Dungaciu: România nu-și permite să facă achiziții prin SAFE. Doar cu drone ne-am putea apăra într-un război asimetric</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/dan-dungaciu-romania-nu-si-permite-sa-faca-achizitii-prin-safe-doar-cu-drone-ne-am-putea-apara-intr-un-razboi-asimetric-3769049</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/dan-dungaciu-romania-nu-si-permite-sa-faca-achizitii-prin-safe-doar-cu-drone-ne-am-putea-apara-intr-un-razboi-asimetric-3769049</guid>
-    </item>
-    <item>
-        <title>Universitatea Craiova a câștigat Cupa României după finala cu U Cluj decisă la penalty-uri</title>
-        <link>https://www.mediafax.ro/sport/universitatea-craiova-a-castigat-cupa-romaniei-dupa-finala-cu-u-cluj-decisa-la-penalty-uri-23736667</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/universitatea-craiova-a-castigat-cupa-romaniei-dupa-finala-cu-u-cluj-decisa-la-penalty-uri-23736667</guid>
-    </item>
-    <item>
-        <title>Concluziile summitului B9. Secretarul general al NATO: „Rusia rămâne amenințarea directă a NATO. Nu putem lăsa garda jos” | VIDEO</title>
-        <link>https://www.europafm.ro/concluziile-summitului-b9-nicusor-dan-am-vorbit-cu-secretarul-general-al-nato-despre-dronele-care-trec-granita-noastra-pentru-asta-exista-proiectul-santinela-estului/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/concluziile-summitului-b9-nicusor-dan-am-vorbit-cu-secretarul-general-al-nato-despre-dronele-care-trec-granita-noastra-pentru-asta-exista-proiectul-santinela-estului/</guid>
-    </item>
-    <item>
-        <title>Campionatul Mondial de hochei pe gheață IIHF 2026, program și rezultate. Legendarul Sidney Crosby, inclus în lotul Canadei!</title>
-        <link>https://www.libertatea.ro/sport/campionatul-mondial-de-hochei-pe-gheata-iihf-2026-program-si-rezultate-5722615</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/sport/campionatul-mondial-de-hochei-pe-gheata-iihf-2026-program-si-rezultate-5722615</guid>
-    </item>
-    <item>
-        <title>Pentagonul vrea să testeze și să cumpere dronele Ucrainei. Cum au ajuns SUA să recunoască inovația Kievului pe câmpul de luptă</title>
-        <link>https://www.mediafax.ro/stirile-zilei/pentagonul-vrea-sa-testeze-si-sa-cumpere-dronele-ucrainei-cum-au-ajuns-sua-sa-recunoasca-inovatia-kievului-pe-campul-de-lupta-23736618</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/pentagonul-vrea-sa-testeze-si-sa-cumpere-dronele-ucrainei-cum-au-ajuns-sua-sa-recunoasca-inovatia-kievului-pe-campul-de-lupta-23736618</guid>
-    </item>
-    <item>
-        <title>Traian Băsescu, despre SAFE: „În fața unei drone, un tanc Abrams sau un tanc românesc face tot atâtea parale”</title>
-        <link>https://www.mediafax.ro/politic/traian-basescu-despre-safe-in-fata-unei-drone-un-tanc-abrams-sau-un-tanc-romanesc-face-tot-atatea-parale-23736636</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/traian-basescu-despre-safe-in-fata-unei-drone-un-tanc-abrams-sau-un-tanc-romanesc-face-tot-atatea-parale-23736636</guid>
-    </item>
-    <item>
-        <title>AUR Ilfov vrea să îl excludă din partid pe șeful organizației Balotești, care a cerut desființarea Institutului Elie Wiesel și a Muzeului Holocaustulu</title>
-        <link>https://www.g4media.ro/aur-ilfov-vrea-sa-il-excluda-din-partid-pe-seful-organizatiei-balotesti-care-a-cerut-desfiintarea-institutului-elie-wiesel-si-a-muzeului-holocaustului.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/aur-ilfov-vrea-sa-il-excluda-din-partid-pe-seful-organizatiei-balotesti-care-a-cerut-desfiintarea-institutului-elie-wiesel-si-a-muzeului-holocaustului.html</guid>
-    </item>
-    <item>
-        <title>Traian Băsescu: „Ce avem acum e rezultatul organizării ticăloase a alegerilor. N-au dat nicio şansă românilor să înţeleagă ce votează”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/traian-basescu-ce-avem-acum-e-rezultatul-organizarii-ticaloase-a-alegerilor-n-au-dat-nicio-sansa-romanilor-sa-inteleaga-ce-voteaza-3769051</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/traian-basescu-ce-avem-acum-e-rezultatul-organizarii-ticaloase-a-alegerilor-n-au-dat-nicio-sansa-romanilor-sa-inteleaga-ce-voteaza-3769051</guid>
-    </item>
-    <item>
-        <title>Programul Rabla, criticat de APIA: Trebuie să accelereze reînnoirea parcului auto, nu să restrângă opțiunile consumatorilor</title>
-        <link>https://www.mediafax.ro/economic/programul-rabla-criticat-de-apia-trebuie-sa-accelereze-reinnoirea-parcului-auto-nu-sa-restranga-optiunile-consumatorilor-23736605</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/programul-rabla-criticat-de-apia-trebuie-sa-accelereze-reinnoirea-parcului-auto-nu-sa-restranga-optiunile-consumatorilor-23736605</guid>
-    </item>
-    <item>
-        <title>Percheziţii la doi cunoscuţi magistraţi din Constanţa. Un procuror şi șeful Parchetului Curţii de Apel, vizaţi într-un dosar de trafic de influenţă</title>
-        <link>https://adevarul.ro/stiri-locale/constanta/perchezitii-la-doi-cunoscuti-magistrati-din-2529479.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/constanta/perchezitii-la-doi-cunoscuti-magistrati-din-2529479.html</guid>
-    </item>
-    <item>
-        <title>Cristian Tudor Popescu, nemulțumit de summitul B9. „Agapa a arătat ca o reuniune pricăjită de provincie”</title>
-        <link>https://adevarul.ro/stiri-interne/societate/cristian-tudor-popescu-nemultumit-de-summitul-b9-2529492.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/cristian-tudor-popescu-nemultumit-de-summitul-b9-2529492.html</guid>
-    </item>
-    <item>
-        <title>Rusia a atacat Ucraina cu peste 800 de drone în plină zi. Cel puțin șase oameni au murit</title>
-        <link>https://www.libertatea.ro/stiri/rusia-atacat-ucraina-peste-800-drone-5738239</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/rusia-atacat-ucraina-peste-800-drone-5738239</guid>
-    </item>
-    <item>
-        <title>Un fost producător hollywoodian a fost condamnat la 2 ani de închisoare în cazul morţii actorului Matthew Perry</title>
-        <link>https://www.g4media.ro/un-fost-producator-hollywoodian-a-fost-condamnat-la-2-ani-de-inchisoare-in-cazul-mortii-actorului-matthew-perry.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/un-fost-producator-hollywoodian-a-fost-condamnat-la-2-ani-de-inchisoare-in-cazul-mortii-actorului-matthew-perry.html</guid>
-    </item>
-    <item>
-        <title>Ucraina, vizată de Rusia cu peste 800 de drone: cel puțin șase morți. Cea mai lungă alertă de atac aerian în regiunea Cernăuți</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/ucraina-vizata-de-rusia-cu-peste-800-de-drone-cel-putin-sase-morti-cea-mai-lunga-alerta-de-atac-aerian-in-regiunea-cernauti-3769067</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ucraina-vizata-de-rusia-cu-peste-800-de-drone-cel-putin-sase-morti-cea-mai-lunga-alerta-de-atac-aerian-in-regiunea-cernauti-3769067</guid>
-    </item>
-    <item>
-        <title>Amenzi mai mari pentru gălăgie și muzică la volum ridicat. Camera Deputaților a adoptat legea | AUDIO</title>
-        <link>https://www.europafm.ro/amenzi-muzica-tare-liniste-publica-6000-lei/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/amenzi-muzica-tare-liniste-publica-6000-lei/</guid>
-    </item>
-    <item>
-        <title>Fostul ministru al Sănătății, Alexandru Rafila, implicat într-un accident rutier în Capitală. O persoană a ajuns la spital</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/fostul-ministru-al-sanatatii-alexandru-rafila-2529507.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/fostul-ministru-al-sanatatii-alexandru-rafila-2529507.html</guid>
-    </item>
-    <item>
-        <title>Cât a plătit o familie de români pentru masa de prânz în Thassos: „Mai ieftin decât pe litoralul românesc?”</title>
-        <link>https://www.libertatea.ro/lifestyle/cat-platit-familie-romani-masa-pranz-thassos-5737957</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/cat-platit-familie-romani-masa-pranz-thassos-5737957</guid>
-    </item>
-    <item>
-        <title>Băsescu spune că este o singură soluție pentru criza politică: Reluarea funcționării coaliției. Dacă e moartă, trebuie reînviată</title>
-        <link>https://www.mediafax.ro/politic/basescu-spune-ca-este-o-singura-solutie-pentru-criza-politica-reluarea-functionarii-coalitiei-daca-e-moarta-trebuie-reinviata-23736633</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/basescu-spune-ca-este-o-singura-solutie-pentru-criza-politica-reluarea-functionarii-coalitiei-daca-e-moarta-trebuie-reinviata-23736633</guid>
-    </item>
-    <item>
-        <title>Care este fața reală a AUR? Dan Dungaciu: „Una e conținutul comunicării și alta este stilul comunicării”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/care-este-fata-reala-a-aur-dan-dungaciu-una-e-continutul-comunicarii-si-alte-este-stilul-comunicarii-3769095</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/care-este-fata-reala-a-aur-dan-dungaciu-una-e-continutul-comunicarii-si-alte-este-stilul-comunicarii-3769095</guid>
-    </item>
-    <item>
-        <title>Live Text. Lazio Roma – Inter Milano, finala Cupei Italiei, de la ora 22:00. Surpriza lui Cristi Chivu din echipa de start</title>
-        <link>https://www.libertatea.ro/sport/live-text-lazio-roma-inter-milano-finala-cupei-italiei-de-la-ora-22-cristian-chivu-la-un-pas-de-o-dubla-istorica-5737282</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/sport/live-text-lazio-roma-inter-milano-finala-cupei-italiei-de-la-ora-22-cristian-chivu-la-un-pas-de-o-dubla-istorica-5737282</guid>
-    </item>
-    <item>
-        <title>Traian Băsescu îl portretizează pe Ilie Bolojan: „A fost Georgescu Mesia, s-a răsuflat, s-a inventat alt Mesia: Mesia Bolojan”. De ce crede că Bolojan</title>
-        <link>https://www.mediafax.ro/stirile-zilei/traian-basescu-il-portretizeaza-pe-ilie-bolojan-a-fost-georgescu-mesia-s-a-rasuflat-s-a-inventat-alt-mesia-mesia-bolojan-de-ce-crede-ca-bolojan-va-candida-la-presedintia-romanie-23736670</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/traian-basescu-il-portretizeaza-pe-ilie-bolojan-a-fost-georgescu-mesia-s-a-rasuflat-s-a-inventat-alt-mesia-mesia-bolojan-de-ce-crede-ca-bolojan-va-candida-la-presedintia-romanie-23736670</guid>
-    </item>
-    <item>
-        <title>„Apă neagră” și poluare uriașă la Slobozia. Diana Buzoianu: „Ne pune pe toți în pericol. Otrăvea un municipiu întreg”</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/apa-neagra-si-poluare-uriasa-la-slobozia-diana-buzoianu-ne-pune-pe-toti-in-pericol-otravea-un-municipiu-intreg-3769023</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/apa-neagra-si-poluare-uriasa-la-slobozia-diana-buzoianu-ne-pune-pe-toti-in-pericol-otravea-un-municipiu-intreg-3769023</guid>
-    </item>
-    <item>
-        <title>Nouă persoane reținute de procurori într-un dosar privind blocarea contoarelor de gaz pentru consumuri mai mici</title>
-        <link>https://www.digi24.ro/stiri/noua-persoane-retinute-de-procurori-intr-un-dosar-privind-blocarea-contoarelor-de-gaz-pentru-consumuri-mai-mici-3769017</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/noua-persoane-retinute-de-procurori-intr-un-dosar-privind-blocarea-contoarelor-de-gaz-pentru-consumuri-mai-mici-3769017</guid>
-    </item>
-    <item>
-        <title>WSJ: Anchetă lansată împotriva fostului secretar american pentru Securitate Internă</title>
-        <link>https://www.mediafax.ro/stirile-zilei/wsj-ancheta-lansata-impotriva-fostului-secretar-american-pentru-securitate-interna-23736617</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/wsj-ancheta-lansata-impotriva-fostului-secretar-american-pentru-securitate-interna-23736617</guid>
-    </item>
-    <item>
-        <title>Prahova. Urs capturat în incinta Şcolii de Agenţi de Poliţie de la Câmpina</title>
-        <link>https://www.digi24.ro/stiri/actualitate/prahova-urs-capturat-in-incinta-scolii-de-agenti-de-politie-de-la-campina-3769143</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/prahova-urs-capturat-in-incinta-scolii-de-agenti-de-politie-de-la-campina-3769143</guid>
-    </item>
-    <item>
-        <title>„Uriașul adormit“ al Europei accelerează modernizarea armatei, dar se lovește de propria birocrație</title>
-        <link>https://adevarul.ro/stiri-externe/europa/uriasul-adormit-al-europei-accelereaza-2529120.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/uriasul-adormit-al-europei-accelereaza-2529120.html</guid>
-    </item>
     <item>
         <title>Ambasadorul Braziliei la UE, surprins de interdicția privind importurile de carne</title>
         <link>https://www.mediafax.ro/externe/ambasadorul-braziliei-la-ue-surprins-de-interdictia-privind-importurile-de-carne-23736586</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/externe/ambasadorul-braziliei-la-ue-surprins-de-interdictia-privind-importurile-de-carne-23736586</guid>
+    </item>
+    <item>
+        <title>Traian Băsescu face apel la consolidarea cooperării dintre România, Turcia și Polonia</title>
+        <link>https://www.mediafax.ro/politic/traian-basescu-face-apel-la-consolidarea-cooperarii-dintre-romania-turcia-si-polonia-23736625</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/traian-basescu-face-apel-la-consolidarea-cooperarii-dintre-romania-turcia-si-polonia-23736625</guid>
+    </item>
+    <item>
+        <title>Băsescu avertizează că România nu ar rezista 72 de ore în fața unei agresiuni ruse: „Mai devreme sau mai târziu, Europa va relua discuțiile cu Rusia”</title>
+        <link>https://www.mediafax.ro/politic/basescu-avertizeaza-ca-romania-nu-ar-rezista-72-de-ore-in-fata-unei-agresiuni-ruse-mai-devreme-sau-mai-tarziu-europa-va-relua-discutiile-cu-rusia-23736632</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/basescu-avertizeaza-ca-romania-nu-ar-rezista-72-de-ore-in-fata-unei-agresiuni-ruse-mai-devreme-sau-mai-tarziu-europa-va-relua-discutiile-cu-rusia-23736632</guid>
     </item>
     <item>
         <title>Nigel Farage, cel mai popular lider politic din UK, este anchetat pentru un cadou de 5 milioane de lire sterline. Cine i l-a oferit</title>
@@ -290,70 +32,28 @@
         <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/nigel-farage-cel-mai-popular-lider-politic-din-uk-este-anchetat-pentru-un-cadou-de-5-milioane-de-lire-sterline-cine-i-l-a-oferit-23736606</guid>
     </item>
     <item>
-        <title>Eroul lui Alex. Mărturia lui Mihail Soare, salvatorul care l-a zărit pe copil cu coada ochiului, din elicopter: Nici nu putea să plângă</title>
-        <link>https://www.digi24.ro/stiri/actualitate/marturia-salvatorului-care-l-a-gasit-pe-copilul-disparut-luni-in-sibiu-i-am-citit-pe-buze-nici-nu-putea-sa-planga-3768933</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/marturia-salvatorului-care-l-a-gasit-pe-copilul-disparut-luni-in-sibiu-i-am-citit-pe-buze-nici-nu-putea-sa-planga-3768933</guid>
+        <title>Fostul ministru britanic al Apărării, Ben Wallace, dat în urmărire de Kremlin. „O nouă farsă a Rusiei”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/fostul-ministru-britanic-al-apararii-ben-wallace-2529489.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/fostul-ministru-britanic-al-apararii-ben-wallace-2529489.html</guid>
     </item>
     <item>
-        <title>Nicușor Dan, după întâlnirea cu Volodimir Zelenski: Suntem hotărâți să facem pași concreți pentru implementarea noului nostru Parteneriat Strategic</title>
-        <link>https://www.g4media.ro/nicusor-dan-dupa-intalnirea-cu-volodimir-zelenski-suntem-hotarati-sa-facem-pasi-concreti-pentru-implementarea-noului-nostru-parteneriat-strategic.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/nicusor-dan-dupa-intalnirea-cu-volodimir-zelenski-suntem-hotarati-sa-facem-pasi-concreti-pentru-implementarea-noului-nostru-parteneriat-strategic.html</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan și Volodimir Zelenski au discutat la Palatul Cotroceni despre cooperarea în apărare și securitate energetică</title>
-        <link>https://www.mediafax.ro/politic/nicusor-dan-si-volodimir-zelenski-au-discutat-la-summitul-b9-despre-cooperarea-in-aparare-si-securitate-energetica-23736593</link>
+        <title>Ziua în care București a fost Metallica / În timp ce liderii NATO vorbeau despre înarmare, Bucureștiul vorbea Metallica</title>
+        <link>https://www.mediafax.ro/cultura-media/ziua-in-care-bucuresti-a-fost-metallica-in-timp-ce-liderii-nato-vorbeau-despre-inarmare-bucurestiul-vorbea-metallica-23736641</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-si-volodimir-zelenski-au-discutat-la-summitul-b9-despre-cooperarea-in-aparare-si-securitate-energetica-23736593</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/ziua-in-care-bucuresti-a-fost-metallica-in-timp-ce-liderii-nato-vorbeau-despre-inarmare-bucurestiul-vorbea-metallica-23736641</guid>
     </item>
     <item>
-        <title>După „Stăpânul inelelor”, regizorul Peter Jackson va ecraniza Aventurile lui Tintin</title>
-        <link>https://www.g4media.ro/dupa-stapanul-inelelor-regizorul-peter-jackson-va-ecraniza-aventurile-lui-tintin.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/dupa-stapanul-inelelor-regizorul-peter-jackson-va-ecraniza-aventurile-lui-tintin.html</guid>
-    </item>
-    <item>
-        <title>Puterea și opoziția din Israel au planuri concurente de dizolvare a Knesset-ului, parlamentul unicameral al țării, în chiar anul alegerilor la termen.</title>
-        <link>https://www.g4media.ro/puterea-si-opozitia-din-israel-au-planuri-concurente-de-dizolvare-knesset-ului-parlamentul-unicameral-al-tarii-in-chiar-anul-alegerilor-la-termen-care-este-miza.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/puterea-si-opozitia-din-israel-au-planuri-concurente-de-dizolvare-knesset-ului-parlamentul-unicameral-al-tarii-in-chiar-anul-alegerilor-la-termen-care-este-miza.html</guid>
-    </item>
-    <item>
-        <title>Traian Băsescu cere investiții de top în tehnologie militară: „Și România a făcut tancuri, iar acum poate să continue să facă”</title>
-        <link>https://adevarul.ro/politica/traian-basescu-cere-investitii-in-tehnologie-2529504.html</link>
+        <title>14 mai: A fost administrat primul vaccin contra variolei, în 1796. În mai puțin de zece ani, descoperirea s-a răspândit la nivel global</title>
+        <link>https://adevarul.ro/istoria-zilei/14-mai-a-fost-administrat-primul-vaccin-contra-2528830.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/traian-basescu-cere-investitii-in-tehnologie-2529504.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/14-mai-a-fost-administrat-primul-vaccin-contra-2528830.html</guid>
     </item>
     <item>
-        <title>Vladimir Putin a făcut schimbări la vârful a două regiuni de la granița cu Ucraina, după demisiile guvernatorilor</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/vladimir-putin-a-facut-schimbari-la-varful-a-doua-regiuni-de-la-granita-cu-ucraina-dupa-demisiile-guvernatorilor-3768987</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/vladimir-putin-a-facut-schimbari-la-varful-a-doua-regiuni-de-la-granita-cu-ucraina-dupa-demisiile-guvernatorilor-3768987</guid>
-    </item>
-    <item>
-        <title>Olena Zelenska și Mirabela Grădinaru au discutat la Cotroceni despre protejarea copiilor și adolescenților și sănătatea lor mintală</title>
-        <link>https://www.g4media.ro/olena-zelenska-si-mirabela-gradinaru-au-discutat-la-cotroceni-despre-protejarea-copiilor-si-adolescentilor-si-sanatatea-lor-mintala.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/olena-zelenska-si-mirabela-gradinaru-au-discutat-la-cotroceni-despre-protejarea-copiilor-si-adolescentilor-si-sanatatea-lor-mintala.html</guid>
-    </item>
-    <item>
-        <title>Vacanţă în Grecia sau în România? Cât au plătit cinci români pentru o masă cu peşte şi fructe de mare în Thassos</title>
-        <link>https://adevarul.ro/stil-de-viata/calatorii/vacanta-in-grecia-sau-in-romania-cat-au-platit-2529488.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/calatorii/vacanta-in-grecia-sau-in-romania-cat-au-platit-2529488.html</guid>
-    </item>
-    <item>
-        <title>Scandal uriaș în Germania: pediatru acuzat de viol şi abuzuri sexuale asupra copiilor. Autoritățile investighează 130 de cazuri</title>
-        <link>https://www.digi24.ro/stiri/externe/scandal-urias-in-germania-pediatru-acuzat-de-viol-si-abuzuri-sexuale-asupra-copiilor-autoritatile-investigheaza-130-de-cazuri-3769093</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/scandal-urias-in-germania-pediatru-acuzat-de-viol-si-abuzuri-sexuale-asupra-copiilor-autoritatile-investigheaza-130-de-cazuri-3769093</guid>
-    </item>
-    <item>
-        <title>Rusia l-a dat în urmărire pe fostul ministru britanic al apărării Ben Wallace</title>
-        <link>https://www.g4media.ro/rusia-l-a-dat-in-urmarire-pe-fostul-ministru-britanic-al-apararii-ben-wallace.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/rusia-l-a-dat-in-urmarire-pe-fostul-ministru-britanic-al-apararii-ben-wallace.html</guid>
+        <title>WSJ: Anchetă lansată împotriva fostului secretar american pentru Securitate Internă</title>
+        <link>https://www.mediafax.ro/stirile-zilei/wsj-ancheta-lansata-impotriva-fostului-secretar-american-pentru-securitate-interna-23736617</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/wsj-ancheta-lansata-impotriva-fostului-secretar-american-pentru-securitate-interna-23736617</guid>
     </item>
     <item>
         <title>Senatul SUA a respins din nou un ordin de încetare a războiului cu Iranul, dar majoritatea a fost la limită</title>
@@ -362,10 +62,310 @@
         <guid isPermaLink="true">https://www.g4media.ro/senatul-sua-a-respins-din-nou-un-ordin-de-incetare-a-razboiului-cu-iranul-dar-majoritatea-a-fost-la-limita.html</guid>
     </item>
     <item>
-        <title>Netanyahu s-a întâlnit cu preşedintele EAU în timpul unei „vizite secrete în Emirate”</title>
-        <link>https://www.g4media.ro/netanyahu-s-a-intalnit-cu-presedintele-eau-in-timpul-unei-vizite-secrete-in-emirate.html</link>
+        <title>HOROSCOP 14 mai 2026. Zi cu energie bună pentru planuri și întâlniri</title>
+        <link>https://www.mediafax.ro/horoscop/horoscop-14-mai-2026-zi-cu-energie-buna-pentru-planuri-si-intalniri-23736658</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-14-mai-2026-zi-cu-energie-buna-pentru-planuri-si-intalniri-23736658</guid>
+    </item>
+    <item>
+        <title>Prețurile alimentelor din Statele Unite au crescut la cel mai ridicat nivel din ultimii aproape doi ani / Economiștii spun că nu doar combustibilul sc</title>
+        <link>https://www.mediafax.ro/externe/preturile-alimentelor-din-statele-unite-au-crescut-la-cel-mai-ridicat-nivel-din-ultimii-aproape-doi-ani-economistii-spun-ca-nu-doar-combustibilul-scump-este-de-vina-23736603</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/preturile-alimentelor-din-statele-unite-au-crescut-la-cel-mai-ridicat-nivel-din-ultimii-aproape-doi-ani-economistii-spun-ca-nu-doar-combustibilul-scump-este-de-vina-23736603</guid>
+    </item>
+    <item>
+        <title>Rusia a atacat Ucraina cu peste 800 de drone în plină zi. Cel puțin șase oameni au murit</title>
+        <link>https://www.libertatea.ro/stiri/rusia-atacat-ucraina-peste-800-drone-5738239</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/rusia-atacat-ucraina-peste-800-drone-5738239</guid>
+    </item>
+    <item>
+        <title>Membrii trupei Metallica au vizitat Centrul Vechi înainte de concert. Ce au mâncat legendarii artiști</title>
+        <link>https://adevarul.ro/showbiz/muzica/membrii-trupei-metallica-au-vizitat-centrul-vechi-2529510.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/muzica/membrii-trupei-metallica-au-vizitat-centrul-vechi-2529510.html</guid>
+    </item>
+    <item>
+        <title>Greșeala uriașă de gândire care te ține blocat într-o relație toxică fără să îți dai seama</title>
+        <link>https://adevarul.ro/dezvoltare-personala/relatii/greseala-uriasa-de-gandire-care-te-tine-blocat-2529138.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/relatii/greseala-uriasa-de-gandire-care-te-tine-blocat-2529138.html</guid>
+    </item>
+    <item>
+        <title>Ce poate face România pentru a evita o criză economică profundă. Analist economic: E nevoie de disciplină fiscal-bugetară și continuarea reformelor în</title>
+        <link>https://www.europafm.ro/aurelian-dochia-romania-recesiune-inflatie-2026/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/aurelian-dochia-romania-recesiune-inflatie-2026/</guid>
+    </item>
+    <item>
+        <title>Traian Băsescu: „Ce avem acum e rezultatul organizării ticăloase a alegerilor. N-au dat nicio şansă românilor să înţeleagă ce votează”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/traian-basescu-ce-avem-acum-e-rezultatul-organizarii-ticaloase-a-alegerilor-n-au-dat-nicio-sansa-romanilor-sa-inteleaga-ce-voteaza-3769051</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/traian-basescu-ce-avem-acum-e-rezultatul-organizarii-ticaloase-a-alegerilor-n-au-dat-nicio-sansa-romanilor-sa-inteleaga-ce-voteaza-3769051</guid>
+    </item>
+    <item>
+        <title>Google a anunțat Gemini Intelligence pe Android: Cu ce te va putea ajuta noul sistem AI pe telefonul tău</title>
+        <link>https://www.g4media.ro/google-a-anuntat-gemini-intelligence-pe-android-cu-ce-te-va-putea-ajuta-noul-sistem-ai-pe-telefonul-tau.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/netanyahu-s-a-intalnit-cu-presedintele-eau-in-timpul-unei-vizite-secrete-in-emirate.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/google-a-anuntat-gemini-intelligence-pe-android-cu-ce-te-va-putea-ajuta-noul-sistem-ai-pe-telefonul-tau.html</guid>
+    </item>
+    <item>
+        <title>Băsescu, despre concluzia summitului B9: Groenlanda nu-i de dat</title>
+        <link>https://www.g4media.ro/basescu-despre-concluzia-summitului-b9-groenlanda-nu-i-de-dat.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/basescu-despre-concluzia-summitului-b9-groenlanda-nu-i-de-dat.html</guid>
+    </item>
+    <item>
+        <title>Un comandant rus a ordonat decapitarea trupurilor unor soldați ucraineni, arată conversații interceptate</title>
+        <link>https://adevarul.ro/stiri-externe/europa/un-comandant-rus-a-ordonat-decapitarea-trupurilor-2529517.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/un-comandant-rus-a-ordonat-decapitarea-trupurilor-2529517.html</guid>
+    </item>
+    <item>
+        <title>Traian Băsescu îl portretizează pe Ilie Bolojan: „A fost Georgescu Mesia, s-a răsuflat, s-a inventat alt Mesia: Mesia Bolojan”. De ce crede că Bolojan</title>
+        <link>https://www.mediafax.ro/stirile-zilei/traian-basescu-il-portretizeaza-pe-ilie-bolojan-a-fost-georgescu-mesia-s-a-rasuflat-s-a-inventat-alt-mesia-mesia-bolojan-de-ce-crede-ca-bolojan-va-candida-la-presedintia-romanie-23736670</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/traian-basescu-il-portretizeaza-pe-ilie-bolojan-a-fost-georgescu-mesia-s-a-rasuflat-s-a-inventat-alt-mesia-mesia-bolojan-de-ce-crede-ca-bolojan-va-candida-la-presedintia-romanie-23736670</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan și Volodimir Zelenski au discutat la Palatul Cotroceni despre cooperarea în apărare și securitate energetică</title>
+        <link>https://www.mediafax.ro/politic/nicusor-dan-si-volodimir-zelenski-au-discutat-la-summitul-b9-despre-cooperarea-in-aparare-si-securitate-energetica-23736593</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-si-volodimir-zelenski-au-discutat-la-summitul-b9-despre-cooperarea-in-aparare-si-securitate-energetica-23736593</guid>
+    </item>
+    <item>
+        <title>Slovacia și-a închis temporar frontiera cu Ucraina: care a fost motivul</title>
+        <link>https://www.digi24.ro/stiri/externe/slovacia-si-a-inchis-temporar-frontiera-cu-ucraina-care-a-fost-motivul-3768921</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/slovacia-si-a-inchis-temporar-frontiera-cu-ucraina-care-a-fost-motivul-3768921</guid>
+    </item>
+    <item>
+        <title>Băsescu spune că este o singură soluție pentru criza politică: Reluarea funcționării coaliției. Dacă e moartă, trebuie reînviată</title>
+        <link>https://www.mediafax.ro/politic/basescu-spune-ca-este-o-singura-solutie-pentru-criza-politica-reluarea-functionarii-coalitiei-daca-e-moarta-trebuie-reinviata-23736633</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/basescu-spune-ca-este-o-singura-solutie-pentru-criza-politica-reluarea-functionarii-coalitiei-daca-e-moarta-trebuie-reinviata-23736633</guid>
+    </item>
+    <item>
+        <title>Nouă persoane reținute de procurori într-un dosar privind blocarea contoarelor de gaz pentru consumuri mai mici</title>
+        <link>https://www.digi24.ro/stiri/noua-persoane-retinute-de-procurori-intr-un-dosar-privind-blocarea-contoarelor-de-gaz-pentru-consumuri-mai-mici-3769017</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/noua-persoane-retinute-de-procurori-intr-un-dosar-privind-blocarea-contoarelor-de-gaz-pentru-consumuri-mai-mici-3769017</guid>
+    </item>
+    <item>
+        <title>Metroul va ajunge în vestul Capitalei până la Chiajna şi Cartierul Latin. A fost aprobat protocolul pentru extinderea magistralei M3</title>
+        <link>https://adevarul.ro/stiri-locale/bucuresti/metrou-va-ajunge-in-vestul-capitalei-pana-la-2529495.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/metrou-va-ajunge-in-vestul-capitalei-pana-la-2529495.html</guid>
+    </item>
+    <item>
+        <title>Marco Rubio, fotografiat în timp ce purta un trening identic cu cel al lui Maduro din momentul capturării. Imaginea a devenit virală</title>
+        <link>https://adevarul.ro/stiri-externe/sua/marco-rubio-fotografiat-in-timp-ce-purta-un-2529516.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/marco-rubio-fotografiat-in-timp-ce-purta-un-2529516.html</guid>
+    </item>
+    <item>
+        <title>Zelenski spune că acordul România-Ucraina privind contracararea dronelor va fi gata „în scurt timp”</title>
+        <link>https://www.g4media.ro/zelenski-spune-ca-acordul-romania-ucraina-privind-contracararea-dronelor-va-fi-gata-in-scurt-timp.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/zelenski-spune-ca-acordul-romania-ucraina-privind-contracararea-dronelor-va-fi-gata-in-scurt-timp.html</guid>
+    </item>
+    <item>
+        <title>PMB anunță prelungirea metroului de la Păcii / Preciziei spre Centură, Chiajna și Cartierul Latin. Protocol aprobat de CGMB</title>
+        <link>https://www.digi24.ro/stiri/economie/transporturi/pmb-anunta-prelungirea-metroului-de-la-preciziei-spre-centura-chiajna-si-cartierul-latin-protocol-aprobat-de-consilierii-generali-3768993</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/transporturi/pmb-anunta-prelungirea-metroului-de-la-preciziei-spre-centura-chiajna-si-cartierul-latin-protocol-aprobat-de-consilierii-generali-3768993</guid>
+    </item>
+    <item>
+        <title>Omul care a stârnit fascinația pentru Vestul Sălbatic american. A fost o legendă vie, capabil să ucidă un urs doar cu un cuțit</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/omul-care-a-starnit-fascinatia-pentru-vestul-2529225.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/omul-care-a-starnit-fascinatia-pentru-vestul-2529225.html</guid>
+    </item>
+    <item>
+        <title>Rusia l-a dat în urmărire pe fostul ministru britanic al Apărării, Ben Wallace. E cel care a spus: „Trebuie să zdrobim podul blestemat”</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia-l-a-dat-in-urmarire-pe-fostul-ministru-britanic-al-apararii-ben-wallace-e-cel-care-a-spus-trebuie-sa-zdrobim-podul-blestemat-3768945</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia-l-a-dat-in-urmarire-pe-fostul-ministru-britanic-al-apararii-ben-wallace-e-cel-care-a-spus-trebuie-sa-zdrobim-podul-blestemat-3768945</guid>
+    </item>
+    <item>
+        <title>Slovacia închide graniţa cu Ucraina. Măsuri de securitate după bombardamentele ruseşti din apropierea frontierei</title>
+        <link>https://adevarul.ro/stiri-externe/europa/slovacia-inchide-granita-cu-ucraina-masuri-de-2529482.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/slovacia-inchide-granita-cu-ucraina-masuri-de-2529482.html</guid>
+    </item>
+    <item>
+        <title>Centrul pentru Monitorizarea Antisemitismului: PSD a folosit și în trecut subiecte legate de evrei și antisemitism în scopuri politice, însă de data a</title>
+        <link>https://www.g4media.ro/centrul-pentru-monitorizarea-antisemitismului-psd-a-folosit-si-in-trecut-subiecte-legate-de-evrei-si-antisemitism-in-scopuri-politice-insa-de-data-aceasta-lucrurile-au-mers-prea-departe.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/centrul-pentru-monitorizarea-antisemitismului-psd-a-folosit-si-in-trecut-subiecte-legate-de-evrei-si-antisemitism-in-scopuri-politice-insa-de-data-aceasta-lucrurile-au-mers-prea-departe.html</guid>
+    </item>
+    <item>
+        <title>Nouă persoane din Sibiu, bănuite că ar fi blocat contoarele de gaz, reţinute în urma a 40 de percheziţii</title>
+        <link>https://www.g4media.ro/noua-persoane-din-sibiu-banuite-ca-ar-fi-blocat-contoarele-de-gaz-retinute-in-urma-a-40-de-perchezitii.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/noua-persoane-din-sibiu-banuite-ca-ar-fi-blocat-contoarele-de-gaz-retinute-in-urma-a-40-de-perchezitii.html</guid>
+    </item>
+    <item>
+        <title>Val de automedicație cu antiparazitare după o apariție online a actorului Mel Gibson. Oncologii: „Nu există dovezi, doar riscuri grave”</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/val-de-automedicatie-cu-antiparazitare-dupa-o-2529452.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/val-de-automedicatie-cu-antiparazitare-dupa-o-2529452.html</guid>
+    </item>
+    <item>
+        <title>Horoscop 14 mai. Taurii trebuie să fie atenți la bani, iar Săgetărorii la documentele pe care le semnează</title>
+        <link>https://adevarul.ro/stil-de-viata/horoscop/horoscop-14-mai-taurii-trebuie-sa-fie-atenti-la-2529499.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/horoscop/horoscop-14-mai-taurii-trebuie-sa-fie-atenti-la-2529499.html</guid>
+    </item>
+    <item>
+        <title>Fostul ministru al Sănătății, Alexandru Rafila, implicat într-un accident rutier în Capitală. O persoană a ajuns la spital</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/fostul-ministru-al-sanatatii-alexandru-rafila-2529507.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/fostul-ministru-al-sanatatii-alexandru-rafila-2529507.html</guid>
+    </item>
+    <item>
+        <title>Universitatea Craiova a câștigat Cupa României după finala cu U Cluj decisă la penalty-uri</title>
+        <link>https://www.mediafax.ro/sport/universitatea-craiova-a-castigat-cupa-romaniei-dupa-finala-cu-u-cluj-decisa-la-penalty-uri-23736667</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/universitatea-craiova-a-castigat-cupa-romaniei-dupa-finala-cu-u-cluj-decisa-la-penalty-uri-23736667</guid>
+    </item>
+    <item>
+        <title>Vladimir Putin a făcut schimbări la vârful a două regiuni de la granița cu Ucraina, după demisiile guvernatorilor</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/vladimir-putin-a-facut-schimbari-la-varful-a-doua-regiuni-de-la-granita-cu-ucraina-dupa-demisiile-guvernatorilor-3768987</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/vladimir-putin-a-facut-schimbari-la-varful-a-doua-regiuni-de-la-granita-cu-ucraina-dupa-demisiile-guvernatorilor-3768987</guid>
+    </item>
+    <item>
+        <title>Cât a plătit o familie de români pentru masa de prânz în Thassos: „Mai ieftin decât pe litoralul românesc?”</title>
+        <link>https://www.libertatea.ro/lifestyle/cat-platit-familie-romani-masa-pranz-thassos-5737957</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/cat-platit-familie-romani-masa-pranz-thassos-5737957</guid>
+    </item>
+    <item>
+        <title>Un fost producător hollywoodian a fost condamnat la 2 ani de închisoare în cazul morţii actorului Matthew Perry</title>
+        <link>https://www.g4media.ro/un-fost-producator-hollywoodian-a-fost-condamnat-la-2-ani-de-inchisoare-in-cazul-mortii-actorului-matthew-perry.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/un-fost-producator-hollywoodian-a-fost-condamnat-la-2-ani-de-inchisoare-in-cazul-mortii-actorului-matthew-perry.html</guid>
+    </item>
+    <item>
+        <title>Donald Trump a ajuns în China. Discuțiile cu liderul Xi Jinping vor viza, printre altele, comerțul și conflictele globale | VIDEO</title>
+        <link>https://www.europafm.ro/donald-trump-vizita-china-xi-jinping/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/donald-trump-vizita-china-xi-jinping/</guid>
+    </item>
+    <item>
+        <title>Zelenski anunță că Ucraina va trimite experți în Letonia și România pentru a contribui la apărarea antiaeriană</title>
+        <link>https://www.digi24.ro/stiri/externe/zelenski-anunta-ca-ucraina-va-trimite-experti-in-romania-pentru-a-contribui-la-apararea-antiaeriana-3768989</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/zelenski-anunta-ca-ucraina-va-trimite-experti-in-romania-pentru-a-contribui-la-apararea-antiaeriana-3768989</guid>
+    </item>
+    <item>
+        <title>Netanyahu dezvăluie că a vizitat în secret Emiratele Arabe Unite în timpul războiului cu Iran</title>
+        <link>https://www.mediafax.ro/externe/netanyahu-dezvaluie-ca-a-vizitat-in-secret-emiratele-arabe-unite-in-timpul-razboiului-cu-iran-23736610</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/netanyahu-dezvaluie-ca-a-vizitat-in-secret-emiratele-arabe-unite-in-timpul-razboiului-cu-iran-23736610</guid>
+    </item>
+    <item>
+        <title>Summitul B9 de la Cotroceni. Nicușor Dan a avut o întâlnire bilaterală cu Volodimir Zelenski: „Ne dorim ca industria noastră să beneficieze de experti</title>
+        <link>https://www.libertatea.ro/stiri/summit-b9-bucuresti-program-cotroceni-nicusor-dan-karol-nawrocki-nato-5736757</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/summit-b9-bucuresti-program-cotroceni-nicusor-dan-karol-nawrocki-nato-5736757</guid>
+    </item>
+    <item>
+        <title>Campionatul Mondial de hochei pe gheață IIHF 2026, program și rezultate. Legendarul Sidney Crosby, inclus în lotul Canadei!</title>
+        <link>https://www.libertatea.ro/sport/campionatul-mondial-de-hochei-pe-gheata-iihf-2026-program-si-rezultate-5722615</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/sport/campionatul-mondial-de-hochei-pe-gheata-iihf-2026-program-si-rezultate-5722615</guid>
+    </item>
+    <item>
+        <title>Consilierul care i-a livrat droguri actorului Matthew Perry, condamnat la 2 ani de închisoare</title>
+        <link>https://www.mediafax.ro/externe/consilierul-care-i-a-livrat-droguri-actorului-matthew-perry-condamnat-la-2-ani-de-inchisoare-23736709</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/consilierul-care-i-a-livrat-droguri-actorului-matthew-perry-condamnat-la-2-ani-de-inchisoare-23736709</guid>
+    </item>
+    <item>
+        <title>Ce câștigă România după Summitul B9. Expert: „Avem o putere mai mare decât lasă unii să se înțeleagă”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/ce-castiga-romania-dupa-summitul-b9-expert-avem-2529503.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ce-castiga-romania-dupa-summitul-b9-expert-avem-2529503.html</guid>
+    </item>
+    <item>
+        <title>Conjunctura în care rușii au lansat peste 800 de drone asupra Ucrainei. Zelenski: „Nu poate fi numită o coincidență”</title>
+        <link>https://adevarul.ro/stiri-externe/europa/conjunctura-in-care-rusii-au-lansat-peste-800-de-2529480.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/conjunctura-in-care-rusii-au-lansat-peste-800-de-2529480.html</guid>
+    </item>
+    <item>
+        <title>Concluziile lui Traian Băsescu după Summitul B9: „În 5-7 ani, Europa își va putea garanta securitatea”. Care ar fi punctul nevralgic</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/concluziile-lui-traian-basescu-dupa-summitul-b9-in-5-7-ani-europa-isi-va-putea-garanta-securitatea-care-ar-fi-punctul-nevralgic-3769065</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/concluziile-lui-traian-basescu-dupa-summitul-b9-in-5-7-ani-europa-isi-va-putea-garanta-securitatea-care-ar-fi-punctul-nevralgic-3769065</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan, după întâlnirea cu Volodimir Zelenski: Suntem hotărâți să facem pași concreți pentru implementarea noului nostru Parteneriat Strategic</title>
+        <link>https://www.g4media.ro/nicusor-dan-dupa-intalnirea-cu-volodimir-zelenski-suntem-hotarati-sa-facem-pasi-concreti-pentru-implementarea-noului-nostru-parteneriat-strategic.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/nicusor-dan-dupa-intalnirea-cu-volodimir-zelenski-suntem-hotarati-sa-facem-pasi-concreti-pentru-implementarea-noului-nostru-parteneriat-strategic.html</guid>
+    </item>
+    <item>
+        <title>Buzoianu: Au fost finalizate controalele la staţia de epurare din Slobozia. Amenzi de 200.000 lei şi sesizare penală întocmită</title>
+        <link>https://www.g4media.ro/buzoianu-au-fost-finalizate-controalele-la-statia-de-epurare-din-sloboziaamenzi-de-200-000-lei-si-sesizare-penala-intocmita.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/buzoianu-au-fost-finalizate-controalele-la-statia-de-epurare-din-sloboziaamenzi-de-200-000-lei-si-sesizare-penala-intocmita.html</guid>
+    </item>
+    <item>
+        <title>Cristian Tudor Popescu, nemulțumit de summitul B9. „Agapa a arătat ca o reuniune pricăjită de provincie”</title>
+        <link>https://adevarul.ro/stiri-interne/societate/cristian-tudor-popescu-nemultumit-de-summitul-b9-2529492.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/cristian-tudor-popescu-nemultumit-de-summitul-b9-2529492.html</guid>
+    </item>
+    <item>
+        <title>„Comisia Antiteroristă a Moscovei” interzice publicarea de imagini cu urmările atacurilor ucrainene cu drone</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/comisia-antiterorista-a-moscovei-interzice-publicarea-de-imagini-cu-urmarile-atacurilor-ucrainene-cu-drone-3768995</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/comisia-antiterorista-a-moscovei-interzice-publicarea-de-imagini-cu-urmarile-atacurilor-ucrainene-cu-drone-3768995</guid>
+    </item>
+    <item>
+        <title>Urs brun, capturat în curtea Școlii de Poliție din Câmpina, într-o cușcă specială. Animalul va fi relocat de autorități</title>
+        <link>https://adevarul.ro/stiri-locale/ploiesti/urs-brun-capturat-in-curtea-scolii-de-politie-din-2529514.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/ploiesti/urs-brun-capturat-in-curtea-scolii-de-politie-din-2529514.html</guid>
+    </item>
+    <item>
+        <title>Traian Băsescu cere investiții de top în tehnologie militară: „Și România a făcut tancuri, iar acum poate să continue să facă”</title>
+        <link>https://adevarul.ro/politica/traian-basescu-cere-investitii-in-tehnologie-2529504.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/traian-basescu-cere-investitii-in-tehnologie-2529504.html</guid>
+    </item>
+    <item>
+        <title>ANRE va introduce un sistem de evaluare pentru furnizorii de energie și gaze. Consumatorii vor putea lăsa recenzii | VIDEO</title>
+        <link>https://www.europafm.ro/anre-recenzie-furnizori-energie-gaze/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/anre-recenzie-furnizori-energie-gaze/</guid>
+    </item>
+    <item>
+        <title>Concert Metallica la București: Arena Națională este sold out</title>
+        <link>https://www.libertatea.ro/entertainment/concert-metallica-la-bucuresti-5738202</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/concert-metallica-la-bucuresti-5738202</guid>
+    </item>
+    <item>
+        <title>Focuri de armă în Senatul din Filipine, unde s-a baricadat mâna dreaptă a fostului președinte în războiul împotriva drogurilor</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/focuri-de-arma-in-senatul-din-filipine-unde-s-a-2529486.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/focuri-de-arma-in-senatul-din-filipine-unde-s-a-2529486.html</guid>
+    </item>
+    <item>
+        <title>Live Text. Lazio Roma – Inter Milano, finala Cupei Italiei, de la ora 22:00. Surpriza lui Cristi Chivu din echipa de start</title>
+        <link>https://www.libertatea.ro/sport/live-text-lazio-roma-inter-milano-finala-cupei-italiei-de-la-ora-22-cristian-chivu-la-un-pas-de-o-dubla-istorica-5737282</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/sport/live-text-lazio-roma-inter-milano-finala-cupei-italiei-de-la-ora-22-cristian-chivu-la-un-pas-de-o-dubla-istorica-5737282</guid>
+    </item>
+    <item>
+        <title>Băsescu, despre concluzia summitului B9: Groenlanda nu-i de dat</title>
+        <link>https://www.mediafax.ro/politic/basescu-despre-concluzia-summitului-b9-groenlanda-nu-i-de-dat-23736622</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/basescu-despre-concluzia-summitului-b9-groenlanda-nu-i-de-dat-23736622</guid>
     </item>
 </channel>
 </rss>
