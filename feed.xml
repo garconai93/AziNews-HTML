@@ -5,67 +5,199 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 14 May 2026 18:19:49 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 20:17:01 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Alexandru, copilul de 5 ani din Sibiu, salvat după două zile de căutări, are pneumonie și mușcături de căpușe</title>
-        <link>https://www.libertatea.ro/stiri/alexandru-copilul-din-sibiu-salvat-dupa-doua-zile-de-cautari-are-pneumonie-si-muscaturi-de-capuse-5739714</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/alexandru-copilul-din-sibiu-salvat-dupa-doua-zile-de-cautari-are-pneumonie-si-muscaturi-de-capuse-5739714</guid>
-    </item>
-    <item>
-        <title>Băsescu contestă teoria implicării Rusiei în anularea alegerilor: „Nimic legat de ruși... O afacere dâmbovițeană”</title>
-        <link>https://adevarul.ro/politica/basescu-contesta-teoria-implicarii-rusiei-in-2529696.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/basescu-contesta-teoria-implicarii-rusiei-in-2529696.html</guid>
-    </item>
-    <item>
-        <title>„Danaida” lui Constantin Brâncuşi, vedeta unei licitații la New York. Lucrarea evaluată la 100 de milioane de dolari e promovată de actriţa Nicole Kid</title>
-        <link>https://adevarul.ro/stil-de-viata/cultura/danaida-lui-constantin-brancusi-vedeta-unei-2529748.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/cultura/danaida-lui-constantin-brancusi-vedeta-unei-2529748.html</guid>
-    </item>
-    <item>
-        <title>România ar urma să primească 2,62 miliarde de euro, după ce Comisia Europeană a aprobat preliminar a patra cerere de plată din PNRR. Spre ce sectoare </title>
-        <link>https://www.europafm.ro/romania-ar-urma-sa-primeasca-262-miliarde-de-euro-dupa-ce-comisia-europeana-a-aprobat-preliminar-a-patra-cerere-de-plata-din-pnrr-spre-ce-sectoare-merg-banii/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/romania-ar-urma-sa-primeasca-262-miliarde-de-euro-dupa-ce-comisia-europeana-a-aprobat-preliminar-a-patra-cerere-de-plata-din-pnrr-spre-ce-sectoare-merg-banii/</guid>
-    </item>
-    <item>
-        <title>Procurorul Teodor Niță, adus la Parchetul General într-un dosar legat de trafic de influență și alte infracțiuni de corupție. Ce spune avocatul său | </title>
-        <link>https://www.europafm.ro/procurorul-teodor-nita-adus-la-parchetul-general-intr-un-dosar-legat-de-trafic-de-influenta-si-alte-infractiuni-de-coruptie-ce-spune-avocatul-sau/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/procurorul-teodor-nita-adus-la-parchetul-general-intr-un-dosar-legat-de-trafic-de-influenta-si-alte-infractiuni-de-coruptie-ce-spune-avocatul-sau/</guid>
-    </item>
-    <item>
-        <title>Rusia a ordonat trupelor să decapiteze soldații ucraineni căzuți la datorie. „O crimă de război premeditată”</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/rusia-a-ordonat-trupelor-sa-decapiteze-soldatii-ucraineni-cazuti-la-datorie-o-crima-de-razboi-premeditata-3770605</link>
+        <title>Mihai Jurca afirmă că realizarea Programului SAFE poate continua, chiar dacă CCR decide că ordonanţa este neconstituţională</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/mihai-jurca-afirma-ca-realizarea-programului-safe-poate-continua-chiar-daca-ccr-decide-ca-ordonanta-este-neconstitutionala-3770591</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/rusia-a-ordonat-trupelor-sa-decapiteze-soldatii-ucraineni-cazuti-la-datorie-o-crima-de-razboi-premeditata-3770605</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/mihai-jurca-afirma-ca-realizarea-programului-safe-poate-continua-chiar-daca-ccr-decide-ca-ordonanta-este-neconstitutionala-3770591</guid>
     </item>
     <item>
-        <title>Cuba, pregătită să accepte ajutor umanitar în valoare de 100 de milioane de dolari din partea Statelor Unite / Insula se confruntă cu o amplă criză en</title>
-        <link>https://www.g4media.ro/cuba-pregatita-sa-accepte-ajutor-umanitar-in-valoare-de-100-de-milioane-de-dolari-din-partea-statelor-unite-insula-se-confrunta-cu-o-ampla-criza-energetica.html</link>
+        <title>Putin a numit un nou guvernator în regiunea Belgorod. Cine este Aleksandr Șuvaev, acuzat de crime de război</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/putin-a-numit-un-nou-guvernator-in-regiunea-2529746.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/putin-a-numit-un-nou-guvernator-in-regiunea-2529746.html</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan: Inflația ar putea scădea la 6% din august. Ce spune despre datele economice de la INS: Guvernele anterioare „au dat foc” economiei | AUD</title>
+        <link>https://www.europafm.ro/ilie-bolojan-inflatia-ar-putea-scadea-la-6-din-august-ce-spune-despre-datele-economice-de-la-ins-guvernele-anterioare-au-dat-foc-economiei/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ilie-bolojan-inflatia-ar-putea-scadea-la-6-din-august-ce-spune-despre-datele-economice-de-la-ins-guvernele-anterioare-au-dat-foc-economiei/</guid>
+    </item>
+    <item>
+        <title>Rusia mizează tot mai mult pe dronele Shahed cu motor cu reacție ca Geran-4 sau Geran-5</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia-mizeaza-tot-mai-mult-pe-dronele-shahed-cu-motor-cu-reactie-ca-geran-4-sau-geran-5-3770689</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia-mizeaza-tot-mai-mult-pe-dronele-shahed-cu-motor-cu-reactie-ca-geran-4-sau-geran-5-3770689</guid>
+    </item>
+    <item>
+        <title>PNL respinge varianta unui premier tehnocrat: „Nu va rezista”. Dan Motreanu: „În septembrie vom avea din nou o criză politică”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/pnl-respinge-varianta-unui-premier-tehnocrat-nu-va-rezista-dan-motreanu-in-septembrie-vom-avea-din-nou-o-criza-politica-3770687</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/pnl-respinge-varianta-unui-premier-tehnocrat-nu-va-rezista-dan-motreanu-in-septembrie-vom-avea-din-nou-o-criza-politica-3770687</guid>
+    </item>
+    <item>
+        <title>North Bucharest Investments, desemnată Agenția Anului în România la Gala Imobiliare.ro</title>
+        <link>https://www.mediafax.ro/comunicate/north-bucharest-investments-desemnata-agentia-anului-in-romania-la-gala-imobiliare-ro-23737332</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/comunicate/north-bucharest-investments-desemnata-agentia-anului-in-romania-la-gala-imobiliare-ro-23737332</guid>
+    </item>
+    <item>
+        <title>Tabăra FIDESZ de la Tușnad e abandonată de noul guvern de la Budapesta / O nouă tabără se va desfășura la Băile Homorod, cu accent pe artiști, nu pe p</title>
+        <link>https://www.g4media.ro/tabara-fidesz-de-la-tusnad-e-abandonata-de-noul-guvern-de-la-budapesta-o-noua-tabara-se-va-desfasura-la-baile-homorod-cu-accent-pe-artisti-nu-pe-politicieni-e-permis-sa-gandim-altfel-e.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cuba-pregatita-sa-accepte-ajutor-umanitar-in-valoare-de-100-de-milioane-de-dolari-din-partea-statelor-unite-insula-se-confrunta-cu-o-ampla-criza-energetica.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/tabara-fidesz-de-la-tusnad-e-abandonata-de-noul-guvern-de-la-budapesta-o-noua-tabara-se-va-desfasura-la-baile-homorod-cu-accent-pe-artisti-nu-pe-politicieni-e-permis-sa-gandim-altfel-e.html</guid>
     </item>
     <item>
-        <title>Negocierile privind noua lege a salarizării publice, mediate de președintele Nicușor Dan. Când ar putea fi adoptat proiectul</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/negocierile-privind-noua-lege-a-salarizarii-publice-mediate-de-presedintele-nicusor-dan-cand-ar-putea-fi-adoptat-proiectul-3770401</link>
+        <title>Carlo Ancelotti și-a prelungit contractul cu naționala Braziliei până în 2030</title>
+        <link>https://www.mediafax.ro/sport/carlo-ancelotti-si-a-prelungit-contractul-cu-nationala-braziliei-pana-in-2030-23737375</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/carlo-ancelotti-si-a-prelungit-contractul-cu-nationala-braziliei-pana-in-2030-23737375</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan anunţă când şi în ce condiţii inflaţia ar putea scădea până la 8% sau chiar 6%: „Dacă nu vor interveni şi alte şocuri”</title>
+        <link>https://adevarul.ro/politica/ilie-bolojan-anunta-cand-si-in-ce-conditii-2529738.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/ilie-bolojan-anunta-cand-si-in-ce-conditii-2529738.html</guid>
+    </item>
+    <item>
+        <title>Dan Motreanu, numărul 2 în PNL: Nu îl vom propune pe Ilie Bolojan ca premier la consultările de la Cotroceni în primă fază și nu vom susține un premie</title>
+        <link>https://www.g4media.ro/dan-motreanu-numarul-2-in-pnl-nu-il-vom-propune-pe-ilie-bolojan-ca-premier-la-consultarile-de-la-cotroceni-in-prima-faza-si-nu-vom-sustine-un-premier-tehnocrat-ma-asteptam-ca-presedintele-nicusor.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/dan-motreanu-numarul-2-in-pnl-nu-il-vom-propune-pe-ilie-bolojan-ca-premier-la-consultarile-de-la-cotroceni-in-prima-faza-si-nu-vom-sustine-un-premier-tehnocrat-ma-asteptam-ca-presedintele-nicusor.html</guid>
+    </item>
+    <item>
+        <title>Franța și-a anunțat lotul cu care atacă al treilea titlul mondial la fotbal. Kylian Mbappé este în fruntea „cocoșilor”</title>
+        <link>https://adevarul.ro/sport/franta-si-a-anuntat-lotul-cu-care-ataca-al-treilea-2529766.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/franta-si-a-anuntat-lotul-cu-care-ataca-al-treilea-2529766.html</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan cheamă pe 18 mai partidele parlamentare la Cotroceni pentru consultări privind desemnarea candidatului la funcția de premier</title>
+        <link>https://www.europafm.ro/presedintel-nicusor-dan-cheama-luni-18-mai-partidele-si-formatiunile-politice-parlamentare-la-cotroceni-pentru-consultari-privind-desemnarea-candidatului-la-functia-de-premier/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/presedintel-nicusor-dan-cheama-luni-18-mai-partidele-si-formatiunile-politice-parlamentare-la-cotroceni-pentru-consultari-privind-desemnarea-candidatului-la-functia-de-premier/</guid>
+    </item>
+    <item>
+        <title>Majorări salariale și noi angajări în companii de stat, aprobate de Guvern. „Unii n-au cerut şi majorări, unii au cerut doar posturi”</title>
+        <link>https://adevarul.ro/politica/majorari-salariale-si-noi-angajari-in-companii-de-2529754.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/majorari-salariale-si-noi-angajari-in-companii-de-2529754.html</guid>
+    </item>
+    <item>
+        <title>Modista, meseria pierdută în România, profesie de elită în Marea Britanie. Cum s-a pierdut arta de a face pălării la noi.</title>
+        <link>https://adevarul.ro/interviurile-adevarul/modista-meseria-pierduta-in-romania-profesie-de-2529176.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/interviurile-adevarul/modista-meseria-pierduta-in-romania-profesie-de-2529176.html</guid>
+    </item>
+    <item>
+        <title>Ciprian Ciucu, despre PSD și AUR: Avem deja o majoritate funcțională în Parlament. PNL continuă să-l susțină pe Ilie Bolojan</title>
+        <link>https://www.mediafax.ro/politic/ciprian-ciucu-despre-psd-si-aur-avem-deja-o-majoritate-functionala-in-parlament-pnl-continua-sa-l-sustina-pe-ilie-bolojan-23737292</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ciprian-ciucu-despre-psd-si-aur-avem-deja-o-majoritate-functionala-in-parlament-pnl-continua-sa-l-sustina-pe-ilie-bolojan-23737292</guid>
+    </item>
+    <item>
+        <title>Un proiect controversat care ar permite propaganda legionară, avizat favorabil într-o comisie a Senatului. Ce spune un istoric despre asta | AUDIO</title>
+        <link>https://www.europafm.ro/lege-antisemitism-fascism-abrogare-aviz-senat/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/lege-antisemitism-fascism-abrogare-aviz-senat/</guid>
+    </item>
+    <item>
+        <title>Mihai Savin, șeful Autorității Vamale, plasat sub control judiciar alături de cei doi funcționari implicaţi în dosarul de fals şi uz de fals</title>
+        <link>https://adevarul.ro/stiri-interne/societate/mihai-savin-seful-autoritatii-vamale-plasat-sub-2529768.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/mihai-savin-seful-autoritatii-vamale-plasat-sub-2529768.html</guid>
+    </item>
+    <item>
+        <title>Dmitri Peskov: Regimul de la Kiev nu va cruța pe nimeni</title>
+        <link>https://www.mediafax.ro/stirile-zilei/dmitri-peskov-regimul-de-la-kiev-nu-va-cruta-pe-nimeni-23737380</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/dmitri-peskov-regimul-de-la-kiev-nu-va-cruta-pe-nimeni-23737380</guid>
+    </item>
+    <item>
+        <title>China va comanda 200 de avioane Boeing, dezvăluie Donald Trump. Acțiunile au scăzut cu peste 4% după anunț</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/china-va-comanda-200-de-avioane-boeing-dezvaluie-donald-trump-actiunile-au-scazut-cu-peste-4-dupa-anunt-3770631</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/negocierile-privind-noua-lege-a-salarizarii-publice-mediate-de-presedintele-nicusor-dan-cand-ar-putea-fi-adoptat-proiectul-3770401</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/china-va-comanda-200-de-avioane-boeing-dezvaluie-donald-trump-actiunile-au-scazut-cu-peste-4-dupa-anunt-3770631</guid>
     </item>
     <item>
-        <title>S. Carfil SA, MATE-FIN și Alford Technologies semnează un Memorandum de Înțelegere pentru dezvoltarea de capabilități specializate în România</title>
-        <link>https://www.mediafax.ro/comunicate/s-carfil-sa-mate-fin-si-alford-technologies-semneaza-un-memorandum-de-intelegere-pentru-dezvoltarea-de-capabilitati-specializate-in-romania-23737263</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/comunicate/s-carfil-sa-mate-fin-si-alford-technologies-semneaza-un-memorandum-de-intelegere-pentru-dezvoltarea-de-capabilitati-specializate-in-romania-23737263</guid>
+        <title>Apusul „modelului suedez“. Cea mai surprinzătoare cotitură capitalistă din Europa: statul social se retrage, iar piața preia controlul</title>
+        <link>https://adevarul.ro/stiri-externe/europa/apusul-modelului-suedez-cea-mai-surprinzatoare-2529414.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/apusul-modelului-suedez-cea-mai-surprinzatoare-2529414.html</guid>
     </item>
     <item>
-        <title>Ilie Bolojan, despre reforma salarizării: Nu ne permitem salarii mai mari la stat fără reduceri de personal</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ilie-bolojan-despre-reforma-salarizarii-nu-ne-permitem-salarii-mai-mari-la-stat-fara-reduceri-de-personal-23737256</link>
+        <title>Rubio: „Ucraina a construit cea mai puternică armată din Europa” / ”Rușii pierd de cinci ori mai mulți soldați pe lună decât ucrainenii”</title>
+        <link>https://www.g4media.ro/rubio-ucraina-a-construit-cea-mai-puternica-armata-din-europa-rusii-pierd-de-cinci-ori-mai-multi-soldati-pe-luna-decat-ucrainenii.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/rubio-ucraina-a-construit-cea-mai-puternica-armata-din-europa-rusii-pierd-de-cinci-ori-mai-multi-soldati-pe-luna-decat-ucrainenii.html</guid>
+    </item>
+    <item>
+        <title>Marco Rubio susține că armata Ucrainei este acum cea mai puternică forță militară din Europa</title>
+        <link>https://adevarul.ro/stiri-externe/sua/marco-rubio-sustine-ca-armata-ucrainei-este-acum-2529737.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/marco-rubio-sustine-ca-armata-ucrainei-este-acum-2529737.html</guid>
+    </item>
+    <item>
+        <title>Proiectul de suflet al lui Ivan Patzaichin, blocat din cauza gestiunii proaste a PNRR, va fi finanţat pe fonduri norvegiene</title>
+        <link>https://www.libertatea.ro/stiri/proiect-ivan-patzaichin-delta-dunarii-blocat-gestiune-proasta-pnrr-finantare-fonduri-norvegiene-5739709</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/proiect-ivan-patzaichin-delta-dunarii-blocat-gestiune-proasta-pnrr-finantare-fonduri-norvegiene-5739709</guid>
+    </item>
+    <item>
+        <title>Justin Trudeau, pe scena Impact 2026 de la Poznan: „Aceasta este singura modalitate de a produce schimbarea de care avem nevoie”</title>
+        <link>https://www.libertatea.ro/stiri/justin-trudeau-impact-2026-poznan-discurs-donald-trump-razboi-ucraina-5739767</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/justin-trudeau-impact-2026-poznan-discurs-donald-trump-razboi-ucraina-5739767</guid>
+    </item>
+    <item>
+        <title>Senatorii americani au votat pentru a li se suspenda salariile în caz de paralizie bugetară</title>
+        <link>https://www.digi24.ro/stiri/externe/sua/senatorii-americani-au-votat-pentru-a-li-se-suspenda-salariile-in-caz-de-paralizie-bugetara-3770637</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/senatorii-americani-au-votat-pentru-a-li-se-suspenda-salariile-in-caz-de-paralizie-bugetara-3770637</guid>
+    </item>
+    <item>
+        <title>Liderul senatorilor PSD, Daniel Zamfir, a cerut joi ca ”organelor statului” să o cerceteze pe vicepremierul Oana Gheorghiu și pe oamenii de afaceri cu</title>
+        <link>https://www.g4media.ro/liderul-senatorilor-psd-daniel-zamfir-a-cerut-joi-ca-organelor-statului-sa-o-cerceteze-pe-vicepremierul-oana-gheorghiu-si-pe-oamenii-de-afaceri-cu-care-aceasta-s-a-intalnit-gheor.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/liderul-senatorilor-psd-daniel-zamfir-a-cerut-joi-ca-organelor-statului-sa-o-cerceteze-pe-vicepremierul-oana-gheorghiu-si-pe-oamenii-de-afaceri-cu-care-aceasta-s-a-intalnit-gheor.html</guid>
+    </item>
+    <item>
+        <title>Livetext România intră azi în semifinala 2 Eurovision 2026. Unde poate fi văzut show-ul și ce țară e mare favorită</title>
+        <link>https://www.libertatea.ro/entertainment/romania-eurovision-2026-semifinala-2-viena-livetext-5737794</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/romania-eurovision-2026-semifinala-2-viena-livetext-5737794</guid>
+    </item>
+    <item>
+        <title>Polonia a înregistrat prima căsătorie între persoane de același sex</title>
+        <link>https://www.mediafax.ro/externe/polonia-a-inregistrat-prima-casatorie-intre-persoane-de-acelasi-sex-23737371</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ilie-bolojan-despre-reforma-salarizarii-nu-ne-permitem-salarii-mai-mari-la-stat-fara-reduceri-de-personal-23737256</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/polonia-a-inregistrat-prima-casatorie-intre-persoane-de-acelasi-sex-23737371</guid>
+    </item>
+    <item>
+        <title>Ministrul unui stat UE: „Ţările Europei nu iau apărarea în serios. Rusia nu poate fi descurajată prin discuții”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/ministrul-unui-stat-ue-tarile-europei-nu-iau-apararea-in-serios-rusia-nu-poate-fi-descurajata-prin-discutii-3770713</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ministrul-unui-stat-ue-tarile-europei-nu-iau-apararea-in-serios-rusia-nu-poate-fi-descurajata-prin-discutii-3770713</guid>
+    </item>
+    <item>
+        <title>Un senator PSD îl acuză pe Ilie Bolojan de „trafic de influență” în favoarea fraților Micula. Reacţia Ioanei Dogioiu</title>
+        <link>https://adevarul.ro/politica/un-senator-psd-il-acuza-pe-ilie-bolojan-de-cel-2529762.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/politica/un-senator-psd-il-acuza-pe-ilie-bolojan-de-cel-2529762.html</guid>
+    </item>
+    <item>
+        <title>O șoferiță a murit după ce mașina pe care o conducea a fost zdrobită de un tren cu 100 de persoane la bord, în Găești</title>
+        <link>https://www.libertatea.ro/stiri/gaesti-tren-zdrobit-masina-soferita-moarta-5739737</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/gaesti-tren-zdrobit-masina-soferita-moarta-5739737</guid>
+    </item>
+    <item>
+        <title>Polonia a înregistrat prima căsătorie între persoane de același sex / Varșovia va recunoaște și alte căsătorii înregistrate în alte țări ale UE, chiar</title>
+        <link>https://www.g4media.ro/polonia-a-inregistrat-prima-casatorie-intre-persoane-de-acelasi-sex-varsovia-va-recunoaste-si-alte-casatorii-inregistrate-in-alte-tari-ale-ue-chiar-si-si-fara-o-hotarare-judecatoreasca.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/polonia-a-inregistrat-prima-casatorie-intre-persoane-de-acelasi-sex-varsovia-va-recunoaste-si-alte-casatorii-inregistrate-in-alte-tari-ale-ue-chiar-si-si-fara-o-hotarare-judecatoreasca.html</guid>
     </item>
     <item>
         <title>De ce seturile de construcție din plastic colorat au cucerit mințile a trei generații de copii și adulți</title>
@@ -80,190 +212,106 @@
         <guid isPermaLink="true">https://www.g4media.ro/o-casa-de-productie-independenta-italiana-ii-finanteaza-un-film-regizorului-roman-radu-jude-va-explora-tensiunile-sociopolitice-din-europa.html</guid>
     </item>
     <item>
-        <title>Președintele Nicușor Dan a stabilit data consultărilor oficiale pentru desemnarea premierului</title>
-        <link>https://www.mediafax.ro/stirile-zilei/presedintele-nicusor-dan-a-stabilit-data-consultarilor-oficiale-pentru-desemnarea-premierului-23737285</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/presedintele-nicusor-dan-a-stabilit-data-consultarilor-oficiale-pentru-desemnarea-premierului-23737285</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan cheamă pe 18 mai partidele parlamentare la Cotroceni pentru consultări privind desemnarea candidatului la funcția de premier</title>
-        <link>https://www.europafm.ro/presedintel-nicusor-dan-cheama-luni-18-mai-partidele-si-formatiunile-politice-parlamentare-la-cotroceni-pentru-consultari-privind-desemnarea-candidatului-la-functia-de-premier/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/presedintel-nicusor-dan-cheama-luni-18-mai-partidele-si-formatiunile-politice-parlamentare-la-cotroceni-pentru-consultari-privind-desemnarea-candidatului-la-functia-de-premier/</guid>
-    </item>
-    <item>
-        <title>Ilie Bolojan: România mai are peste 35 de jaloane PNRR de îndeplinit. Nouă sunt foarte importante. Noua lege a salarizării, printre reformele-cheie</title>
-        <link>https://www.europafm.ro/ilie-bolojan-jaloane-pnrr-legea-salarizarii/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/ilie-bolojan-jaloane-pnrr-legea-salarizarii/</guid>
-    </item>
-    <item>
-        <title>Criză politică în Letonia: premierul își anunță demisia după ieșirea progresiștilor din coaliție și scandalul dronelor ucrainene</title>
-        <link>https://adevarul.ro/stiri-externe/europa/criza-politica-in-letonia-premierul-isi-anunta-2529704.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/criza-politica-in-letonia-premierul-isi-anunta-2529704.html</guid>
-    </item>
-    <item>
-        <title>Rubio: „Ucraina a construit cea mai puternică armată din Europa” / ”Rușii pierd de cinci ori mai mulți soldați pe lună decât ucrainenii”</title>
-        <link>https://www.g4media.ro/rubio-ucraina-a-construit-cea-mai-puternica-armata-din-europa-rusii-pierd-de-cinci-ori-mai-multi-soldati-pe-luna-decat-ucrainenii.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/rubio-ucraina-a-construit-cea-mai-puternica-armata-din-europa-rusii-pierd-de-cinci-ori-mai-multi-soldati-pe-luna-decat-ucrainenii.html</guid>
-    </item>
-    <item>
-        <title>Un bărbat a fost condamnat pentru conducerea unei baze secrete de spionaj chineze în New York</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/un-barbat-a-fost-condamnat-pentru-conducerea-unei-baze-secrete-de-spionaj-chineze-in-new-york-3770553</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/un-barbat-a-fost-condamnat-pentru-conducerea-unei-baze-secrete-de-spionaj-chineze-in-new-york-3770553</guid>
-    </item>
-    <item>
         <title>Sondaj CURS: AUR ar obține 32% la parlamentare, PSD –24%, PNL –20%, USR –10%. Călin Georgescu are 32% încredere multă și foarte multă</title>
         <link>https://www.digi24.ro/stiri/actualitate/politica/sondaj-curs-aur-ar-obtine-32-la-parlamentare-psd-24-pnl-20-usr-10-calin-georgescu-are-32-incredere-multa-si-foarte-multa-3770611</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/sondaj-curs-aur-ar-obtine-32-la-parlamentare-psd-24-pnl-20-usr-10-calin-georgescu-are-32-incredere-multa-si-foarte-multa-3770611</guid>
     </item>
     <item>
-        <title>Nicușor Dan a convocat consultări cu partidele pentru desemnarea premierului. Programul discuțiilor pentru luni</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-a-convocat-consultari-cu-partidele-pentru-desemnarea-premierului-programul-discutiilor-3770555</link>
+        <title>„Danaida” lui Constantin Brâncuşi, vedeta unei licitații la New York. Lucrarea evaluată la 100 de milioane de dolari e promovată de actriţa Nicole Kid</title>
+        <link>https://adevarul.ro/stil-de-viata/cultura/danaida-lui-constantin-brancusi-vedeta-unei-2529748.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/cultura/danaida-lui-constantin-brancusi-vedeta-unei-2529748.html</guid>
+    </item>
+    <item>
+        <title>Ioana Dogioiu, despre legătura dintre Ilie Bolojan și frații Micula: Declarații politice fără niciun substrat</title>
+        <link>https://www.mediafax.ro/politic/ioana-dogioiu-despre-legatura-dintre-ilie-bolojan-si-fratii-micula-declaratii-politice-fara-niciun-substrat-23737125</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ioana-dogioiu-despre-legatura-dintre-ilie-bolojan-si-fratii-micula-declaratii-politice-fara-niciun-substrat-23737125</guid>
+    </item>
+    <item>
+        <title>Donald Trump a dezvăluit lista „oamenilor străluciți” care îl însoțesc în China. „Să ajute Republica Populară să ajungă la un nivel și mai înalt!”</title>
+        <link>https://adevarul.ro/stiri-externe/sua/donald-trump-a-dezvaluit-lista-oamenilor-2529753.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/donald-trump-a-dezvaluit-lista-oamenilor-2529753.html</guid>
+    </item>
+    <item>
+        <title>Călin Georgescu a lăudat PSD și pe Simion pentru moțiune: „Prim pas spre reconciliere națională”. Despre un eventual mandat de premier</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/calin-georgescu-a-laudat-psd-si-pe-simion-pentru-motiune-prim-pas-spre-reconciliere-nationala-despre-un-eventual-mandat-de-premier-3770727</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-a-convocat-consultari-cu-partidele-pentru-desemnarea-premierului-programul-discutiilor-3770555</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/calin-georgescu-a-laudat-psd-si-pe-simion-pentru-motiune-prim-pas-spre-reconciliere-nationala-despre-un-eventual-mandat-de-premier-3770727</guid>
     </item>
     <item>
-        <title>România renegociază final PNRR pentru a încasa integral cele 4,9 miliarde euro din granturi</title>
-        <link>https://www.g4media.ro/romania-renegociaza-final-pnrr-pentru-a-incasa-integral-cele-49-miliarde-euro-din-granturi.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/romania-renegociaza-final-pnrr-pentru-a-incasa-integral-cele-49-miliarde-euro-din-granturi.html</guid>
-    </item>
-    <item>
-        <title>Modista, meseria pierdută în România, profesie de elită în Marea Britanie. Cum s-a pierdut arta de a face pălării la noi.</title>
-        <link>https://adevarul.ro/interviurile-adevarul/modista-meseria-pierduta-in-romania-profesie-de-2529176.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/interviurile-adevarul/modista-meseria-pierduta-in-romania-profesie-de-2529176.html</guid>
-    </item>
-    <item>
-        <title>Liderul senatorilor PSD, Daniel Zamfir, a cerut joi ca ”organelor statului” să o cerceteze pe vicepremierul Oana Gheorghiu și pe oamenii de afaceri cu</title>
-        <link>https://www.g4media.ro/liderul-senatorilor-psd-daniel-zamfir-a-cerut-joi-ca-organelor-statului-sa-o-cerceteze-pe-vicepremierul-oana-gheorghiu-si-pe-oamenii-de-afaceri-cu-care-aceasta-s-a-intalnit-gheor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/liderul-senatorilor-psd-daniel-zamfir-a-cerut-joi-ca-organelor-statului-sa-o-cerceteze-pe-vicepremierul-oana-gheorghiu-si-pe-oamenii-de-afaceri-cu-care-aceasta-s-a-intalnit-gheor.html</guid>
-    </item>
-    <item>
-        <title>Rezultate la tragere loto de joi, 14 mai. Report de peste 4,36 milioane de euro la 6/49</title>
-        <link>https://adevarul.ro/stiri-interne/societate/rezultate-la-tragere-loto-de-joi-14-mai-report-2529741.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/rezultate-la-tragere-loto-de-joi-14-mai-report-2529741.html</guid>
-    </item>
-    <item>
-        <title>Cum ar vota românii dacă duminică ar avea loc alegeri parlamentare. Diferența care desparte PSD de PNL</title>
-        <link>https://adevarul.ro/stiri-interne/societate/cum-ar-vota-romanii-daca-duminica-ar-avea-loc-2529706.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/cum-ar-vota-romanii-daca-duminica-ar-avea-loc-2529706.html</guid>
-    </item>
-    <item>
-        <title>Livetext România intră azi în semifinala 2 Eurovision 2026. Unde poate fi văzut show-ul și ce țară e mare favorită</title>
-        <link>https://www.libertatea.ro/entertainment/romania-eurovision-2026-semifinala-2-viena-livetext-5737794</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/romania-eurovision-2026-semifinala-2-viena-livetext-5737794</guid>
-    </item>
-    <item>
-        <title>5 știri – Filme și seriale: Cine este românca dorită de actorii din „Berlin” în filmul lor. Când se relansează „Top Gun”</title>
-        <link>https://www.libertatea.ro/entertainment/5-stiri-filme-seriale-romanca-dorita-de-actorii-din-berlin-relansare-top-gun-5739806</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/5-stiri-filme-seriale-romanca-dorita-de-actorii-din-berlin-relansare-top-gun-5739806</guid>
-    </item>
-    <item>
-        <title>Dragoș Pîslaru: „Cu cererea de plată 4 aprobată, PNRR-ul României trece de 60% implementare”</title>
-        <link>https://www.mediafax.ro/politic/dragos-pislaru-cu-cererea-de-plata-4-aprobata-pnrr-ul-romaniei-trece-de-60-implementare-23737268</link>
+        <title>Numărul 2 din PNL îl atacă pe președintele Nicușor Dan: „M-aș fi așteptat să oprească PSD să depună moțiunea de cenzură”. Dan Motreanu vorbește despre</title>
+        <link>https://www.mediafax.ro/stirile-zilei/numarul-2-din-pnl-il-ataca-pe-presedintele-nicusor-dan-m-as-fi-asteptat-sa-opreasca-psd-sa-depuna-motiunea-de-cenzura-dan-motreanu-vorbeste-despre-premierul-tehnocrat-si-strategia-23737356</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/dragos-pislaru-cu-cererea-de-plata-4-aprobata-pnrr-ul-romaniei-trece-de-60-implementare-23737268</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/numarul-2-din-pnl-il-ataca-pe-presedintele-nicusor-dan-m-as-fi-asteptat-sa-opreasca-psd-sa-depuna-motiunea-de-cenzura-dan-motreanu-vorbeste-despre-premierul-tehnocrat-si-strategia-23737356</guid>
     </item>
     <item>
-        <title>Diplomatul rus „trebuie convocat și dat cu nasul”, afirmă puterea după ce o dronă a pătruns în Republica Moldova</title>
-        <link>https://adevarul.ro/stiri-externe/republica-moldova/diplomatul-rus-trebuie-convocat-si-dat-cu-nasul-2529718.html</link>
+        <title>Marele blocaj din Strâmtoarea Ormuz: cine clipește primul?</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/marele-blocaj-din-stramtoarea-ormuz-cine-clipeste-2529428.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/diplomatul-rus-trebuie-convocat-si-dat-cu-nasul-2529718.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/marele-blocaj-din-stramtoarea-ormuz-cine-clipeste-2529428.html</guid>
     </item>
     <item>
-        <title>CNIR lansează o platformă prin care românii pot raporta acum direct problemele de pe șantierele de infrastructură</title>
-        <link>https://www.libertatea.ro/stiri/cnir-lanseaza-platforma-romanii-pot-raporta-direct-probleme-santiere-infrastructura-5739733</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/cnir-lanseaza-platforma-romanii-pot-raporta-direct-probleme-santiere-infrastructura-5739733</guid>
-    </item>
-    <item>
-        <title>Putin a numit un nou guvernator în regiunea Belgorod. Cine este Aleksandr Șuvaev, acuzat de crime de război</title>
-        <link>https://adevarul.ro/stiri-externe/rusia/putin-a-numit-un-nou-guvernator-in-regiunea-2529746.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/putin-a-numit-un-nou-guvernator-in-regiunea-2529746.html</guid>
-    </item>
-    <item>
-        <title>Rusia sfidează în mod deschis eforturile de pace, susține preşedinta Comisiei Europene după atacul masiv al forțelor ruse, soldat cu cinci morți și 40</title>
-        <link>https://www.g4media.ro/rusia-sfideaza-in-mod-deschis-eforturile-de-pace-sustine-presedinta-comisiei-europene-dupa-atacul-masiv-al-fortelor-ruse-soldat-cu-cinci-morti-si-40-de-raniti.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/rusia-sfideaza-in-mod-deschis-eforturile-de-pace-sustine-presedinta-comisiei-europene-dupa-atacul-masiv-al-fortelor-ruse-soldat-cu-cinci-morti-si-40-de-raniti.html</guid>
-    </item>
-    <item>
-        <title>UPDATE. Corupție în magistratură. „Nu am nicio activitate de corupție care să fie imputabilă. Sunt suspect pentru instigare la abuz în serviciu”. Proc</title>
-        <link>https://www.mediafax.ro/stirile-zilei/update-peste-100-000-de-euro-gasiti-de-supc-in-biroul-si-masina-sefului-procurorilor-constanteni-suspiciuni-judiciare-viata-de-lux-a-procurorului-gigi-stefan-procurorii-supc-continua-cercetarile-c-23736875</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/update-peste-100-000-de-euro-gasiti-de-supc-in-biroul-si-masina-sefului-procurorilor-constanteni-suspiciuni-judiciare-viata-de-lux-a-procurorului-gigi-stefan-procurorii-supc-continua-cercetarile-c-23736875</guid>
-    </item>
-    <item>
-        <title>DOCUMENT Ilie Bolojan a prezentat un document care arată că guvernul Ciolacu a gestionat programul SAFE</title>
-        <link>https://www.g4media.ro/documentdocument-ilie-bolojan-a-prezentat-un-document-care-arata-ca-guvernul-ciolacu-a-gestionat-programul-safe.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/documentdocument-ilie-bolojan-a-prezentat-un-document-care-arata-ca-guvernul-ciolacu-a-gestionat-programul-safe.html</guid>
-    </item>
-    <item>
-        <title>Șeful Vămii, numit de Ilie Bolojan și prins de procurori, pentru „rezultate remarcabile”? Ce insinuează purtătorul de cuvânt al Guvernului în discuții</title>
-        <link>https://www.mediafax.ro/stirile-zilei/seful-vamii-numit-de-ilie-bolojan-si-prins-de-procurori-pentru-rezultate-remarcabile-ce-insinueaza-purtatorul-de-cuvant-al-guvernului-in-discutiile-cu-jurnalistii-23737326</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/seful-vamii-numit-de-ilie-bolojan-si-prins-de-procurori-pentru-rezultate-remarcabile-ce-insinueaza-purtatorul-de-cuvant-al-guvernului-in-discutiile-cu-jurnalistii-23737326</guid>
-    </item>
-    <item>
-        <title>O șoferiță a murit după ce mașina pe care o conducea a fost zdrobită de un tren cu 100 de persoane la bord, în Găești</title>
-        <link>https://www.libertatea.ro/stiri/gaesti-tren-zdrobit-masina-soferita-moarta-5739737</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/gaesti-tren-zdrobit-masina-soferita-moarta-5739737</guid>
-    </item>
-    <item>
-        <title>A fost reluată deszăpezirea Transfăgărăşanului / Stratul de zăpadă depăşeşte pe alocuri trei metri</title>
-        <link>https://www.g4media.ro/a-fost-reluata-deszapezirea-transfagarasanului-stratul-de-zapada-depaseste-pe-alocuri-trei-metri.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/a-fost-reluata-deszapezirea-transfagarasanului-stratul-de-zapada-depaseste-pe-alocuri-trei-metri.html</guid>
-    </item>
-    <item>
-        <title>O nouă carte din seria „Naşul”, scrisă de o femeie, va fi publicată în 2027 / „Pătrund în lumea lui Mario (Puzo) şi voi prezenta punctul de vedere al </title>
-        <link>https://www.g4media.ro/o-noua-carte-din-seria-nasul-scrisa-de-o-femeie-va-fi-publicata-in-2027-patrund-in-lumea-lui-mario-puzo-si-voi-prezenta-punctul-de-vedere-al-femeilor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/o-noua-carte-din-seria-nasul-scrisa-de-o-femeie-va-fi-publicata-in-2027-patrund-in-lumea-lui-mario-puzo-si-voi-prezenta-punctul-de-vedere-al-femeilor.html</guid>
-    </item>
-    <item>
-        <title>Horoscop 15 mai: Luna în Taur accentuează nevoia de stabilitate. Între decizii lucide și emoții greu de controlat</title>
-        <link>https://www.mediafax.ro/stirile-zilei/horoscop-15-mai-luna-in-taur-accentueaza-nevoia-de-stabilitate-intre-decizii-lucide-si-emotii-greu-de-controlat-23737330</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/horoscop-15-mai-luna-in-taur-accentueaza-nevoia-de-stabilitate-intre-decizii-lucide-si-emotii-greu-de-controlat-23737330</guid>
-    </item>
-    <item>
-        <title>Ursula von der Leyen felicită România, după aprobarea cererii de plată din PNRR: „Eforturile voastre de reformă sunt răsplătite”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/ursula-von-der-leyen-felicita-romania-dupa-aprobarea-cererii-de-plata-din-pnrr-eforturile-voastre-de-reforma-sunt-rasplatite-3770507</link>
+        <title>Rusia a ordonat trupelor să decapiteze soldații ucraineni căzuți la datorie. „O crimă de război premeditată”</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/rusia-a-ordonat-trupelor-sa-decapiteze-soldatii-ucraineni-cazuti-la-datorie-o-crima-de-razboi-premeditata-3770605</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ursula-von-der-leyen-felicita-romania-dupa-aprobarea-cererii-de-plata-din-pnrr-eforturile-voastre-de-reforma-sunt-rasplatite-3770507</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/rusia-a-ordonat-trupelor-sa-decapiteze-soldatii-ucraineni-cazuti-la-datorie-o-crima-de-razboi-premeditata-3770605</guid>
     </item>
     <item>
-        <title>Ce vrea Putin? Mobilizare sau negocieri de pace?</title>
-        <link>https://adevarul.ro/blogurile-adevarul/ce-vrea-putin-mobilizare-sau-negocieri-de-pace-2529714.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/ce-vrea-putin-mobilizare-sau-negocieri-de-pace-2529714.html</guid>
+        <title>Se cere închisoare pe viață pentru Vasile Frumuzache, agentul de pază român care a ucis în Italia două escorte / „A acționat cu premeditare”</title>
+        <link>https://www.g4media.ro/se-cere-inchisoare-pe-viata-pentru-vasile-frumuzache-agentul-de-paza-roman-care-a-ucis-in-italia-doua-escorte-a-actionat-cu-premeditare.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/se-cere-inchisoare-pe-viata-pentru-vasile-frumuzache-agentul-de-paza-roman-care-a-ucis-in-italia-doua-escorte-a-actionat-cu-premeditare.html</guid>
     </item>
     <item>
-        <title>Prim-vicepreședintele PNL, Ciprian Ciucu: „Un guvern tehnocat nu va fi bun de nimic. Iar dacă va fi la raport, să nu iasă din cuvântul PSD, nu am făcu</title>
-        <link>https://www.europafm.ro/prim-vicepresedintele-pnl-ciprian-ciucu-un-guvern-tehnocat-nu-va-fi-bun-de-nimic-iar-daca-va-fi-la-raport-sa-nu-iasa-din-cuvantul-psd-nu-am-facut-nimic/</link>
+        <title>Șeful Cancelariei premierului, despre contractul cu Rheinmetall: Când ai mai multe produse într-un singur coş, discountul e mare</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/seful-cancelariei-premierului-despre-contractul-cu-rheinmetall-cand-ai-mai-multe-produse-intr-un-singur-cos-discountul-e-mare-3770673</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/seful-cancelariei-premierului-despre-contractul-cu-rheinmetall-cand-ai-mai-multe-produse-intr-un-singur-cos-discountul-e-mare-3770673</guid>
+    </item>
+    <item>
+        <title>Candidatul pro-rus Călin Georgescu a lăudat moțiunea de cenzură prin care PSD și AUR au dărâmat guvernul Bolojan: ”Simion a organizat această acțiune </title>
+        <link>https://www.g4media.ro/candidatul-pro-rus-calin-georgescu-a-laudat-motiunea-de-cenzura-prin-care-psd-si-aur-au-daramat-guvernul-bolojan-simion-a-organizat-aceasta-actiune-de-sah-mat-cu-psd-primul-pas-catre-recon.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/candidatul-pro-rus-calin-georgescu-a-laudat-motiunea-de-cenzura-prin-care-psd-si-aur-au-daramat-guvernul-bolojan-simion-a-organizat-aceasta-actiune-de-sah-mat-cu-psd-primul-pas-catre-recon.html</guid>
+    </item>
+    <item>
+        <title>Trump anunță că China va cumpăra 200 de avioane Boeing / ”200 dintre cele mari” / Acțiunile Boeing au scăzut cu 4% după declarațiile lui Trump</title>
+        <link>https://www.g4media.ro/trump-anunta-ca-china-va-cumpara-200-de-avioane-boeing-200-dintre-cele-mari-actiunile-boeing-au-scazut-cu-4-dupa-declaratiile-lui-trump.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/trump-anunta-ca-china-va-cumpara-200-de-avioane-boeing-200-dintre-cele-mari-actiunile-boeing-au-scazut-cu-4-dupa-declaratiile-lui-trump.html</guid>
+    </item>
+    <item>
+        <title>Sorana Cîrstea a ratat calificarea în finala turneului WTA 1.000 de la Roma, după ce a fost învinsă de Coco Gauff</title>
+        <link>https://www.europafm.ro/sorana-cirstea-coco-gauff-semifinala-wta-roma/</link>
         <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/prim-vicepresedintele-pnl-ciprian-ciucu-un-guvern-tehnocat-nu-va-fi-bun-de-nimic-iar-daca-va-fi-la-raport-sa-nu-iasa-din-cuvantul-psd-nu-am-facut-nimic/</guid>
+        <guid isPermaLink="true">https://www.europafm.ro/sorana-cirstea-coco-gauff-semifinala-wta-roma/</guid>
     </item>
     <item>
-        <title>Dan Motreanu, numărul 2 în PNL: Nu îl vom propune pe Ilie Bolojan ca premier la consultările de la Cotroceni în primă fază și nu vom susține un premie</title>
-        <link>https://www.g4media.ro/dan-motreanu-numarul-2-in-pnl-nu-il-vom-propune-pe-ilie-bolojan-ca-premier-la-consultarile-de-la-cotroceni-in-prima-faza-si-nu-vom-sustine-un-premier-tehnocrat-ma-asteptam-ca-presedintele-nicusor.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/dan-motreanu-numarul-2-in-pnl-nu-il-vom-propune-pe-ilie-bolojan-ca-premier-la-consultarile-de-la-cotroceni-in-prima-faza-si-nu-vom-sustine-un-premier-tehnocrat-ma-asteptam-ca-presedintele-nicusor.html</guid>
+        <title>Maia Sandu și Angela Merkel, printre primii laureați ai Ordinului European de Merit. Pentru ce este oferită distincția</title>
+        <link>https://adevarul.ro/stiri-externe/republica-moldova/maia-sandu-si-angela-merkel-printre-primii-2529759.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/republica-moldova/maia-sandu-si-angela-merkel-printre-primii-2529759.html</guid>
+    </item>
+    <item>
+        <title>Un comandant ucrainean din trupele speciale a vorbit la Impact 2026 despre teroarea pe care o seamănă la Moscova: „Am distrus atâția ruși”</title>
+        <link>https://www.libertatea.ro/stiri/un-comandant-ucrainean-din-trupele-speciale-a-vorbit-la-impact-2026-despre-teroarea-pe-care-o-seamana-la-moscova-5739754</link>
+        <description>Libertatea</description>
+        <guid isPermaLink="true">https://www.libertatea.ro/stiri/un-comandant-ucrainean-din-trupele-speciale-a-vorbit-la-impact-2026-despre-teroarea-pe-care-o-seamana-la-moscova-5739754</guid>
+    </item>
+    <item>
+        <title>Mașină lovită de tren în Găeşti. Şoferiţa a murit pe loc, iar trei călători au făcut atac de panică</title>
+        <link>https://adevarul.ro/stiri-locale/targoviste/masina-lovita-de-tren-in-gaesti-soferita-a-murit-2529742.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/targoviste/masina-lovita-de-tren-in-gaesti-soferita-a-murit-2529742.html</guid>
+    </item>
+    <item>
+        <title>Cum stau în sondaje Bolojan, Grindeanu și principalele partide, potrivit lui Vasile Dîncu: „S-a născut o mitologie a salvatorului”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/cum-stau-in-sondaje-bolojan-grindeanu-si-principalele-partide-potrivit-lui-vasile-dincu-s-a-nascut-o-mitologie-a-salvatorului-3770731</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/cum-stau-in-sondaje-bolojan-grindeanu-si-principalele-partide-potrivit-lui-vasile-dincu-s-a-nascut-o-mitologie-a-salvatorului-3770731</guid>
     </item>
     <item>
         <title>Șeful Autorității Vamale Române, Mihai Savin, și alți funcționari de la Direcția Vamală Galați, plasați sub control judiciar pentru 60 de zile | AUDIO</title>
@@ -272,52 +320,16 @@
         <guid isPermaLink="true">https://www.europafm.ro/mihai-savin-sef-autoritatii-vamale-retinut-fals-uz-de-fals/</guid>
     </item>
     <item>
-        <title>CSM somează Guvernul că deblocheze angajările din Justiție. România, lider în UE la volumul de dosare nou-intrate</title>
-        <link>https://adevarul.ro/politica/csm-someaza-guvernul-ca-deblocheze-angajarile-din-2529707.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/csm-someaza-guvernul-ca-deblocheze-angajarile-din-2529707.html</guid>
-    </item>
-    <item>
         <title>Președintele Nicușor Dan transmite că securitatea Europei depinde de unitatea relației transatlantice în ziua în care SUA au suspendat rotația trupelo</title>
         <link>https://www.g4media.ro/presedintele-nicusor-dan-transmite-ca-securitatea-europei-depinde-de-unitatea-relatiei-transatlantice-in-ziua-in-care-sua-au-suspendat-rotatia-trupelor-catre-europa.html</link>
         <description>G4Media</description>
         <guid isPermaLink="true">https://www.g4media.ro/presedintele-nicusor-dan-transmite-ca-securitatea-europei-depinde-de-unitatea-relatiei-transatlantice-in-ziua-in-care-sua-au-suspendat-rotatia-trupelor-catre-europa.html</guid>
     </item>
     <item>
-        <title>Ilie Bolojan anunță finalizarea programului SAFE. Când va putea fi semnat contractul de împrumut cu UE: „O decizie corectă”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-finalizarea-programului-safe-cand-va-putea-fi-semnat-contractul-de-imprumut-cu-ue-o-decizie-corecta-3770513</link>
+        <title>Dan Motreanu: „Grindeanu nu are credibilitate pentru a fi premier”. Liderul PNL spune că avea alte așteptări de la Nicușor Dan</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/dan-motreanu-grindeanu-nu-are-credibilitate-pentru-a-fi-premier-liderul-pnl-spune-ca-avea-alte-asteptari-de-la-nicusor-dan-3770657</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-anunta-finalizarea-programului-safe-cand-va-putea-fi-semnat-contractul-de-imprumut-cu-ue-o-decizie-corecta-3770513</guid>
-    </item>
-    <item>
-        <title>Bolojan, în urma publicării datelor INS: Este un semn că economia noastră se însănătoșește</title>
-        <link>https://www.mediafax.ro/stirile-zilei/bolojan-in-urma-publicarii-datelor-ins-este-un-semn-ca-economia-noastra-se-insanatoseste-23737267</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/bolojan-in-urma-publicarii-datelor-ins-este-un-semn-ca-economia-noastra-se-insanatoseste-23737267</guid>
-    </item>
-    <item>
-        <title>Marco Rubio consideră armata Ucrainei drept „cea mai puternică” forță militară din Europa: „Rușii pierd de cinci ori mai mulți soldați”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/marco-rubio-considera-armata-ucrainei-drept-cea-mai-puternica-forta-militara-din-europa-rusii-pierd-de-cinci-ori-mai-multi-soldati-3770649</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/marco-rubio-considera-armata-ucrainei-drept-cea-mai-puternica-forta-militara-din-europa-rusii-pierd-de-cinci-ori-mai-multi-soldati-3770649</guid>
-    </item>
-    <item>
-        <title>Ciprian Ciucu despre viitorul Guvern: Mă aștept la un guvern tehnocrat fiindcă Grindeanu fuge de guvernare</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ciprian-ciucu-despre-viitorul-guvern-ma-astept-la-un-guvern-tehnocrat-fiindca-grindeanu-fuge-de-guvernare-23737319</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ciprian-ciucu-despre-viitorul-guvern-ma-astept-la-un-guvern-tehnocrat-fiindca-grindeanu-fuge-de-guvernare-23737319</guid>
-    </item>
-    <item>
-        <title>Ciprian Ciucu, despre PSD și AUR: Avem deja o majoritate funcțională în Parlament. PNL continuă să-l susțină pe Ilie Bolojan</title>
-        <link>https://www.mediafax.ro/politic/ciprian-ciucu-despre-psd-si-aur-avem-deja-o-majoritate-functionala-in-parlament-pnl-continua-sa-l-sustina-pe-ilie-bolojan-23737292</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/ciprian-ciucu-despre-psd-si-aur-avem-deja-o-majoritate-functionala-in-parlament-pnl-continua-sa-l-sustina-pe-ilie-bolojan-23737292</guid>
-    </item>
-    <item>
-        <title>Magistrala M3 de metrou ar putea fi prelungită până în Chiajna și Bragadiru. Proiect în trei tronsoane | AUDIO</title>
-        <link>https://www.europafm.ro/prelungire-metrou-m3-chiajna-bragadiru/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/prelungire-metrou-m3-chiajna-bragadiru/</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/dan-motreanu-grindeanu-nu-are-credibilitate-pentru-a-fi-premier-liderul-pnl-spune-ca-avea-alte-asteptari-de-la-nicusor-dan-3770657</guid>
     </item>
     <item>
         <title>Călin Georgescu răspunde la acuzațiile privind legăturile cu serviciile secrete: „Se tem de cei care nu se vând”</title>
@@ -326,46 +338,34 @@
         <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/calin-georgescu-raspunde-la-acuzatiile-privind-legaturile-cu-serviciile-secrete-se-tem-de-cei-care-nu-se-vand-23737348</guid>
     </item>
     <item>
-        <title>Transfer de moaște între italieni și români / Părți din Sfântul Piu Martirul ajung la o biserică ortodoxă din Prato / ”Va fi un moment de fraternitate</title>
-        <link>https://www.g4media.ro/transfer-de-moaste-intre-italieni-si-romani-parti-din-sfantul-piu-martirul-ajung-la-o-biserica-ortodoxa-din-prato-va-fi-un-moment-de-fraternitate-absolut-inedit.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/transfer-de-moaste-intre-italieni-si-romani-parti-din-sfantul-piu-martirul-ajung-la-o-biserica-ortodoxa-din-prato-va-fi-un-moment-de-fraternitate-absolut-inedit.html</guid>
-    </item>
-    <item>
-        <title>La Onești va fi construit un muzeu dedicat Nadiei Comăneci, iar baza sportivă va fi extinsă și modernizată</title>
-        <link>https://www.g4media.ro/la-onesti-va-fi-construit-un-muzeu-dedicat-nadiei-comaneci-iar-baza-sportiva-va-fi-extinsa-si-modernizata.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/la-onesti-va-fi-construit-un-muzeu-dedicat-nadiei-comaneci-iar-baza-sportiva-va-fi-extinsa-si-modernizata.html</guid>
-    </item>
-    <item>
-        <title>Oana Gheorghiu demontează acuzațiile de trafic de influență pe care i le-a adus fostul președinte al ADR: „Fake news”</title>
-        <link>https://www.libertatea.ro/stiri/oana-gheorghiu-demonteaza-acuzatii-trafic-influenta-fost-presedinte-adr-5739741</link>
+        <title>5 știri – Filme și seriale: Cine este românca dorită de actorii din „Berlin” în filmul lor. Când se relansează „Top Gun”</title>
+        <link>https://www.libertatea.ro/entertainment/5-stiri-filme-seriale-romanca-dorita-de-actorii-din-berlin-relansare-top-gun-5739806</link>
         <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/oana-gheorghiu-demonteaza-acuzatii-trafic-influenta-fost-presedinte-adr-5739741</guid>
+        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/5-stiri-filme-seriale-romanca-dorita-de-actorii-din-berlin-relansare-top-gun-5739806</guid>
     </item>
     <item>
-        <title>Un molar de neanderthalian, descoperit în Siberia, prezintă cea mai veche intervenție stomatologică | AUDIO</title>
-        <link>https://www.europafm.ro/dinte-neanderthalian-siberia-cel-mai-vechi-caz-chirurgie-dentara/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/dinte-neanderthalian-siberia-cel-mai-vechi-caz-chirurgie-dentara/</guid>
+        <title>Guvernul a aprobat un memorandum pentru măriri salariale pentru 47 de firme ale unor primării</title>
+        <link>https://www.g4media.ro/guvernul-a-aprobat-un-memorandum-pentru-mariri-salariale-pentru-47-de-firme-ale-unor-primarii.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/guvernul-a-aprobat-un-memorandum-pentru-mariri-salariale-pentru-47-de-firme-ale-unor-primarii.html</guid>
     </item>
     <item>
-        <title>Cum a păcălit un colonel FSB „echipele morții” ale lui Putin, ascuns în cadavrul unei vaci</title>
-        <link>https://adevarul.ro/stiri-externe/rusia/cum-a-pacalit-un-colonel-fsb-echipele-mortii-2529678.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/cum-a-pacalit-un-colonel-fsb-echipele-mortii-2529678.html</guid>
+        <title>Dragoş Pîslaru spune că un proiect pierdut din cauza gestiunii proaste a PNRR va fi finanţat prin fonduri norvegiene</title>
+        <link>https://www.digi24.ro/stiri/actualitate/dragos-pislaru-spune-ca-un-proiect-pierdut-din-cauza-gestiunii-proaste-a-pnrr-va-fi-finantat-prin-fonduri-norvegiene-3770563</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/dragos-pislaru-spune-ca-un-proiect-pierdut-din-cauza-gestiunii-proaste-a-pnrr-va-fi-finantat-prin-fonduri-norvegiene-3770563</guid>
     </item>
     <item>
-        <title>Ilie Bolojan, despre PNRR: Următoarele două săptămâni sunt cruciale pentru absorbția celor 2,6 miliarde de euro</title>
-        <link>https://www.mediafax.ro/politic/ilie-bolojan-despre-pnrr-urmatoarele-doua-saptamani-sunt-cruciale-pentru-absorbtia-celor-26-miliarde-de-euro-23737249</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/ilie-bolojan-despre-pnrr-urmatoarele-doua-saptamani-sunt-cruciale-pentru-absorbtia-celor-26-miliarde-de-euro-23737249</guid>
+        <title>Diana Buzoianu, despre sumele acordate prin Rabla: „Nu cred că ne putem întoarce la proiecte de peste un miliard”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/diana-buzoianu-despre-sumele-acordate-prin-rabla-nu-cred-ca-ne-putem-intoarce-la-proiecte-de-peste-un-miliard-3770729</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/diana-buzoianu-despre-sumele-acordate-prin-rabla-nu-cred-ca-ne-putem-intoarce-la-proiecte-de-peste-un-miliard-3770729</guid>
     </item>
     <item>
-        <title>Alexandra Căpitănescu, mesaj pentru românii din diaspora, înainte de a urca pe scenă în a doua semifinală Eurovision 2026: „Avem nevoie”</title>
-        <link>https://www.libertatea.ro/entertainment/alexandra-capitanescu-mesaj-pentru-romanii-din-diaspora-inainte-de-a-doua-semifinala-eurovision-2026-exclusiv-5739701</link>
-        <description>Libertatea</description>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/alexandra-capitanescu-mesaj-pentru-romanii-din-diaspora-inainte-de-a-doua-semifinala-eurovision-2026-exclusiv-5739701</guid>
+        <title>O nouă carte din seria „Naşul”, scrisă de o femeie, va fi publicată în 2027 / „Pătrund în lumea lui Mario (Puzo) şi voi prezenta punctul de vedere al </title>
+        <link>https://www.g4media.ro/o-noua-carte-din-seria-nasul-scrisa-de-o-femeie-va-fi-publicata-in-2027-patrund-in-lumea-lui-mario-puzo-si-voi-prezenta-punctul-de-vedere-al-femeilor.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/o-noua-carte-din-seria-nasul-scrisa-de-o-femeie-va-fi-publicata-in-2027-patrund-in-lumea-lui-mario-puzo-si-voi-prezenta-punctul-de-vedere-al-femeilor.html</guid>
     </item>
 </channel>
 </rss>
