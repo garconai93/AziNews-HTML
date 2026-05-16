@@ -5,19 +5,25 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 16 May 2026 10:47:32 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 12:41:55 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>E oficial! România riscă retrogradarea ratingului de țară. Avertismentul agenției S&amp;P Global Ratings</title>
-        <link>https://www.mediafax.ro/economic/e-oficial-romania-risca-retrogradarea-ratingului-de-tara-avertismentul-agentiei-sp-global-ratings-23738050</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/e-oficial-romania-risca-retrogradarea-ratingului-de-tara-avertismentul-agentiei-sp-global-ratings-23738050</guid>
+        <title>Topul celor mai bune prestații ale României la concursul Eurovision. Alexandra Căpitănescu este calificată în marea finală de astăzi</title>
+        <link>https://www.digi24.ro/magazin/timp-liber/divertisment/topul-celor-mai-bune-prestatii-ale-romaniei-la-concursul-eurovision-alexandra-capitanescu-este-calificata-in-marea-finala-de-astazi-3772369</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/divertisment/topul-celor-mai-bune-prestatii-ale-romaniei-la-concursul-eurovision-alexandra-capitanescu-este-calificata-in-marea-finala-de-astazi-3772369</guid>
     </item>
     <item>
-        <title>Presa maghiară, îngrijorată de cazul din România: Hantavirusul a ajuns la graniță</title>
-        <link>https://www.mediafax.ro/social/presa-maghiara-ingrijorata-de-cazul-din-romania-hantavirusul-a-ajuns-la-granita-23738026</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/presa-maghiara-ingrijorata-de-cazul-din-romania-hantavirusul-a-ajuns-la-granita-23738026</guid>
+        <title>Sindicatul Angajaților din Aparatul de Lucru al Guvernului intră de luni în grevă japoneză pentru că vicepremierul Oana Gheorghiu ar fi calificat stru</title>
+        <link>https://www.g4media.ro/sindicatul-angajatilor-din-aparatul-de-lucru-al-guvernului-intra-de-luni-in-greva-japoneza-pentru-ca-vicepremierul-oana-gheorghiu-ar-fi-calificat-structura-sindicala-drept-instrument-politic.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/sindicatul-angajatilor-din-aparatul-de-lucru-al-guvernului-intra-de-luni-in-greva-japoneza-pentru-ca-vicepremierul-oana-gheorghiu-ar-fi-calificat-structura-sindicala-drept-instrument-politic.html</guid>
+    </item>
+    <item>
+        <title>Sepsi OSK revine în Superliga! A fost sărbătoare mare la Sfântu Gheorghe, cu patronul Laszlo Dioszegi în prim plan</title>
+        <link>https://adevarul.ro/sport/sepsi-osk-revine-in-superliga-a-fost-sarbatoare-2530088.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/sport/sepsi-osk-revine-in-superliga-a-fost-sarbatoare-2530088.html</guid>
     </item>
     <item>
         <title>Preşedintele Nicușor Dan este „spirit geometric”, Ilie Bolojan „spirit de fineţe”. Consecinţe în conducerea României</title>
@@ -26,22 +32,40 @@
         <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/presedintele-nicusor-dan-este-spirit-geometric-2530049.html</guid>
     </item>
     <item>
+        <title>Bolojan: Forma noastră de respect este să nu ne batem joc de banii pe care îi colectăm de la oameni</title>
+        <link>https://www.mediafax.ro/politic/bolojan-forma-noastra-de-respect-este-sa-nu-ne-batem-joc-de-banii-pe-care-ii-colectam-de-la-oameni-23738057</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/bolojan-forma-noastra-de-respect-este-sa-nu-ne-batem-joc-de-banii-pe-care-ii-colectam-de-la-oameni-23738057</guid>
+    </item>
+    <item>
+        <title>Cine sunt rivalii lui Cioloș pentru conducerea Organizaţiei Internaţionale a Francofoniei. Depunerea candidaturilor s-a încheiat</title>
+        <link>https://www.digi24.ro/stiri/actualitate/cine-sunt-rivalii-lui-ciolos-pentru-conducerea-organizatiei-internationale-a-francofoniei-depunerea-candidaturilor-s-a-incheiat-3772509</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/cine-sunt-rivalii-lui-ciolos-pentru-conducerea-organizatiei-internationale-a-francofoniei-depunerea-candidaturilor-s-a-incheiat-3772509</guid>
+    </item>
+    <item>
+        <title>Scene dramatice într-o școală. O profesoară a murit în fața elevilor, în timpul orei</title>
+        <link>https://adevarul.ro/stiri-externe/europa/scene-dramatice-intr-o-scoala-o-profesoara-a-2530093.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/scene-dramatice-intr-o-scoala-o-profesoara-a-2530093.html</guid>
+    </item>
+    <item>
         <title>A intrat cu mașina într-un bancomat pe o stradă din Galați. O femeie a fost rănită</title>
         <link>https://www.mediafax.ro/social/a-intrat-cu-masina-intr-un-bancomat-pe-o-strada-din-galati-o-femeie-a-fost-ranita-23738049</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/social/a-intrat-cu-masina-intr-un-bancomat-pe-o-strada-din-galati-o-femeie-a-fost-ranita-23738049</guid>
     </item>
     <item>
-        <title>Conflictul pentru Sfinxul și Babele nu s-a încheiat nici după decizia definitivă a instanței. Cine revendică în continuare vestiții megaliți</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/conflictul-pentru-sfinxul-si-babele-nu-s-a-2530028.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/conflictul-pentru-sfinxul-si-babele-nu-s-a-2530028.html</guid>
+        <title>Rusia a restituit rămăşiţele a 528 de soldaţi ucraineni, anunţă Kievul</title>
+        <link>https://www.g4media.ro/rusia-a-restituit-ramasitele-a-528-de-soldati-ucraineni-anunta-kievul.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/rusia-a-restituit-ramasitele-a-528-de-soldati-ucraineni-anunta-kievul.html</guid>
     </item>
     <item>
-        <title>Monștrii fel și chip</title>
-        <link>https://adevarul.ro/blogurile-adevarul/monstrii-fel-si-chip-2530043.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/monstrii-fel-si-chip-2530043.html</guid>
+        <title>Casa ta e „toxică” și nu știi: două experte explică ce toxine invizibile ne distrug sănătatea</title>
+        <link>https://www.mediafax.ro/stirile-zilei/casa-ta-e-toxica-si-nu-stii-doua-experte-explica-ce-toxine-invizibile-ne-distrug-sanatatea-23738097</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/casa-ta-e-toxica-si-nu-stii-doua-experte-explica-ce-toxine-invizibile-ne-distrug-sanatatea-23738097</guid>
     </item>
     <item>
         <title>Ilie Bolojan e categoric: Dacă PSD va fi la guvernare, PNL va fi în opoziție</title>
@@ -50,58 +74,34 @@
         <guid isPermaLink="true">https://www.g4media.ro/ilie-bolojan-e-categoric-daca-psd-va-fi-la-guvernare-pnl-va-fi-in-opozitie.html</guid>
     </item>
     <item>
-        <title>Debuturi și oaspeți la Opera Națională București</title>
-        <link>https://adevarul.ro/blogurile-adevarul/debuturi-si-oaspeti-la-opera-nationala-bucuresti-2530050.html</link>
+        <title>Nazare interzice ChatGPT în Ministerul Finanțelor și blochează accesul la mailurile personale</title>
+        <link>https://adevarul.ro/politica/nazare-interzice-chatgpt-in-ministerul-finantelor-2530076.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/debuturi-si-oaspeti-la-opera-nationala-bucuresti-2530050.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/nazare-interzice-chatgpt-in-ministerul-finantelor-2530076.html</guid>
     </item>
     <item>
-        <title>Avertismentul doctorilor despre medicamentele expirate: Ce riscuri ascund pastilele uitate în sertar</title>
-        <link>https://www.digi24.ro/stiri/actualitate/sanatate/avertismentul-medicilor-despre-medicamentele-expirate-ce-riscuri-ascund-pastilele-uitate-in-sertar-3771439</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/avertismentul-medicilor-despre-medicamentele-expirate-ce-riscuri-ascund-pastilele-uitate-in-sertar-3771439</guid>
-    </item>
-    <item>
-        <title>Un judecător francez va efectua o anchetă ce vizează moartea jurnalistului Jamal Khashoggi într-un consulat saudit în 2018</title>
-        <link>https://www.g4media.ro/un-judecator-francez-va-efectua-o-ancheta-ce-vizeaza-moartea-jurnalistului-jamal-khashoggi-intr-un-consulat-saudit-in-2018.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/un-judecator-francez-va-efectua-o-ancheta-ce-vizeaza-moartea-jurnalistului-jamal-khashoggi-intr-un-consulat-saudit-in-2018.html</guid>
-    </item>
-    <item>
-        <title>O şoferiţă de 71 de ani din Galați a intrat cu maşina într-un bancomat şi a accidentat o femeie</title>
-        <link>https://www.digi24.ro/stiri/actualitate/o-soferita-de-71-de-ani-din-galati-a-intrat-cu-masina-intr-un-bancomat-si-a-accidentat-o-femeie-3772423</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/o-soferita-de-71-de-ani-din-galati-a-intrat-cu-masina-intr-un-bancomat-si-a-accidentat-o-femeie-3772423</guid>
-    </item>
-    <item>
-        <title>Palestinienii, obligați să-și demoleze casele pentru a face loc unui parc tematic israelian</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/palestinienii-obligati-sa-si-demoleze-casele-2530063.html</link>
+        <title>Înalta Curte amână dosarul lui Dominic Fritz, după ce Curtea de Apel Timișoara l-a declarat incompatibil</title>
+        <link>https://adevarul.ro/politica/inalta-curte-amana-dosarul-lui-dominic-fritz-dupa-2530089.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/palestinienii-obligati-sa-si-demoleze-casele-2530063.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/inalta-curte-amana-dosarul-lui-dominic-fritz-dupa-2530089.html</guid>
     </item>
     <item>
-        <title>Donald Trump anunță eliminarea numărului doi din Statul Islamic într-o operațiune din Nigeria</title>
-        <link>https://adevarul.ro/stiri-externe/sua/donald-trump-anunta-eliminarea-numarului-doi-din-2530033.html</link>
+        <title>Vedeta TV care a renunțat la televiziune pentru un job la STB. Ce spune despre foștii săi șefi</title>
+        <link>https://adevarul.ro/showbiz/vedete/vedeta-tv-care-a-renuntat-la-televiziune-pentru-un-2530086.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/donald-trump-anunta-eliminarea-numarului-doi-din-2530033.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/vedete/vedeta-tv-care-a-renuntat-la-televiziune-pentru-un-2530086.html</guid>
     </item>
     <item>
-        <title>Cod portocaliu de averse torenţiale în 5 judeţe / Cod galben de furtuni în 19 judeţe şi Bucureşti, de sâmbătă după-amiaza, până duminică dimineaţa</title>
-        <link>https://www.g4media.ro/cod-portocaliu-de-averse-torentiale-in-5-judete-cod-galben-de-furtuni-in-19-judete-si-bucuresti-de-sambata-dupa-amiaza-pana-duminica-dimineata.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cod-portocaliu-de-averse-torentiale-in-5-judete-cod-galben-de-furtuni-in-19-judete-si-bucuresti-de-sambata-dupa-amiaza-pana-duminica-dimineata.html</guid>
+        <title>Pîslaru, despre criza politică: Pe termen mediu ar putea fi „absolut genială”. Șansele unei guvernări de succes în 2028 sunt mai mari</title>
+        <link>https://www.mediafax.ro/politic/pislaru-despre-criza-politica-pe-termen-mediu-ar-putea-fi-absolut-geniala-sansele-unei-guvernari-de-succes-in-2028-sunt-mai-mari-23738102</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/pislaru-despre-criza-politica-pe-termen-mediu-ar-putea-fi-absolut-geniala-sansele-unei-guvernari-de-succes-in-2028-sunt-mai-mari-23738102</guid>
     </item>
     <item>
-        <title>Topul celor mai bune prestații ale României la concursul Eurovision. Alexandra Căpitănescu este calificată în marea finală de astăzi</title>
-        <link>https://www.digi24.ro/magazin/timp-liber/divertisment/topul-celor-mai-bune-prestatii-ale-romaniei-la-concursul-eurovision-alexandra-capitanescu-este-calificata-in-marea-finala-de-astazi-3772369</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/divertisment/topul-celor-mai-bune-prestatii-ale-romaniei-la-concursul-eurovision-alexandra-capitanescu-este-calificata-in-marea-finala-de-astazi-3772369</guid>
-    </item>
-    <item>
-        <title>Accident spectaculos în Galați: o femeie de 71 de ani a intrat cu mașina direct într-o bancă</title>
-        <link>https://adevarul.ro/stiri-locale/galati/accident-spectaculos-in-galati-o-femeie-de-71-de-2530058.html</link>
+        <title>Israelul a lovit cu rachete blocul în care se afla comandantul aripii militare a Hamas. Membrii grupării ar fi încercat să-l evacueze</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/israelul-a-lovit-cu-rachete-blocul-in-care-se-afla-2530060.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/galati/accident-spectaculos-in-galati-o-femeie-de-71-de-2530058.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/israelul-a-lovit-cu-rachete-blocul-in-care-se-afla-2530060.html</guid>
     </item>
     <item>
         <title>Peiu, atac la Oana Gheorghiu și Ilie Bolojan: Firmele românești au aceleași drepturi precum cele germane?</title>
@@ -110,136 +110,40 @@
         <guid isPermaLink="true">https://www.mediafax.ro/politic/peiu-atac-la-oana-gheorghiu-si-ilie-bolojan-firmele-romanesti-au-aceleasi-drepturi-precum-cele-germane-23738073</guid>
     </item>
     <item>
-        <title>Cel mai slab rezultat din istorie pentru titlurile de stat: românii au retras interesul pentru finanțarea guvernului</title>
-        <link>https://www.mediafax.ro/stirile-zilei/cel-mai-slab-rezultat-din-istorie-pentru-titlurile-de-stat-romanii-au-retras-interesul-pentru-finantarea-guvernului-23738077</link>
+        <title>Hantavirus, COVID, norovirus: de ce navele de croazieră sunt atât de predispuse la focare de boală</title>
+        <link>https://www.digi24.ro/stiri/actualitate/sanatate/hantavirus-covid-norovirus-de-ce-navele-de-croaziera-sunt-atat-de-predispuse-la-focare-de-boala-3767365</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/hantavirus-covid-norovirus-de-ce-navele-de-croaziera-sunt-atat-de-predispuse-la-focare-de-boala-3767365</guid>
+    </item>
+    <item>
+        <title>Dragoș Pîslaru: „PSD a pregătit împreună cu Banca Mondială principiile reformei salarizării. Nu poate spune acum că nu e de acord”</title>
+        <link>https://www.digi24.ro/stiri/economie/dragos-pislaru-psd-a-pregatit-impreuna-cu-banca-mondiala-principiile-reformei-salarizarii-nu-poate-spune-acum-ca-nu-e-de-acord-3771851</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/dragos-pislaru-psd-a-pregatit-impreuna-cu-banca-mondiala-principiile-reformei-salarizarii-nu-poate-spune-acum-ca-nu-e-de-acord-3771851</guid>
+    </item>
+    <item>
+        <title>Dominic Fritz, după întâlnirea cu Ilie Bolojan: Orice formă de guvernare în care PSD se regăsește nu va fi susținutǎ. Săptămâna viitoare, partidele no</title>
+        <link>https://www.g4media.ro/dominic-fritz-dupa-intalnirea-cu-ilie-bolojan-orice-forma-de-guvernare-in-care-psd-se-regaseste-nu-va-fi-sustinuta-saptamana-viitoare-partidele-noastre-usr-si-pnl-vor-depune-impreuna-in-parlam.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/dominic-fritz-dupa-intalnirea-cu-ilie-bolojan-orice-forma-de-guvernare-in-care-psd-se-regaseste-nu-va-fi-sustinuta-saptamana-viitoare-partidele-noastre-usr-si-pnl-vor-depune-impreuna-in-parlam.html</guid>
+    </item>
+    <item>
+        <title>Bolojan, categoric: Dacă PSD va fi la guvernare, PNL va fi în opoziție</title>
+        <link>https://www.mediafax.ro/politic/bolojan-categoric-daca-psd-va-fi-la-guvernare-pnl-va-fi-in-opozitie-23738064</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/cel-mai-slab-rezultat-din-istorie-pentru-titlurile-de-stat-romanii-au-retras-interesul-pentru-finantarea-guvernului-23738077</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/bolojan-categoric-daca-psd-va-fi-la-guvernare-pnl-va-fi-in-opozitie-23738064</guid>
     </item>
     <item>
-        <title>NATO va face presiuni asupra producătorilor europeni de armamament: creșterea investițiilor și a producției în prim-plan</title>
-        <link>https://www.digi24.ro/stiri/externe/nato-va-face-presiuni-asupra-producatorilor-europeni-de-armamament-cresterea-investitiilor-si-a-productiei-in-prim-plan-3772299</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/nato-va-face-presiuni-asupra-producatorilor-europeni-de-armamament-cresterea-investitiilor-si-a-productiei-in-prim-plan-3772299</guid>
-    </item>
-    <item>
-        <title>Pelerinaj la curtea Împăratului Xi: după Donald Trump, și Vladimir Putin efectuează o vizită în China pe 19 şi 20 mai, anunţă Kremlinul</title>
-        <link>https://www.g4media.ro/pelerinaj-la-curtea-imparatului-xi-dupa-donald-trump-si-vladimir-putin-efectueaza-o-vizita-in-china-pe-19-si-20-mai-anunta-kremlinul.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/pelerinaj-la-curtea-imparatului-xi-dupa-donald-trump-si-vladimir-putin-efectueaza-o-vizita-in-china-pe-19-si-20-mai-anunta-kremlinul.html</guid>
-    </item>
-    <item>
-        <title>Trump anunță că un lider al grupării Statul Islamic a fost ucis într-o misiune comună a SUA și Nigeriei</title>
-        <link>https://www.mediafax.ro/externe/trump-anunta-ca-un-lider-al-gruparii-statul-islamic-a-fost-ucis-intr-o-misiune-comuna-a-sua-si-nigeriei-23738011</link>
+        <title>Pîslaru: Alianța PNL-USR este a doua forță din Parlament</title>
+        <link>https://www.mediafax.ro/politic/pislaru-alianta-pnl-usr-este-a-doua-forta-din-parlament-23738100</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-anunta-ca-un-lider-al-gruparii-statul-islamic-a-fost-ucis-intr-o-misiune-comuna-a-sua-si-nigeriei-23738011</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/pislaru-alianta-pnl-usr-este-a-doua-forta-din-parlament-23738100</guid>
     </item>
     <item>
-        <title>Gigi Becali, sfâșiat de amintirea unei femei dragi. Și-ar da viața ca să o revadă: „Nimeni nu m-a iubit așa vreodată. Mor de dor!”</title>
-        <link>https://adevarul.ro/sport/gigi-becali-sfasiat-de-amintirea-unei-femei-2530059.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/gigi-becali-sfasiat-de-amintirea-unei-femei-2530059.html</guid>
-    </item>
-    <item>
-        <title>România intră sub asediul furtunilor. DSU și ISU mobilizează forțe speciale în județele aflate sub Cod portocaliu</title>
-        <link>https://adevarul.ro/stiri-interne/meteo/romania-intra-sub-asediul-furtunilor-dsu-si-isu-2530074.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/meteo/romania-intra-sub-asediul-furtunilor-dsu-si-isu-2530074.html</guid>
-    </item>
-    <item>
-        <title>Trump anunță că numărul doi al grupării Stat Islamic a fost eliminat de forțele americane și nigeriene: „A crezut că se poate ascunde”</title>
-        <link>https://www.digi24.ro/stiri/externe/trump-anunta-ca-numarul-doi-al-gruparii-stat-islamic-a-fost-eliminat-de-fortele-americane-si-nigeriene-a-crezut-ca-se-poate-ascunde-3772275</link>
+        <title>Meteorologii au emis cod portocaliu de averse torențiale și cod galben de furtuni. Peste 20 de județe sunt vizate HARTĂ</title>
+        <link>https://www.digi24.ro/stiri/actualitate/social/meteorologii-au-emis-cod-portocaliu-de-averse-torentiale-si-cod-galben-de-furtuni-peste-20-de-judete-afectate-3772341</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/trump-anunta-ca-numarul-doi-al-gruparii-stat-islamic-a-fost-eliminat-de-fortele-americane-si-nigeriene-a-crezut-ca-se-poate-ascunde-3772275</guid>
-    </item>
-    <item>
-        <title>FOTO: Ilie Bolojan, întâlnire cu Dominic Fritz la Timișoara: Renegocierea PNRR este prioritatea Guvernului, în următoarele două săptămâni</title>
-        <link>https://www.g4media.ro/foto-ilie-bolojan-intalnire-cu-dominic-fritz-la-timisoara-renegocierea-pnrr-este-prioritatea-guvernului-in-urmatoarele-doua-saptamani.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/foto-ilie-bolojan-intalnire-cu-dominic-fritz-la-timisoara-renegocierea-pnrr-este-prioritatea-guvernului-in-urmatoarele-doua-saptamani.html</guid>
-    </item>
-    <item>
-        <title>Putin îl vizitează pe liderul chinez Xi Jinping la câteva zile după Trump</title>
-        <link>https://www.mediafax.ro/externe/putin-il-viziteaza-pe-liderul-chinez-xi-jinping-la-cateva-zile-dupa-trump-23738084</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/putin-il-viziteaza-pe-liderul-chinez-xi-jinping-la-cateva-zile-dupa-trump-23738084</guid>
-    </item>
-    <item>
-        <title>Diplomația prin amenințări a lui Donald Trump în privința Iranului a ajuns în impas: „Subminează orice mesaj ar dori să transmită”</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/diplomatia-prin-amenintari-a-lui-donald-trump-in-privinta-iranului-a-ajuns-in-impas-submineaza-orice-mesaj-ar-dori-sa-transmita-3772323</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/diplomatia-prin-amenintari-a-lui-donald-trump-in-privinta-iranului-a-ajuns-in-impas-submineaza-orice-mesaj-ar-dori-sa-transmita-3772323</guid>
-    </item>
-    <item>
-        <title>Nicușor Dan, de Ziua Națională a Libertății Religioase: Suntem datori să denunțăm extremismul religios, să ne opunem instrumentalizării religiei și tr</title>
-        <link>https://www.g4media.ro/nicusor-dan-de-ziua-nationala-a-libertatii-religioase-suntem-datori-sa-denuntam-extremismul-religios-sa-ne-opunem-instrumentalizarii-religiei-si-transformarii-ei-in-mijloc-de-manipulare-de-instiga.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/nicusor-dan-de-ziua-nationala-a-libertatii-religioase-suntem-datori-sa-denuntam-extremismul-religios-sa-ne-opunem-instrumentalizarii-religiei-si-transformarii-ei-in-mijloc-de-manipulare-de-instiga.html</guid>
-    </item>
-    <item>
-        <title>PNL și USR vor fi „aliați” în consultările de la Cotroceni, anunță Bolojan. Care e prioritatea Guvernului în următoarele 2 săptămâni</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/pnl-si-usr-vor-fi-aliati-in-consultarile-de-la-cotroceni-anunta-bolojan-care-e-prioritatea-guvernului-in-urmatoarele-2-saptamani-3772339</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/pnl-si-usr-vor-fi-aliati-in-consultarile-de-la-cotroceni-anunta-bolojan-care-e-prioritatea-guvernului-in-urmatoarele-2-saptamani-3772339</guid>
-    </item>
-    <item>
-        <title>Atacurile Statelor Unite și Israelului asupra Iranului ar putea fi reluate de săptămâna viitoare (New York Times)</title>
-        <link>https://www.g4media.ro/atacurile-statelor-unite-si-israelului-asupra-iranului-ar-putea-fi-reluate-de-saptamana-viitoare-new-york-times.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/atacurile-statelor-unite-si-israelului-asupra-iranului-ar-putea-fi-reluate-de-saptamana-viitoare-new-york-times.html</guid>
-    </item>
-    <item>
-        <title>Locul unde regulile de circulație îi derutează pe turiști: se conduce și pe dreapta, și pe stânga</title>
-        <link>https://adevarul.ro/stil-de-viata/calatorii/locul-unde-regulile-de-circulatie-ii-deruteaza-pe-2530041.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/calatorii/locul-unde-regulile-de-circulatie-ii-deruteaza-pe-2530041.html</guid>
-    </item>
-    <item>
-        <title>Oana Gheorghiu: „România nu are nevoie doar de profesori mai bine plătiți”</title>
-        <link>https://www.mediafax.ro/politic/oana-gheorghiu-romania-nu-are-nevoie-doar-de-profesori-mai-bine-platiti-23738038</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/oana-gheorghiu-romania-nu-are-nevoie-doar-de-profesori-mai-bine-platiti-23738038</guid>
-    </item>
-    <item>
-        <title>Bolojan, despre profesori: „Oamenii ăștia merită respectul” / „E un element important să ne respectăm părinții”</title>
-        <link>https://www.mediafax.ro/social/bolojan-despre-profesori-oamenii-astia-merita-respectul-e-un-element-important-sa-ne-respectam-parintii-23738040</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/bolojan-despre-profesori-oamenii-astia-merita-respectul-e-un-element-important-sa-ne-respectam-parintii-23738040</guid>
-    </item>
-    <item>
-        <title>Donald Trump avertizează Taiwanul să nu-și declare independența. Taipeiul răspunde și spune că e „o naţiune democratică, suverană”</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/donald-trump-avertizeaza-taiwanul-sa-nu-si-declare-independenta-taipeiul-raspunde-si-spune-ca-e-o-natiune-democratica-suverana-3772309</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/donald-trump-avertizeaza-taiwanul-sa-nu-si-declare-independenta-taipeiul-raspunde-si-spune-ca-e-o-natiune-democratica-suverana-3772309</guid>
-    </item>
-    <item>
-        <title>Finala Cupei Angliei are loc astăzi: Unde și de la ce oră poți să vezi duelul dintre Chelsea și Manchester City</title>
-        <link>https://www.g4media.ro/finala-cupei-angliei-are-loc-astazi-unde-si-de-la-ce-ora-vezi-duelul-dintre-chelsea-si-manchester-city.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/finala-cupei-angliei-are-loc-astazi-unde-si-de-la-ce-ora-vezi-duelul-dintre-chelsea-si-manchester-city.html</guid>
-    </item>
-    <item>
-        <title>Dilema primarilor liberali după moțiunea de cenzură. Ce spun despre refacerea coaliției cu PSD</title>
-        <link>https://adevarul.ro/politica/dilema-primarilor-liberali-dupa-motiunea-de-2529967.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/dilema-primarilor-liberali-dupa-motiunea-de-2529967.html</guid>
-    </item>
-    <item>
-        <title>Ministerul Finanțelor, după reconfirmarea ratingului României și avertismentul asupra retrogradării: „Trebuie să fim foarte atenţi”</title>
-        <link>https://www.digi24.ro/stiri/economie/ministerul-finantelor-dupa-reconfirmarea-ratingului-romaniei-si-avertismentul-asupra-retrogradarii-trebuie-sa-fim-foarte-atenti-3772367</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/ministerul-finantelor-dupa-reconfirmarea-ratingului-romaniei-si-avertismentul-asupra-retrogradarii-trebuie-sa-fim-foarte-atenti-3772367</guid>
-    </item>
-    <item>
-        <title>Elveția va face publice dosarele secrete referitoare la criminalul de război nazist Josef Mengele, „Îngerul Morții” de la Auschwitz</title>
-        <link>https://www.g4media.ro/elvetia-va-face-publice-dosarele-secrete-referitoare-la-criminalul-de-razboi-nazist-josef-mengele-ingerul-mortii-de-la-auschwitz.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/elvetia-va-face-publice-dosarele-secrete-referitoare-la-criminalul-de-razboi-nazist-josef-mengele-ingerul-mortii-de-la-auschwitz.html</guid>
-    </item>
-    <item>
-        <title>Ilie Bolojan dezvăluie care sunt orașele sale de suflet: „Te impregnezi de acest spirit”</title>
-        <link>https://adevarul.ro/politica/ilie-bolojan-dezvaluie-care-sunt-orasele-sale-de-2530072.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/politica/ilie-bolojan-dezvaluie-care-sunt-orasele-sale-de-2530072.html</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/meteorologii-au-emis-cod-portocaliu-de-averse-torentiale-si-cod-galben-de-furtuni-peste-20-de-judete-afectate-3772341</guid>
     </item>
     <item>
         <title>Ilie Bolojan le-a mărturisit studenților din Timișoara rețeta succesului său: muncă, pasiune și respect</title>
@@ -248,34 +152,28 @@
         <guid isPermaLink="true">https://adevarul.ro/politica/ilie-bolojan-le-a-dezvaluit-studentilor-din-2530062.html</guid>
     </item>
     <item>
-        <title>Arbitru olandez exclus de la Cupa Mondială după acuzații de agresiune sexuală asupra unui minor</title>
-        <link>https://adevarul.ro/sport/arbitru-olandez-exclus-de-la-cupa-mondiala-dupa-2530029.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/arbitru-olandez-exclus-de-la-cupa-mondiala-dupa-2530029.html</guid>
+        <title>Putin îl vizitează pe liderul chinez Xi Jinping la câteva zile după Trump</title>
+        <link>https://www.mediafax.ro/externe/putin-il-viziteaza-pe-liderul-chinez-xi-jinping-la-cateva-zile-dupa-trump-23738084</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/putin-il-viziteaza-pe-liderul-chinez-xi-jinping-la-cateva-zile-dupa-trump-23738084</guid>
     </item>
     <item>
-        <title>„Nu-mi pasă, sunt bogat”. Turistul care a atacat o focă monarh rară în Hawaii a fost bătut de localnici și arestat de FBI</title>
-        <link>https://adevarul.ro/stiri-externe/sua/nu-mi-pasa-sunt-bogat-turistul-care-a-atacat-o-2530065.html</link>
+        <title>Minori recrutați pentru trafic de droguri în apropierea școlilor din Botoșani</title>
+        <link>https://adevarul.ro/stiri-locale/botosani/minori-recrutati-pentru-trafic-de-droguri-in-2530079.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/nu-mi-pasa-sunt-bogat-turistul-care-a-atacat-o-2530065.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/botosani/minori-recrutati-pentru-trafic-de-droguri-in-2530079.html</guid>
     </item>
     <item>
-        <title>Cod galben de inundații pe râuri din 18 județe</title>
-        <link>https://www.g4media.ro/cod-galben-de-inundatii-pe-rauri-din-18-judete.html</link>
+        <title>4.682.638 de pensionari în România, la finele lunii aprilie 2026, potrivit Casei Naţionale de Pensii Publice / Pensia medie a fost de 2.783 de lei</title>
+        <link>https://www.g4media.ro/4-682-638-de-pensionari-in-romania-la-finele-lunii-aprilie-2026-potrivit-casei-nationale-de-pensii-publice-pensia-medie-a-fost-de-2-783-de-lei.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cod-galben-de-inundatii-pe-rauri-din-18-judete.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/4-682-638-de-pensionari-in-romania-la-finele-lunii-aprilie-2026-potrivit-casei-nationale-de-pensii-publice-pensia-medie-a-fost-de-2-783-de-lei.html</guid>
     </item>
     <item>
-        <title>Elevi răpiți în nord-estul Nigeriei după un atac atribuit grupărilor jihadiste</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/elevi-rapiti-in-nord-estul-nigeriei-dupa-un-atac-2530032.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/elevi-rapiti-in-nord-estul-nigeriei-dupa-un-atac-2530032.html</guid>
-    </item>
-    <item>
-        <title>Agenția de rating Standard&amp;Poor’s menține România la un pas de categoria „junk”, cu perspectivă negativă. Cauza: criza politică declanșată de moțiunea</title>
-        <link>https://www.g4media.ro/agentia-de-rating-standardpoors-mentine-romania-la-un-pas-de-categoria-junk-cu-perspectiva-negativa-cauza-criza-politica-declansata-de-motiunea-de-cenzura.html</link>
+        <title>VIDEO: Ilie Bolojan, la ceremonia de absolvire a promoției 2026, organizată de Universitatea de Vest din Timișoara: Când ești student în 1989 și prinz</title>
+        <link>https://www.g4media.ro/video-ilie-bolojan-la-ceremonia-de-absolvire-a-promotiei-2026-organizata-de-universitatea-de-vest-din-timisoara-cand-esti-student-in-1989-si-prinzi-revolutia-te-impregnezi-de-acest-spirit-de-ce.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/agentia-de-rating-standardpoors-mentine-romania-la-un-pas-de-categoria-junk-cu-perspectiva-negativa-cauza-criza-politica-declansata-de-motiunea-de-cenzura.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/video-ilie-bolojan-la-ceremonia-de-absolvire-a-promotiei-2026-organizata-de-universitatea-de-vest-din-timisoara-cand-esti-student-in-1989-si-prinzi-revolutia-te-impregnezi-de-acest-spirit-de-ce.html</guid>
     </item>
     <item>
         <title>Westbahn, operatorul feroviar privat din Austria, cere implementarea rapidă a biletului unic feroviar european</title>
@@ -284,40 +182,76 @@
         <guid isPermaLink="true">https://www.g4media.ro/westbahn-operatorul-feroviar-privat-din-austria-cere-implementarea-rapida-a-biletului-unic-feroviar-european.html</guid>
     </item>
     <item>
-        <title>Nicușor Dan, de Ziua Libertății Religioase: Suntem datori să denunțăm extremismul religios</title>
-        <link>https://www.mediafax.ro/politic/nicusor-dan-de-ziua-libertatii-religioase-suntem-datori-sa-denuntam-extremismul-religios-23738067</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-de-ziua-libertatii-religioase-suntem-datori-sa-denuntam-extremismul-religios-23738067</guid>
-    </item>
-    <item>
-        <title>Max Verstappen, condiții dificile pe circuitul Nordschleife înainte de cursa de 24 de ore: „Abia puteam vedea”</title>
-        <link>https://www.g4media.ro/max-verstappen-conditii-dramatice-pe-circuitul-nordschleife-inainte-de-cursa-de-24-de-ore-abia-puteam-vedea.html</link>
+        <title>Thailanda: Cel puţin opt morţi şi 25 de răniţi într-o coliziune în care a fost implicat un tren, urmată de un incendiu</title>
+        <link>https://www.g4media.ro/thailanda-cel-putin-opt-morti-si-25-de-raniti-intr-o-coliziune-in-care-a-fost-implicat-un-tren-urmata-de-un-incendiu.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/max-verstappen-conditii-dramatice-pe-circuitul-nordschleife-inainte-de-cursa-de-24-de-ore-abia-puteam-vedea.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/thailanda-cel-putin-opt-morti-si-25-de-raniti-intr-o-coliziune-in-care-a-fost-implicat-un-tren-urmata-de-un-incendiu.html</guid>
     </item>
     <item>
-        <title>Eurovision 2026. România, printre cele 25 de țări care luptă pentru trofeu. Cum se votează în finală</title>
-        <link>https://www.digi24.ro/magazin/eurovision-2026-romania-printre-cele-25-de-tari-care-lupta-pentru-trofeu-cum-se-voteaza-in-finala-3772407</link>
+        <title>FOTO: Ilie Bolojan, întâlnire cu Dominic Fritz la Timișoara: Renegocierea PNRR este prioritatea Guvernului, în următoarele două săptămâni</title>
+        <link>https://www.g4media.ro/foto-ilie-bolojan-intalnire-cu-dominic-fritz-la-timisoara-renegocierea-pnrr-este-prioritatea-guvernului-in-urmatoarele-doua-saptamani.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/foto-ilie-bolojan-intalnire-cu-dominic-fritz-la-timisoara-renegocierea-pnrr-este-prioritatea-guvernului-in-urmatoarele-doua-saptamani.html</guid>
+    </item>
+    <item>
+        <title>Israelul atacă din nou sudul Libanului, în ciuda prelungirii armistițiului dintre cele două țări</title>
+        <link>https://www.digi24.ro/stiri/externe/israelul-ataca-din-nou-sudul-libanului-in-ciuda-prelungirii-armistitiului-dintre-cele-doua-tari-3772457</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/eurovision-2026-romania-printre-cele-25-de-tari-care-lupta-pentru-trofeu-cum-se-voteaza-in-finala-3772407</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/israelul-ataca-din-nou-sudul-libanului-in-ciuda-prelungirii-armistitiului-dintre-cele-doua-tari-3772457</guid>
     </item>
     <item>
-        <title>Hantavirus, COVID, norovirus: de ce navele de croazieră sunt atât de predispuse la focare de boală</title>
-        <link>https://www.digi24.ro/stiri/actualitate/sanatate/hantavirus-covid-norovirus-de-ce-navele-de-croaziera-sunt-atat-de-predispuse-la-focare-de-boala-3767365</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/sanatate/hantavirus-covid-norovirus-de-ce-navele-de-croaziera-sunt-atat-de-predispuse-la-focare-de-boala-3767365</guid>
+        <title>Cel mai slab rezultat din istorie pentru titlurile de stat: românii au retras interesul pentru finanțarea guvernului</title>
+        <link>https://www.mediafax.ro/stirile-zilei/cel-mai-slab-rezultat-din-istorie-pentru-titlurile-de-stat-romanii-au-retras-interesul-pentru-finantarea-guvernului-23738077</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/cel-mai-slab-rezultat-din-istorie-pentru-titlurile-de-stat-romanii-au-retras-interesul-pentru-finantarea-guvernului-23738077</guid>
     </item>
     <item>
-        <title>Presa din Italia, fascinată de trecutul soției lui Cristi Chivu: „Toate duc la asta”</title>
-        <link>https://adevarul.ro/sport/presa-din-italia-fascinata-de-trecutul-sotiei-lui-2530042.html</link>
+        <title>Final de drum pentru Lewandowski la Barcelona: „A venit ca o stea, pleacă ca o legendă”</title>
+        <link>https://www.g4media.ro/despartirea-lui-lewandowski-de-barcelona-este-oficiala-a-venit-ca-o-stea-pleaca-ca-o-legenda.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/despartirea-lui-lewandowski-de-barcelona-este-oficiala-a-venit-ca-o-stea-pleaca-ca-o-legenda.html</guid>
+    </item>
+    <item>
+        <title>Creierul seriei de atacuri antisemite din Europa, arestat în SUA. Cine este Mohammad Baqer Saad Dawood al-Saadi</title>
+        <link>https://adevarul.ro/stiri-externe/europa/liderul-unei-militii-pro-iraniene-arestat-in-sua-2530080.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/presa-din-italia-fascinata-de-trecutul-sotiei-lui-2530042.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/liderul-unei-militii-pro-iraniene-arestat-in-sua-2530080.html</guid>
     </item>
     <item>
-        <title>Angajații din Guvern intră în grevă japoneză după scandalul dintre sindicat și vicepremierul Oana Gheorghiu</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/angajatii-din-guvern-intra-in-greva-japoneza-dupa-scandalul-dintre-sindicat-si-vicepremierul-oana-gheorghiu-3772383</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/angajatii-din-guvern-intra-in-greva-japoneza-dupa-scandalul-dintre-sindicat-si-vicepremierul-oana-gheorghiu-3772383</guid>
+        <title>„Aici se aud bombele”. Avertismentul unui primar: Retorica antiucraineană a prins cel mai mult în județele de la graniță</title>
+        <link>https://www.mediafax.ro/politic/aici-se-aud-bombele-avertismentul-unui-primar-retorica-antiucraineana-a-prins-cel-mai-mult-in-judetele-de-la-granita-23738110</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/aici-se-aud-bombele-avertismentul-unui-primar-retorica-antiucraineana-a-prins-cel-mai-mult-in-judetele-de-la-granita-23738110</guid>
+    </item>
+    <item>
+        <title>Debuturi și oaspeți la Opera Națională București</title>
+        <link>https://adevarul.ro/blogurile-adevarul/debuturi-si-oaspeti-la-opera-nationala-bucuresti-2530050.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/debuturi-si-oaspeti-la-opera-nationala-bucuresti-2530050.html</guid>
+    </item>
+    <item>
+        <title>Turcia propune construirea unei conducte de combustibil către ţările de pe flancul estic al NATO, până în România</title>
+        <link>https://www.g4media.ro/turcia-propune-construirea-unei-conducte-de-combustibil-catre-tarile-de-pe-flancul-estic-al-nato-pana-in-romania.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/turcia-propune-construirea-unei-conducte-de-combustibil-catre-tarile-de-pe-flancul-estic-al-nato-pana-in-romania.html</guid>
+    </item>
+    <item>
+        <title>„Nu toți copiii trebuie împinși spre facultate”. Critici dure la adresa sistemului de Educație: „România este arogantă”</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/nu-toti-copiii-trebuie-impinsi-spre-facultate-2529889.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/nu-toti-copiii-trebuie-impinsi-spre-facultate-2529889.html</guid>
+    </item>
+    <item>
+        <title>Cod galben de inundații pe râuri din 18 județe</title>
+        <link>https://www.g4media.ro/cod-galben-de-inundatii-pe-rauri-din-18-judete.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cod-galben-de-inundatii-pe-rauri-din-18-judete.html</guid>
+    </item>
+    <item>
+        <title>Atacurile Statelor Unite și Israelului asupra Iranului ar putea fi reluate de săptămâna viitoare (New York Times)</title>
+        <link>https://www.g4media.ro/atacurile-statelor-unite-si-israelului-asupra-iranului-ar-putea-fi-reluate-de-saptamana-viitoare-new-york-times.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/atacurile-statelor-unite-si-israelului-asupra-iranului-ar-putea-fi-reluate-de-saptamana-viitoare-new-york-times.html</guid>
     </item>
     <item>
         <title>Nadia Comăneci, mesaj emoționant pentru Cristi Chivu: „Marile momente din sport inspiră generații”</title>
@@ -326,46 +260,112 @@
         <guid isPermaLink="true">https://adevarul.ro/sport/nadia-comaneci-mesaj-emotionant-pentru-cristi-2530075.html</guid>
     </item>
     <item>
-        <title>Hackerii au spart sistemele de citire a cardurilor de la benzinăriile din SUA (CNN) / Autoritățile americane suspectează că Iranul este responsabil</title>
-        <link>https://www.g4media.ro/hackerii-au-spart-sistemele-de-citire-a-cardurilor-de-la-benzinariile-din-sua-cnn-autoritatile-americane-suspecteaza-ca-iranul-este-responsabil.html</link>
+        <title>Economedia: Schimbare majoră pentru șoferi. Rovinieta se scumpește și se va calcula în funcție de norma EURO de la 1 iulie 2026</title>
+        <link>https://www.g4media.ro/economedia-schimbare-majora-pentru-soferi-rovinieta-se-scumpeste-si-se-va-calcula-in-functie-de-norma-euro-de-la-1-iulie-2026.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/hackerii-au-spart-sistemele-de-citire-a-cardurilor-de-la-benzinariile-din-sua-cnn-autoritatile-americane-suspecteaza-ca-iranul-este-responsabil.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/economedia-schimbare-majora-pentru-soferi-rovinieta-se-scumpeste-si-se-va-calcula-in-functie-de-norma-euro-de-la-1-iulie-2026.html</guid>
     </item>
     <item>
-        <title>Simona Halep, alarmată de viitorul tenisului românesc după retragerea Soranei Cîrstea: „Nu vin sportivi la nivel înalt”</title>
-        <link>https://adevarul.ro/sport/simona-halep-alarmata-de-viitorul-tenisului-2530034.html</link>
+        <title>Ilie Bolojan dezvăluie care sunt orașele sale de suflet: „Te impregnezi de acest spirit”</title>
+        <link>https://adevarul.ro/politica/ilie-bolojan-dezvaluie-care-sunt-orasele-sale-de-2530072.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/sport/simona-halep-alarmata-de-viitorul-tenisului-2530034.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/politica/ilie-bolojan-dezvaluie-care-sunt-orasele-sale-de-2530072.html</guid>
     </item>
     <item>
-        <title>Zeci de şoferi, amendaţi de poliţişti noaptea trecută pentru că au produs zgomot în traficul din Capitală / Tânăr, sancționat cu 8.000 de lei după ce </title>
-        <link>https://www.g4media.ro/zeci-de-soferi-amendati-de-politisti-noaptea-trecuta-pentru-ca-au-produs-zgomot-in-traficul-din-capitala-tanar-sanctionat-cu-8-000-de-lei-dupa-ce-a-accelerat-repetat-motorul-masinii-pe-care-o-cond.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/zeci-de-soferi-amendati-de-politisti-noaptea-trecuta-pentru-ca-au-produs-zgomot-in-traficul-din-capitala-tanar-sanctionat-cu-8-000-de-lei-dupa-ce-a-accelerat-repetat-motorul-masinii-pe-care-o-cond.html</guid>
-    </item>
-    <item>
-        <title>Accident mortal în București: un motociclist de 40 de ani și-a pierdut viața după ce s-a izbit de un parapet</title>
-        <link>https://www.digi24.ro/stiri/actualitate/accident-mortal-in-bucuresti-un-motociclist-si-a-pierdut-viata-in-urma-impactului-cu-un-parapet-3772315</link>
+        <title>Bolojan, cu gândul la alegerile din 2028: Obiectivul este să creăm o alternativă</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/bolojan-cu-gandul-la-alegerile-din-2028-obiectivul-este-sa-cream-o-alternativa-3772421</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/accident-mortal-in-bucuresti-un-motociclist-si-a-pierdut-viata-in-urma-impactului-cu-un-parapet-3772315</guid>
-    </item>
-    <item>
-        <title>Nuclearelectrica, după declarațiile lui Ilie Bolojan despre reactorul de la Doicești: „Prezintă un potenţial enorm de dezvoltare”</title>
-        <link>https://www.digi24.ro/stiri/economie/energie/nuclearelectrica-dupa-declaratiile-lui-ilie-bolojan-despre-reactorul-de-la-doicesti-prezinta-un-potential-enorm-de-dezvoltare-3772389</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/nuclearelectrica-dupa-declaratiile-lui-ilie-bolojan-despre-reactorul-de-la-doicesti-prezinta-un-potential-enorm-de-dezvoltare-3772389</guid>
-    </item>
-    <item>
-        <title>Cele trei vârste ale traumei: când s-a întâmplat contează mai mult decât ce s-a întâmplat</title>
-        <link>https://www.mediafax.ro/life-entertaiment/cele-trei-varste-ale-traumei-cand-s-a-intamplat-conteaza-mai-mult-decat-ce-s-a-intamplat-23737109</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/cele-trei-varste-ale-traumei-cand-s-a-intamplat-conteaza-mai-mult-decat-ce-s-a-intamplat-23737109</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/bolojan-cu-gandul-la-alegerile-din-2028-obiectivul-este-sa-cream-o-alternativa-3772421</guid>
     </item>
     <item>
         <title>Nazare, după anunțul S&amp;P Global Ratings: Poziția ratingului este vulnerabilã cu o perspectivã negativã</title>
         <link>https://www.mediafax.ro/economic/nazare-dupa-anuntul-sp-global-ratings-pozitia-ratingului-este-vulnerabila-cu-o-perspectiva-negativa-23738058</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/economic/nazare-dupa-anuntul-sp-global-ratings-pozitia-ratingului-este-vulnerabila-cu-o-perspectiva-negativa-23738058</guid>
+    </item>
+    <item>
+        <title>O instanță germană autorizează amenajarea unei tabere pro-palestiniene într-un parc din Hamburg, locul de unde evreii au fost deportați de naziști</title>
+        <link>https://www.g4media.ro/o-instanta-germana-autorizeaza-amenajarea-unei-tabere-pro-palestiniene-intr-un-parc-din-hamburg-locul-de-unde-evreii-au-fost-deportati-de-nazisti.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/o-instanta-germana-autorizeaza-amenajarea-unei-tabere-pro-palestiniene-intr-un-parc-din-hamburg-locul-de-unde-evreii-au-fost-deportati-de-nazisti.html</guid>
+    </item>
+    <item>
+        <title>Cod galben de inundații pe râuri din 18 județe</title>
+        <link>https://www.mediafax.ro/social/cod-galben-de-inundatii-pe-rauri-din-18-judete-23738054</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/cod-galben-de-inundatii-pe-rauri-din-18-judete-23738054</guid>
+    </item>
+    <item>
+        <title>E oficial! România riscă retrogradarea ratingului de țară. Avertismentul agenției S&amp;P Global Ratings</title>
+        <link>https://www.mediafax.ro/economic/e-oficial-romania-risca-retrogradarea-ratingului-de-tara-avertismentul-agentiei-sp-global-ratings-23738050</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/e-oficial-romania-risca-retrogradarea-ratingului-de-tara-avertismentul-agentiei-sp-global-ratings-23738050</guid>
+    </item>
+    <item>
+        <title>O şoferiţă de 71 de ani din Galați a intrat cu maşina într-un bancomat şi a accidentat o femeie</title>
+        <link>https://www.digi24.ro/stiri/actualitate/o-soferita-de-71-de-ani-din-galati-a-intrat-cu-masina-intr-un-bancomat-si-a-accidentat-o-femeie-3772423</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/o-soferita-de-71-de-ani-din-galati-a-intrat-cu-masina-intr-un-bancomat-si-a-accidentat-o-femeie-3772423</guid>
+    </item>
+    <item>
+        <title>Manifestații de amploare la Londra: 4.000 de polițiști mobilizați pentru marșul Unite the Kingdom și unul pro-palestinian</title>
+        <link>https://adevarul.ro/stiri-externe/europa/manifestatii-de-amploare-la-londra-4000-de-2530094.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/manifestatii-de-amploare-la-londra-4000-de-2530094.html</guid>
+    </item>
+    <item>
+        <title>Dragoș Pîslaru: Pe termen scurt, criza politică e un dezastru, dar pe termen mediu ar putea fi absolut genială. Șansele unei guvernări de succes în 20</title>
+        <link>https://www.g4media.ro/dragos-pislaru-pe-termen-scurt-criza-politica-e-un-dezastru-dar-pe-termen-mediu-ar-putea-fi-absolut-geniala-sansele-unei-guvernari-de-succes-in-2028-sunt-mai-mari.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/dragos-pislaru-pe-termen-scurt-criza-politica-e-un-dezastru-dar-pe-termen-mediu-ar-putea-fi-absolut-geniala-sansele-unei-guvernari-de-succes-in-2028-sunt-mai-mari.html</guid>
+    </item>
+    <item>
+        <title>Cum se pregătește Alexandra Căpitănescu pentru cea mai importantă seară de la Eurovision</title>
+        <link>https://adevarul.ro/showbiz/muzica/cum-se-pregateste-alexandra-capitanescu-pentru-cea-2530082.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/showbiz/muzica/cum-se-pregateste-alexandra-capitanescu-pentru-cea-2530082.html</guid>
+    </item>
+    <item>
+        <title>Accident produs de un șofer băut pe DN1D, în Prahova. Patru persoane au fost rănite</title>
+        <link>https://www.mediafax.ro/social/accident-produs-de-un-sofer-baut-pe-dn1d-in-prahova-patru-persoane-au-fost-ranite-23738078</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/accident-produs-de-un-sofer-baut-pe-dn1d-in-prahova-patru-persoane-au-fost-ranite-23738078</guid>
+    </item>
+    <item>
+        <title>Ministrul întreținut de soție. Dragoș Pîslaru afirmă că partenera sa câștigă „de trei ori mai mult”</title>
+        <link>https://www.mediafax.ro/stirile-zilei/ministrul-intretinut-de-sotie-dragos-pislaru-afirma-ca-partenera-sa-castiga-de-trei-ori-mai-mult-23738111</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ministrul-intretinut-de-sotie-dragos-pislaru-afirma-ca-partenera-sa-castiga-de-trei-ori-mai-mult-23738111</guid>
+    </item>
+    <item>
+        <title>Ministrul Investițiilor, despre un premier tehnocrat: Dacă depinzi de partide să iei decizii, ești premier marionetă</title>
+        <link>https://www.g4media.ro/ministrul-investitiilor-despre-un-premier-tehnocrat-daca-depinzi-de-partide-sa-iei-decizii-esti-premier-marioneta.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ministrul-investitiilor-despre-un-premier-tehnocrat-daca-depinzi-de-partide-sa-iei-decizii-esti-premier-marioneta.html</guid>
+    </item>
+    <item>
+        <title>Eurovision 2026. România, printre cele 25 de țări care luptă pentru trofeu. Cum se votează în finală</title>
+        <link>https://www.digi24.ro/magazin/eurovision-2026-romania-printre-cele-25-de-tari-care-lupta-pentru-trofeu-cum-se-voteaza-in-finala-3772407</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/magazin/eurovision-2026-romania-printre-cele-25-de-tari-care-lupta-pentru-trofeu-cum-se-voteaza-in-finala-3772407</guid>
+    </item>
+    <item>
+        <title>INTERVIU | Arthur Motté, tânărul care cultivă legume bio pe doar 15 metri pătrați: „Nu ai nevoie de o grădină mare ca să produci hrană”</title>
+        <link>https://www.g4media.ro/cultiva-legume-bio-pe-doar-15-metri-patrati.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cultiva-legume-bio-pe-doar-15-metri-patrati.html</guid>
+    </item>
+    <item>
+        <title>Robert Lewandowski și-a anunțat plecarea de la Barcelona</title>
+        <link>https://www.mediafax.ro/sport/robert-lewandowski-si-a-anuntat-plecarea-de-la-barcelona-23738106</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/robert-lewandowski-si-a-anuntat-plecarea-de-la-barcelona-23738106</guid>
+    </item>
+    <item>
+        <title>Ministerul Finanțelor, după reconfirmarea ratingului României și avertismentul asupra retrogradării: „Trebuie să fim foarte atenţi”</title>
+        <link>https://www.digi24.ro/stiri/economie/ministerul-finantelor-dupa-reconfirmarea-ratingului-romaniei-si-avertismentul-asupra-retrogradarii-trebuie-sa-fim-foarte-atenti-3772367</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/ministerul-finantelor-dupa-reconfirmarea-ratingului-romaniei-si-avertismentul-asupra-retrogradarii-trebuie-sa-fim-foarte-atenti-3772367</guid>
     </item>
 </channel>
 </rss>
