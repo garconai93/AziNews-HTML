@@ -5,175 +5,307 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 29 May 2026 04:56:32 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 08:57:04 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Un vagon al unui tren InterCity a deraiat în gara Suceava</title>
-        <link>https://www.mediafax.ro/social/un-vagon-al-unui-tren-intercity-a-deraiat-in-gara-suceava-23745493</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/un-vagon-al-unui-tren-intercity-a-deraiat-in-gara-suceava-23745493</guid>
-    </item>
-    <item>
-        <title>Câte drone au ajuns în România de la începutul războiului din Ucraina. Datele MApN</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/cate-drone-au-ajuns-in-romania-de-la-inceputul-2533001.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/cate-drone-au-ajuns-in-romania-de-la-inceputul-2533001.html</guid>
-    </item>
-    <item>
-        <title>O rachetă Blue Origin a explodat în timpul unui test în Florida</title>
-        <link>https://www.mediafax.ro/externe/o-racheta-blue-origin-a-explodat-in-timpul-unui-test-in-florida-23745464</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/o-racheta-blue-origin-a-explodat-in-timpul-unui-test-in-florida-23745464</guid>
-    </item>
-    <item>
-        <title>BREAKING VIDEO: O dronă rusească a căzut pe un bloc din Galați și a explodat / Piloții F-16 aveau permisiunea să doboare drona / Două persoane au fost</title>
-        <link>https://www.g4media.ro/breaking-video-o-drona-ruseasca-a-cazut-pe-un-bloc-din-galati-si-a-explodat-pilotii-f-16-aveau-permisiunea-sa-doboare-drona-doua-persoane-au-fost-ranite-usor-mae-escaladare-grava-si-iresponsab.html</link>
+        <title>Eșec complet de comunicare al statului român după prăbușirea dronei ruse peste un bloc din Galați</title>
+        <link>https://www.g4media.ro/esec-complet-de-comunicare-al-statului-roman-dupa-prabusirea-dronei-ruse-peste-un-bloc-din-galati.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/breaking-video-o-drona-ruseasca-a-cazut-pe-un-bloc-din-galati-si-a-explodat-pilotii-f-16-aveau-permisiunea-sa-doboare-drona-doua-persoane-au-fost-ranite-usor-mae-escaladare-grava-si-iresponsab.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/esec-complet-de-comunicare-al-statului-roman-dupa-prabusirea-dronei-ruse-peste-un-bloc-din-galati.html</guid>
     </item>
     <item>
-        <title>Vânzările de combustibil au crescut în România, în ciuda crizei declanșate de războiul din Iran. Dumitru Chisăliță, AEI: „Pe consumatori nu i-a speria</title>
-        <link>https://www.mediafax.ro/economic/vanzarile-de-combustibil-au-crescut-in-romania-in-ciuda-crizei-declansate-de-razboiul-din-iran-dumitru-chisalita-aei-pe-consumatori-nu-i-a-speriat-pretul-datele-oficial-23745376</link>
+        <title>Reacții internaționale după incidentul de la Galați. NATO „condamnă imprudența” Rusia și promite măsuri suplimentare de apărare | AUDIO</title>
+        <link>https://www.europafm.ro/reactii-internationale-incident-galati-drone-nato-ue-2/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/reactii-internationale-incident-galati-drone-nato-ue-2/</guid>
+    </item>
+    <item>
+        <title>Circulația pe Transalpina a fost redeschisă. Care sunt restricțiile impuse de CNAIR | AUDIO</title>
+        <link>https://www.europafm.ro/transalpina-deschisa-circulatie-restrictii-ranca-curpat/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/transalpina-deschisa-circulatie-restrictii-ranca-curpat/</guid>
+    </item>
+    <item>
+        <title>CSAT, convocat de Nicușor Dan după ce o dronă rusească s-a prăbușit peste un bloc din Galați: Incidentul impune un răspuns ferm, coordonat și pe măsur</title>
+        <link>https://www.europafm.ro/csat-convocat-de-nicusor-dan-dupa-ce-o-drona-ruseasca-s-a-prabusit-peste-un-bloc-din-galati-incidentul-impune-un-raspuns-ferm-coordonat-si-pe-masura/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/csat-convocat-de-nicusor-dan-dupa-ce-o-drona-ruseasca-s-a-prabusit-peste-un-bloc-din-galati-incidentul-impune-un-raspuns-ferm-coordonat-si-pe-masura/</guid>
+    </item>
+    <item>
+        <title>Președintele Cehiei îl susține pe Nicușor Dan după atacul de la Galați: „Este nevoie de un răspuns internațional ferm”</title>
+        <link>https://www.mediafax.ro/externe/presedintele-cehiei-il-sustine-pe-nicusor-dan-dupa-atacul-de-la-galati-este-nevoie-de-un-raspuns-international-ferm-23745769</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/economic/vanzarile-de-combustibil-au-crescut-in-romania-in-ciuda-crizei-declansate-de-razboiul-din-iran-dumitru-chisalita-aei-pe-consumatori-nu-i-a-speriat-pretul-datele-oficial-23745376</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/presedintele-cehiei-il-sustine-pe-nicusor-dan-dupa-atacul-de-la-galati-este-nevoie-de-un-raspuns-international-ferm-23745769</guid>
     </item>
     <item>
-        <title>Presa din Ucraina scrie despre drona care a lovit un bloc din Galați: Unul dintre cele mai grave episoade produse pe teritoriul României</title>
-        <link>https://www.g4media.ro/presa-din-ucraina-scrie-despre-drona-care-a-lovit-un-bloc-din-galati-unul-dintre-cele-mai-grave-episoade-produse-pe-teritoriul-romaniei.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/presa-din-ucraina-scrie-despre-drona-care-a-lovit-un-bloc-din-galati-unul-dintre-cele-mai-grave-episoade-produse-pe-teritoriul-romaniei.html</guid>
-    </item>
-    <item>
-        <title>George Simion: Condamnăm atacul din această noapte, incompetența și impostură actualilor conducători</title>
-        <link>https://www.mediafax.ro/politic/george-simion-condamnam-atacul-din-aceasta-noapte-incompetenta-si-impostura-actualilor-conducatori-23745470</link>
+        <title>Bolojan anunță primele măsuri luate de România după prăbușirea dronei rusești la Galați</title>
+        <link>https://www.mediafax.ro/politic/bolojan-anunta-primele-masuri-luate-de-romania-dupa-prabusirea-dronei-rusesti-la-galati-23745732</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/george-simion-condamnam-atacul-din-aceasta-noapte-incompetenta-si-impostura-actualilor-conducatori-23745470</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/bolojan-anunta-primele-masuri-luate-de-romania-dupa-prabusirea-dronei-rusesti-la-galati-23745732</guid>
     </item>
     <item>
-        <title>Augustin Lazăr, fost procuror general al României: „Circa 30 de brățări regale dacice ar fi fost furate”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/augustin-lazar-fost-procuror-general-al-romaniei-2532875.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/augustin-lazar-fost-procuror-general-al-romaniei-2532875.html</guid>
-    </item>
-    <item>
-        <title>Ce scrie presa străină despre incidentul provocat de prăbușirea unei drone pe un bloc din Galați</title>
-        <link>https://www.digi24.ro/stiri/actualitate/ce-scrie-presa-straina-despre-incidentul-provocat-de-prabusirea-unei-drone-pe-un-bloc-din-galati-3790767</link>
+        <title>178 de apartamente din Galați au rămas fără gaze după prăbușirea dronei rusești. Când va fi reluată alimentarea</title>
+        <link>https://www.digi24.ro/stiri/economie/consumatori/178-de-apartamente-din-galati-au-ramas-fara-gaze-dupa-prabusirea-dronei-rusesti-cand-va-fi-reluata-alimentarea-3791401</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/ce-scrie-presa-straina-despre-incidentul-provocat-de-prabusirea-unei-drone-pe-un-bloc-din-galati-3790767</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/consumatori/178-de-apartamente-din-galati-au-ramas-fara-gaze-dupa-prabusirea-dronei-rusesti-cand-va-fi-reluata-alimentarea-3791401</guid>
     </item>
     <item>
-        <title>Mesajul unui deputat din Galați după ce o dronă a lovit un bloc de locuințe: „Războiul este aici”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/mesajul-unui-deputat-din-galati-dupa-ce-o-drona-a-2532995.html</link>
+        <title>Doar 3 din 10 seniori au ştiut să recunoască metode precum spoofing sau smishing / Campanie dedicată protejării vârsticilor de fraudele bancare online</title>
+        <link>https://www.g4media.ro/doar-3-din-10-seniori-au-stiut-sa-recunoasca-metode-precum-spoofing-sau-smishing-campanie-dedicata-protejarii-varsticilor-de-fraudele-bancare-online.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/doar-3-din-10-seniori-au-stiut-sa-recunoasca-metode-precum-spoofing-sau-smishing-campanie-dedicata-protejarii-varsticilor-de-fraudele-bancare-online.html</guid>
+    </item>
+    <item>
+        <title>Brașov: autoritățile au început să elimine urșii care ajung tot mai des în cartierele orașului | AUDIO</title>
+        <link>https://www.europafm.ro/ursi-brasov-interventii-eliminare-cartiere-112/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ursi-brasov-interventii-eliminare-cartiere-112/</guid>
+    </item>
+    <item>
+        <title>Ciolacu: Armata nu a putut intercepta drona care a intrat în spațiul aerian al României</title>
+        <link>https://www.mediafax.ro/politic/ciolacu-armata-nu-a-putut-intercepta-drona-care-a-intrat-in-spatiul-aerian-al-romaniei-23745752</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/ciolacu-armata-nu-a-putut-intercepta-drona-care-a-intrat-in-spatiul-aerian-al-romaniei-23745752</guid>
+    </item>
+    <item>
+        <title>Prima reacție a SUA după incidentul de la Galați: „Vom apăra fiecare centimetru al teritoriului NATO”</title>
+        <link>https://www.mediafax.ro/externe/prima-reactie-a-sua-dupa-incidentul-de-la-galati-vom-apara-fiecare-centimetru-al-teritoriului-nato-23745739</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/prima-reactie-a-sua-dupa-incidentul-de-la-galati-vom-apara-fiecare-centimetru-al-teritoriului-nato-23745739</guid>
+    </item>
+    <item>
+        <title>Generalul Gheorghe Maxim explică de ce armata nu a neutralizat drona din Galați: „Prima limitare pe care o avem este legală”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/generalul-gheorghe-maxim-explica-de-ce-armata-nu-a-2533070.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/mesajul-unui-deputat-din-galati-dupa-ce-o-drona-a-2532995.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/generalul-gheorghe-maxim-explica-de-ce-armata-nu-a-2533070.html</guid>
     </item>
     <item>
-        <title>În căutarea unui acord iluzoriu: În ce capcană a căzut Donald Trump în criza din Iran și cum îl împiedică să pună capăt conflictului</title>
-        <link>https://www.digi24.ro/stiri/externe/in-cautarea-unui-acord-iluzoriu-in-ce-capcana-a-cazut-donald-trump-in-criza-din-iran-si-cum-il-impiedica-sa-puna-capat-conflictului-3789651</link>
+        <title>Dronă rusească prăbușită în Galați. Iulian Chifu: „este o agresiune la adresa teritoriului național și a cetățenilor” | AUDIO</title>
+        <link>https://www.europafm.ro/drone-ruseasca-galati-agresiune-iulian-chifu/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/drone-ruseasca-galati-agresiune-iulian-chifu/</guid>
+    </item>
+    <item>
+        <title>Dosar penal pentru violarea spațiului aerian, distrugere și tentativă de omor, după explozia dronei din Galați</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/dosar-penal-pentru-violarea-spatiului-aerian-2533054.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/dosar-penal-pentru-violarea-spatiului-aerian-2533054.html</guid>
+    </item>
+    <item>
+        <title>Cum prezintă propaganda rusă cazul dronei care a lovit blocul din Galați</title>
+        <link>https://www.digi24.ro/stiri/externe/rusia/cum-prezinta-propaganda-rusa-cazul-dronei-care-a-lovit-blocul-din-galati-3791393</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/in-cautarea-unui-acord-iluzoriu-in-ce-capcana-a-cazut-donald-trump-in-criza-din-iran-si-cum-il-impiedica-sa-puna-capat-conflictului-3789651</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/cum-prezinta-propaganda-rusa-cazul-dronei-care-a-lovit-blocul-din-galati-3791393</guid>
     </item>
     <item>
-        <title>Reacția MAE după ce o dronă a lovit un bloc din Galați: „O escaladare gravă și iresponsabilă din partea Federației Ruse”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/reactia-mae-dupa-ce-o-drona-a-lovit-un-bloc-din-2532999.html</link>
+        <title>15 ani de închisoare pentru austriacul care plănuia un atac terorist la un concert Taylor Swift / „Aş dori doar să-mi cer scuze”</title>
+        <link>https://www.g4media.ro/15-ani-de-inchisoare-pentru-austriacul-care-planuia-un-atac-terorist-la-un-concert-taylor-swift-as-dori-doar-sa-mi-cer-scuze.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/15-ani-de-inchisoare-pentru-austriacul-care-planuia-un-atac-terorist-la-un-concert-taylor-swift-as-dori-doar-sa-mi-cer-scuze.html</guid>
+    </item>
+    <item>
+        <title>Care este starea celor două persoane rănite în incendiul de la Galaț. Ministerul Sănătății: ambii pacienți sunt stabili | AUDIO</title>
+        <link>https://www.europafm.ro/stare-victime-incendiu-galati-femeie-baiat-raniti/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/stare-victime-incendiu-galati-femeie-baiat-raniti/</guid>
+    </item>
+    <item>
+        <title>Ambasadorul SUA la NATO, după prăbușirea dronei rusești la Galați: „Condamnăm această incursiune nesăbuită pe teritoriul României / Vom apăra fiecare </title>
+        <link>https://www.g4media.ro/ambasadorul-sua-la-nato-dupa-prabusirea-dronei-rusesti-la-galati-condamnam-aceasta-incursiune-nesabuita-pe-teritoriul-romaniei-vom-apara-fiecare-centimetru-de-teritoriu-nato.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/ambasadorul-sua-la-nato-dupa-prabusirea-dronei-rusesti-la-galati-condamnam-aceasta-incursiune-nesabuita-pe-teritoriul-romaniei-vom-apara-fiecare-centimetru-de-teritoriu-nato.html</guid>
+    </item>
+    <item>
+        <title>Bolojan anunță sancțiuni împotriva diplomaților ruși după incidentul de la Galați: „Am convenit acțiunea care va fi propusă în CSAT”</title>
+        <link>https://adevarul.ro/stiri-interne/societate/bolojan-anunta-sanctiuni-impotriva-diplomatilor-2533069.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/reactia-mae-dupa-ce-o-drona-a-lovit-un-bloc-din-2532999.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/bolojan-anunta-sanctiuni-impotriva-diplomatilor-2533069.html</guid>
     </item>
     <item>
-        <title>Ungaria vrea România în Grupul de la Vișegrad. Avertisment din Elveția: „Să nu se folosească de acest format pentru influență”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/ungaria-vrea-romania-in-grupul-de-la-visegrad-2532175.html</link>
+        <title>Mircea Rednic nu mai face compromisuri: „La Dinamo nu aveam nici bani de deplasări”</title>
+        <link>https://adevarul.ro/sport/mircea-rednic-nu-mai-face-compromisuri-la-dinamo-2533068.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ungaria-vrea-romania-in-grupul-de-la-visegrad-2532175.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/sport/mircea-rednic-nu-mai-face-compromisuri-la-dinamo-2533068.html</guid>
     </item>
     <item>
-        <title>MAE: Dronă rusească prăbușită în Galați. România amenință cu măsuri diplomatice</title>
-        <link>https://www.mediafax.ro/politic/mae-drona-ruseasca-prabusita-in-galati-romania-ameninta-cu-masuri-diplomatice-23745489</link>
+        <title>Angajaţii din Finanţe Buzău au declanşat un nou protest spontan / Ameninţă cu oprirea activităţii / ”Vom protesta până în momentul în care o să înţele</title>
+        <link>https://www.g4media.ro/angajatii-din-finante-buzau-au-declansat-un-nou-protest-spontan-ameninta-cu-oprirea-activitatii-vom-protesta-pana-in-momentul-in-care-o-sa-inteleaga-ca-suntem-importanti.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/angajatii-din-finante-buzau-au-declansat-un-nou-protest-spontan-ameninta-cu-oprirea-activitatii-vom-protesta-pana-in-momentul-in-care-o-sa-inteleaga-ca-suntem-importanti.html</guid>
+    </item>
+    <item>
+        <title>Telefon de la cel mai înalt nivel al NATO după drona care a lovit Galațiul</title>
+        <link>https://www.mediafax.ro/politic/telefon-de-la-cel-mai-inalt-nivel-al-nato-dupa-drona-care-a-lovit-galatiul-23745756</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/mae-drona-ruseasca-prabusita-in-galati-romania-ameninta-cu-masuri-diplomatice-23745489</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/telefon-de-la-cel-mai-inalt-nivel-al-nato-dupa-drona-care-a-lovit-galatiul-23745756</guid>
     </item>
     <item>
-        <title>Presa din Ucraina scrie despre drona care a lovit un bloc din Galați. Imaginile au fost preluate de mai multe publicații</title>
-        <link>https://www.mediafax.ro/externe/presa-din-ucraina-scrie-despre-drona-care-a-lovit-un-bloc-din-galati-imaginile-au-fost-preluate-de-mai-multe-publicatii-23745480</link>
+        <title>Reacție dură de la Bruxelles după drona căzută la Galați: „Încălcare flagrantă și gravă a suveranității României”</title>
+        <link>https://www.mediafax.ro/externe/reactie-dura-de-la-bruxelles-dupa-drona-cazuta-la-galati-incalcare-flagranta-si-grava-a-suveranitatii-romaniei-23745733</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/presa-din-ucraina-scrie-despre-drona-care-a-lovit-un-bloc-din-galati-imaginile-au-fost-preluate-de-mai-multe-publicatii-23745480</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/reactie-dura-de-la-bruxelles-dupa-drona-cazuta-la-galati-incalcare-flagranta-si-grava-a-suveranitatii-romaniei-23745733</guid>
     </item>
     <item>
-        <title>„Bilet doar dus”. Rușii recrutează muncitori nigerieni cărora le promit locuri de muncă în Rusia, dar îi trimit să moară în Ucraina</title>
-        <link>https://www.digi24.ro/stiri/externe/bilet-doar-dus-rusii-recruteaza-muncitori-nigerieni-carora-le-promit-locuri-de-munca-in-rusia-dar-ii-trimit-sa-moara-in-ucraina-3789613</link>
+        <title>Capcana termenelor SAFE: sacrifică Europa suveranitatea industrială pentru decizii luate pe repede înainte?</title>
+        <link>https://adevarul.ro/blogurile-adevarul/capcana-termenelor-safe-sacrifica-europa-2533048.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/capcana-termenelor-safe-sacrifica-europa-2533048.html</guid>
+    </item>
+    <item>
+        <title>„Nu putem decât să ne bucurăm”: Cum răspunde Kremlinul la refuzul Ungariei de a trimite arme Ucrainei</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/nu-putem-decat-sa-ne-bucuram-cum-raspunde-kremlinul-la-refuzul-ungariei-de-a-trimite-arme-ucrainei-3791427</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/bilet-doar-dus-rusii-recruteaza-muncitori-nigerieni-carora-le-promit-locuri-de-munca-in-rusia-dar-ii-trimit-sa-moara-in-ucraina-3789613</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/nu-putem-decat-sa-ne-bucuram-cum-raspunde-kremlinul-la-refuzul-ungariei-de-a-trimite-arme-ucrainei-3791427</guid>
     </item>
     <item>
-        <title>Liderul spiritual urmărit de milioane de oameni explică de ce societatea modernă este tot mai anxioasă</title>
-        <link>https://adevarul.ro/dezvoltare-personala/spiritualitate/liderul-spiritual-urmarit-de-milioane-de-oameni-2532146.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/spiritualitate/liderul-spiritual-urmarit-de-milioane-de-oameni-2532146.html</guid>
-    </item>
-    <item>
-        <title>Record de temperatură în Portugalia. Termometrele au depășit 40 de grade Celsius</title>
-        <link>https://adevarul.ro/stiri-externe/europa/record-de-temperatura-in-portugalia-termometrele-2532992.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/record-de-temperatura-in-portugalia-termometrele-2532992.html</guid>
-    </item>
-    <item>
-        <title>Spania blochează Polymarket. Platforma de pariuri pe evenimente globale intră în vizorul autorităților</title>
-        <link>https://www.mediafax.ro/externe/spania-blocheaza-polymarket-platforma-de-pariuri-pe-evenimente-globale-intra-in-vizorul-autoritatilor-23745468</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/spania-blocheaza-polymarket-platforma-de-pariuri-pe-evenimente-globale-intra-in-vizorul-autoritatilor-23745468</guid>
-    </item>
-    <item>
-        <title>Ce este Articolul 4 al NATO, pe care România l-ar putea invoca după explozia dronei de la Galați</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ce-este-articolul-4-al-nato-pe-care-romania-l-ar-putea-invoca-dupa-explozia-dronei-de-la-galati-23745498</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ce-este-articolul-4-al-nato-pe-care-romania-l-ar-putea-invoca-dupa-explozia-dronei-de-la-galati-23745498</guid>
-    </item>
-    <item>
-        <title>Europa ar trebui să se alăture negocierilor Rusia-Ucraina, dar nu ca mediator. Norvegia: „Cred că există o oarecare confuzie”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/europa-ar-trebui-sa-se-alature-negocierilor-rusia-ucraina-dar-nu-ca-mediator-norvegia-cred-ca-exista-o-oarecare-confuzie-3790035</link>
+        <title>Ambasadorul SUA la Alianța Nord-Atlantică, mesaj ferm după incidentul cu drona: „Vom apăra fiecare centimetru de teritoriu NATO”</title>
+        <link>https://www.digi24.ro/stiri/ambasadorul-sua-la-alianta-nord-atlantica-mesaj-ferm-dupa-incidentul-cu-drona-vom-apara-fiecare-centimetru-de-teritoriu-nato-3791431</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/europa-ar-trebui-sa-se-alature-negocierilor-rusia-ucraina-dar-nu-ca-mediator-norvegia-cred-ca-exista-o-oarecare-confuzie-3790035</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/ambasadorul-sua-la-alianta-nord-atlantica-mesaj-ferm-dupa-incidentul-cu-drona-vom-apara-fiecare-centimetru-de-teritoriu-nato-3791431</guid>
     </item>
     <item>
-        <title>George Simion condamnă atacul cu dronă, dar nu indică agresorul: nici un cuvânt despre Rusia/ Partidul extremist AUR se opune programului de 16 miliar</title>
-        <link>https://www.g4media.ro/george-simion-condamna-atacul-cu-drona-dar-nu-indica-agresorul-nici-un-cuvant-despre-rusia-partidul-extremist-aur-se-opune-programului-de-16-miliarde-de-euro-pentru-apararea-romaniei.html</link>
+        <title>De ce nu rupem relațiile diplomatice cu Moscova? / Rusia este încă o forță, situația din Moldova, dar și ”servilismul față de Kremlin și teama de Ucra</title>
+        <link>https://www.g4media.ro/de-ce-nu-rupem-relatiile-diplomatice-cu-moscova-rusia-este-inca-o-forta-situatia-din-moldova-dar-si-servilismul-fata-de-kremlin-si-teama-de-ucraina-care-se-ridica-drept-factor-geopolitic.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/george-simion-condamna-atacul-cu-drona-dar-nu-indica-agresorul-nici-un-cuvant-despre-rusia-partidul-extremist-aur-se-opune-programului-de-16-miliarde-de-euro-pentru-apararea-romaniei.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/de-ce-nu-rupem-relatiile-diplomatice-cu-moscova-rusia-este-inca-o-forta-situatia-din-moldova-dar-si-servilismul-fata-de-kremlin-si-teama-de-ucraina-care-se-ridica-drept-factor-geopolitic.html</guid>
     </item>
     <item>
-        <title>Unsprezece militari răniţi, după ce trei blindate Piranha 5 s-au ciocnit pe DN 1C în județul Sălaj</title>
-        <link>https://www.g4media.ro/unsprezece-militari-raniti-dupa-ce-trei-blindate-piranha-5-s-au-ciocnit-pe-dn-1c-in-judetul-salaj.html</link>
+        <title>Ilie Bolojan, după incidentul din Galați: „Condamn fără rezervă aceste acțiuni grave și cer ferm Rusiei să pună imediat capăt acestora”</title>
+        <link>https://www.europafm.ro/ilie-bolojan-dupa-incidentul-din-galati-condamn-fara-rezerva-aceste-actiuni-grave-si-cer-ferm-rusiei-sa-puna-imediat-capat-acestora/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/ilie-bolojan-dupa-incidentul-din-galati-condamn-fara-rezerva-aceste-actiuni-grave-si-cer-ferm-rusiei-sa-puna-imediat-capat-acestora/</guid>
+    </item>
+    <item>
+        <title>Parchetul a deschis dosar penal după explozia unei drone rusești la Galați. Ce infracțiuni sunt cercetate</title>
+        <link>https://www.europafm.ro/dosar-penal-explozie-drone-galati-tentativa-omor-calificat/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/dosar-penal-explozie-drone-galati-tentativa-omor-calificat/</guid>
+    </item>
+    <item>
+        <title>Kremlinul salută faptul că noul prim-ministru al Ungariei se opune trimiterii de arme Kievului / Peter Magyar menține poziția lui Viktor Orban</title>
+        <link>https://www.g4media.ro/kremlinul-saluta-faptul-ca-noul-prim-ministru-al-ungariei-se-opune-trimiterii-de-arme-kievului-peter-magyar-mentine-pozitia-lui-viktor-orban.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/unsprezece-militari-raniti-dupa-ce-trei-blindate-piranha-5-s-au-ciocnit-pe-dn-1c-in-judetul-salaj.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/kremlinul-saluta-faptul-ca-noul-prim-ministru-al-ungariei-se-opune-trimiterii-de-arme-kievului-peter-magyar-mentine-pozitia-lui-viktor-orban.html</guid>
     </item>
     <item>
-        <title>Un vagon al unui tren InterCity a deraiat în gara Suceava / Nu au fost înregistrate victime</title>
-        <link>https://www.g4media.ro/un-vagon-al-unui-tren-intercity-a-deraiat-in-gara-suceava-nu-au-fost-inregistrate-victime.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/un-vagon-al-unui-tren-intercity-a-deraiat-in-gara-suceava-nu-au-fost-inregistrate-victime.html</guid>
-    </item>
-    <item>
-        <title>Reacția MAE român după prăbușirea dronei la Galați: „O escaladare gravă şi iresponsabilă din partea Federatiei Ruse”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/reactia-mae-roman-dupa-prabusirea-dronei-la-galati-o-escaladare-grava-si-iresponsabila-din-partea-federatiei-ruse-3790873</link>
+        <title>ANM anunță două zile cu vânt puternic în România. Zonele vizate de Cod galben și cum va fi vremea în București - HARTĂ</title>
+        <link>https://www.digi24.ro/meteo/anm-anunta-doua-zile-cu-vant-puternic-in-romania-zonele-vizate-de-cod-galben-si-cum-va-fi-vremea-in-bucuresti-harta-3791321</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/reactia-mae-roman-dupa-prabusirea-dronei-la-galati-o-escaladare-grava-si-iresponsabila-din-partea-federatiei-ruse-3790873</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/meteo/anm-anunta-doua-zile-cu-vant-puternic-in-romania-zonele-vizate-de-cod-galben-si-cum-va-fi-vremea-in-bucuresti-harta-3791321</guid>
     </item>
     <item>
-        <title>Dronă prăbușită în Galați. Primar: Situația este sub control, zona a fost securizată, iar evaluările continuă</title>
-        <link>https://www.mediafax.ro/politic/drona-prabusita-in-galati-primar-situatia-este-sub-control-zona-a-fost-securizata-iar-evaluarile-continua-23745501</link>
+        <title>Vara aceasta faci check-in-ul la Europa FM! Pentru că marea se aude mai bine în Deșteptarea!</title>
+        <link>https://www.europafm.ro/vara-aceasta-faci-check-in-ul-la-europa-fm-pentru-ca-marea-se-aude-mai-bine-in-desteptarea/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/vara-aceasta-faci-check-in-ul-la-europa-fm-pentru-ca-marea-se-aude-mai-bine-in-desteptarea/</guid>
+    </item>
+    <item>
+        <title>Pentagonul avertizează că militarii americani sunt urmăriți prin intermediul datelor de localizare colectate de diverse aplicații</title>
+        <link>https://www.g4media.ro/pentagonul-avertizeaza-ca-militarii-americani-sunt-urmariti-prin-intermediul-datelor-de-localizare-colectate-de-diverse-aplicatii.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/pentagonul-avertizeaza-ca-militarii-americani-sunt-urmariti-prin-intermediul-datelor-de-localizare-colectate-de-diverse-aplicatii.html</guid>
+    </item>
+    <item>
+        <title>Rusia își dotează dronele Shahed cu sisteme de bruiaj pentru a supraviețui interceptoarelor Ucrainei</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/rusia-isi-doteaza-dronele-shahed-cu-sisteme-de-2533080.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/rusia-isi-doteaza-dronele-shahed-cu-sisteme-de-2533080.html</guid>
+    </item>
+    <item>
+        <title>Experții chinezi avertizează că efectele El Nino vor atinge apogeul în cursul toamnei şi al iernii</title>
+        <link>https://www.digi24.ro/stiri/externe/mapamond/expertii-chinezi-avertizeaza-ca-efectele-el-nino-vor-atinge-apogeul-in-cursul-toamnei-si-al-iernii-3791343</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/expertii-chinezi-avertizeaza-ca-efectele-el-nino-vor-atinge-apogeul-in-cursul-toamnei-si-al-iernii-3791343</guid>
+    </item>
+    <item>
+        <title>Ilie Bolojan a cerut un avion militar Spartan pentru a ajunge în țară. Premierul se află în Republica Moldova</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/ilie-bolojan-a-cerut-un-avion-militar-spartan-2533066.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/ilie-bolojan-a-cerut-un-avion-militar-spartan-2533066.html</guid>
+    </item>
+    <item>
+        <title>Bolojan, la Chișinău: Reforma unirii localităților aduce servicii mai bune și costuri mai mici</title>
+        <link>https://www.mediafax.ro/politic/bolojan-la-chisinau-reforma-unirii-localitatilor-aduce-servicii-mai-bune-si-costuri-mai-mici-23745735</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/drona-prabusita-in-galati-primar-situatia-este-sub-control-zona-a-fost-securizata-iar-evaluarile-continua-23745501</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/bolojan-la-chisinau-reforma-unirii-localitatilor-aduce-servicii-mai-bune-si-costuri-mai-mici-23745735</guid>
     </item>
     <item>
-        <title>Cum faci loc curățeniei într-un weekend deja plin</title>
-        <link>https://www.g4media.ro/cum-faci-loc-curateniei-intr-un-weekend-deja-plin.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/cum-faci-loc-curateniei-intr-un-weekend-deja-plin.html</guid>
+        <title>O tânără băută a intrat cu mașina într-un autobuz pe un drum național din Maramureș. Cinci persoane sunt rănite</title>
+        <link>https://adevarul.ro/stiri-locale/baia-mare/o-tanara-bauta-a-intrat-cu-masina-intr-un-autobuz-2533059.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/baia-mare/o-tanara-bauta-a-intrat-cu-masina-intr-un-autobuz-2533059.html</guid>
     </item>
     <item>
-        <title>Imagini spectaculoase cu o rachetă Blue Origin care a explodat în timpul unui test în Florida</title>
-        <link>https://www.g4media.ro/imagini-spectaculoase-cu-o-racheta-blue-origin-care-a-explodat-in-timpul-unui-test-in-florida.html</link>
+        <title>Bolojan vrea să sancționeze diplomații ruși la București după incidentul cu drona din Galați</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-la-chisinau-romania-a-cerut-nato-tehnica-pentru-detectarea-dronelor-la-joasa-altitudine-si-sisteme-antiaeriene-3791319</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-la-chisinau-romania-a-cerut-nato-tehnica-pentru-detectarea-dronelor-la-joasa-altitudine-si-sisteme-antiaeriene-3791319</guid>
+    </item>
+    <item>
+        <title>Furie la Galați după explozia dronei care a rănit civili și a provocat panică: „Rușii au rămas porci! De ce nu a fost doborâtă?”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/furie-la-galati-dupa-explozia-dronei-care-a-ranit-2533064.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/furie-la-galati-dupa-explozia-dronei-care-a-ranit-2533064.html</guid>
+    </item>
+    <item>
+        <title>Viktor Orbán cere guvernului ungar „să se abțină” după incidentul de la Galați: „Ne exprimăm simpatia față de cei răniți”</title>
+        <link>https://www.mediafax.ro/stirile-zilei/viktor-orban-cere-guvernului-ungar-sa-se-abtina-dupa-incidentul-de-la-galati-ne-exprimam-simpatia-fata-de-cei-raniti-23745761</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/viktor-orban-cere-guvernului-ungar-sa-se-abtina-dupa-incidentul-de-la-galati-ne-exprimam-simpatia-fata-de-cei-raniti-23745761</guid>
+    </item>
+    <item>
+        <title>Nicușor Dan a vorbit cu Mark Rutte: România nu va accepta ca Rusia să amenințe securitatea cetățenilor săi. Ce i-a transmis șeful NATO</title>
+        <link>https://www.digi24.ro/stiri/externe/nicusor-dan-a-vorbit-cu-mark-rutte-romania-nu-va-accepta-ca-rusia-sa-ameninte-securitatea-cetatenilor-sai-ce-i-a-transmis-seful-nato-3791345</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/nicusor-dan-a-vorbit-cu-mark-rutte-romania-nu-va-accepta-ca-rusia-sa-ameninte-securitatea-cetatenilor-sai-ce-i-a-transmis-seful-nato-3791345</guid>
+    </item>
+    <item>
+        <title>Costul real al ambalajelor în restaurant: de ce prețul pe bucată înșală (P)</title>
+        <link>https://www.mediafax.ro/social/costul-real-al-ambalajelor-in-restaurant-de-ce-pretul-pe-bucata-insala-p-23745743</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/costul-real-al-ambalajelor-in-restaurant-de-ce-pretul-pe-bucata-insala-p-23745743</guid>
+    </item>
+    <item>
+        <title>Primarul liberal al unei comune din Brașov, condamnat la închisoare pentru trafic de droguri</title>
+        <link>https://adevarul.ro/stiri-locale/brasov/primarul-liberal-al-unei-comune-din-brasov-2533073.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/brasov/primarul-liberal-al-unei-comune-din-brasov-2533073.html</guid>
+    </item>
+    <item>
+        <title>Radu Miruță i-a solicitat șefului NATO întărirea apărării antiaeriene în Dobrogea, după prăbușirea dronei din Galați. ți. Ambasadorul Rusiei, convocat</title>
+        <link>https://www.europafm.ro/guvern-dotare-antidrona-armata-galati-nato-reactii/</link>
+        <description>Europa FM</description>
+        <guid isPermaLink="true">https://www.europafm.ro/guvern-dotare-antidrona-armata-galati-nato-reactii/</guid>
+    </item>
+    <item>
+        <title>VIDEO FOTO Sinagoga din Constanța a fost redeschisă oficial după reabilitare</title>
+        <link>https://www.g4media.ro/video-foto-sinagoga-din-constanta-a-fost-redeschisa-oficial-dupa-reabilitare.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/imagini-spectaculoase-cu-o-racheta-blue-origin-care-a-explodat-in-timpul-unui-test-in-florida.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/video-foto-sinagoga-din-constanta-a-fost-redeschisa-oficial-dupa-reabilitare.html</guid>
+    </item>
+    <item>
+        <title>Cutremur în PSD Olt | Un membru important al partidului – Nicolae Stan, primarul din Colonești – își anunță demisia / „PSD n-a făcut nimic pentru oame</title>
+        <link>https://www.g4media.ro/cutremur-in-psd-olt-un-membru-important-al-partidului-nicolae-stan-primarul-din-colonesti-isi-anunta-demisia-psd-n-a-facut-nimic-pentru-oamenii-simpli-ci-doar-pentru-potentatii-din.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cutremur-in-psd-olt-un-membru-important-al-partidului-nicolae-stan-primarul-din-colonesti-isi-anunta-demisia-psd-n-a-facut-nimic-pentru-oamenii-simpli-ci-doar-pentru-potentatii-din.html</guid>
+    </item>
+    <item>
+        <title>SUA și Iranul discută prelungirea armistițiului. Negocierile privind programul nuclear ar putea fi reluate</title>
+        <link>https://www.mediafax.ro/externe/sua-si-iranul-discuta-prelungirea-armistitiului-negocierile-privind-programul-nuclear-ar-putea-fi-reluate-23745726</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/sua-si-iranul-discuta-prelungirea-armistitiului-negocierile-privind-programul-nuclear-ar-putea-fi-reluate-23745726</guid>
+    </item>
+    <item>
+        <title>Senatorii PSD îi cer demisia ministrului Radu Miruţă: „Apărarea ţării nu e o joacă pentru amatori”</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/senatorii-psd-ii-cer-demisia-ministrului-radu-miruta-apararea-tarii-nu-e-o-joaca-pentru-amatori-3791457</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/senatorii-psd-ii-cer-demisia-ministrului-radu-miruta-apararea-tarii-nu-e-o-joaca-pentru-amatori-3791457</guid>
+    </item>
+    <item>
+        <title>Prima reacție a Ucrainei după incidentul cu drona rusească prăbușită la Galați</title>
+        <link>https://www.digi24.ro/stiri/externe/prima-reactie-a-ucrainei-la-incidentul-de-la-galati-3791387</link>
+        <description>Digi24</description>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/prima-reactie-a-ucrainei-la-incidentul-de-la-galati-3791387</guid>
     </item>
     <item>
         <title>Deputatul Bogdan Rodeanu, după incidentul de la Galați: „Războiul este aici, la câțiva kilometri de casele noastre”</title>
@@ -182,64 +314,10 @@
         <guid isPermaLink="true">https://www.mediafax.ro/politic/deputatul-bogdan-rodeanu-dupa-incidentul-de-la-galati-razboiul-este-aici-la-cativa-kilometri-de-casele-noastre-23745469</guid>
     </item>
     <item>
-        <title>O dronă a lovit un bloc din centrul orașului Galați. Două persoane au fost rănite ușor | AUDIO</title>
-        <link>https://www.europafm.ro/o-drona-a-lovit-un-bloc-din-centrul-orasului-galati/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/o-drona-a-lovit-un-bloc-din-centrul-orasului-galati/</guid>
-    </item>
-    <item>
-        <title>Activități gratuite în weekendul prelungit de Ziua Copilului 2026. Ce evenimente sunt în București timp de trei zile</title>
-        <link>https://www.digi24.ro/magazin/timp-liber/activitati-gratuite-in-weekendul-prelungit-de-ziua-copilului-2026-ce-evenimente-sunt-in-bucuresti-timp-de-trei-zile-3789403</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/magazin/timp-liber/activitati-gratuite-in-weekendul-prelungit-de-ziua-copilului-2026-ce-evenimente-sunt-in-bucuresti-timp-de-trei-zile-3789403</guid>
-    </item>
-    <item>
-        <title>De la amenințările Ambasadei Rusiei la explozia unei drone pe un bloc din Galați. Europa, în fața scenariului „escaladării orizontale”</title>
-        <link>https://www.g4media.ro/de-la-amenintarile-ambasadei-rusiei-la-explozia-unei-drone-pe-un-bloc-din-galati-europa-in-fata-scenariului-escaladarii-orizontale.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/de-la-amenintarile-ambasadei-rusiei-la-explozia-unei-drone-pe-un-bloc-din-galati-europa-in-fata-scenariului-escaladarii-orizontale.html</guid>
-    </item>
-    <item>
-        <title>Netanyahu a ordonat armatei israeliene să cucerească Gaza / „Directiva mea este să trecem la – pas cu pas – în primul rând la 70%. Să începem cu asta”</title>
-        <link>https://www.g4media.ro/netanyahu-a-ordonat-armatei-israeliene-sa-cucereasca-gaza-directiva-mea-este-sa-trecem-la-pas-cu-pas-in-primul-rand-la-70-sa-incepem-cu-asta.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/netanyahu-a-ordonat-armatei-israeliene-sa-cucereasca-gaza-directiva-mea-este-sa-trecem-la-pas-cu-pas-in-primul-rand-la-70-sa-incepem-cu-asta.html</guid>
-    </item>
-    <item>
-        <title>Primarul Galațiului: „Dacă drona cădea pe dormitor, oamenii din apartament mureau”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/primarul-galatiului-daca-drona-cadea-pe-2532994.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/primarul-galatiului-daca-drona-cadea-pe-2532994.html</guid>
-    </item>
-    <item>
-        <title>Presa din Ucraina reacționează după prăbușirea dronei pe blocul din Galați: „Unul dintre cele mai grave cazuri din România”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/presa-din-ucraina-reactioneaza-dupa-prabusirea-2532997.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/presa-din-ucraina-reactioneaza-dupa-prabusirea-2532997.html</guid>
-    </item>
-    <item>
-        <title>„Chiar vine rusul peste noi?” Prima reacție a primarului din Galați după ce o dronă a lovit un bloc cu 10 etaje din oraș</title>
-        <link>https://www.digi24.ro/stiri/chiar-vine-rusul-peste-noi-prima-reactie-a-primarului-din-galati-dupa-ce-o-drona-a-lovit-un-bloc-cu-10-etaje-din-oras-3790759</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/chiar-vine-rusul-peste-noi-prima-reactie-a-primarului-din-galati-dupa-ce-o-drona-a-lovit-un-bloc-cu-10-etaje-din-oras-3790759</guid>
-    </item>
-    <item>
-        <title>Raed Arafat, apel către populație după ce o dronă a lovit un bloc din Galați: „Mesajele Ro-Alert trebuie luate în serios”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/raed-arafat-apel-catre-populatie-dupa-ce-o-drona-2532993.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/raed-arafat-apel-catre-populatie-dupa-ce-o-drona-2532993.html</guid>
-    </item>
-    <item>
-        <title>România riscă sancțiuni de la UE dacă nu adoptă legea transparenței salariale. Termenul limită este 7 iunie</title>
-        <link>https://www.digi24.ro/stiri/actualitate/romania-risca-sanctiuni-de-la-ue-daca-nu-adopta-legea-transparentei-salariale-termenul-limita-este-7-iunie-3790339</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/romania-risca-sanctiuni-de-la-ue-daca-nu-adopta-legea-transparentei-salariale-termenul-limita-este-7-iunie-3790339</guid>
-    </item>
-    <item>
-        <title>Pedro Sanchez, tot mai izolat după valul de scandaluri de corupție care zguduie Partidul Socialist din Spania</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/pedro-sanchez-tot-mai-izolat-dupa-valul-de-scandaluri-de-coruptie-care-zguduie-partidul-socialist-din-spania-3789593</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/pedro-sanchez-tot-mai-izolat-dupa-valul-de-scandaluri-de-coruptie-care-zguduie-partidul-socialist-din-spania-3789593</guid>
+        <title>Vânzările de combustibil au crescut în România, în ciuda crizei declanșate de războiul din Iran. Dumitru Chisăliță, AEI: „Pe consumatori nu i-a speria</title>
+        <link>https://www.mediafax.ro/economic/vanzarile-de-combustibil-au-crescut-in-romania-in-ciuda-crizei-declansate-de-razboiul-din-iran-dumitru-chisalita-aei-pe-consumatori-nu-i-a-speriat-pretul-datele-oficial-23745376</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/vanzarile-de-combustibil-au-crescut-in-romania-in-ciuda-crizei-declansate-de-razboiul-din-iran-dumitru-chisalita-aei-pe-consumatori-nu-i-a-speriat-pretul-datele-oficial-23745376</guid>
     </item>
     <item>
         <title>Restricții de circulație în minivacanța de Rusalii 2026: Limitări de trafic pe mai multe autostrăzi și drumuri naționale</title>
@@ -248,124 +326,46 @@
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/restrictii-de-circulatie-in-minivacanta-de-rusalii-2026-limitari-de-trafic-pe-mai-multe-autostrazi-si-drumuri-nationale-3789673</guid>
     </item>
     <item>
-        <title>Explozii în Strâmtoarea Ormuz: marina iraniană trage focuri de avertisment către navele SUA / Teheranul a anunțat „un schimb de focuri împotriva unor </title>
-        <link>https://www.g4media.ro/explozii-in-stramtoarea-ormuz-marina-iraniana-trage-focuri-de-avertisment-catre-navele-sua-teheranul-a-anuntat-un-schimb-de-focuri-impotriva-unor-nave-ilegale.html</link>
+        <title>Imagini spectaculoase cu o rachetă Blue Origin care a explodat în timpul unui test în Florida</title>
+        <link>https://www.g4media.ro/imagini-spectaculoase-cu-o-racheta-blue-origin-care-a-explodat-in-timpul-unui-test-in-florida.html</link>
         <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/explozii-in-stramtoarea-ormuz-marina-iraniana-trage-focuri-de-avertisment-catre-navele-sua-teheranul-a-anuntat-un-schimb-de-focuri-impotriva-unor-nave-ilegale.html</guid>
+        <guid isPermaLink="true">https://www.g4media.ro/imagini-spectaculoase-cu-o-racheta-blue-origin-care-a-explodat-in-timpul-unui-test-in-florida.html</guid>
     </item>
     <item>
-        <title>Criză gravă de apă potabilă în Cuba</title>
-        <link>https://www.mediafax.ro/externe/criza-grava-de-apa-potabila-in-cuba-23745417</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/criza-grava-de-apa-potabila-in-cuba-23745417</guid>
-    </item>
-    <item>
-        <title>14 profesii care schimbă piața muncii în era Inteligenței Artificiale: de la elitele tehnice la detectivii digitali</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/14-profesii-care-schimba-piata-muncii-in-era-2532639.html</link>
+        <title>Augustin Lazăr, fost procuror general al României: „Circa 30 de brățări regale dacice ar fi fost furate”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/augustin-lazar-fost-procuror-general-al-romaniei-2532875.html</link>
         <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/14-profesii-care-schimba-piata-muncii-in-era-2532639.html</guid>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/augustin-lazar-fost-procuror-general-al-romaniei-2532875.html</guid>
     </item>
     <item>
-        <title>Ce nu se vede în medicina veterinară: epuizarea emoțională a celor care salvează animale</title>
-        <link>https://adevarul.ro/stiri-interne/societate/ce-nu-se-vede-in-medicina-veterinara-epuizarea-2532093.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/ce-nu-se-vede-in-medicina-veterinara-epuizarea-2532093.html</guid>
+        <title>Cum faci loc curățeniei într-un weekend deja plin</title>
+        <link>https://www.g4media.ro/cum-faci-loc-curateniei-intr-un-weekend-deja-plin.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/cum-faci-loc-curateniei-intr-un-weekend-deja-plin.html</guid>
     </item>
     <item>
-        <title>Un tânăr a fost condamnat la 15 ani de închisoare pentru un atac dejucat la un concert Taylor Swift la Viena</title>
-        <link>https://www.mediafax.ro/externe/un-tanar-a-fost-condamnat-la-15-ani-de-inchisoare-pentru-un-atac-dejucat-la-un-concert-taylor-swift-la-viena-23745413</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-tanar-a-fost-condamnat-la-15-ani-de-inchisoare-pentru-un-atac-dejucat-la-un-concert-taylor-swift-la-viena-23745413</guid>
+        <title>George Simion condamnă atacul cu dronă, dar nu indică agresorul: nici un cuvânt despre Rusia/ Partidul extremist AUR se opune programului de 16 miliar</title>
+        <link>https://www.g4media.ro/george-simion-condamna-atacul-cu-drona-dar-nu-indica-agresorul-nici-un-cuvant-despre-rusia-partidul-extremist-aur-se-opune-programului-de-16-miliarde-de-euro-pentru-apararea-romaniei.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/george-simion-condamna-atacul-cu-drona-dar-nu-indica-agresorul-nici-un-cuvant-despre-rusia-partidul-extremist-aur-se-opune-programului-de-16-miliarde-de-euro-pentru-apararea-romaniei.html</guid>
     </item>
     <item>
-        <title>Incident în municipiul Galați. Posibil impact al unei drone asupra unui bloc de locuințe din zona BR (Stirex).</title>
-        <link>https://www.mediafax.ro/social/incident-in-municipiul-galati-posibil-impact-al-unei-drone-asupra-unui-bloc-de-locuinte-din-zona-br-stirex-23745434</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/incident-in-municipiul-galati-posibil-impact-al-unei-drone-asupra-unui-bloc-de-locuinte-din-zona-br-stirex-23745434</guid>
-    </item>
-    <item>
-        <title>Șeful OMS: Epidemia de Ebola poate fi oprită, dar închiderea granițelor „nu ajută”</title>
-        <link>https://www.mediafax.ro/externe/seful-oms-epidemia-de-ebola-poate-fi-oprita-dar-inchiderea-granitelor-nu-ajuta-23745426</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/seful-oms-epidemia-de-ebola-poate-fi-oprita-dar-inchiderea-granitelor-nu-ajuta-23745426</guid>
-    </item>
-    <item>
-        <title>Netanyahu a ordonat armatei israeliene să cucerească 70% din Gaza</title>
-        <link>https://www.mediafax.ro/externe/netanyahu-a-ordonat-armatei-israeliene-sa-cucereasca-70-din-gaza-23745432</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/netanyahu-a-ordonat-armatei-israeliene-sa-cucereasca-70-din-gaza-23745432</guid>
-    </item>
-    <item>
-        <title>Alimentele care pot reduce riscul de hipertensiune cu aproape 30%</title>
-        <link>https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/alimentele-care-pot-reduce-riscul-de-hipertensiune-2532697.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/alimentele-care-pot-reduce-riscul-de-hipertensiune-2532697.html</guid>
-    </item>
-    <item>
-        <title>Cum apără armata ucraineană Kupianskul în fața trupelor ruse care se infiltrează prin conducte de gaz de pe vremea URSS</title>
-        <link>https://adevarul.ro/stiri-externe/europa/cum-apara-armata-ucraineana-kupianskul-in-fata-2532882.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/cum-apara-armata-ucraineana-kupianskul-in-fata-2532882.html</guid>
-    </item>
-    <item>
-        <title>Explozii în Strâmtoarea Ormuz: marina iraniană trage focuri de avertisment către navele SUA</title>
-        <link>https://www.mediafax.ro/stirile-zilei/explozii-in-stramtoarea-ormuz-marina-iraniana-trage-focuri-de-avertisment-catre-navele-sua-23745397</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/explozii-in-stramtoarea-ormuz-marina-iraniana-trage-focuri-de-avertisment-catre-navele-sua-23745397</guid>
-    </item>
-    <item>
-        <title>Cântărețul rus Shaman a folosit AI pentru a include opozanți notorii ai Kremlinului într-un cor patriotic. „Cântă pe gratis”</title>
-        <link>https://www.digi24.ro/stiri/externe/rusia/cantaretul-rus-shaman-a-folosit-ai-pentru-a-include-opozanti-notorii-ai-kremlinului-intr-un-cor-patriotic-canta-pe-gratis-3790517</link>
+        <title>Ce scrie presa străină despre incidentul provocat de prăbușirea unei drone pe un bloc din Galați</title>
+        <link>https://www.digi24.ro/stiri/actualitate/ce-scrie-presa-straina-despre-incidentul-provocat-de-prabusirea-unei-drone-pe-un-bloc-din-galati-3790767</link>
         <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/cantaretul-rus-shaman-a-folosit-ai-pentru-a-include-opozanti-notorii-ai-kremlinului-intr-un-cor-patriotic-canta-pe-gratis-3790517</guid>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/ce-scrie-presa-straina-despre-incidentul-provocat-de-prabusirea-unei-drone-pe-un-bloc-din-galati-3790767</guid>
     </item>
     <item>
-        <title>Conform relatărilor presei de stat iraniene, SUA și Iran nu au ajuns la un acord</title>
-        <link>https://www.mediafax.ro/externe/conform-relatarilor-presei-de-stat-iraniene-sua-si-iran-nu-au-ajuns-la-un-acord-23745395</link>
+        <title>Ce este Articolul 4 al NATO, pe care România l-ar putea invoca după explozia dronei de la Galați</title>
+        <link>https://www.mediafax.ro/stirile-zilei/ce-este-articolul-4-al-nato-pe-care-romania-l-ar-putea-invoca-dupa-explozia-dronei-de-la-galati-23745498</link>
         <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/conform-relatarilor-presei-de-stat-iraniene-sua-si-iran-nu-au-ajuns-la-un-acord-23745395</guid>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ce-este-articolul-4-al-nato-pe-care-romania-l-ar-putea-invoca-dupa-explozia-dronei-de-la-galati-23745498</guid>
     </item>
     <item>
-        <title>Statele Unite și Iranul ar fi ajuns la un acord pentru prelungirea armistițiului cu 60 de zile. Aprobarea finală din partea președintelui Donald Trump</title>
-        <link>https://www.europafm.ro/statele-unite-si-iranul-ar-fi-ajuns-la-un-acord-pentru-prelungirea-armistitiului-aprobarea-finala-din-partea-presedintelui-donald-trump-asteptata/</link>
-        <description>Europa FM</description>
-        <guid isPermaLink="true">https://www.europafm.ro/statele-unite-si-iranul-ar-fi-ajuns-la-un-acord-pentru-prelungirea-armistitiului-aprobarea-finala-din-partea-presedintelui-donald-trump-asteptata/</guid>
-    </item>
-    <item>
-        <title>Franța a abrogat legea care clasifica oamenii drept proprietate, la 178 de ani după ce a abolit sclavia</title>
-        <link>https://www.mediafax.ro/externe/franta-a-abrogat-legea-care-clasifica-oamenii-drept-proprietate-la-178-de-ani-dupa-ce-a-abolit-sclavia-23745393</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/franta-a-abrogat-legea-care-clasifica-oamenii-drept-proprietate-la-178-de-ani-dupa-ce-a-abolit-sclavia-23745393</guid>
-    </item>
-    <item>
-        <title>„Am terminat-o cu acest secretar general”: Antonio Guterres a atras furia Israelului după un raport al ONU privind abuzurile din Gaza</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/am-terminat-o-cu-acest-secretar-general-antonio-guterres-a-atras-furia-israelului-dupa-un-raport-al-onu-privind-abuzurile-din-gaza-3790493</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/am-terminat-o-cu-acest-secretar-general-antonio-guterres-a-atras-furia-israelului-dupa-un-raport-al-onu-privind-abuzurile-din-gaza-3790493</guid>
-    </item>
-    <item>
-        <title>Antrenor de înot de la Clubul Sportiv din Câmpina, cercetat pentru agresiune sexuală asupra unei fete de 12 ani</title>
-        <link>https://adevarul.ro/stiri-locale/ploiesti/antrenor-de-inot-din-campina-cercetat-pentru-2532981.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/ploiesti/antrenor-de-inot-din-campina-cercetat-pentru-2532981.html</guid>
-    </item>
-    <item>
-        <title>OMS a identificat tratamente şi vaccinuri experimentale împotriva virusului Ebola. Urmează teste în cadrul unor studii clinice</title>
-        <link>https://www.digi24.ro/stiri/externe/oms-a-identificat-tratamente-si-vaccinuri-experimentale-impotriva-virusului-ebola-urmeaza-teste-in-cadrul-unor-studii-clinice-3790601</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/oms-a-identificat-tratamente-si-vaccinuri-experimentale-impotriva-virusului-ebola-urmeaza-teste-in-cadrul-unor-studii-clinice-3790601</guid>
-    </item>
-    <item>
-        <title>Panică în stațiunea Sinaia: un urs a fost văzut pe Bulevardul Ferdinand, unde circulația pietonală este intensă. Autoritățile au transmis mesaje RO‑AL</title>
-        <link>https://adevarul.ro/stiri-locale/ploiesti/panica-in-statiunea-sinaia-un-urs-a-fost-vazut-pe-2532985.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/ploiesti/panica-in-statiunea-sinaia-un-urs-a-fost-vazut-pe-2532985.html</guid>
-    </item>
-    <item>
-        <title>11 militari sunt răniți în urma unui accident cu trei blindate Piranha ale Armatei Române în Sălaj. Cauza accidentului</title>
-        <link>https://adevarul.ro/stiri-locale/zalau/11-militari-raniti-dupa-ce-trei-transportoare-2532983.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/zalau/11-militari-raniti-dupa-ce-trei-transportoare-2532983.html</guid>
+        <title>Unsprezece militari răniţi, după ce trei blindate Piranha 5 s-au ciocnit pe DN 1C în județul Sălaj</title>
+        <link>https://www.g4media.ro/unsprezece-militari-raniti-dupa-ce-trei-blindate-piranha-5-s-au-ciocnit-pe-dn-1c-in-judetul-salaj.html</link>
+        <description>G4Media</description>
+        <guid isPermaLink="true">https://www.g4media.ro/unsprezece-militari-raniti-dupa-ce-trei-blindate-piranha-5-s-au-ciocnit-pe-dn-1c-in-judetul-salaj.html</guid>
     </item>
 </channel>
 </rss>
