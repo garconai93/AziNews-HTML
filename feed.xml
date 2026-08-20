@@ -5,19 +5,13 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 20 Aug 2026 02:04:27 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:26:26 +0200</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Împușcături în apropierea tribunalului din Las Vegas, unde are loc procesul pentru uciderea lui Tupac Shakur</title>
-        <link>https://www.mediafax.ro/externe/impuscaturi-in-apropierea-tribunalului-din-las-vegas-unde-are-loc-procesul-pentru-uciderea-lui-tupac-shakur-23793093</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/impuscaturi-in-apropierea-tribunalului-din-las-vegas-unde-are-loc-procesul-pentru-uciderea-lui-tupac-shakur-23793093</guid>
-    </item>
-    <item>
-        <title>Atac rusesc asupra Kievului. Cel puțin trei morți și 20 de răniți</title>
-        <link>https://www.mediafax.ro/externe/atac-rusesc-asupra-kievului-cel-putin-trei-morti-si-20-de-raniti-23793101</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/atac-rusesc-asupra-kievului-cel-putin-trei-morti-si-20-de-raniti-23793101</guid>
+        <title>De la un sat uitat de lume din Botoșani la marile gale de K1. Povestea românului cu 61 de victorii și 34 de KO-uri</title>
+        <link>https://adevarul.ro/stiri-locale/botosani/de-la-un-sat-uitat-de-lume-din-botosani-la-marile-2550763.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/botosani/de-la-un-sat-uitat-de-lume-din-botosani-la-marile-2550763.html</guid>
     </item>
     <item>
         <title>Secretele unui mamifer rar din Patagonia, dezvăluite după opt ani de cercetări. Seamănă cu un iepure, dar nu e</title>
@@ -26,52 +20,16 @@
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/secretele-unui-mamifer-rar-din-patagonia-2550783.html</guid>
     </item>
     <item>
-        <title>Suplimentul pe care 4 cardiologi îl numesc o risipă de bani. Adevărul despre Coenzima Q10</title>
-        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/suplimentul-pe-care-4-cardiologi-il-numesc-o-2550897.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/suplimentul-pe-care-4-cardiologi-il-numesc-o-2550897.html</guid>
-    </item>
-    <item>
-        <title>Avem Tinder, Bumble și rețele sociale. Atunci de ce e atât de greu să ne găsim un partener?</title>
-        <link>https://adevarul.ro/stiri-interne/societate/avem-tinder-bumble-si-retele-sociale-atunci-de-2550499.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/avem-tinder-bumble-si-retele-sociale-atunci-de-2550499.html</guid>
-    </item>
-    <item>
-        <title>De la un sat uitat de lume din Botoșani la marile gale de K1. Povestea românului cu 61 de victorii și 34 de KO-uri</title>
-        <link>https://adevarul.ro/stiri-locale/botosani/de-la-un-sat-uitat-de-lume-din-botosani-la-marile-2550763.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/botosani/de-la-un-sat-uitat-de-lume-din-botosani-la-marile-2550763.html</guid>
-    </item>
-    <item>
-        <title>Trump amenință Iranul cu un „D-Day economic”: Cea mai zdrobitoare operațiune economică</title>
-        <link>https://www.mediafax.ro/externe/trump-ameninta-iranul-cu-un-d-day-economic-cea-mai-zdrobitoare-operatiune-economica-23793098</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-ameninta-iranul-cu-un-d-day-economic-cea-mai-zdrobitoare-operatiune-economica-23793098</guid>
-    </item>
-    <item>
-        <title>Vacanțele de Crăciun și Revelion, deja la vânzare. Cât costă un sejur la munte și unde găsești reduceri de până la 30%</title>
-        <link>https://adevarul.ro/stiri-interne/societate/vacantele-de-craciun-si-revelion-deja-la-vanzare-2549967.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/vacantele-de-craciun-si-revelion-deja-la-vanzare-2549967.html</guid>
-    </item>
-    <item>
-        <title>Cea mai căutată și controversată carte din lume în anul 2026. Despre ce este vorba în „Yesteryear”, romanul care doboară topurile mondiale</title>
-        <link>https://adevarul.ro/stil-de-viata/magazin/cea-mai-cautata-si-controversata-carte-din-lume-in-2550492.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cea-mai-cautata-si-controversata-carte-din-lume-in-2550492.html</guid>
-    </item>
-    <item>
-        <title>El Niño amenință recoltele de cafea, cacao și zahăr. Produsele care s-ar putea scumpi</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/el-nino-ameninta-recoltele-de-cafea-cacao-si-2550786.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/el-nino-ameninta-recoltele-de-cafea-cacao-si-2550786.html</guid>
-    </item>
-    <item>
         <title>Casa Verde Baterii, pus sub lupă de specialiști. Problemele din noul ghid și schimbările propuse pentru prosumatori</title>
         <link>https://adevarul.ro/economie/casa-verde-baterii-pus-sub-lupa-de-specialisti-2550870.html</link>
         <description>Adevarul</description>
         <guid isPermaLink="true">https://adevarul.ro/economie/casa-verde-baterii-pus-sub-lupa-de-specialisti-2550870.html</guid>
+    </item>
+    <item>
+        <title>România, pusă în fața noilor baze secrete rusești. General: „NATO are un punct slab în fața lor”</title>
+        <link>https://adevarul.ro/securitate-si-aparare/romania-pusa-in-fata-noilor-baze-secrete-rusesti-2550694.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/romania-pusa-in-fata-noilor-baze-secrete-rusesti-2550694.html</guid>
     </item>
     <item>
         <title>Alertă medicală: Un medicament popular pentru erecție poate crește riscul de orbire</title>
@@ -80,10 +38,76 @@
         <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/alerta-medicala-un-medicament-popular-pentru-erectie-poate-creste-riscul-de-orbire-23793095</guid>
     </item>
     <item>
+        <title>Profesorii ar putea ajunge să dea note „de frica platformei”. Avertismentul unui expert despre noul sistem de corectare la Bac</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/profesorii-ar-putea-ajunge-sa-dea-note-de-frica-2550516.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/profesorii-ar-putea-ajunge-sa-dea-note-de-frica-2550516.html</guid>
+    </item>
+    <item>
+        <title>El Niño amenință recoltele de cafea, cacao și zahăr. Produsele care s-ar putea scumpi</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/el-nino-ameninta-recoltele-de-cafea-cacao-si-2550786.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/el-nino-ameninta-recoltele-de-cafea-cacao-si-2550786.html</guid>
+    </item>
+    <item>
+        <title>Cea mai căutată și controversată carte din lume în anul 2026. Despre ce este vorba în „Yesteryear”, romanul care doboară topurile mondiale</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/cea-mai-cautata-si-controversata-carte-din-lume-in-2550492.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/cea-mai-cautata-si-controversata-carte-din-lume-in-2550492.html</guid>
+    </item>
+    <item>
+        <title>Haos în București cu programul „Școala după Școală”. În unele sectoare, copiii ar putea începe abia după 14 septembrie</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/haos-in-bucuresti-cu-programul-scoala-dupa-2550957.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/haos-in-bucuresti-cu-programul-scoala-dupa-2550957.html</guid>
+    </item>
+    <item>
+        <title>Autostrada Moldovei, traseul complet. Ce tronsoane au fost deschise și ce se inaugurează în 2026, pe A7 Ploiești - Siret</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/autostrada-moldovei-traseul-complet-ce-tronsoane-2550978.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/autostrada-moldovei-traseul-complet-ce-tronsoane-2550978.html</guid>
+    </item>
+    <item>
+        <title>Atac rusesc asupra Kievului. Cel puțin trei morți și 20 de răniți</title>
+        <link>https://www.mediafax.ro/externe/atac-rusesc-asupra-kievului-cel-putin-trei-morti-si-20-de-raniti-23793101</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/atac-rusesc-asupra-kievului-cel-putin-trei-morti-si-20-de-raniti-23793101</guid>
+    </item>
+    <item>
+        <title>Împușcături în apropierea tribunalului din Las Vegas, unde are loc procesul pentru uciderea lui Tupac Shakur</title>
+        <link>https://www.mediafax.ro/externe/impuscaturi-in-apropierea-tribunalului-din-las-vegas-unde-are-loc-procesul-pentru-uciderea-lui-tupac-shakur-23793093</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/impuscaturi-in-apropierea-tribunalului-din-las-vegas-unde-are-loc-procesul-pentru-uciderea-lui-tupac-shakur-23793093</guid>
+    </item>
+    <item>
+        <title>Avem Tinder, Bumble și rețele sociale. Atunci de ce e atât de greu să ne găsim un partener?</title>
+        <link>https://adevarul.ro/stiri-interne/societate/avem-tinder-bumble-si-retele-sociale-atunci-de-2550499.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/avem-tinder-bumble-si-retele-sociale-atunci-de-2550499.html</guid>
+    </item>
+    <item>
+        <title>Trump amenință Iranul cu un „D-Day economic”: Cea mai zdrobitoare operațiune economică</title>
+        <link>https://www.mediafax.ro/externe/trump-ameninta-iranul-cu-un-d-day-economic-cea-mai-zdrobitoare-operatiune-economica-23793098</link>
+        <description>Mediafax</description>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-ameninta-iranul-cu-un-d-day-economic-cea-mai-zdrobitoare-operatiune-economica-23793098</guid>
+    </item>
+    <item>
+        <title>Suplimentul pe care 4 cardiologi îl numesc o risipă de bani. Adevărul despre Coenzima Q10</title>
+        <link>https://adevarul.ro/stil-de-viata/viata-sanatoasa/suplimentul-pe-care-4-cardiologi-il-numesc-o-2550897.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/viata-sanatoasa/suplimentul-pe-care-4-cardiologi-il-numesc-o-2550897.html</guid>
+    </item>
+    <item>
         <title>Prințul Harry și Meghan Markle s-ar întoarce în Marea Britanie împreună cu copiii, la șase ani după retragerea din familia regală</title>
         <link>https://www.mediafax.ro/externe/printul-harry-si-meghan-markle-s-ar-intoarce-in-marea-britanie-impreuna-cu-copiii-la-sase-ani-dupa-retragerea-din-familia-regala-23793091</link>
         <description>Mediafax</description>
         <guid isPermaLink="true">https://www.mediafax.ro/externe/printul-harry-si-meghan-markle-s-ar-intoarce-in-marea-britanie-impreuna-cu-copiii-la-sase-ani-dupa-retragerea-din-familia-regala-23793091</guid>
+    </item>
+    <item>
+        <title>Vacanțele de Crăciun și Revelion, deja la vânzare. Cât costă un sejur la munte și unde găsești reduceri de până la 30%</title>
+        <link>https://adevarul.ro/stiri-interne/societate/vacantele-de-craciun-si-revelion-deja-la-vanzare-2549967.html</link>
+        <description>Adevarul</description>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/vacantele-de-craciun-si-revelion-deja-la-vanzare-2549967.html</guid>
     </item>
     <item>
         <title>Adevărata rețetă de pilaf otoman. Era preparatul simbol al sultanului, dar și al trupelor sale de elită</title>
@@ -342,30 +366,6 @@
         <link>https://www.digi24.ro/stiri/externe/rusia/rusii-isi-pierd-optimismul-dupa-ani-de-razboi-sondaj-starea-de-spirit-la-nivelul-prabusirii-urss-3913265</link>
         <description>Digi24</description>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/rusia/rusii-isi-pierd-optimismul-dupa-ani-de-razboi-sondaj-starea-de-spirit-la-nivelul-prabusirii-urss-3913265</guid>
-    </item>
-    <item>
-        <title>Jandarmeria anunță măsuri de siguranță în weekend pentru un mare festival din Capitală</title>
-        <link>https://www.mediafax.ro/social/jandarmeria-anunta-masuri-de-siguranta-in-weekend-pentru-un-mare-festival-din-capitala-23793073</link>
-        <description>Mediafax</description>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/jandarmeria-anunta-masuri-de-siguranta-in-weekend-pentru-un-mare-festival-din-capitala-23793073</guid>
-    </item>
-    <item>
-        <title>Documente ale Securității: Cum arătau cozile și lipsa alimentelor în România comunistă. „Rafturile sînt goale, nu ai ce cumpăra”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/documente-ale-securitatii-cum-aratau-cozile-si-lipsa-alimentelor-in-romania-comunista-rafturile-sint-goale-nu-ai-ce-cumpara-3913275</link>
-        <description>Digi24</description>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/documente-ale-securitatii-cum-aratau-cozile-si-lipsa-alimentelor-in-romania-comunista-rafturile-sint-goale-nu-ai-ce-cumpara-3913275</guid>
-    </item>
-    <item>
-        <title>Horoscop joi, 20 august 2026. Nativii care trebuie să evite împrumuturile</title>
-        <link>https://adevarul.ro/stil-de-viata/horoscop/horoscop-joi-20-august-2026-nativii-care-trebuie-2550977.html</link>
-        <description>Adevarul</description>
-        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/horoscop/horoscop-joi-20-august-2026-nativii-care-trebuie-2550977.html</guid>
-    </item>
-    <item>
-        <title>Germania alocă 50 de milioane de euro pentru repararea structurii de protecție de la Cernobîl</title>
-        <link>https://www.g4media.ro/germania-aloca-50-de-milioane-de-euro-pentru-repararea-structurii-de-protectie-de-la-cernobil.html</link>
-        <description>G4Media</description>
-        <guid isPermaLink="true">https://www.g4media.ro/germania-aloca-50-de-milioane-de-euro-pentru-repararea-structurii-de-protectie-de-la-cernobil.html</guid>
     </item>
 </channel>
 </rss>
