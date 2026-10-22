@@ -1,5 +1,495 @@
 [
   {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/gorj-perchezitii-la-proprietatile-vicepresedintei-cj-gorj-anca-bordusanu-intr-un-dosar-in-care-sotul-sau-este-acuzat-de-inselaciune/",
+    "title": "Gorj: Percheziții la proprietățile vicepreședintei CJ Gorj, Anca Bordușanu, într-un dosar în care soțul său este acuzat de înșelăciune | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/05/Politia-Romana-Inquam-Photos-Octav-Ganea-200x200.jpg",
+    "time": "14:14",
+    "date": "22 Oct",
+    "content": "Polițiștii au făcut patru percheziții în Gorj și București, la proprietăți deținute de Anca Bordușanu. Soțul acesteia este acuzat de înșelăciune și infracțiuni economico-financiare.",
+    "fetched_at": "2026-10-22T17:35:02.746111"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/trump-il-cearta-pe-lebron-cel-mai-bun-baschetbalist-american-o-rusine-totala-23830211",
+    "title": "Trump îl ceartă pe LeBron, cel mai bun baschetbalist american: „O rușine totală”",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/7991865-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg",
+    "time": "16:58",
+    "date": "22 Oct",
+    "content": "Președintele american Donald Trump l-a criticat dur pe celebrul baschetbalist  LeBron James. Sportivul s-a mișcat ciudat în timp ce se intona imnul național al SUA înainte de un meci din NBA. O rușine totală, să-și ceară scuze, a cerut Trump.",
+    "fetched_at": "2026-10-22T17:35:01.893941"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/evenimente/primele-vaccinuri-gratuite-impotriva-pestei-si-2565853.html",
+    "title": "Primele vaccinuri gratuite împotriva pestei și variolei la ovine şi caprine au ajuns în România. Când începe imunizarea şi ce judeţe au prioritate",
+    "image": "https://cdn.adh.reperio.news/image-f/fc5594da-19bc-46b1-be8a-ee56997ad35c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:12",
+    "date": "22 Oct",
+    "content": "Primele 300.000 de doze de vaccin gratuit împotriva pestei micilor rumegătoare au ajuns joi în România, iar restul până la 1,1 milioane, urmează să fie livrate până duminică, 25 octombrie.",
+    "fetched_at": "2026-10-22T17:35:03.396888"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/dan-neculaescu-intalnire-cu-ambasadorul-sua-in-romania-ce-au-discutat-despre-aparare-si-securitate-4004855",
+    "title": "Dan Neculăescu, întâlnire cu ambasadorul SUA în România. Ce au discutat despre apărare și securitate",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIyJTJGMzAyNjgxOF8zMDI2/ODE4X3NuYXBseXRpY3NfaW9fcGhvdG9f/MS0xLmpwZyZoYXNoPTQwNmNiZDk0Y2Y5YTUzMDZjMGFmMGMzNGYzYWQ5Mjg4.jpg",
+    "time": "19:35",
+    "date": "22 Oct",
+    "content": "Ministrul Afacerilor Externe Dan Neculăescu a avut o întâlnire cu ambasadorul Statelor Unite în România Darryl Nirenberg, pentru a discuta despre viitorul Parteneriatului strategic dintre cele două țări, cooperarea în domeniul apărării și securității, dar și dezvoltarea relațiilor economice.",
+    "fetched_at": "2026-10-22T17:35:00.658070"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/ministrul-sanatatii-a-facut-rost-de-banii-necesari-pentru-spitale-rogobete-am-reusit-sa-realocam-150-de-milioane-de-lei-23830180",
+    "title": "Ministrul Sănătății a făcut rost de banii necesari pentru spitale. Rogobete: Am reușit să realocăm 150 de milioane de lei",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/06/668135270_937512932581800_1263565080225437603_n-1024x682.jpg",
+    "time": "16:15",
+    "date": "22 Oct",
+    "content": "Alexandru Rogobete, noul ministru al Sănătății, anunță joi că a identificat și realocat cei 150 de milioane de lei, banii necesari pentru Unitățile de Primiri Urgențe și Ambulanță.",
+    "fetched_at": "2026-10-22T17:35:01.893967"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/iccj-decizia-cedo-privind-salariile-magistratilor-si-litigiul-cu-guvernul-privesc-chestiuni-juridice-distincte-4004893",
+    "title": "ÎCCJ: Decizia CEDO privind salariile magistraților şi litigiul cu Guvernul privesc chestiuni juridice distincte",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjI0JTJGMjk3NTgwNV8yOTc1/ODA1X2p1ZGVjYXRvci1jaW9jYW5lbC1n/ZXR0eWltYWdlcy5qcGcmaGFzaD01YzQ1/ZDkzNjZhNzU4NzczYTZjNjE0NmI5NTY4NTEwMA==.jpg",
+    "time": "20:28",
+    "date": "22 Oct",
+    "content": "Înalta Curte de Casaţie şi Justiţie a transmis, joi seară, că decizia CEDO privind neplata integrală a restanţelor salariale ale magistraţilor şi litigiul ÎCCJ cu Guvernul României sunt chestiuni juridice distincte.",
+    "fetched_at": "2026-10-22T17:35:00.658018"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/bataie-in-parlamentul-albaniei-pe-fondul-protestelor-antiguvernamentale-opozitia-cere-demisia-premierului-edi-rama-4004767",
+    "title": "Bătaie în Parlamentul Albaniei, pe fondul protestelor antiguvernamentale. Opoziția cere demisia premierului Edi Rama",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIyJTJGMzAyNjc2N18zMDI2/NzY3X3Byb2ZpbWVkaWEtMTE0NTY2ODY1/MS5qcGcmaGFzaD05YjNlOWY3YTg0M2VkMmU4MDU2NmY2MGRlYjI1M2E4NA==.jpg",
+    "time": "18:51",
+    "date": "22 Oct",
+    "content": "Deputaţi albanezi s-au bătut joi în hemiciclu, unde opoziţia acuză Guvernul de reprimarea violentă a unor manifestanţi care-i cer demisia premierului Edi Rama, după o săptămână de tulburări la Tirana.",
+    "fetched_at": "2026-10-22T17:35:00.658084"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/premierul-luca-niculescu-sedinta-despre-siguranta-in-scoli-dupa-atacurile-violente-asupra-elevilor-din-ultima-saptamana-23830175",
+    "title": "Premierul Luca Niculescu, ședință despre siguranța în școli după atacurile violente asupra elevilor din ultima săptămână",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8165082-mediafax_foto-mihai_pop_gmn-1024x683.jpg",
+    "time": "16:00",
+    "date": "22 Oct",
+    "content": "Premierul Luca Niculescu va avea vineri o ședință despre siguranța în școli, după două atacuri în care elevi au fost răniți în Pitești și Bistrița.",
+    "fetched_at": "2026-10-22T17:35:01.893973"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/justitie/iccj-dupa-decizia-cedo-privind-plata-drepturilor-salariale-litigiul-cu-guvernul-vizeaza-alte-chestiuni-juridice-23830206",
+    "title": "ÎCCJ, după decizia CEDO privind plata drepturilor salariale: Litigiul cu Guvernul vizează alte chestiuni juridice",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hepta_8619618-1024x671.jpg",
+    "time": "16:55",
+    "date": "22 Oct",
+    "content": "ÎCCJ susține, printr-un comunicat transmis joi seară, că decizia CEDO și procesul deschis împotriva Guvernului vizează probleme diferite și precizează că Executivul trebuie să respecte propriile reguli privind plata sumelor datorate.",
+    "fetched_at": "2026-10-22T17:35:01.893948"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/arestat-la-domiciliu-pentru-furt-prins-din-nou-la-furat-dupa-ce-a-primit-permisiunea-sa-mearga-la-dializa-ce-s-a-intamplat-4004857",
+    "title": "Arestat la domiciliu pentru furt, prins din nou la furat după ce a primit permisiunea să meargă la dializă. Ce s-a întâmplat",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwOSUyRjExJTJGMjk1NTI0OV8yOTU1/MjQ5X21hc2luYS1wb2xpdGllLmpwZyZo/YXNoPTY5NWZkY2E4M2ExZDc5NjVjZmQwOGYxZmU2YTUzMjlh.jpg",
+    "time": "19:36",
+    "date": "22 Oct",
+    "content": "Un bărbat din localitatea argeşeană Călineşti, aflat în arest la domiciliu într-un dosar în care este inculpat pentru furt, a profitat de faptul că a primit acordul de a părăsi locuinţa pentru a merge la un centru de dializă, s-a abătut de la traseu şi a mers din nou la furat. El este acum anchetat şi pentru evadare.",
+    "fetched_at": "2026-10-22T17:35:00.658062"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cutremur-cu-magnitudinea-7-in-tibet-la-o-adancime-de-10-kilometri.html",
+    "title": "Cutremur cu magnitudinea 7 în Tibet, la o adâncime de 10 kilometri",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/04/pexels-suzy-hazelwood-1098526-e1681808265391-1024x634.jpg",
+    "time": "15:51",
+    "date": "22 Oct",
+    "content": "Un cutremur cu magnitudinea 7 s-a produs joi în regiunea autonomă Tibet din China, la o adâncime de 10 kilometri, potrivit Centrului Chinez pentru Rețele Seismice (CENC), citat de Reuters. Seismul a avut loc în jurul orei locale 22:33 (14:33 GMT), iar epicentrul a fost localizat într-un district montan din Nagqu, în nordul Tibetului. Potrivit [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088268"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/reactia-presedintelui-nicusor-dan-dupa-cele-doua-incidentele-violente-din-scoli-este-nevoie-de-mai-multa-atentie-la-ce-se-intampla-intre-copii-de-interventie-la-primele-semne/",
+    "title": "Reacția președintelui Nicușor Dan după cele două incidente violente din școli: „Este nevoie de mai multă atenție la ce se întâmplă între copii, de int",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/09/Nicusor-Dan-Inquam-Photos-Octav-Ganea-2-200x200.jpg",
+    "time": "14:00",
+    "date": "22 Oct",
+    "content": "După două incidente violente în școli, Nicușor Dan cere intervenție timpurie, acces la consiliere psihologică și măsuri pentru protecția minorilor în mediul online.",
+    "fetched_at": "2026-10-22T17:35:02.746118"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/armata-daneza-comanda-rachete-cu-raza-lunga-de-actiune-provocand-furia-rusiei-4004843",
+    "title": "Armata daneză comandă rachete cu rază lungă de acţiune, provocând furia Rusiei",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIyJTJGMzAyNjc5Nl8zMDI2/Nzk2X3JhY2hldGUtQW50aGVtLXByb2Zp/bWVkaWEtMTE0MDc4MDUyMy5wbmcmaGFz/aD1kZGFlOGVmZTY4ZDI5Njg0NWE0ZGY2ZWFhYWFkZjgzMw==.png",
+    "time": "19:15",
+    "date": "22 Oct",
+    "content": "Danemarca, stat membru NATO, a anunţat joi că a convenit achiziţionarea primelor sale rachete de precizie cu rază lungă de acţiune, în condiţiile în care ţara nordică încearcă să-şi consolideze securitatea pentru a descuraja agresiunea rusă în Europa, decizie care a provocat condamnarea din partea Moscovei, relatează Reuters.",
+    "fetched_at": "2026-10-22T17:35:00.658077"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/parlamentul-european-operatiune-navala-marea-neagra/",
+    "title": "Parlamentul European cere UE să ia în calcul o operațiune navală în Marea Neagră, după atacurile asupra navelor comerciale | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/02/parlamentul-European-Shutterstock-200x200.jpg",
+    "time": "12:58",
+    "date": "22 Oct",
+    "content": "Eurodeputații spun că Uniunea Europeană și statele membre ar trebui să ia în considerare o operațiune navală, în contextul ultimelor atacuri asupra unor nave comerciale din Marea Neagră.",
+    "fetched_at": "2026-10-22T17:35:02.746132"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-locale/oradea/scandal-de-etica-la-curtea-de-conturi-inspectorii-2565859.html",
+    "title": "Scandal de etică la Curtea de Conturi: Inspectorii din Bihor, luați în vizor după un chef în timpul programului la o cabană verificată periodic",
+    "image": "https://cdn.adh.reperio.news/image-e/e54c8504-48f3-4ee0-9fa0-cf9e8716bea3/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:18",
+    "date": "22 Oct",
+    "content": "Comitetul de etică al Curții de Conturi s-a autosesizat și a demarat o analiză internă după apariția în presă a imaginilor de la petrecerea la care au luat parte angajații Camerei de Conturi Bihor.",
+    "fetched_at": "2026-10-22T17:35:03.396858"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/politic/premierul-luca-niculescu-la-prima-sedinta-csat-de-la-preluarea-mandatului-sedinta-s-a-incheiat-care-sunt-concluziile-23829548",
+    "title": "Premierul Luca Niculescu, la prima ședință CSAT de la preluarea mandatului. Ședința s-a încheiat. Care sunt concluziile",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/original_csat_22_oct_2026-3-1024x640.jpg",
+    "time": "16:20",
+    "date": "22 Oct",
+    "content": "Premierul Luca Niculescu s-a întâlnit joi, pentru prima dată de la preluarea mandatului, cu ambasadorul SUA în România, Darryl Nirenberg. În aceeași zi, de la ora 18:00 participă la ședința CSAT.",
+    "fetched_at": "2026-10-22T17:35:01.893961"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/cum-va-arata-guvernarea-scurt-ghid-de-navigare-prin-limbajul-pesedist.html",
+    "title": "Cum va arăta guvernarea  / Scurt ghid de navigare prin limbajul pesedist",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/11/dan-tapalaga-poza-editorial-1024x683.jpg",
+    "time": "15:46",
+    "date": "22 Oct",
+    "content": "Luați de pildă această frază dintr-un comunicat PSD de azi: ”Datele europene arată că demersul PSD de a schimba direcția de guvernare este întemeiat. Este nevoie să trecem de la statul-opresiv care tăia și impunea măsuri de austeritate, la statul-partener care își plătește facturile la timp și susține economia productivă. Iar austeritatea trebuie înlocuită cu [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088275"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/educatie/ministrul-educatiei-cere-1-000-de-posturi-de-paznici-in-scoli-dupa-atacurile-din-bistrita-si-pitesti-23830216",
+    "title": "Ministrul Educației cere 1.000 de posturi de paznici în școli, după atacurile din Bistrița și Pitești",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/hepta_8944425-1024x683.jpg",
+    "time": "17:09",
+    "date": "22 Oct",
+    "content": "Ministrul Educației, Sorin Costreie, vrea 1.000 de posturi de paznici în școli, mai mulți consilieri psihologici și pedepse mai dure pentru agresiunile împotriva profesorilor.",
+    "fetched_at": "2026-10-22T17:35:01.893934"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/externe/airbnb-schimba-regulile-ce-nu-mai-au-voie-gazdele-sa-le-ceara-oaspetilor-aceste-sarcini-le-pot-afecta-sederea-4004797",
+    "title": "Airbnb schimbă regulile. Ce nu mai au voie gazdele să le ceară oaspeților: „Aceste sarcini le pot afecta şederea”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA2dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjAl/MkYwMSUyRjE4JTJGMTE1MjA0MV8xMTUy/MDQxX0dldHR5SW1hZ2VzLTEwMDE0NTgy/MDguanBnJmhhc2g9YTRhZjczZWE3ZDExNzYyYjgzY2FkOTIyYzAwOTUxMTg=.jpg",
+    "time": "18:48",
+    "date": "22 Oct",
+    "content": "Platforma online de închirieri turistice Airbnb a modificat recent regulamentul interior, interzicând în special anumite solicitări impuse oaspeţilor de către gazde, cum ar fi spălatul vaselor sau aruncatul gunoiului, conform acestei noi politici globale care va intra în vigoare pe 20 noiembrie.",
+    "fetched_at": "2026-10-22T17:35:00.658097"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/patru-copii-cu-varste-intre-1-si-6-ani-obligati-sa-cerseasca-in-alba-iulia-de-parintii-lor-minorii-ar-fi-fost-batuti-si-privati-de-hrana-parintii-au-fost-arestati-preventiv.html",
+    "title": "Patru copii cu vârste între 1 și 6 ani, obligați să cerșească în Alba Iulia de părinții lor / Minorii ar fi fost bătuți și privați de hrană / Părinții",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/06/copil-cersetor-1024x651.jpg",
+    "time": "16:31",
+    "date": "22 Oct",
+    "content": "Doi părinți sunt cercetați pentru trafic de minori, exploatarea cerșetoriei și folosirea unui minor în scop de cerșetorie, după ce și-ar fi obligat cei patru copii, cu vârste între 1 și 6 ani, să cerșească în municipiul Alba Iulia. Potrivit procurorilor DIICOT, copiii ar fi fost supuși unor acte de violență și privați de hrană [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088242"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/premiul-saharov-2026-curtea-penala-internationala/",
+    "title": "Curtea Penală Internațională, câștigătoarea din acest an a Premiului Saharov pentru libertatea de gândire | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/Curtea-Penala-Internationala-Shutterstock-200x200.jpg",
+    "time": "12:43",
+    "date": "22 Oct",
+    "content": "Parlamentul European a acordat Premiul Saharov pentru libertate de gândire din 2026 Curții Penale Internaționale, pentru activitatea sa în apărarea dreptului internațional și a justiției. Ceremonia de decernare va avea loc în decembrie.",
+    "fetched_at": "2026-10-22T17:35:02.746146"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/protestele-din-italia-blocheaza-productia-de-mozzarella-de-bivolita-pierderi-de-3-milioane-de-euro-in-24-de-ore-4004753",
+    "title": "Protestele din Italia blochează producția de mozzarella de bivoliță. Pierderi de 3 milioane de euro în 24 de ore",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIyJTJGMzAyNjc2NF8zMDI2/NzY0X21venphcmVsbGEuanBnJmhhc2g9/OTgwZTNlOTE3NjcxZDUwODY4MTk5OTY0ODViZjhmNDA=.jpg",
+    "time": "18:53",
+    "date": "22 Oct",
+    "content": "Protestul transportatorilor din Italia, care durează de aproximativ o săptămână, a paralizat producția celebrei mozzarella de bivoliță în sudul țării, după ce blocajele rutiere au împiedicat livrarea laptelui către fabricile de brânzeturi. Fermierii nu mai au unde să depoziteze laptele proaspăt, iar unele unități de procesare au fost nevoite să își suspende activitatea. Criza afectează și aprovizionarea supermarketurilor și benzinăriilor.",
+    "fetched_at": "2026-10-22T17:35:00.658113"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/curtea-suprema-condusa-de-lia-savonea-sustine-ca-decizia-cedo-privind-esalonarea-restantelor-salariale-ale-magistratilor-si-litigiul-iccj-cu-guvernul-privesc-chestiuni-juridice-distincte.html",
+    "title": "Curtea Supremă condusă de Lia Savonea susține că decizia CEDO privind eșalonarea restanțelor salariale ale magistraților și litigiul ÎCCJ cu Guvernul ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/01/Lia-Savonea-sefa-ICCJ.jpg",
+    "time": "16:36",
+    "date": "22 Oct",
+    "content": "După ce Curtea Europeană a Drepturilor Omului a adoptat, joi, o hotărâre (Cauza Pușcașu vs. Romania) care tranșează disputa dintre Guvernul României și Înalta Curte de Casație și Justiție în privința restanțelor salariale ale magistraților, Curtea Supremă, condusă de Lia Savonea, susține, printr-un comunicat de presă, că &#8222;decizia CEDO și litigiul ÎCCJ cu Guvernul privesc [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088223"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/stefan-avramescu-purtatorul-de-cuvant-al-aur-obiectivul-nostru-ajungerea-la-guvernare-din-2028-ce-spune-despre-demersul-de-suspendare-a-presedintelui-nicusor-dan/",
+    "title": "Ștefan Avrămescu, purtătorul de cuvânt al AUR: Obiectivul nostru: ajungerea la guvernare din 2028. Ce spune despre demersul de suspendare a președinte",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/IMG_1238-200x200.jpg",
+    "time": "16:53",
+    "date": "22 Oct",
+    "content": "Purtătorul de cuvânt al AUR, Ștefan Avrămescu, spune că partidul vrea să ajungă la guvernare în 2028: „nu cred că trebuie să ne rezumăm tot timpul la PSD și la PNL”. Ce spune despre suspendarea lui Nicușor Dan.",
+    "fetched_at": "2026-10-22T17:35:02.746086"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/sedinta-csat-sunt-discutate-masurile-de-securitate-la-marea-neagra-dupa-atacurile-cu-drone-asupra-unor-nave-comerciale/",
+    "title": "Ședință CSAT. Sunt discutate măsurile de securitate la Marea Neagră, după atacurile cu drone asupra unor nave comerciale | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/nicusor-dan-csat-foto-administratia-prezidentiala-200x200.jpg",
+    "time": "15:13",
+    "date": "22 Oct",
+    "content": "CSAT analizează implicațiile atacurilor recente cu drone asupra navigației și infrastructurii maritime din Marea Neagră. România cere sprijin suplimentar din partea NATO pentru combaterea dronelor și supravegherea regiunii.",
+    "fetched_at": "2026-10-22T17:35:02.746095"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/dan-air-a-doua-companie-aeriana-care-cere-2565856.html",
+    "title": "Dan Air, a doua companie aeriană care cere intrarea în insolvență în 2026. Dosarul, înregistrat la Tribunalul Ilfov",
+    "image": "https://cdn.adh.reperio.news/image-e/eac3001c-9445-4b79-a9d0-045b7eba6436/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:34",
+    "date": "22 Oct",
+    "content": "Compania aeriană românească Dan Air a cerut oficial intrarea în insolvență joi, 22 octombrie, dosarul fiind înaintat Secției I Civilă a Tribunalului Ilfov.",
+    "fetched_at": "2026-10-22T17:35:03.396882"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/radu-miruta-despre-ordonanta-safe-contestata-la-ccr-de-sorin-grindeanu-nu-aceasta-gestioneaza-si-reglementeaza-mecanismul-safe/",
+    "title": "Radu Miruță, despre ordonanța SAFE contestată la CCR de Sorin Grindeanu: Nu aceasta gestionează și reglementează mecanismul SAFE | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/02/Radu-Miruta-Inquam-Photos-Malina-Norocea-200x200.jpg",
+    "time": "13:23",
+    "date": "22 Oct",
+    "content": "Radu Miruță spune că OUG 38, contestată la CCR de Sorin Grindeanu, nu afectează derularea programului SAFE și că mecanismul este reglementat prin OUG 62/2025.",
+    "fetched_at": "2026-10-22T17:35:02.746125"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/in-ce-conditii-ar-putea-fi-redus-deficitul-bugetar-2565872.html",
+    "title": "În ce condiții ar putea fi redus deficitul bugetar al României. Economistul-șef al BNR: „Să scoată aceste două probleme din jocul politic”",
+    "image": "https://cdn.adh.reperio.news/image-1/15719d85-0f5d-4136-99b9-7497cc5d0cbd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:49",
+    "date": "22 Oct",
+    "content": "România ar trebui să reducă deficitul bugetar până la 3% din PIB până în 2030, însă atingerea acestui obiectiv depinde de câteva condiții esențiale. Valentin Lazea, economistul-șef al BNR, explică ce ar trebui să se schimbe pentru ca ținta să poată fi atinsă.",
+    "fetched_at": "2026-10-22T17:35:03.396852"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/sport/universitatea-cluj-cauta-intariri-intre-buturi-2565865.html",
+    "title": "Universitatea Cluj caută întăriri între buturi! Clubul dorește să-l readucă pe Horațiu Moldovan în Superliga",
+    "image": "https://cdn.adh.reperio.news/image-4/4f80d99e-a9a4-4666-84ad-e376c2e107ed/index.png?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:56",
+    "date": "22 Oct",
+    "content": "Universitatea Cluj pregătește schimbări importante în lot.",
+    "fetched_at": "2026-10-22T17:35:03.396869"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/nicusor-dan-trimite-la-curtea-constitutionala-declararea-ca-municipiu-a-orasului-voluntari-bazat-pe-un-referendum-facut-in-urma-cu-22-de-ani.html",
+    "title": "Nicușor Dan trimite la Curtea Constituțională legea privind declararea ca municipiu a orașului Voluntari, bazată pe un referendum făcut în urmă cu 22 ",
+    "image": "https://www.g4media.ro//wp-content/uploads/2020/12/florentin-pandele-2-1024x683.jpg",
+    "time": "17:13",
+    "date": "22 Oct",
+    "content": "Președintele României, Nicușor Dan, a trimis Curții Constituționale o sesizare de neconstituționalitate asupra Legii privind declararea ca municipiu a orașului Voluntari, județul Ilfov, se arată într-un comunicat transmis, joi, de președinție, care susține că legea se bazează pe un referendum realizat în anul 2004 și nu ține cont de un alt referendum ulterior, din 2009, [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088191"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/justitie/presedintele-sesizeaza-din-nou-curtea-constitutionala-legea-care-ar-ridica-orasul-voluntari-la-rang-de-municipiu-contestata-de-nicusor-dan-23830210",
+    "title": "Președintele sesizează din nou Curtea Constituțională. Legea care ar ridica orașul Voluntari la rang de municipiu, contestată de Nicușor Dan",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/8161557-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "time": "17:19",
+    "date": "22 Oct",
+    "content": "Nicușor Dan, președintele României, trimite legea care ar declara Voluntariul municipiu la Curtea Constituțională. Șeful statului a motivat în contestația făcută că explicația inițiativei legislative nu ar fi completă, iar un al doilea referendum din Ilfov, organizat în anul 2009, ar fi fost ignorat de inițiatori.",
+    "fetched_at": "2026-10-22T17:35:01.893908"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/surse-ancheta-deschisa-pe-numele-loctiitorului-sefului-statului-major-al-apararii-generalul-iulian-berdila-dupa-ce-concubina-sa-a-reclamat-la-112-ca-a-fost-agresata.html",
+    "title": "SURSE: Anchetă deschisă pe numele locțiitorului șefului Statului Major al Apărării, generalul Iulian Berdilă, după ce concubina sa a reclamat la 112 c",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/07/politia-romana-1024x683.jpg",
+    "time": "16:16",
+    "date": "22 Oct",
+    "content": "Polițiștii au sesizat parchetul militar după ce concubina locțiitorului șefului Statului Major al Apărării, generalul Iulian Berdilă, a reclamat la 112 că a fost agresată de acesta, potrivit surselor G4Media. În urma apelului la 112, polițiștii au mers la locuința femeii, însă aceasta nu a vrut să depună plângere și nu a cerut nici emiterea [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088259"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/economie/agricultura/romania-cel-mai-mare-exportator-de-grau-din-ue-importurile-de-porumb-ale-uniunii-au-crescut-cu-40-in-acest-sezon-reuters-4004881",
+    "title": "România, cel mai mare exportator de grâu din UE. Importurile de porumb ale Uniunii au crescut cu 40% în acest sezon. (Reuters)",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjIyJTJGMzAyNjg1Ml8zMDI2/ODUyX2dyYXUtcHJvZmltZWRpYS5qcGcm/aGFzaD1mZWIzZDMzNmIzMDBhZjU0YjI2MzVmNjZjNWJkMTIzNQ==.jpg",
+    "time": "20:10",
+    "date": "22 Oct",
+    "content": "Importurile de porumb ale Uniunii Europene, de la 1 iulie, când a început sezonul 2026/27, şi până la data de 18 octombrie, au crescut cu 40% în ritm anual, în contextul în care livrările de porumb american s-au triplat, în timp ce exporturile de grâu au rămas la acelaşi nivel, conform datelor publicate marţi de Comisia Europeană, transmite Reuters, citată de Agerpres.",
+    "fetched_at": "2026-10-22T17:35:00.658038"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/blogurile-adevarul/foarte-departe-de-noi-si-de-puterea-noastra-de-2565873.html",
+    "title": "Foarte departe de noi și de puterea noastră de decizie, începe negocierea secvențială privind Noua Ordine Internațională",
+    "image": "https://cdn.adh.reperio.news/image-c/c0e85581-eaa2-4f5f-aed4-f01375f9dccc/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:55",
+    "date": "22 Oct",
+    "content": "Asta e, trebuie să ne resemnăm că marile jocuri de putere au început să fie negociate de mai mult timp între super-puteri, apoi marile puteri s-au poziționat din ce în ce mai puțin discret și foarte rapid în funcție de interesele lor strict naționale.",
+    "fetched_at": "2026-10-22T17:35:03.396837"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/dolj-sase-tineri-retinuti-dupa-ce-ar-fi-sechestrat-si-batut-un-adolescent-de-17-ani-in-craiova/",
+    "title": "Dolj: Șase tineri, reținuți după ce ar fi sechestrat și bătut un adolescent de 17 ani, în Craiova | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/04/Politie-Inquam-Photos-Cosmin-Enache-200x200.jpg",
+    "time": "12:55",
+    "date": "22 Oct",
+    "content": "Șase tineri cu vârste între 14 și 18 ani au fost reținuți în Craiova, fiind acuzați că au sechestrat și bătut un adolescent de 17 ani, apoi l-au amenințat.",
+    "fetched_at": "2026-10-22T17:35:02.746139"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/ce-s-a-discutat-joi-in-sedinta-csat-romania-vrea-sa-intensifice-coordonarea-cu-nato-si-cu-celelalte-state-riverane-marii-negre-dupa-atacurile-cu-drone-asupra-unor-nave/",
+    "title": "Ce s-a discutat joi în ședința CSAT. România vrea să intensifice coordonarea cu NATO și cu celelalte state riverane Mării Negre, după atacurile cu dro",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/sedinta-CSAT-foto-presidency.ro_-200x200.jpg",
+    "time": "17:05",
+    "date": "22 Oct",
+    "content": "La ședința CSAT de joi, membrii Consiliului au discutat despre incidentele maritime din zona Mării Negre, provocate de războiul Rusiei împotriva Ucrainei, și despre măsurile necesare pentru protejarea apelor teritoriale ale României.",
+    "fetched_at": "2026-10-22T17:35:02.746068"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/incident-la-pentagon-secretarul-apararii-a-vrut-globul-lui-eisenhower-in-biroul-sau-subordonatii-sai-l-au-spart-pe-drum-23830169",
+    "title": "Incident la Pentagon. Secretarul Apărării a vrut globul lui Eisenhower în biroul său, subordonații săi l-au spart pe drum",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/pexels-amar-30792661-1024x698.jpg",
+    "time": "15:57",
+    "date": "22 Oct",
+    "content": "Un incident ciudat s-a produs la Pentagon. Secretarul Apărării, Pete Hegset, a vrut să aibă în biroul său un glob pământesc, folosit de fostul președinte al SUA, Dwight D. Eisenhower. Subordonații săi au spart exponatul istoric în tip ce îl transportau către birou.",
+    "fetched_at": "2026-10-22T17:35:01.893979"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/societate/criminologul-dan-antonescu-dupa-atacurile-din-2565868.html",
+    "title": "Criminologul Dan Antonescu, după atacurile din școlile din Bistrița și Pitești: „A discutat cineva cu el de ce poartă cuțit?”",
+    "image": "https://cdn.adh.reperio.news/image-5/520b0dd1-80a1-4c77-89a6-19dce446c040/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26c%3D0%252C0%252C0.681%252C0.793%26f%3Djpeg&file=image.jpeg",
+    "time": "16:52",
+    "date": "22 Oct",
+    "content": "Cele două atacuri cu armă albă produse în școli ridică semne de întrebare privind cauzele care stau la baza unor asemenea acte de violență. Criminologul Dan Antonescu avertizează că expunerea intensă a unor astfel de cazuri poate avea un efect de imitare.",
+    "fetched_at": "2026-10-22T17:35:03.396844"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/sedinta-de-guvern-cu-doua-puncte-pe-agenta-vineri-dimineata-urmata-de-sedinta-de-lucru-pe-tema-pnrr.html",
+    "title": "Ședință de Guvern cu două puncte pe agendă, vineri dimineața, urmată de ședință de lucru pe tema PNRR",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/856984188_1995610424442234_5689532789474268207_n-1024x683.jpg",
+    "time": "16:21",
+    "date": "22 Oct",
+    "content": "O ședință extraordinară de Guvern în format hibrid are loc, vineri dimineața, începând cu ora 8:00, conform programului premierului Luca Niculescu. Pe agenda ședinței se află proiectul de hotărâre de Guvern privind acceptarea de către statul român a donației unor bunuri mobile, în vederea realizării vaccinării împotriva infecției cu virusul pestei micilor rumegătoare și a [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088250"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/cutremur-de-magnitudine-7-in-tibet-china-la-cateva-saptamani-dupa-inundatiile-devastatoare-din-himalaya-23830224",
+    "title": "Cutremur de magnitudine 7 în Tibet, China, la câteva săptămâni după inundațiile devastatoare din Himalaya",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/02/cutremur-1024x576.jpg",
+    "time": "17:15",
+    "date": "22 Oct",
+    "content": "Un cutremur cu magnitudinea 7 s-a produs joi în regiunea Tibet din China, la o adâncime de 10 kilometri, potrivit Centrului Chinez pentru Rețele Seismice (CENC).",
+    "fetched_at": "2026-10-22T17:35:01.893926"
+  },
+  {
+    "source": "Europa FM",
+    "url": "https://www.europafm.ro/explicatiile-unui-specialist-in-securitate-informatica-privind-pericolul-vulnerabilitatilor-php/",
+    "title": "Explicațiile unui specialist în securitate informatică privind pericolul vulnerabilităților PHP  | AUDIO",
+    "image": "https://www.europafm.ro/wp-content/uploads/2026/10/laptop-lucru-foto-shutterstock-200x200.jpg",
+    "time": "14:38",
+    "date": "22 Oct",
+    "content": "Directoratul Național de Securitate Cibernetică avertizează asupra vulnerabilităților PHP. Specialistul Bitdefender Silviu Stahie explică riscurile pentru datele personale și bancare.",
+    "fetched_at": "2026-10-22T17:35:02.746103"
+  },
+  {
+    "source": "Digi24",
+    "url": "https://www.digi24.ro/stiri/actualitate/politica/ministrul-educatiei-cere-un-numar-mai-mare-de-paznici-in-scoli-dupa-atacurile-din-bistrita-si-pitesti-sa-se-duca-in-locuri-cheie-4004733",
+    "title": "Ministrul Educaţiei cere un număr mai mare de paznici în școli, după atacurile din Bistriţa şi Piteşti: „Să se ducă în locuri cheie”",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYxMCUyRjE5JTJGMzAyMTA3Ml8zMDIx/MDcyX3NvcmluLWNvc3RyZWllLmpwZyZo/YXNoPTUyMTk5NmNmOTA5ZmYzMTk3YTRlNWFhYjMyNjc5ZjFm.jpg",
+    "time": "18:46",
+    "date": "22 Oct",
+    "content": "Ministrul Educaţiei, Sorin Costreie, a declarat, joi, că „şcolile noastre acum sunt cam singure, sunt lăsate oarecum de izbelişte”, referindu-se la cele două atacuri cu arme albe înregistrate în această săptămână în Bistriţa şi Piteşti. El consideră că elevii şi profesorii trebuie să se simtă în siguranţă şi anunţă că va cere suplimentarea numărului de paznici.",
+    "fetched_at": "2026-10-22T17:35:00.658106"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/seful-nvidia-avertizeaza-ca-lipsa-banilor-si-a-energiei-incetineste-dezvoltarea-infrastructurii-ai.html",
+    "title": "Șeful Nvidia avertizează că lipsa banilor și a energiei încetinește dezvoltarea infrastructurii AI",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/08/profimedia-1122447815-1024x565.jpg",
+    "time": "16:33",
+    "date": "22 Oct",
+    "content": "Cererea pentru serviciile de inteligență artificială crește rapid, însă lipsa capitalului și accesul limitat la energie electrică riscă să încetinească dezvoltarea infrastructurii necesare, scrie CNBC. Jensen Huang, directorul general al Nvidia, susține că Europa trebuie să investească în propriile centre de date și să dezvolte mai multe companii care oferă putere de calcul pentru AI. [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088233"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stil-de-viata/magazin/inteligenta-artificiala-schimba-lupta-cu-cancerul-2565081.html",
+    "title": "Inteligența artificială schimbă lupta cu cancerul. De la prevenție la tratamente, ce speranțe au pacienții",
+    "image": "https://cdn.adh.reperio.news/image-b/ba1525eb-49bc-48f6-b59c-ce275556e634/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "17:02",
+    "date": "22 Oct",
+    "content": "Cancerul face ravagii la nivel mondial, cu una din cinci persoane care se îmbolnăvește de-a lungul vieții. Cu toate acestea medicii spun că această teribilă maladie nu mai este o condamnare la moarte mai ales datorită noilor tratamente apărute.",
+    "fetched_at": "2026-10-22T17:35:03.396823"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/csat-romania-vrea-sa-isi-consolideze-capacitatile-de-supraveghere-maritima-si-de-combatere-a-dronelor-pe-fondul-incidentelor-din-marea-neagra-nicusor-dan-ingrijorat-de-violentele-din-scoli.html",
+    "title": "CSAT: România vrea să își consolideze capacitățile de supraveghere maritimă și de combatere a dronelor, pe fondul incidentelor din Marea Neagră / Nicu",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/26-10-22-07-51-35big_csat_22_oct_2026-3.jpg",
+    "time": "17:11",
+    "date": "22 Oct",
+    "content": "Consiliul Suprem de Apărare a Țării (CSAT) a analizat joi, la Palatul Cotroceni, măsurile necesare pentru consolidarea capacităților de supraveghere maritimă și de combatere a dronelor care pătrund neautorizat în spațiul aerian și maritim al României, pe fondul intensificării incidentelor din Marea Neagră. Discuțiile au vizat și protejarea infrastructurii critice, securitatea navigației comerciale și coordonarea [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088211"
+  },
+  {
+    "source": "G4Media",
+    "url": "https://www.g4media.ro/video-prima-sedinta-csat-cu-ministrii-psd-marian-neacsu-si-daniel-zamfir-reuniunea-convocata-de-presedintele-nicusor-dan-pe-tema-securitatii-in-marea-neagra.html",
+    "title": "VIDEO | Prima ședință CSAT cu miniștrii PSD Marian Neacșu și Daniel Zamfir / Reuniunea, convocată de președintele Nicușor Dan pe tema securității în M",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/10/prima-sedinta-CSAT-cu-Guvernul-Luca-Niculescu-1024x470.jpg",
+    "time": "15:40",
+    "date": "22 Oct",
+    "content": "Ședința Consiliul Suprem de Apărare a Țării (CSAT) în care se discută despre securitatea în Marea Neagră, în contextul înmulțirii atacurilor cu drone asupra navelor comerciale, a început la Palatul Cotroceni. Este prima ședință la care participă miniștrii PSD Marian Neacșu și Daniel Zamfir. CSAT este condus de președintele României și ia deciziile esențiale legate [&#8230;]\n&copy; G4Media.ro.",
+    "fetched_at": "2026-10-22T17:35:04.088284"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/decizie-dramatica-a-ucrainei-dupa-avansul-rusiei-2565855.html",
+    "title": "Decizie dramatică a Ucrainei după avansul Rusiei: autoritățile evacuează familiile cu copii din ultimele două bastioane din estul țării",
+    "image": "https://cdn.adh.reperio.news/image-f/f6ff4c10-4c94-4103-a458-7e417f744ed6/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "15:35",
+    "date": "22 Oct",
+    "content": "Autoritățile din Ucraina au dispus evacuarea obligatorie a familiilor cu copii din Sloviansk și Kramatorsk, ultimele două mari centre urbane din regiunea Donețk aflate sub controlul Kievului, pe fondul intensificării atacurilor rusești și al deteriorării situației de securitate.",
+    "fetched_at": "2026-10-22T17:35:03.396876"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/blogurile-adevarul/nord-coreeni-tratati-ca-sclavi-intr-o-fabrica-2565867.html",
+    "title": "Nord-coreeni, tratați ca „sclavi” într-o fabrică rusească de drone",
+    "image": "https://cdn.adh.reperio.news/image-b/b71e23ee-9491-4245-b133-dd286fe5091c/index.webp?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "16:03",
+    "date": "22 Oct",
+    "content": "Un raport arată situația dramatică a muncitorilor nord-coreeni care lucrează într-o fabrică de drone din Rusia. Raportul atrage atenția că Phenianul obţine astfel cunoștințe practice despre sisteme avansate de armament.",
+    "fetched_at": "2026-10-22T17:35:03.396864"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/social/accident-pe-dn-7-in-brezoi-un-tanar-de-18-ani-a-fost-ranit-dupa-ce-masina-sa-s-a-ciocnit-cu-un-autocamion-23830203",
+    "title": "Accident pe DN 7, în Brezoi. Un tânăr de 18 ani a fost rănit după ce mașina sa s-a ciocnit cu un autocamion",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/whatsapp-image-2026-10-22-at-19-17-26-1024x576.jpeg",
+    "time": "16:42",
+    "date": "22 Oct",
+    "content": "Un tânăr în vârstă de 18 ani a fost rănit, joi, într-un accident rutier produs pe DN 7, la kilometrul 204, pe raza localității Brezoi, județul Vâlcea. Autoturismul condus de acesta a intrat în coliziune cu un autocamion, iar victima a rămas încarcerată.",
+    "fetched_at": "2026-10-22T17:35:01.893955"
+  },
+  {
     "source": "G4Media",
     "url": "https://www.g4media.ro/salvamont-pregateste-interventii-cu-ajutorul-inteligentei-artificiale-si-a-peste-200-de-drone-congres-mondial-de-salvare-montana-in-romania.html",
     "title": "Salvamont pregătește intervenții cu ajutorul inteligenței artificiale și a peste 200 de drone / Congres mondial de salvare montană în România",
