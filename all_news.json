@@ -1,6 +1,76 @@
 [
   {
     "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/o-reclama-de-campanie-din-sua-in-care-apare-mama-unui-candidat-starneste-controverse-23829627",
+    "title": "O reclamă de campanie din SUA în care apare mama unui candidat stârnește controverse",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/10/vivek-ramaswamy-1024x724.jpg",
+    "time": "23:38",
+    "date": "21 Oct",
+    "content": "Candidatul republican la funcția de guvernator al statului Ohio, Vivek Ramaswamy, este criticat în Statele Unite pentru difuzarea unei reclame în care mama adversarei sale democrate, Amy Acton, își acuză fiica de minciună.",
+    "fetched_at": "2026-10-22T00:53:06.354370"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/atac-asupra-unui-aeroport-din-estul-arabiei-saudite-o-persoana-a-fost-ucisa-alte-opt-au-fost-ranite-23829630",
+    "title": "Atac asupra unui aeroport din estul Arabiei Saudite. O persoană a fost ucisă, alte opt au fost rănite",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/03/iran-arabia-saudita-kuweit-atat-drone-1024x534.jpg",
+    "time": "00:17",
+    "date": "22 Oct",
+    "content": "Un rezident saudit a fost ucis într-un atac asupra Aeroportului Internațional Regele Fahd din Dammam, în estul Arabiei Saudite, în apropiere de Bahrain și Qatar, a anunțat joi dimineața Autoritatea Aviației Civile Saudită.",
+    "fetched_at": "2026-10-22T00:53:06.354350"
+  },
+  {
+    "source": "Mediafax",
+    "url": "https://www.mediafax.ro/externe/papa-leon-nu-va-mai-avea-nevoie-de-tratament-suplimentar-pentru-cancer-23829625",
+    "title": "Papa Leon nu va mai avea nevoie de tratament suplimentar pentru cancer",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/06/8139309-mediafax_foto-cristian_radu_nema-1024x686.jpg",
+    "time": "22:43",
+    "date": "21 Oct",
+    "content": "Papa Leon al XIV-lea a primit vești bune de la medicii săi: Pontiful nu va mai avea nevoie de tratament suplimentar pentru cancerul pulmonar, după ce testele ulterioare au confirmat că boala a fost localizată, a anunțat Vaticanul într-un comunicat de miercuri.",
+    "fetched_at": "2026-10-22T00:53:06.354379"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/europa/italia-trimite-500-de-militari-la-milano-dupa-2565551.html",
+    "title": "Italia trimite 500 de militari la Milano după proteste violente. Magazinele de lux își închid porțile",
+    "image": "https://cdn.adh.reperio.news/image-a/a91dc8e5-2be8-4447-9961-a6cedb32d73f/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "23:30",
+    "date": "21 Oct",
+    "content": "Guvernul Giorgiei Meloni anunță măsuri mai dure împotriva violențelor, după ce manifestațiile împotriva costului vieții s-au soldat cu jafuri, distrugeri și confruntări cu poliția. În Franța, autoritățile pregătesc o mobilizare masivă a forțelor de ordine pentru protestele de sâmbătă.",
+    "fetched_at": "2026-10-22T00:53:08.407417"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/economie/dunarea-ar-putea-lasa-romania-fara-energie-tot-mai-2565476.html",
+    "title": "Dunărea ar putea lăsa România fără energie tot mai des. Problema este nivelul apei, nu debitul. Avertismentul unui expert",
+    "image": "https://cdn.adh.reperio.news/image-b/b9bf4fde-8526-4d86-95d3-3f60259f8cfb/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "23:00",
+    "date": "21 Oct",
+    "content": "Deși episoadele de secetă severă pe Dunăre ar putea deveni tot mai frecvente din cauza schimbărilor climatice, România amână investițiile necesare pentru a le gestiona, avertizează hidrotehnicianul Cornel Ilinca. Expertul explică de ce lucrările din vară au avut efect limitat.",
+    "fetched_at": "2026-10-22T00:53:08.407457"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-externe/china/inteligenta-artificiala-trage-economia-chinei-in-2565555.html",
+    "title": "Inteligența artificială trage economia Chinei în sus. Consumul intern rămâne însă în criză",
+    "image": "https://cdn.adh.reperio.news/image-d/d969e8e3-74ff-4d67-898b-d6692255868b/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "00:30",
+    "date": "22 Oct",
+    "content": "A doua cea mai mare economie a lumii a crescut cu 4,5% în trimestrul al treilea, pe fondul cererii globale de componente pentru infrastructura IA. Consumul intern slab și criza imobiliară continuă însă să afecteze perspectivele economice ale țării.",
+    "fetched_at": "2026-10-22T00:53:08.407396"
+  },
+  {
+    "source": "Adevarul",
+    "url": "https://adevarul.ro/stiri-interne/educatie/de-ce-nu-mai-invata-copiii-de-placere-cum-poate-2565097.html",
+    "title": "De ce nu mai învață copiii de plăcere. Cum poate fi schimbată motivația elevilor cu bani puțini",
+    "image": "https://cdn.adh.reperio.news/image-c/c8288e4a-d206-4215-9228-dc12313f100e/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&file=image.jpeg",
+    "time": "00:00",
+    "date": "22 Oct",
+    "content": "Un copil care învață doar ca să nu ia o notă mică poate ajunge să aibă rezultate, dar să piardă bucuria de a descoperi lucruri noi. Un consultant de strategie explică de ce sunt elevii demotivați și cum ar putea fi schimbate lucrurile în sistem, chiar și cu bani puțini.",
+    "fetched_at": "2026-10-22T00:53:08.407411"
+  },
+  {
+    "source": "Mediafax",
     "url": "https://www.mediafax.ro/externe/premiera-in-canada-noul-prim-ministru-al-provinciei-quebec-a-preluat-mandatul-fara-sa-jure-credinta-regelui-charles-al-iii-lea-23829623",
     "title": "Premieră în Canada: Noul prim-ministru al provinciei Quebec a preluat mandatul fără să jure credință regelui Charles al III-lea",
     "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/pexels-social-soup-social-media-1048615-2448946-1024x683.jpg",
