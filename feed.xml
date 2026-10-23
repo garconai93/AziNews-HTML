@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:14:17 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Fostul șef al Serviciului de Permise de Conducere și Înmatriculare a Vehiculelor Neamț, sub control judiciar pe cauțiune. Acuzațiile aduse de DNA</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/fostul-sef-al-serviciului-de-permise-de-conducere-2566145.html</link>
+        <description>Procurorii din cadrul Direcției Naționale Anticorupție – Serviciul Teritorial Bacău au dispus luarea măsurii controlului judiciar pe cauțiune, pe o perioadă de 60 de zile, față de Gabur Lucian Nicole, fostul șef al Serviciului de Permise de Conducere și Înmatriculare a Vehiculelor Neamț.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/fostul-sef-al-serviciului-de-permise-de-conducere-2566145.html</guid>
+        <pubDate>Fri, 23 Oct 2026 15:12:46 +0000</pubDate>
+    </item>
+    <item>
+        <title>Cristian Popa, BNR, despre aderarea la zona euro: „Nu toate lucrurile sunt roz”. Ce trebuie să facă România</title>
+        <link>https://adevarul.ro/economie/cristian-popa-bnr-despre-aderarea-la-zona-euro-2566146.html</link>
+        <description>România trebuie să reducă deficitul bugetar sub 3% din PIB și să îndeplinească toate criteriile de la Maastricht înainte de a putea adopta moneda euro, afirmă Cristian Popa, membru în Consiliul de Administrație al BNR.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/economie/cristian-popa-bnr-despre-aderarea-la-zona-euro-2566146.html</guid>
+        <pubDate>Fri, 23 Oct 2026 15:10:31 +0000</pubDate>
+    </item>
     <item>
         <title>Bolojan: În toate partidele sunt oameni raționali cu care se poate lucra. Cu golanii e greu să faci treabă</title>
         <link>https://www.g4media.ro/bolojan-in-toate-partidele-sunt-oameni-rationali-cu-care-se-poate-lucra-cu-golanii-e-greu-sa-faci-treaba.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/n-dan-si-luca-niculescu-fata-in-fata-cu-tinerii-din-diaspora-nu-mai-putem-cere-sa-aleaga-intre-oportunitatile-din-lume-si-romania-4006347</guid>
         <pubDate>Fri, 23 Oct 2026 14:09:49 +0000</pubDate>
-    </item>
-    <item>
-        <title>Măsuri de securitate întărite în Italia şi trupe în alertă de teama unor noi violenţe în weekend</title>
-        <link>https://www.digi24.ro/stiri/externe/masuri-de-securitate-intarite-in-italia-si-trupe-in-alerta-de-teama-unor-noi-violente-in-weekend-4006379</link>
-        <description>Autorităţile italiene se pregăteau vineri în perspectiva unor noi proteste şi potenţiale tulburări în weekend, inclusiv prin desfăşurarea a sute de militari, după revoltele violente care au avut loc în mai multe oraşe la sfârşitul săptămânii trecute, relatează dpa, citată de Agerpres.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/masuri-de-securitate-intarite-in-italia-si-trupe-in-alerta-de-teama-unor-noi-violente-in-weekend-4006379</guid>
-        <pubDate>Fri, 23 Oct 2026 14:22:22 +0000</pubDate>
-    </item>
-    <item>
-        <title>15 ani de la unicul discurs istoric în Parlament. Regele Mihai și triumful datoriei</title>
-        <link>https://www.digi24.ro/opinii/agora-digi/15-ani-de-la-unicul-discurs-istoric-in-parlament-regele-mihai-si-triumful-datoriei-4006433</link>
-        <description>La ora 10:17, în dimineața zilei de 25 octombrie 2011, intra în plenul reunit al Parlamentului României un personaj unic în istoria secolului XX: singurul Rege care înfruntase, în timpul domniei sale, atât nazismul, cât și comunismul, ultimul șef de stat în viață ai celui de-Al Doilea Război Mondial, omul care la numai 22 de ani își asumase decizia istorică de la 23 August 1944 de a salva România și care supraviețuise aproape 64 de ani propriei abdicări forțate. Împlinea chiar atunci 90 de ani…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/opinii/agora-digi/15-ani-de-la-unicul-discurs-istoric-in-parlament-regele-mihai-si-triumful-datoriei-4006433</guid>
-        <pubDate>Fri, 23 Oct 2026 15:02:03 +0000</pubDate>
     </item>
 </channel>
 </rss>
