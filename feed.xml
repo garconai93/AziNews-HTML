@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 23:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Israelul pregătește închiderea Cisiordaniei după un atac armat soldat cu cinci răniți, cu patru zile înaintea alegerilor</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/israelul-pregateste-inchiderea-cisiordaniei-dupa-2566110.html</link>
+        <description>Israelul a ordonat pregătirea închiderii totale a Cisiordaniei după ce doi palestinieni înarmați au deschis focul în apropiere de Hebron, rănind cel puțin cinci persoane, potrivit autorităților israeliene. Incidentul are loc cu patru zile înaintea alegerilor parlamentare.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/israelul-pregateste-inchiderea-cisiordaniei-dupa-2566110.html</guid>
+        <pubDate>Fri, 23 Oct 2026 22:40:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Reparăm electrocasnicele vechi sau cumpărăm altele noi? Cum ne dăm seama ce variantă ne costă mai puțin</title>
+        <link>https://adevarul.ro/stiri-interne/societate/reparam-electrocasnicele-vechi-sau-cumparam-altele-2565268.html</link>
+        <description>Repararea unui electrocasnic poate ajunge să coste aproape cât înlocuirea lui, mai ales dacă aparatul este vechi, iar piesele de schimb sunt greu de găsit.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/reparam-electrocasnicele-vechi-sau-cumparam-altele-2565268.html</guid>
+        <pubDate>Fri, 23 Oct 2026 22:19:26 +0000</pubDate>
+    </item>
     <item>
         <title>Ghostingul nu înseamnă întotdeauna indiferență. Ce simt cei care întrerup brusc comunicarea</title>
         <link>https://adevarul.ro/dezvoltare-personala/consiliere/ghostingul-nu-inseamna-intotdeauna-indiferenta-ce-2564049.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/atacurile-din-scoli-si-capcana-pedepselor-mai-2565904.html</guid>
         <pubDate>Fri, 23 Oct 2026 18:39:35 +0000</pubDate>
-    </item>
-    <item>
-        <title>Revoluție în industria auto: cea mai mare barieră a mașinilor electrice a fost doborâtă. Începe producția de masă a bateriei indestructibile</title>
-        <link>https://www.libertatea.ro/stiri/revolutie-in-industria-auto-cea-mai-mare-bariera-a-masinilor-electrice-a-fost-doborata-incepe-productia-de-masa-a-bateriei-indestructibile-pfvsmlf</link>
-        <description>Producătorul auto chinez GAC a anunțat oficial începerea producției de serie a bateriilor cu electrolit solid (solid-state), marcând un moment de cotitură în industria auto.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/revolutie-in-industria-auto-cea-mai-mare-bariera-a-masinilor-electrice-a-fost-doborata-incepe-productia-de-masa-a-bateriei-indestructibile-pfvsmlf</guid>
-        <pubDate>Fri, 23 Oct 2026 15:58:11 +0000</pubDate>
-    </item>
-    <item>
-        <title>Florentin Pandele i-a replicat lui Nicușor Dan, după ce președintele a atacat la CCR legea prin care orașul Voluntari devine municipiu</title>
-        <link>https://www.libertatea.ro/stiri/florentin-pandele-i-a-replicat-lui-nicusor-dan-dupa-ce-presedintele-a-atacat-la-ccr-legea-prin-care-orasul-voluntari-devine-municipiu-p15b217</link>
-        <description>Florentin Pandele, primarul orașului Voluntari din 2000, a transmis vineri, 23 octombrie, că localitatea „se poate transforma în municipiu pentru bunăstarea locuitorilor săi, nu în defavoarea lor” și a susținut că „locuitorii din Voluntari nu vor plăti taxe mai mari, dacă orașul va deveni cândva municipiu”.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/florentin-pandele-i-a-replicat-lui-nicusor-dan-dupa-ce-presedintele-a-atacat-la-ccr-legea-prin-care-orasul-voluntari-devine-municipiu-p15b217</guid>
-        <pubDate>Fri, 23 Oct 2026 18:18:18 +0000</pubDate>
     </item>
 </channel>
 </rss>
