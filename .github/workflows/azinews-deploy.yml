@@ -1,43 +1,36 @@
-# Deploy AziNews with GROQ to GitHub Pages
+# Publică site-ul pe GitHub Pages după modificări de cod (nu după actualizările de date,
+# acelea sunt publicate de „AziNews Update"). Se poate porni și manual.
 name: AziNews Deploy
 
 on:
-  schedule:
-    - cron: '0 */3 * * *'  # Every 3 hours for Top News refresh
+  push:
+    branches: [master]
+    paths-ignore:
+      - 'data/**'
+      - 'feed.xml'
+      - 'all_news.json'
   workflow_dispatch:
-  workflow_run:
-    workflows: ["AziNews Update"]
-    types: [completed]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   deploy:
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    permissions:
-      id-token: write
-      contents: read
-      pages: write
-      
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-
-      - name: Inject GROQ API Key
-        run: |
-          sed -i "s|GROQ_API_KEY_PLACEHOLDER|${{ secrets.GROQ_API_KEY }}|g" index.html
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/checkout@v6
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4

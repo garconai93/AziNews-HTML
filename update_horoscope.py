@@ -3,25 +3,31 @@
 AziNews Horoscop Generator
 Generează horoscop zilnic diferit pentru fiecare zodie
 """
+import json
 import random
+import sys
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
+
+RO_TZ = ZoneInfo("Europe/Bucharest")
+OUT = Path(__file__).parent / "data" / "horoscope.json"
 
 # Mesaje pentru fiecare zodie (vor fi amestecate zilnic)
 HOROSCOPE_MESSAGES = {
     "Berbec": [
         "Zi perfectă pentru inițiative noi",
         "Energie maximă, profită de ea",
-        "Momente favoabile în relații",
-        "Success în proiectele personale",
-        "Opportunități profesionale"
+        "Momente favorabile în relații",
+        "Succes în proiectele personale",
+        "Oportunități profesionale"
     ],
     "Taur": [
         "Stabilitate financiară",
         "Zi de relaxare și reflecție",
         "Conexiuni emoționale puternice",
         "Progrese în carieră",
-        "Harmonie în familie"
+        "Armonie în familie"
     ],
     "Gemeni": [
         "Zi dinamică și interesantă",
@@ -75,7 +81,7 @@ HOROSCOPE_MESSAGES = {
     "Capricorn": [
         "Responsabilitate și disciplină",
         "Obiective clare",
-        "Ambitionează sus",
+        "Țintește sus",
         "Disciplină de fier",
         "Succes garantat"
     ],
@@ -97,7 +103,7 @@ HOROSCOPE_MESSAGES = {
 
 def get_daily_horoscope():
     """Generează horoscop zilnic bazat pe ziua lunii"""
-    today = datetime.now()
+    today = datetime.now(RO_TZ)
     day_of_month = today.day
     month = today.month
     
@@ -123,34 +129,31 @@ def get_daily_horoscope():
     
     return horoscope
 
-def update_html(horoscope):
-    """Actualizează index.html cu horoscopul zilnic"""
-    HTML_FILE = Path(__file__).parent / "index.html"
-    html_content = HTML_FILE.read_text(encoding='utf-8')
-    
-    # Creează array-ul JavaScript
-    js_array = "const horoscope = [\n"
-    for h in horoscope:
-        js_array += f'            {{ sign: "{h["sign"]}", msg: "{h["msg"]}" }},\n'
-    js_array += "        ];"
-    
-    # Înlocuiește vechiul horoscop
-    import re
-    pattern = r'const horoscope = \[.*?\];'
-    html_content = re.sub(pattern, js_array, html_content, flags=re.DOTALL)
-    
-    HTML_FILE.write_text(html_content, encoding='utf-8')
-    print(f"Horoscop actualizat pentru {datetime.now().strftime('%d-%m-%Y')}")
+def update_json(horoscope):
+    """Scrie horoscopul în data/horoscope.json (citit de index.html)"""
+    OUT.parent.mkdir(exist_ok=True)
+    OUT.write_text(json.dumps({"date": datetime.now(RO_TZ).strftime('%Y-%m-%d'), "items": horoscope},
+                              ensure_ascii=False, indent=1), encoding='utf-8')
+    print(f"Horoscop actualizat pentru {datetime.now(RO_TZ).strftime('%d-%m-%Y')}")
+
 
 def main():
-    print(f"Horoscop Generator - {datetime.now()}")
+    # --if-new-day: rulează doar dacă horoscopul nu e deja de azi (folosit de actualizarea orară)
+    if "--if-new-day" in sys.argv:
+        try:
+            if json.loads(OUT.read_text(encoding="utf-8")).get("date") == datetime.now(RO_TZ).strftime('%Y-%m-%d'):
+                print("Horoscopul e deja de azi.")
+                return
+        except (OSError, ValueError):
+            pass
+    print(f"Horoscop Generator - {datetime.now(RO_TZ)}")
     horoscope = get_daily_horoscope()
     
     print("\nHoroscop zilnic:")
     for h in horoscope:
         print(f"  {h['sign']}: {h['msg']}")
     
-    update_html(horoscope)
+    update_json(horoscope)
     print("\nGata!")
 
 if __name__ == "__main__":
