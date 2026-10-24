@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 24 Oct 2026 23:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:48:50 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Copilul tău nu a fost invitat la ziua unui coleg. Ce greșeală pot face părinții când încearcă să-l apere</title>
+        <link>https://adevarul.ro/stiri-interne/societate/copilul-tau-nu-a-fost-invitat-la-ziua-unui-coleg-2565791.html</link>
+        <description>Un coleg își sărbătorește ziua de naștere acasă și invită câțiva copii din clasă. Al tău nu se află printre ei. Pentru unii părinți, situația poate părea nedreaptă, mai ales dacă cel mic este trist sau începe să se întrebe de ce nu a fost ales.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/copilul-tau-nu-a-fost-invitat-la-ziua-unui-coleg-2565791.html</guid>
+        <pubDate>Sat, 24 Oct 2026 23:10:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Black Friday, capcanele ofertelor care par de nerefuzat. Ce recomandă ANPC</title>
+        <link>https://adevarul.ro/stiri-interne/societate/black-friday-capcanele-ofertelor-care-par-de-2565955.html</link>
+        <description>Reducerile de Black Friday pot ascunde capcane care îi fac pe cumpărători să plătească mai mult decât ar trebui. Protecția Consumatorilor atrage atenția asupra ofertelor înșelătoare și explică ce trebuie să verifice românii înainte de a scoate bani din buzunar.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/black-friday-capcanele-ofertelor-care-par-de-2565955.html</guid>
+        <pubDate>Sat, 24 Oct 2026 23:46:25 +0000</pubDate>
+    </item>
     <item>
         <title>Adevăratul „Manhattan” al Europei cu șapte secole înaintea Americii. Orașul european care a inventat primii „zgârie nori” din istorie</title>
         <link>https://adevarul.ro/stil-de-viata/magazin/adevaratul-manhattan-al-europei-cu-sapte-secole-2565891.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/social/jurnalista-care-s-a-intors-din-portugalia-pentru-a-lupta-in-ucraina-a-murit-povestea-veteranei-cunoscute-drept-jane-23831133</guid>
         <pubDate>Sat, 24 Oct 2026 18:36:49 +0000</pubDate>
-    </item>
-    <item>
-        <title>Proteste violente în Europa: Ciocniri cu poliția în Italia, Franța și Albania, mii de oameni în stradă în mai multe orașe</title>
-        <link>https://www.digi24.ro/stiri/externe/proteste-violente-in-europa-ciocniri-cu-politia-in-italia-franta-si-albania-mii-de-oameni-in-strada-in-mai-multe-orase-4007481</link>
-        <description>Proteste de amploare, unele marcate de violențe și ciocniri cu forțele de ordine, au avut loc sâmbătă în mai multe țări europene, printre care Italia, Franța, Albania, Spania și Portugalia, scrie ABC News. La Milano, autoritățile au mobilizat încă 500 de soldați și au întărit măsurile de securitate după jafurile și confruntările din weekendul precedent. În Franța, poliția a reținut 135 de persoane, în timp ce la Tirana au fost folosite tunuri cu apă pentru dispersarea manifestanților. În Madrid…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/proteste-violente-in-europa-ciocniri-cu-politia-in-italia-franta-si-albania-mii-de-oameni-in-strada-in-mai-multe-orase-4007481</guid>
-        <pubDate>Sat, 24 Oct 2026 18:02:24 +0000</pubDate>
-    </item>
-    <item>
-        <title>Mii de persoane au cerut demisia lui Edi Rama la Tirana / Poliția a intervenit cu gaze lacrimogene, tunuri cu apă și gloanțe de cauciuc</title>
-        <link>https://www.g4media.ro/proteste-tirana-demisia-edi-rama-coruptie-studenti.html</link>
-        <description>Mii de persoane au protestat sâmbătă la Tirana, cerând demisia premierului albanez Edi Rama și denunțând corupția și condițiile precare din sistemul de învățământ, transmite Agerpres, citând AFP. Manifestația, la care au participat numeroși tineri, a fost dispersată cu gaze lacrimogene, tunuri cu apă și gloanțe de cauciuc, după ce un grup de protestatari a aruncat…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/proteste-tirana-demisia-edi-rama-coruptie-studenti.html</guid>
-        <pubDate>Sat, 24 Oct 2026 18:00:17 +0000</pubDate>
     </item>
 </channel>
 </rss>
