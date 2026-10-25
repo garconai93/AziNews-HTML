@@ -5,8 +5,48 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 25 Oct 2026 03:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 04:01:18 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Barack Obama îl atacă pe Donald Trump înaintea alegerilor: Nu am mai văzut un președinte atât de corupt</title>
+        <link>https://www.mediafax.ro/externe/barack-obama-il-ataca-pe-donald-trump-inaintea-alegerilor-nu-am-mai-vazut-un-presedinte-atat-de-corupt-23831204</link>
+        <description>Fostul președinte american Barack Obama a criticat dur administrația lui Donald Trump în timpul unor mitinguri electorale organizate în Cleveland și Detroit, acuzându-l pe actualul lider de la Casa Albă de corupție și ironizând strategia sa față de Iran.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/barack-obama-il-ataca-pe-donald-trump-inaintea-alegerilor-nu-am-mai-vazut-un-presedinte-atat-de-corupt-23831204</guid>
+        <pubDate>Sun, 25 Oct 2026 01:50:02 +0000</pubDate>
+    </item>
+    <item>
+        <title>55 de ani de la catastrofa de la Certej. Dimineața în care o avalanșă de steril a îngropat de vii 89 de oameni</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/55-de-ani-de-la-catastrofa-de-la-certej-dimineata-2565494.html</link>
+        <description>În 30 octombrie 2026 se împlinesc 55 de ani de la catastrofa minieră de la Certej. Revărsarea iazului de steril a distrus blocuri și case, ucigând cel puțin 89 de oameni. Ancheta s-a încheiat fără ca vreun vinovat să fie tras la răspundere.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/55-de-ani-de-la-catastrofa-de-la-certej-dimineata-2565494.html</guid>
+        <pubDate>Sun, 25 Oct 2026 03:19:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un nou cutremur a lovit insulele Vanuatu, după seismul puternic de sâmbătă</title>
+        <link>https://www.mediafax.ro/externe/un-nou-cutremur-a-lovit-insulele-vanuatu-dupa-seismul-puternic-de-sambata-23831207</link>
+        <description>Un cutremur cu magnitudinea de 6,16 a fost înregistrat duminică în apropierea insulelor Vanuatu din Oceanul Pacific, la o adâncime de 125 de kilometri, potrivit Centrului German de Cercetare pentru Geostiințe (GFZ). Seismul vine după un cutremur cu magnitudinea de 6,9 produs în aceeași regiune sâmbătă.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-nou-cutremur-a-lovit-insulele-vanuatu-dupa-seismul-puternic-de-sambata-23831207</guid>
+        <pubDate>Sun, 25 Oct 2026 03:41:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Marea Britanie ar putea reveni la libera circulație cu UE după Brexit. Andy Burnham nu exclude această posibilitate</title>
+        <link>https://www.mediafax.ro/externe/marea-britanie-ar-putea-reveni-la-libera-circulatie-cu-ue-dupa-brexit-andy-burnham-nu-exclude-aceasta-posibilitate-23831209</link>
+        <description>Premierul britanic Andy Burnham a lăsat deschisă posibilitatea ca Marea Britanie să revină la regulile Uniunii Europene privind libera circulație a persoanelor, potrivit publicației The Sunday Times.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/marea-britanie-ar-putea-reveni-la-libera-circulatie-cu-ue-dupa-brexit-andy-burnham-nu-exclude-aceasta-posibilitate-23831209</guid>
+        <pubDate>Sun, 25 Oct 2026 03:10:10 +0000</pubDate>
+    </item>
+    <item>
+        <title>„Profa avea o obsesie că sfârșitul lumii o să vină curând”. Cum au ajuns orele de Religie să stârnească atâtea controverse</title>
+        <link>https://adevarul.ro/stiri-interne/societate/profa-avea-o-obsesie-ca-sfarsitul-lumii-o-sa-vina-2565850.html</link>
+        <description>Școala și Biserica au o legătură veche de secole, iar în procesul de modernizare a învățământului românesc, Religia, predată ca materie școlară încă din secolul al XIX-lea, cu o perioadă de întrerupere de patru decenii, în timpul regimului comunist, a stârnit numeroase controverse.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/profa-avea-o-obsesie-ca-sfarsitul-lumii-o-sa-vina-2565850.html</guid>
+        <pubDate>Sun, 25 Oct 2026 03:44:25 +0000</pubDate>
+    </item>
     <item>
         <title>VIDEO | Revin kilogramele după oprirea injecțiilor pentru slăbit, la fel ca după dietă? Dr. Cristina Blaga, medic specialist endocrinologie, explicații legate de ce se întâmplă în organism</title>
         <link>https://www.g4media.ro/video-revin-kilogramele-dupa-oprirea-injectiilor-pentru-slabit-la-fel-ca-dupa-dieta-dr-cristina-blaga-medic-specialist-endocrinologie-explicatii-legate-de-ce-se-intampla-in-organism.html</link>
@@ -446,46 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/franta-intervine-in-marea-neagra-dupa-atacurile-2566321.html</guid>
         <pubDate>Sat, 24 Oct 2026 18:35:27 +0000</pubDate>
-    </item>
-    <item>
-        <title>Cum poate o casă de numai 20 de metri pătrați să ofere confort tot anul, fără racordare la utilități. Soluțiile ingenioase ascunse în interior</title>
-        <link>https://www.mediafax.ro/life-inedit/cum-poate-o-casa-de-numai-20-de-metri-patrati-sa-ofere-confort-tot-anul-fara-racordare-la-utilitati-solutiile-ingenioase-ascunse-in-interior-23830505</link>
-        <description>Din exterior, pare o cabană obișnuită din lemn, ridicată pe un deal înconjurat de podgorii. Dar casa de numai 20 de metri pătrați ascunde soluții complet neobișnuite.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/cum-poate-o-casa-de-numai-20-de-metri-patrati-sa-ofere-confort-tot-anul-fara-racordare-la-utilitati-solutiile-ingenioase-ascunse-in-interior-23830505</guid>
-        <pubDate>Sat, 24 Oct 2026 18:06:26 +0000</pubDate>
-    </item>
-    <item>
-        <title>Peste o sută de susținători ai lui Călin Georgescu protestează în fața Arestului Central. Locuitorii din zonă se plâng de zgomot</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/peste-o-suta-de-sustinatori-ai-lui-calin-georgescu-2566319.html</link>
-        <description>Peste o sută de susținători ai lui Călin Georgescu protestează, sâmbătă seară, 24 octombrie, în fața Arestului Central din București, cerând eliberarea fostului candidat la alegerile prezidențiale. Acesta a rămas în arest după ce instanța a admis contestația formulată de DIICOT.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/peste-o-suta-de-sustinatori-ai-lui-calin-georgescu-2566319.html</guid>
-        <pubDate>Sat, 24 Oct 2026 18:14:22 +0000</pubDate>
-    </item>
-    <item>
-        <title>Florin Manole: Călin Georgescu este un pericol pentru România, nu doar pentru PSD</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/florin-manole-calin-georgescu-este-un-pericol-pentru-romania-nu-doar-pentru-psd-4007521</link>
-        <description>Ministrul Muncii, Florin Manole, a declarat sâmbătă, în emisiunea „În fața ta” de la Digi24, că fostul candidat la prezidențiale Călin Georgescu este „un pericol” pentru România. În același timp, Manole atrage atenția că „extremismul de dreapta este un pericol mult subevaluat în această țară”.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/florin-manole-calin-georgescu-este-un-pericol-pentru-romania-nu-doar-pentru-psd-4007521</guid>
-        <pubDate>Sat, 24 Oct 2026 18:20:17 +0000</pubDate>
-    </item>
-    <item>
-        <title>Războiul SUA–Iran apropie state cu interese diferite. Ce urmăresc cele opt țări reunite la Istanbul</title>
-        <link>https://adevarul.ro/stiri-externe/in-lume/razboiul-sua-iran-apropie-state-cu-interese-2566305.html</link>
-        <description>Reuniunea din 23 octombrie de la Istanbul, la care au participat opt state europene și regionale, ar putea pune bazele unui nou format diplomatic menit să influențeze evoluția războiului dintre SUA, Israel și Iran. Analistul politic Emanuel Cernat explică de ce miza este mai ales economică.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/razboiul-sua-iran-apropie-state-cu-interese-2566305.html</guid>
-        <pubDate>Sat, 24 Oct 2026 18:20:28 +0000</pubDate>
-    </item>
-    <item>
-        <title>Generația Z conduce valul protestelor din Europa. De ce au ieșit tinerii în stradă și ce îi nemulțumește?</title>
-        <link>https://www.libertatea.ro/stiri/generatia-z-conduce-valul-protestelor-din-europa-de-ce-au-iesit-tinerii-in-strada-si-ce-ii-nemultumeste-pmywm32</link>
-        <description>Tinerii din întreaga Europă au ieșit în stradă într-o serie fără precedent de manifestații, de la blocaje în licee până la tabere de corturi în piețele centrale. Noua generație refuză să mai accepte tăierile bugetare, scumpirea vieții și lipsa de perspectivă. Nemulțumirile s-au unit într-o reacție de furie colectivă a tinerilor care se tem că nu vor mai avea oportunitățile generațiilor anterioare.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/generatia-z-conduce-valul-protestelor-din-europa-de-ce-au-iesit-tinerii-in-strada-si-ce-ii-nemultumeste-pmywm32</guid>
-        <pubDate>Sat, 24 Oct 2026 17:29:19 +0000</pubDate>
     </item>
 </channel>
 </rss>
