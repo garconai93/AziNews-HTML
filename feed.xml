@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 25 Oct 2026 01:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:47:08 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>România a trecut la ora de iarnă. Ora 04:00 a devenit ora 03:00. Ce trebuie să știe românii</title>
+        <link>https://www.mediafax.ro/social/romania-a-trecut-la-ora-de-iarna-ora-0400-a-devenit-ora-0300-ce-trebuie-sa-stie-romanii-23831187</link>
+        <description>România a trecut la ora de iarnă în noaptea de sâmbătă spre duminică, 24 spre 25 octombrie 2026. La ora 04:00, ceasurile au fost date înapoi cu o oră, devenind ora 03:00. Astfel, românii beneficiază de o oră în plus în această noapte, iar ziua de duminică va avea 25 de ore.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/romania-a-trecut-la-ora-de-iarna-ora-0400-a-devenit-ora-0300-ce-trebuie-sa-stie-romanii-23831187</guid>
+        <pubDate>Sun, 25 Oct 2026 01:01:41 +0000</pubDate>
+    </item>
     <item>
         <title>Când vor putea clujenii să meargă cu metroul. Ce termen au autoritățile pentru finalizarea lucrărilor</title>
         <link>https://adevarul.ro/stiri-locale/cluj-napoca/cand-vor-putea-clujenii-sa-mearga-cu-metroul-ce-2565978.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/o-companie-americana-sustine-ca-poate-transforma-mercurul-in-aur-6ps9le1</guid>
         <pubDate>Sat, 24 Oct 2026 16:31:28 +0000</pubDate>
-    </item>
-    <item>
-        <title>Jordan Bardella, reales lider al partidului Adunarea Națională, de extremă dreapta, cu aproape 99% din voturi</title>
-        <link>https://www.mediafax.ro/externe/jordan-bardella-reales-lider-al-partidului-adunarea-nationala-de-extrema-dreapta-cu-aproape-99-din-voturi-23831129</link>
-        <description>Jordan Bardella a fost reales lider al partidului francez Adunarea Națională cu 98,98% din voturi. Marine Le Pen se pregătește să-și prezinte planurile pentru alegerile prezidențiale din 2027.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/jordan-bardella-reales-lider-al-partidului-adunarea-nationala-de-extrema-dreapta-cu-aproape-99-din-voturi-23831129</guid>
-        <pubDate>Sat, 24 Oct 2026 18:02:26 +0000</pubDate>
     </item>
 </channel>
 </rss>
