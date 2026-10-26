@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 01:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Depresia și anxietatea ar putea fi prezise de dezvoltarea creierului în copilărie. Bolile pot fi descoperite cu până la patru ani înainte de apariția simptomelor</title>
+        <link>https://www.mediafax.ro/stirile-zilei/depresia-si-anxietatea-ar-putea-fi-prezise-de-dezvoltarea-creierului-in-copilarie-bolile-pot-fi-descoperite-cu-pana-la-patru-ani-inainte-de-aparitia-simptomelor-23830082</link>
+        <description>Viteza cu care se maturizează creierul unui copil poate prezice dacă acesta va dezvolta depresie sau anxietate în adolescență, cu până la patru ani înainte de apariția simptomelor, conform celor mai recente cercetări.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/depresia-si-anxietatea-ar-putea-fi-prezise-de-dezvoltarea-creierului-in-copilarie-bolile-pot-fi-descoperite-cu-pana-la-patru-ani-inainte-de-aparitia-simptomelor-23830082</guid>
+        <pubDate>Mon, 26 Oct 2026 00:40:53 +0000</pubDate>
+    </item>
     <item>
         <title>De la 3.000 de euro pe lună în Spania, la o livadă în Olt. De ce s-a întors acasă un român după 12 ani</title>
         <link>https://adevarul.ro/stiri-locale/slatina/de-la-3000-de-euro-pe-luna-in-spania-la-o-livada-2565079.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/bbc-a-descoperit-legaturi-intre-reclame-politice-2566452.html</guid>
         <pubDate>Sun, 25 Oct 2026 19:16:04 +0000</pubDate>
-    </item>
-    <item>
-        <title>Impozitul pe o casă din București ar putea crește de 26 de ori. Cum se ajunge de la 1.044 la 27.500 de lei pe an</title>
-        <link>https://adevarul.ro/economie/impozitul-pe-o-casa-din-bucuresti-ar-putea-creste-2565979.html</link>
-        <description>O casă din București pentru care proprietarul plătește în prezent un impozit anual de aproximativ 1.044 de lei ar putea ajunge la o factură fiscală de 27.500 de lei pe an, dacă impozitarea la valoarea de piață s-ar cumula cu taxa pe lux.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/economie/impozitul-pe-o-casa-din-bucuresti-ar-putea-creste-2565979.html</guid>
-        <pubDate>Sun, 25 Oct 2026 19:39:22 +0000</pubDate>
     </item>
 </channel>
 </rss>
