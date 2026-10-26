@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:58:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:01:16 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Când se deschid târgurile de Crăciun din România în 2026. Craiova și Sibiu dau startul pe 13 noiembrie</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/cand-se-deschid-targurile-de-craciun-din-romania-2566439.html</link>
+        <description>Târgurile de Crăciun din România în 2026 își deschid porțile începând cu jumătatea lunii noiembrie. Craiova și Sibiu dau startul sezonului festiv pe 13 noiembrie, în timp ce târgul din Piața Constituției, din București, este programat să se deschidă pe 27 noiembrie.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/cand-se-deschid-targurile-de-craciun-din-romania-2566439.html</guid>
+        <pubDate>Mon, 26 Oct 2026 04:58:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Misiune de salvare transformată în revoltă, în Argeș / Pompier lovit de către localnici / Trupele speciale au intervenit pentru a calma spiritele</title>
+        <link>https://www.g4media.ro/misiune-de-salvare-transformata-in-revolta-in-arges-pompier-lovit-de-catre-localnici-trupele-speciale-au-intervenit-pentru-a-calma-spiritele.html</link>
+        <description>Un pompier care participa la stingerea unui incendiu izbucnit în oraşul Ştefăneşti, duminică seară, a fost rănit de localnicii care au devenit agresivi, informează Inspectoratul pentru Situaţii de Urgenţă (ISU) Argeş, relatează Agerpres. Un echipaj de pompieri de la Detaşamentul Piteşti intervenise pentru localizarea şi lichidarea unui incendiu izbucnit pe strada Sticlelor din oraşul Ştefăneşti.…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/misiune-de-salvare-transformata-in-revolta-in-arges-pompier-lovit-de-catre-localnici-trupele-speciale-au-intervenit-pentru-a-calma-spiritele.html</guid>
+        <pubDate>Mon, 26 Oct 2026 04:59:15 +0000</pubDate>
+    </item>
     <item>
         <title>Premierul Luca Niculescu se întâlneşte luni cu guvernatorul BNR și cu reprezentanții mediului de afaceri</title>
         <link>https://adevarul.ro/stiri-interne/evenimente/premierul-luca-niculescu-se-intalneste-luni-cu-2566467.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/sport/dinamo-a-terminat-la-egalitate-cu-cfr-cluj-dupa-ce-a-fost-condusa-cu-2-0-revenire-in-trei-minute-1w92ns0</guid>
         <pubDate>Sun, 25 Oct 2026 19:24:18 +0000</pubDate>
-    </item>
-    <item>
-        <title>Horoscop 26 octombrie 2026. Capricornii au o ocazie foarte specială de a se elibera de anumite poveri pe care le poartă în suflet de multă vreme</title>
-        <link>https://www.libertatea.ro/lifestyle/horoscop-azi-26-octombrie-2026-s5jq3lr</link>
-        <description>Horoscop 26 octombrie 2026. Citește horoscopul de azi pentru zodia ta. Pe Libertatea găsești Horoscop zilnic cu previziuni în dragoste, bani sau sănătate. Află ce îți rezervă astrele pentru ziua de azi.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/horoscop-azi-26-octombrie-2026-s5jq3lr</guid>
-        <pubDate>Sun, 25 Oct 2026 19:50:03 +0000</pubDate>
-    </item>
-    <item>
-        <title>Un medic japonez celebru a trăit 105 ani și a respectat 7 reguli pentru o viață lungă. Una era esențială</title>
-        <link>https://www.libertatea.ro/stiri/un-medic-japonez-celebru-a-trait-105-ani-si-a-respectat-7-reguli-pentru-o-viata-lunga-una-era-esentiala-ffzedep</link>
-        <description>Unul dintre cei mai respectați specialiști din Japonia, doctorul Shigeaki Hinohara a atins venerabila vârstă de 105 ani bucurându-se de o vitalitate de invidiat. Până aproape de pragul unui secol de viață, a continuat să consulte pacienți, să țină prelegeri, să scrie cărți și să ghideze noile generații de rezidenți, demonstrând că îmbătrânirea activă nu este o utopie, relatează site-ul Blic, parte a grupului Ringier.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/un-medic-japonez-celebru-a-trait-105-ani-si-a-respectat-7-reguli-pentru-o-viata-lunga-una-era-esentiala-ffzedep</guid>
-        <pubDate>Sun, 25 Oct 2026 17:12:36 +0000</pubDate>
     </item>
 </channel>
 </rss>
