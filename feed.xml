@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 28 Oct 2026 03:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:01:21 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Pot gadgeturile de beauty să încetinească semnele timpului? 3 tehnologii pentru ten și păr, cu LED, radiofrecvență și laser, dincolo de promisiuni</title>
+        <link>https://adevarul.ro/ghid-de-cumparaturi/beauty/pot-gadgeturile-de-beauty-sa-incetineasca-semnele-2566972.html</link>
+        <description>Mască LED, dispozitiv anti-aging sau pieptene cu laser? Compară beneficiile gadgeturilor pentru ten și păr, dovezile științifice și ce să verifici înainte de cumpărare.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/ghid-de-cumparaturi/beauty/pot-gadgeturile-de-beauty-sa-incetineasca-semnele-2566972.html</guid>
+        <pubDate>Wed, 28 Oct 2026 03:58:32 +0000</pubDate>
+    </item>
+    <item>
+        <title>Când idolii promovează extremismul. Cum sunt atrași adolescenții în cercuri radicale</title>
+        <link>https://adevarul.ro/stiri-interne/societate/cand-idolii-promoveaza-extremismul-cum-sunt-2566665.html</link>
+        <description>Muzica și admirația pentru artiști pot deveni porți de intrare către ideologii extremiste, mai ales în adolescență, când nevoia de identitate și apartenență este puternică. Psihologul Olga Ghițac explică pentru „Adevărul” cum se poate instala radicalizarea.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/cand-idolii-promoveaza-extremismul-cum-sunt-2566665.html</guid>
+        <pubDate>Wed, 28 Oct 2026 03:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Republica Moldova se pregătește pentru o iarnă cu riscuri energetice. Miza aprovizionării din România</title>
         <link>https://adevarul.ro/economie/republica-moldova-se-pregateste-pentru-o-iarna-cu-2566535.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/elevii-si-studentii-francezi-planuiesc-noi-proteste-dupa-respingerea-masurilor-guvernamentale-trebuie-sa-ne-mentinem-mobilizarea-daca-vrem-sa-fim-in-continuare-auziti.html</guid>
         <pubDate>Tue, 27 Oct 2026 20:18:45 +0000</pubDate>
-    </item>
-    <item>
-        <title>Dominic Fritz e dezamăgit de Nicușor Dan: Multă lume l-a ascultat în campanie, ce a spus despre justiție, anticorupție, despre PSD</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/dominic-fritz-e-dezamagit-de-nicusor-dan-multa-lume-l-a-ascultat-in-campanie-ce-a-spus-despre-justitie-anticoruptie-despre-psd-4011415</link>
-        <description>Preşedintele USR, Dominic Fritz, crede că preşedintele Nicuşor Dan i-a dezamăgit pe mulţi dintre susţinătorii săi şi se declară la rândul său dezamăgit de şeful statului, faţă de care USR era apropiat la începutul mandatului său.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/dominic-fritz-e-dezamagit-de-nicusor-dan-multa-lume-l-a-ascultat-in-campanie-ce-a-spus-despre-justitie-anticoruptie-despre-psd-4011415</guid>
-        <pubDate>Tue, 27 Oct 2026 20:11:45 +0000</pubDate>
-    </item>
-    <item>
-        <title>A reapărut un butoi de bere, în Alpi, la 50 de ani de când a fost pierdut / Ghețarul s-a topit ajutând la descoperirea băuturii / „Am băut berea. Era încă bună”</title>
-        <link>https://www.g4media.ro/a-reaparut-un-butoi-de-bere-in-alpi-la-50-de-ani-de-cand-a-fost-pierdut-ghetarul-s-a-topit-ajutand-la-descoperirea-bauturii-am-baut-berea-era-inca-buna.html</link>
-        <description>Aproape jumătate de secol prins între ghețuri, apoi întoarcerea în vale și o degustare de-a dreptul incredibilă: în Alpii din Zillertal, la granița dintre Austria și Tirolul de Sud, un butoi de bere dispărut în anii ’70 a reapărut la altitudine mare, transformându-se într-un fragment de istorie a Tirolului de Sud, relatează Corriere della Sera.…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/a-reaparut-un-butoi-de-bere-in-alpi-la-50-de-ani-de-cand-a-fost-pierdut-ghetarul-s-a-topit-ajutand-la-descoperirea-bauturii-am-baut-berea-era-inca-buna.html</guid>
-        <pubDate>Tue, 27 Oct 2026 21:00:31 +0000</pubDate>
     </item>
 </channel>
 </rss>
