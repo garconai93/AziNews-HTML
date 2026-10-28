@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 28 Oct 2026 02:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:01:18 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Republica Moldova se pregătește pentru o iarnă cu riscuri energetice. Miza aprovizionării din România</title>
+        <link>https://adevarul.ro/economie/republica-moldova-se-pregateste-pentru-o-iarna-cu-2566535.html</link>
+        <description>Autoritățile din Republica Moldova au aprobat noi măsuri pentru asigurarea aprovizionării cu energie electrică, gaze și carburanți în sezonul rece, pe fondul riscurilor din sectorul energetic și al nivelului scăzut al apei din Nistru.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/economie/republica-moldova-se-pregateste-pentru-o-iarna-cu-2566535.html</guid>
+        <pubDate>Wed, 28 Oct 2026 02:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Semne de alarmă în mediul de afaceri. Ce se întâmplă cu firmele românești în 2026</title>
         <link>https://adevarul.ro/economie/semne-de-alarma-in-mediul-de-afaceri-ce-se-2566558.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/a-reaparut-un-butoi-de-bere-in-alpi-la-50-de-ani-de-cand-a-fost-pierdut-ghetarul-s-a-topit-ajutand-la-descoperirea-bauturii-am-baut-berea-era-inca-buna.html</guid>
         <pubDate>Tue, 27 Oct 2026 21:00:31 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ce spune liderul USR despre teoria că e agent german: Dacă aș avea un plan malefic pe 20 de ani să plantez un spion, nu l-aș numi Fritz</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ce-spune-liderul-usr-despre-teoria-ca-e-spion-german-daca-as-avea-un-plan-malefic-pe-20-de-ani-sa-plantez-un-spion-nu-l-as-numi-fritz-4011471</link>
-        <description>Preşedintele USR, Dominic Fritz, a afirmat, marţi seară, că nu se pricepe prea mult la discuţii despre spioni, dar presupune că, dacă cineva ar fi avut un plan malefic să-l planteze în politica românească ca spion al statului german, cum se vehiculează în unele teorii din spaţiul public, i-ar fi fabricat un CV mai puţin contondent. Preşedintele USR apreciază că se putea găsi o altă acoperire, nu să se trimită un „spion” care se numeşte Fritz, a lucrat la un fost preşedinte german şi s-a…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ce-spune-liderul-usr-despre-teoria-ca-e-spion-german-daca-as-avea-un-plan-malefic-pe-20-de-ani-sa-plantez-un-spion-nu-l-as-numi-fritz-4011471</guid>
-        <pubDate>Tue, 27 Oct 2026 20:43:37 +0000</pubDate>
     </item>
 </channel>
 </rss>
