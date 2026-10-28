@@ -5,8 +5,32 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 28 Oct 2026 19:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:01:21 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Ucraineanul suspectat de implicare în sabotajul de la Carfil a fost arestat în Polonia</title>
+        <link>https://www.mediafax.ro/social/ucraineanul-suspectat-de-implicare-in-sabotajul-de-la-carfil-a-fost-arestat-in-polonia-23833348</link>
+        <description>Un cetățean ucrainean căutat de autoritățile române, suspectat de implicare în actul de sabotaj de la Carfil, a fost arestat în Polonia. Este vorba despre Artem S., în vârstă de 25 de ani, care locuia pe teritoriul polonez.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/ucraineanul-suspectat-de-implicare-in-sabotajul-de-la-carfil-a-fost-arestat-in-polonia-23833348</guid>
+        <pubDate>Wed, 28 Oct 2026 20:00:15 +0000</pubDate>
+    </item>
+    <item>
+        <title>Susținătorii lui Georgescu s-au adunat la Arestul Central după prelungirea arestului preventiv</title>
+        <link>https://www.mediafax.ro/social/sustinatorii-lui-georgescu-s-au-adunat-la-arestul-central-dupa-prelungirea-arestului-preventiv-23833333</link>
+        <description>Miercuri seara, susținătorii lui Călin Georgescu s-au adunat la Arestul Central, pentru a-l susține pe fostul candidat la prezidențiale, după ce Curtea de Apel București a decis prelungirea arestării preventive în cazul acestuia.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/sustinatorii-lui-georgescu-s-au-adunat-la-arestul-central-dupa-prelungirea-arestului-preventiv-23833333</guid>
+        <pubDate>Wed, 28 Oct 2026 19:58:42 +0000</pubDate>
+    </item>
+    <item>
+        <title>Ritualuri șamanice și atacuri în nopțile cu lună plină. Cine îi sugerează lui Putin datele loviturilor asupra Ucrainei</title>
+        <link>https://adevarul.ro/stiri-externe/rusia/ritualuri-samanice-si-atacuri-in-noptile-cu-luna-2567260.html</link>
+        <description>Expertul militar ucrainean Oleh Jdanov a observat o posibilă legătură între luna plină și atacurile rusești de amploare asupra Ucrainei. Cercetătorul în domeniul practicilor mistice Igor Mehheda consideră că aceste coincidențe ar putea avea legătură cu presupusele convingeri oculte ale lui Putin.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/ritualuri-samanice-si-atacuri-in-noptile-cu-luna-2567260.html</guid>
+        <pubDate>Wed, 28 Oct 2026 19:58:03 +0000</pubDate>
+    </item>
     <item>
         <title>Comisia Europeană: Conducta Nord Stream nu se va redeschide după război / ”Cunoaștem prea bine costurile ascunse ale dependenței de Rusia”</title>
         <link>https://www.g4media.ro/comisia-europeana-conducta-nord-stream-nu-se-va-redeschide-dupa-razboi-cunoastem-prea-bine-costurile-ascunse-ale-dependentei-de-rusia.html</link>
@@ -462,30 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/138-kilometri-inaugurari-autostrada-drumuri-expres-final-an-2026-a7-a3-a1-a0-braila-galati-xcwmz8s</guid>
         <pubDate>Wed, 28 Oct 2026 17:29:01 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sindicaliștii Metrorex amenință cu greva generală la metrou, dacă nu primesc o majorare de 450 de lei la salarii</title>
-        <link>https://www.libertatea.ro/stiri/greva-metrorex-noiembrie-2026-sindicat-salarii-negocieri-bucuresti-450-lei-net-kdglmcr</link>
-        <description>Transportul subteran din București ar putea fi paralizat în perioada următoare. Angajații Metrorex avertizează că sunt pregătiți să declanșeze procedurile legale pentru oprirea activității dacă administrația companiei nu demarează negocierile reale pentru noul contract colectiv de muncă până la data de 1 noiembrie. Revendicările vizează atât indexarea veniturilor, cât și rezolvarea unor probleme grave de securitate și sănătate în muncă.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/greva-metrorex-noiembrie-2026-sindicat-salarii-negocieri-bucuresti-450-lei-net-kdglmcr</guid>
-        <pubDate>Wed, 28 Oct 2026 16:52:31 +0000</pubDate>
-    </item>
-    <item>
-        <title>Replică virală: o agenție de turism a reacționat cu umor la jignirile lui Donald Trump, care a numit Norvegia „o țară de rahat”</title>
-        <link>https://www.digi24.ro/stiri/externe/replica-virala-o-agentie-de-turism-a-reactionat-cu-umor-la-jignirile-lui-donald-trump-care-a-numit-norvegia-o-tara-de-rahat-4012957</link>
-        <description>În Norvegia, o agenție de turism a reacționat cu umor la jignirile lui Trump. Agenția norvegiană de turism a folosit remarca jignitoare a președintelui SUA, Donald Trump, la adresa țării, pentru a se lăuda cu frumusețea toaletelor sale.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/replica-virala-o-agentie-de-turism-a-reactionat-cu-umor-la-jignirile-lui-donald-trump-care-a-numit-norvegia-o-tara-de-rahat-4012957</guid>
-        <pubDate>Wed, 28 Oct 2026 18:47:39 +0000</pubDate>
-    </item>
-    <item>
-        <title>Dictatorul Mbappe și democratul Mao</title>
-        <link>https://www.libertatea.ro/opinii/alexandru-lupu-dictatorul-mbappe-si-democratul-mao-jxqfx9k</link>
-        <description>Marea Chină s-a arătat oripilată de glumița fotbalistului de renume mondial Kylian Mbappe, fost la PSG acum jucător la Real Madrid, care a spus că l-a amuzat o imagine pe net (o memă) în care fața sa apărea pe umerii „unui dictator chinez". Personajul asiatic a fost ulterior identificat ca fiind nimeni altul decât Mao Zedong (pe vremuri îi ziceam „Mao Țedun") conducătorul Chinei comuniste între 1949 și 1976.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/opinii/alexandru-lupu-dictatorul-mbappe-si-democratul-mao-jxqfx9k</guid>
-        <pubDate>Wed, 28 Oct 2026 16:32:18 +0000</pubDate>
     </item>
 </channel>
 </rss>
