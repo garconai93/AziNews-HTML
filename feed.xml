@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:01:22 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>„Stau cu iubi în brațe, că îmi dă căldură”. Românii amână pornirea centralelor de teamă să nu-i îngenuncheze facturile</title>
+        <link>https://adevarul.ro/stiri-interne/societate/stau-cu-iubi-in-brate-ca-imi-da-caldura-2566046.html</link>
+        <description>Apropierea iernii oferă motive de îngrijorare multor români în privința modului în care vor putea face față cheltuielilor cu întreținerea locuințelor. Nopțile reci aduc costuri suplimentare odată cu pornirea centralelor termice sau îi fac pe mulți români să caute soluții alternative de confort.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/stau-cu-iubi-in-brate-ca-imi-da-caldura-2566046.html</guid>
+        <pubDate>Thu, 29 Oct 2026 01:30:25 +0000</pubDate>
+    </item>
     <item>
         <title>Claudiu Năsui anunță reguli mai stricte pentru camerele video din Moldova, după dezvăluirile despre softul rusesc: „Să nu avem genul acesta de potențiale breșe”</title>
         <link>https://www.libertatea.ro/stiri/claudiu-nasui-anunta-reguli-mai-stricte-camerele-video-moldova-dupa-dezvaluirile-despre-softul-rusesc-zfwyrft</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/social/primaria-capitalei-anunta-ca-6-milioane-de-luminite-vor-impodobi-bulevardele-bucurestiului-cand-se-deschide-targul-de-craciun-din-piata-constitutiei-23833358</guid>
         <pubDate>Wed, 28 Oct 2026 20:23:59 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ordinul care ar fi dus la accidentul feroviar din Spania. Ce dezvăluie înregistrările audio ale mecanicilor de locomotivă</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/ordinul-care-ar-fi-dus-la-tragedia-feroviara-din-spania-ce-dezvaluie-inregistrarile-audio-ale-mecanicilor-de-locomotiva-4013127</link>
-        <description>Înregistrările audio ale convorbirilor dintre mecanicii celor două trenuri implicate în tragedia feroviară din Spania și centrul de control de la Atocha scot la iveală o serie de erori comise înaintea coliziunii. Mecanicul trenului AVE, care circula în spatele unui tren Iryo rămas blocat pe șine, a primit ordin să își reia deplasarea în regim normal, deși protocolul prevedea o limită de viteză de 40 km/h. Mai mult, cu cinci minute înainte de accident, centrul de control fusese informat că…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ordinul-care-ar-fi-dus-la-tragedia-feroviara-din-spania-ce-dezvaluie-inregistrarile-audio-ale-mecanicilor-de-locomotiva-4013127</guid>
-        <pubDate>Wed, 28 Oct 2026 20:37:44 +0000</pubDate>
     </item>
 </channel>
 </rss>
