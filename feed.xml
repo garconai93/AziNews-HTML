@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:01:19 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Angajații din sănătate cer majorări salariale de 16% de la 1 ianuarie 2027: „Nu vom accepta amânarea reformei”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/angajatii-din-sanatate-cer-majorari-salariale-de-2567012.html</link>
+        <description>Angajații din sănătate cer reluarea negocierilor pentru noua Lege a salarizării până la sfârșitul anului și avertizează că nu vor accepta amânarea reformei fără majorări salariale de la 1 ianuarie 2027.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/angajatii-din-sanatate-cer-majorari-salariale-de-2567012.html</guid>
+        <pubDate>Thu, 29 Oct 2026 03:00:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Armistițiu temporar în Herson, negociat de Melania Trump / Locuitorii se tem de liniștea de care s-au dezobișnuit, dar ies din nou pe străzi</title>
+        <link>https://www.mediafax.ro/externe/armistitiu-temporar-in-herson-negociat-de-melania-trump-locuitorii-se-tem-de-linistea-de-care-s-au-dezobisnuit-dar-ies-din-nou-pe-strazi-23833404</link>
+        <description>Un armistițiu local de șase zile a adus o perioadă rară de liniște în orașul ucrainean Herson, aflat pe malul controlat de Kiev al fluviului Nipru. Pauza în lupte are ca scop livrarea de ajutoare umanitare în orașul Oleshky, ocupat de Rusia, unde alimentele și medicamentele sunt pe terminate.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/armistitiu-temporar-in-herson-negociat-de-melania-trump-locuitorii-se-tem-de-linistea-de-care-s-au-dezobisnuit-dar-ies-din-nou-pe-strazi-23833404</guid>
+        <pubDate>Thu, 29 Oct 2026 02:54:53 +0000</pubDate>
+    </item>
     <item>
         <title>Negocieri tensionate între Ucraina și SUA? „Modelul nostru nu este Belarus, ci Polonia”, i-ar fi replicat Kirilo Budanov lui Steve Witkoff</title>
         <link>https://adevarul.ro/stiri-externe/europa/negocieri-tensionate-intre-ucraina-si-sua-2567246.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/politica/george-simion-anunta-proteste-dupa-prelungirea-2567278.html</guid>
         <pubDate>Wed, 28 Oct 2026 20:19:21 +0000</pubDate>
-    </item>
-    <item>
-        <title>Acțiunile Boeing au scăzut cu aproape 10% după ce compania a ratat țintele de producție</title>
-        <link>https://www.g4media.ro/actiunile-boeing-au-scazut-cu-aproape-10-dupa-ce-compania-a-ratat-tintele-de-productie.html</link>
-        <description>Producătorul american de aeronave Boeing nu va reuși să producă și să livreze în 2026 numărul de avioane promis investitorilor, pe fondul problemelor persistente din fabrici și din lanțul de aprovizionare. Anunțul a provocat o scădere de aproape 10% a acțiunilor companiei. Directorul general al Boeing, Kelly Ortberg, a declarat marți, 27 octombrie, că redresarea…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/actiunile-boeing-au-scazut-cu-aproape-10-dupa-ce-compania-a-ratat-tintele-de-productie.html</guid>
-        <pubDate>Wed, 28 Oct 2026 20:40:09 +0000</pubDate>
-    </item>
-    <item>
-        <title>Protest al transportatorilor turci la granița cu Bulgaria. Avertisment MAE pentru șoferii români</title>
-        <link>https://www.mediafax.ro/social/protest-al-transportatorilor-turci-la-granita-cu-bulgaria-avertisment-mae-pentru-soferii-romani-23833370</link>
-        <description>Ministerul Afacerilor Externe (MAE) avertizează transportatorii de marfă români că un protest spontan al transportatorilor turci îngreunează traficul la două puncte de trecere a frontierei dintre Turcia și Bulgaria. Acțiunea are loc pe o perioadă nedeterminată, iar cozile s-au format pe ambele sensuri de mers.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/protest-al-transportatorilor-turci-la-granita-cu-bulgaria-avertisment-mae-pentru-soferii-romani-23833370</guid>
-        <pubDate>Wed, 28 Oct 2026 20:53:27 +0000</pubDate>
     </item>
 </channel>
 </rss>
