@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 29 Oct 2026 03:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:01:33 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Greșelile pe care le facem zilnic la birou și care ne pot pune sănătatea în pericol, plus reguli de aur pentru un corp puternic – Specialistul Gabriel Gunciu vine azi la „Start Now” pe G4Media</title>
+        <link>https://www.g4media.ro/greselile-pe-care-le-facem-zilnic-la-birou-si-care-ne-pot-pune-sanatatea-in-pericol-plus-reguli-de-aur-pentru-un-corp-puternic-specialistul-gabriel-gunciu-vine-azi-la-start-now.html</link>
+        <description>O accidentare suferită la fotbal i-a schimbat complet viața lui Gabriel Gunciu și i-a deschis drumul către kinetoterapie. A descoperit treptat că poate continua să fie aproape de sport prin intermediul recuperării medicale. Mulți dintre pacienți vor o recuperare rapidă precum în „pastilele” video de pe internet La cabinetul său, Gabriel a văzut multe și…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/greselile-pe-care-le-facem-zilnic-la-birou-si-care-ne-pot-pune-sanatatea-in-pericol-plus-reguli-de-aur-pentru-un-corp-puternic-specialistul-gabriel-gunciu-vine-azi-la-start-now.html</guid>
+        <pubDate>Thu, 29 Oct 2026 04:00:29 +0000</pubDate>
+    </item>
+    <item>
+        <title>Trump susține că l-a salvat pe Netanyahu de la o înfrângere electorală zdrobitoare. Acum vrea să aibă influență asupra deciziilor sale</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/trump-sustine-ca-l-a-salvat-pe-netanyahu-de-la-o-2567239.html</link>
+        <description>De la Gaza la Siria și Liban, Donald Trump își dorește un guvern israelian care să contribuie la îndeplinirea obiectivelor sale regionale, chiar dacă acest lucru presupune marginalizarea unor politicieni precum Itamar Ben-Gvir și Bezalel Smotrich.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/trump-sustine-ca-l-a-salvat-pe-netanyahu-de-la-o-2567239.html</guid>
+        <pubDate>Thu, 29 Oct 2026 03:30:25 +0000</pubDate>
+    </item>
     <item>
         <title>Angajații din sănătate cer majorări salariale de 16% de la 1 ianuarie 2027: „Nu vom accepta amânarea reformei”</title>
         <link>https://adevarul.ro/stiri-interne/evenimente/angajatii-din-sanatate-cer-majorari-salariale-de-2567012.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/horoscop/horoscop-29-octombrie-2026-berbecii-rezolva-o-problema-taurii-sunt-rabdatori-racii-demonstreaza-ca-sunt-priceputi-23833366</guid>
         <pubDate>Wed, 28 Oct 2026 20:50:35 +0000</pubDate>
-    </item>
-    <item>
-        <title>Italienii își pot personaliza plăcuțele de înmatriculare: 600 de euro / Meloni: „O să ne putem lăsa imaginația să zburde” / Vor fi excluse combinațiile jignitoare, ambigue sau înșelătoare</title>
-        <link>https://www.g4media.ro/italienii-isi-pot-personaliza-placutele-de-inmatriculare-600-de-euro-meloni-o-sa-ne-putem-lasa-imaginatia-sa-zburde-vor-fi-excluse-combinatiile-jignitoare-ambigue-sau-inselato.html</link>
-        <description>600 sute de euro pentru a alege literele și cifrele de pe propria plăcuță de înmatriculare. Acesta este prețul stabilit de noul Cod rutier pentru a obține plăcuțe de înmatriculare personalizate, o posibilitate pe care legea o prevăzuse deja, dar care nu s-a concretizat niciodată din cauza lipsei normelor de punere în aplicare, anunță Curierul…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/italienii-isi-pot-personaliza-placutele-de-inmatriculare-600-de-euro-meloni-o-sa-ne-putem-lasa-imaginatia-sa-zburde-vor-fi-excluse-combinatiile-jignitoare-ambigue-sau-inselato.html</guid>
-        <pubDate>Wed, 28 Oct 2026 20:30:44 +0000</pubDate>
-    </item>
-    <item>
-        <title>George Simion anunță proteste după prelungirea arestului preventiv pentru Călin Georgescu: „În următoarele zile noi vom fi în stradă”</title>
-        <link>https://adevarul.ro/politica/george-simion-anunta-proteste-dupa-prelungirea-2567278.html</link>
-        <description>Președintele AUR, George Simion, a anunțat miercuri seară că formațiunea va organiza proteste de stradă după ce Curtea de Apel București a decis prelungirea arestării preventive a lui Călin Georgescu cu încă 30 de zile.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/politica/george-simion-anunta-proteste-dupa-prelungirea-2567278.html</guid>
-        <pubDate>Wed, 28 Oct 2026 20:19:21 +0000</pubDate>
     </item>
 </channel>
 </rss>
