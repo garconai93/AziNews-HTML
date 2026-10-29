@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>De ce cumpărăm biciclete, abonamente și cursuri pe care nu le folosim. Psihologia banilor cheltuiți în zadar</title>
+        <link>https://adevarul.ro/dezvoltare-personala/consiliere/de-ce-cumparam-biciclete-abonamente-si-cursuri-pe-2567185.html</link>
+        <description>O bicicletă pe care se adună praful, un abonament la sală folosit doar de câteva ori, cărți necitite și cursuri începute cu entuziasm, apoi abandonate. Sunt lucruri pentru care plătim convinși că le vom folosi, dar care ajung să ne coste bani fără să ne aducă rezultatele dorite.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/consiliere/de-ce-cumparam-biciclete-abonamente-si-cursuri-pe-2567185.html</guid>
+        <pubDate>Wed, 28 Oct 2026 23:30:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>O eroare de GPS a dus la salvarea a 14 oameni. Un șofer a ajuns din greșeală la o casă în flăcări</title>
+        <link>https://adevarul.ro/stiri-externe/sua/o-eroare-de-gps-a-dus-la-salvarea-a-14-oameni-un-2567199.html</link>
+        <description>Un șofer din statul american Georgia a ajuns întâmplător în fața unei case cuprinse de flăcări, după ce GPS-ul l-a îndrumat pe un traseu pe care nu îl mai folosise niciodată. Bărbatul a intrat în locuință și a ajutat la evacuarea unei familii de 14 persoane.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/o-eroare-de-gps-a-dus-la-salvarea-a-14-oameni-un-2567199.html</guid>
+        <pubDate>Wed, 28 Oct 2026 23:00:26 +0000</pubDate>
+    </item>
     <item>
         <title>Sume uriașe necheltuite la Ministerul Economiei, potrivit lui Daniel Zamfir: execuție bugetară sub 25% la investiții și turism</title>
         <link>https://www.digi24.ro/stiri/actualitate/politica/sume-uriase-necheltuite-la-ministerul-economiei-potrivit-lui-daniel-zamfir-executie-bugetara-sub-25-la-investitii-si-turism-4013215</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/judecatorul-alexandru-ghiciu-propus-de-csm-sef-la-sectia-penala-a-judecatoriei-cornetu-a-fost-admis-in-magistratura-desi-a-picat-testul-psihologic-e-fost-ofiter-sie-si-fratele-vicepresedintei-cur.html</guid>
         <pubDate>Wed, 28 Oct 2026 19:33:34 +0000</pubDate>
-    </item>
-    <item>
-        <title>Procesul cuplului prezidențial francez cu Candace Owens: soții Macron îi pot da în judecată firmele, dar nu pe ea personal</title>
-        <link>https://www.digi24.ro/stiri/externe/sua/procesul-cuplului-prezidential-francez-cu-candace-owens-sotii-macron-ii-pot-da-in-judecata-firmele-dar-nu-pe-ea-personal-4013043</link>
-        <description>Un judecător din statul american Delaware a hotărât marți că președintele francez Emmanuel Macron și soția sa, Brigitte, nu o pot da în judecată personal pe comentatoarea de extremă dreapta Candace Owens pentru calomnie, dar pot continua procesul împotriva companiilor americancei, scrie Politico.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/sua/procesul-cuplului-prezidential-francez-cu-candace-owens-sotii-macron-ii-pot-da-in-judecata-firmele-dar-nu-pe-ea-personal-4013043</guid>
-        <pubDate>Wed, 28 Oct 2026 19:46:53 +0000</pubDate>
-    </item>
-    <item>
-        <title>Grevă națională în Italia pe 30 octombrie / MAE a emis o alertă de călătorie</title>
-        <link>https://www.g4media.ro/greva-nationala-in-italia-pe-30-octombrie-mae-a-emis-o-alerta-de-calatorie.html</link>
-        <description>Ministerul Afacerilor Externe (MAE) îi avertizează pe românii care se află în Italia, tranzitează țara sau intenționează să călătorească acolo că vineri, 30 octombrie, va avea loc o grevă la nivel național, care va afecta transporturile, educația și sănătatea, relatează Mediafax. Potrivit MAE, transportul aerian va fi afectat pe parcursul întregii zile de 30 octombrie,…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/greva-nationala-in-italia-pe-30-octombrie-mae-a-emis-o-alerta-de-calatorie.html</guid>
-        <pubDate>Wed, 28 Oct 2026 19:23:59 +0000</pubDate>
     </item>
 </channel>
 </rss>
