@@ -5,8 +5,32 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 30 Oct 2026 01:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 02:01:19 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Kim Jong-un își vinde propriul popor online către companii rusești pentru a finanța ambițiile nucleare ale Coreei de Nord</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/kim-jong-un-isi-vinde-propriul-popor-online-catre-2567542.html</link>
+        <description>Coreea de Nord ar folosi o rețea de intermediari pentru a trimite muncitori în Rusia, unde aceștia ar fi supuși muncii forțate, iar o mare parte din veniturile obținute ar ajunge la regimul de la Phenian.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/kim-jong-un-isi-vinde-propriul-popor-online-catre-2567542.html</guid>
+        <pubDate>Fri, 30 Oct 2026 01:30:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Alertă pe piața crypto: Binance investighează un posibil atac / Peste 5,8 miliarde de dolari ar fi fost furate</title>
+        <link>https://www.mediafax.ro/externe/alerta-pe-piata-crypto-binance-investigheaza-un-posibil-atac-peste-58-miliarde-de-dolari-ar-fi-fost-furate-23834210</link>
+        <description>Una dintre cele mai mari platforme crypto din lume a suspendat temporar depunerile și retragerile, în urma unui posibil atac informatic. Binance promite că va acoperi eventualele pierderi, în timp ce Bitcoin a scăzut cu 3,5%.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/alerta-pe-piata-crypto-binance-investigheaza-un-posibil-atac-peste-58-miliarde-de-dolari-ar-fi-fost-furate-23834210</guid>
+        <pubDate>Fri, 30 Oct 2026 01:19:24 +0000</pubDate>
+    </item>
+    <item>
+        <title>Atacuri rusești asupra Ucrainei: un mort la Kiev și 350.000 de oameni fără electricitate în regiunea Dnipro</title>
+        <link>https://www.mediafax.ro/externe/atacuri-rusesti-asupra-ucrainei-un-mort-la-kiev-si-350-000-de-oameni-fara-electricitate-in-regiunea-dnipro-23834212</link>
+        <description>Atacurile rusești lansate în noaptea de 29 octombrie asupra Ucrainei au ucis o persoană la Kiev și au lăsat până la 350.000 de locuitori din zona orașului Dnipro fără energie electrică.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/atacuri-rusesti-asupra-ucrainei-un-mort-la-kiev-si-350-000-de-oameni-fara-electricitate-in-regiunea-dnipro-23834212</guid>
+        <pubDate>Fri, 30 Oct 2026 01:53:34 +0000</pubDate>
+    </item>
     <item>
         <title>Alphabet pierde 500 de miliarde de dolari din valoarea de piață într-o singură zi / Cea mai mare scădere din istoria companiei</title>
         <link>https://www.mediafax.ro/externe/alphabet-pierde-500-de-miliarde-de-dolari-din-valoarea-de-piata-intr-o-singura-zi-cea-mai-mare-scadere-din-istoria-companiei-23834208</link>
@@ -462,30 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/noul-centru-de-diagnostic-tratament-si-cercetare-a-tuberculozei-de-la-institutul-marius-nasta-inaugurat-in-sectorul-4-o-investitie-de-120-de-milioane-de-euro-st6f2qg</guid>
         <pubDate>Thu, 29 Oct 2026 20:06:55 +0000</pubDate>
-    </item>
-    <item>
-        <title>Trump şi consilierii săi l-ar fi ajutat pe Flavio Bolsonaro să fugă în SUA</title>
-        <link>https://www.g4media.ro/trump-si-consilierii-sai-l-ar-fi-ajutat-pe-flavio-bolsonaro-sa-fuga-in-sua.html</link>
-        <description>Preşedintele american Donald Trump şi consilierii săi l-au ajutat pe senatorul de extremă dreapta brazilian Flavio Bolsonaro să fugă în Statele Unite şi este de aşteptat ca acesta să fie sprijinit pentru a obţine rezidenţă permanentă, conform unui articol publicat joi de The New York Times (NYT), relatează Agerpres citând EFE. NYT, citând surse guvernamentale…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/trump-si-consilierii-sai-l-ar-fi-ajutat-pe-flavio-bolsonaro-sa-fuga-in-sua.html</guid>
-        <pubDate>Thu, 29 Oct 2026 20:47:48 +0000</pubDate>
-    </item>
-    <item>
-        <title>Misiune de salvare contra cronometru în zona Colții Pietrei, din masivul Mehedinți: Două persoane au părăsit traseul turistic și se află într-o zonă greu accesibilă</title>
-        <link>https://www.g4media.ro/misiune-de-salvare-contra-cronometru-in-zona-coltii-pietrei-din-masivul-mehedinti-doua-persoane-au-parasit-traseul-turistic-si-se-afla-intr-o-zona-greu-accesibila.html</link>
-        <description>Salvamontiștii din cadrul Serviciului Public Județean Salvamont Gorj, aflat în coordonarea Consiliului Județean Gorj, desfășoară în aceste momente o misiune de salvare contra cronometru în zona Colții Pietrei, din masivul Mehedinți, pentru recuperarea a două persoane surprinse de lăsarea întunericului după ce au părăsit traseul turistic și au ajuns într-o zonă dificilă, din care nu…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/misiune-de-salvare-contra-cronometru-in-zona-coltii-pietrei-din-masivul-mehedinti-doua-persoane-au-parasit-traseul-turistic-si-se-afla-intr-o-zona-greu-accesibila.html</guid>
-        <pubDate>Thu, 29 Oct 2026 20:25:18 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sir Patrick Stewart a murit. Legendarul actor din „Star Trek” și „X-Men” avea 86 de ani</title>
-        <link>https://www.libertatea.ro/entertainment/sir-patrick-stewart-a-murit-legendarul-actor-din-star-trek-si-x-men-avea-86-de-ani-yj1mxd5</link>
-        <description>Lumea cinematografiei și a teatrului mondial este în doliu. Sir Patrick Stewart, titanul scenei britanice și starul incontestabil al francizelor „Star Trek” și „X-Men”, a murit la vârsta de 86 de ani în locuința sa din Los Angeles.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/entertainment/sir-patrick-stewart-a-murit-legendarul-actor-din-star-trek-si-x-men-avea-86-de-ani-yj1mxd5</guid>
-        <pubDate>Thu, 29 Oct 2026 20:18:29 +0000</pubDate>
     </item>
 </channel>
 </rss>
