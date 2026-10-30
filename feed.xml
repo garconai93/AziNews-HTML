@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 30 Oct 2026 03:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Hipertensiunea arterială pulmonară, o boală rară și severă. Accesul la tratament rămâne o provocare pentru pacienții din România</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/hipertensiunea-arteriala-pulmonara-o-boala-rara-2567557.html</link>
+        <description>Hipertensiunea arterială pulmonară (HTAP) este o boală rară, gravă și progresivă, care afectează vasele de sânge din plămâni și pune presiune suplimentară asupra inimii. Pentru persoanele diagnosticate, activități obișnuite, precum mersul pe jos sau urcatul scărilor, pot deveni tot mai dificile.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/hipertensiunea-arteriala-pulmonara-o-boala-rara-2567557.html</guid>
+        <pubDate>Fri, 30 Oct 2026 03:30:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Programul Tomata a crescut suprafețele cultivate, dar nu a rezolvat problema pieței pentru legumicultori</title>
+        <link>https://adevarul.ro/stiri-locale/slatina/programul-tomata-a-crescut-suprafetele-cultivate-2566718.html</link>
+        <description>Sunt nouă ani de când fermierii care și-au construit solarii și produc tomate - iar în ultimii ani și alte legume - sunt și recompensați cu un sprijin de la stat. Suprafețele cu solarii s-au extins, întrebarea „Unde ne vindem roșiile?” a rămas.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/slatina/programul-tomata-a-crescut-suprafetele-cultivate-2566718.html</guid>
+        <pubDate>Fri, 30 Oct 2026 03:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Alegeri Israel, rezultate complete: Coaliția condusă de prim ministrul Benjamin Netanyahu 53 de mandate din 120, opoziția sionistă 48, partidele arabe 19 (cu care dețin balanța puterii)</title>
         <link>https://www.g4media.ro/alegeri-israel-rezultate-complete-coalitia-condusa-de-prim-ministrul-benjamin-netanyahu-53-de-mandate-din-120-opozitia-sionista-48-partidele-arabe-19-cu-care-detin-balanta-puterii.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/sport/cine-transmite-marele-premiu-de-formula-1-din-mexic-2026-la-tv-la-ce-ora-incep-cursa-si-calificarile-j6yc0x3</guid>
         <pubDate>Thu, 29 Oct 2026 18:00:03 +0000</pubDate>
-    </item>
-    <item>
-        <title>Cum l-a ajutat Trump pe Flavio Bolsonaro să fugă din Brazilia după înfrângerea în alegeri. Dezvăluirile unor oficiali americani (NYT)</title>
-        <link>https://www.digi24.ro/stiri/externe/cum-l-a-ajutat-trump-pe-flavio-bolsonaro-sa-fuga-din-brazilia-dupa-infrangerea-in-alegeri-dezvaluirile-unor-oficiali-americani-nyt-4014571</link>
-        <description>Președintele american Donald Trump și membri ai administrației sale l-au ajutat pe Flavio Bolsonaro să ajungă în Statele Unite, după ce acesta a pierdut alegerile prezidențiale din Brazilia și i s-a cerut să își predea pașapoartele în cadrul unei anchete penale, relatează The New York Times, citând oficiali americani. Fiul fostului președinte Jair Bolsonaro a intrat în SUA cu un avion privat pus la dispoziție prin intermediul unui oficial de la Casa Albă și a primit, la ordinul lui Trump, un…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/cum-l-a-ajutat-trump-pe-flavio-bolsonaro-sa-fuga-din-brazilia-dupa-infrangerea-in-alegeri-dezvaluirile-unor-oficiali-americani-nyt-4014571</guid>
-        <pubDate>Thu, 29 Oct 2026 20:52:47 +0000</pubDate>
-    </item>
-    <item>
-        <title>O companie aeriană low-cost a scos peste 100 de scaune dintr-un Boeing 737 și l-a transformat într-o aeronavă de lux, dedicată doar clasei business: „Se simte premium”</title>
-        <link>https://www.libertatea.ro/lifestyle/jet2-avion-business-class-boeing-737-locuri-lux-8r1xmp2</link>
-        <description>Compania aeriană britanică low-cost Jet2 face un pas neașteptat către segmentul călătoriilor exclusiviste prin divizia sa de chartere, lansând un avion Boeing 737-800NG configurat integral cu locuri la clasa Business, relatează Euronews.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/jet2-avion-business-class-boeing-737-locuri-lux-8r1xmp2</guid>
-        <pubDate>Thu, 29 Oct 2026 18:21:53 +0000</pubDate>
     </item>
 </channel>
 </rss>
