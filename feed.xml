@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:01:18 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Raport despre persecuția creștinilor în Africa: Torturați, înfometați, obligați să se convertească la Islam / Terorismul jihadist se extinde masiv</title>
+        <link>https://www.mediafax.ro/externe/raport-despre-persecutia-crestinilor-in-africa-torturati-infometati-obligati-sa-se-converteasca-la-islam-terorismul-jihadist-se-extinde-masiv-23835015</link>
+        <description>Grupările teroriste afiliate Statului Islamic și rețelelor Al-Qaeda își extind influența în regiunea Sahelului și în Africa Subsahariană, unde comunitățile creștine sunt tot mai des victime ale atacurilor, răpirilor și crimelor.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/raport-despre-persecutia-crestinilor-in-africa-torturati-infometati-obligati-sa-se-converteasca-la-islam-terorismul-jihadist-se-extinde-masiv-23835015</guid>
+        <pubDate>Sat, 31 Oct 2026 00:40:00 +0000</pubDate>
+    </item>
     <item>
         <title>Plante, arbori și arbuști care pot redesena harta profitului. „Fiecare dintre speciile noastre este un model de afacere”</title>
         <link>https://adevarul.ro/stiri-locale/craiova/plante-arbori-si-arbusti-care-pot-redesena-harta-2566180.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/daniel-david-explica-taierile-de-la-educatie-nu-2567860.html</guid>
         <pubDate>Fri, 30 Oct 2026 19:55:27 +0000</pubDate>
-    </item>
-    <item>
-        <title>Canada vrea să devină primul „membru asociat” al UE până în iunie 2027. Germania se opune inițiativei</title>
-        <link>https://www.mediafax.ro/externe/canada-vrea-sa-devina-primul-membru-asociat-al-ue-pana-in-iunie-2027-germania-se-opune-initiativei-23834940</link>
-        <description>Premierul canadian Mark Carney vrea ca țara sa să devină primul „membru asociat” al Uniunii Europene până în iunie 2027, dar propunerea întâmpină opoziția Germaniei.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/canada-vrea-sa-devina-primul-membru-asociat-al-ue-pana-in-iunie-2027-germania-se-opune-initiativei-23834940</guid>
-        <pubDate>Fri, 30 Oct 2026 19:02:25 +0000</pubDate>
     </item>
 </channel>
 </rss>
