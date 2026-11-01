@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 01 Nov 2026 01:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:01:21 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Timpii de așteptare pentru analize, CT sau RMN, de la câteva zile la câteva luni. „Unii renunță, alții plătesc sau se duc în Urgențe”</title>
+        <link>https://adevarul.ro/stiri-interne/societate/timpii-de-asteptare-pentru-analize-ct-sau-rmn-de-2567865.html</link>
+        <description>Cu două proiecte pe masa decidenților, pacienții care au nevoie de investigații paraclinice sunt în continuare nevoiți să aștepte de la câteva zile la câteva luni atunci când încearcă să facă o programare. „Nu sunt fonduri” rămâne răspunsul pe care sistemul de sănătate îl oferă deja mulți ani.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/timpii-de-asteptare-pentru-analize-ct-sau-rmn-de-2567865.html</guid>
+        <pubDate>Sun, 01 Nov 2026 01:12:25 +0000</pubDate>
+    </item>
     <item>
         <title>Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni</title>
         <link>https://adevarul.ro/stiri-interne/societate/zatul-de-cafea-ar-putea-face-betonul-cu-30percent-mai-2566655.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/protestatarii-au-aruncat-cu-pietre-de-pavaj-si-cocktailuri-molotov-in-fortele-de-ordine-desfasurate-in-fata-ministerului-educatiei-din-capitala-albaniei-manifestantii-cer-demisia-premierului.html</guid>
         <pubDate>Sat, 31 Oct 2026 17:56:54 +0000</pubDate>
-    </item>
-    <item>
-        <title>Premieră medicală. O tehnică de „rescriere” a ADN-ului direct în corpul uman a fost testată cu succes pe o pacientă cu o boală rară</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/descoperiri/premiera-medicala-o-tehnica-de-rescriere-a-adn-ului-direct-in-corpul-uman-a-fost-testata-cu-succes-pe-o-pacienta-cu-o-boala-rara-4015079</link>
-        <description>O tehnică de editare genetică a fost utilizată pentru prima dată pentru a modifica ADN-ul direct în interiorul corpului uman, relatează The Independent.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/descoperiri/premiera-medicala-o-tehnica-de-rescriere-a-adn-ului-direct-in-corpul-uman-a-fost-testata-cu-succes-pe-o-pacienta-cu-o-boala-rara-4015079</guid>
-        <pubDate>Sat, 31 Oct 2026 17:54:27 +0000</pubDate>
     </item>
 </channel>
 </rss>
