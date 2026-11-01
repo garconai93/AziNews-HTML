@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:59:44 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Zațul de cafea ar putea face betonul cu 30% mai rezistent. Inovația testată de cercetătorii australieni</title>
+        <link>https://adevarul.ro/stiri-interne/societate/zatul-de-cafea-ar-putea-face-betonul-cu-30percent-mai-2566655.html</link>
+        <description>Zațul de cafea, care ajunge de cele mai multe ori la groapa de gunoi, ar putea deveni un material util în construcții.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/zatul-de-cafea-ar-putea-face-betonul-cu-30percent-mai-2566655.html</guid>
+        <pubDate>Sun, 01 Nov 2026 00:23:25 +0000</pubDate>
+    </item>
     <item>
         <title>Haos și pe străzile Germaniei. Magazine jefuite, cocktailuri Molotov și confruntări cu poliția. Revolta tinerilor se extinde în Europa</title>
         <link>https://www.mediafax.ro/externe/haos-si-pe-strazile-germaniei-magazine-jefuite-cocktailuri-molotov-si-confruntari-cu-politia-revolta-tinerilor-se-extinde-in-europa-23835269</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/descoperiri/premiera-medicala-o-tehnica-de-rescriere-a-adn-ului-direct-in-corpul-uman-a-fost-testata-cu-succes-pe-o-pacienta-cu-o-boala-rara-4015079</guid>
         <pubDate>Sat, 31 Oct 2026 17:54:27 +0000</pubDate>
-    </item>
-    <item>
-        <title>Prima reacție a noului ministru al Apărării după ce două drone au pătruns neautorizat în spațiul aerian al României</title>
-        <link>https://www.digi24.ro/stiri/actualitate/prima-reactie-a-noului-ministru-al-apararii-dupa-ce-doua-drone-au-patruns-neautorizat-in-spatiul-aerian-al-romaniei-4016655</link>
-        <description>Ministrul Apărării Naţionale, Radu Oprea, a transmis, sâmbătă seară, după pătrunderea neautorizată a două drone în spaţiul aerian naţional, că acţiunile de monitorizare şi intervenţie sunt în desfăşurare, prioritare fiind protejarea populaţiei şi a spaţiului aerian naţional.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/prima-reactie-a-noului-ministru-al-apararii-dupa-ce-doua-drone-au-patruns-neautorizat-in-spatiul-aerian-al-romaniei-4016655</guid>
-        <pubDate>Sat, 31 Oct 2026 17:32:08 +0000</pubDate>
     </item>
 </channel>
 </rss>
