@@ -5,8 +5,48 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:54:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:01:16 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Iranul ar putea redeschide strâmtoarea Ormuz în două zile dacă SUA îi acceptă cererile</title>
+        <link>https://www.g4media.ro/iranul-ar-putea-redeschide-stramtoarea-ormuz-in-doua-zile-daca-sua-ii-accepta-cererile.html</link>
+        <description>Iranul este pregătit să redeschidă strâmtoarea Ormuz în două zile, în loc de planul inițial de șapte zile, dacă Washingtonul acceptă condițiile sale, a declarat luni purtătorul de cuvânt al Ministerului său de Externe, scrie Mediafax. „Posibilitatea implementării acestui plan în două zile este un semn suplimentar al bunei-credințe a Iranului”, a declarat Esmail Baghai,…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/iranul-ar-putea-redeschide-stramtoarea-ormuz-in-doua-zile-daca-sua-ii-accepta-cererile.html</guid>
+        <pubDate>Mon, 02 Nov 2026 09:59:58 +0000</pubDate>
+    </item>
+    <item>
+        <title>„Nu cerem doar ajutor”. Zelenski îi propune lui Trump o alternativă pentru ca Ucraina să nu mai lovească rafinăriile rusești</title>
+        <link>https://www.mediafax.ro/externe/nu-cerem-doar-ajutor-zelenski-ii-propune-lui-trump-o-alternativa-pentru-ca-ucraina-sa-nu-mai-loveasca-rafinariile-rusesti-23835695</link>
+        <description>Președintele ucrainean Volodimir Zelenski a afirmat duminică, într-un interviu pentru Fox News, că Ucraina va înceta atacurile asupra rafinăriilor rusești, însă doar cu o condiție.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/nu-cerem-doar-ajutor-zelenski-ii-propune-lui-trump-o-alternativa-pentru-ca-ucraina-sa-nu-mai-loveasca-rafinariile-rusesti-23835695</guid>
+        <pubDate>Mon, 02 Nov 2026 09:57:53 +0000</pubDate>
+    </item>
+    <item>
+        <title>Alertă de spionaj în Germania: parlamentari și miniștri, avertizați de Apple că telefoanele lor ar fi putut fi compromise</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/alerta-de-spionaj-in-germania-parlamentari-si-ministri-avertizati-de-apple-ca-telefoanele-lor-ar-fi-putut-fi-compromise-4017939</link>
+        <description>Mai mulți parlamentari și membri ai Guvernului Germaniei au primit avertizări din partea Apple că telefoanele lor ar fi putut fi vizate de atacuri cu programe de spionaj. Autoritățile germane le-au recomandat să considere dispozitivele potențial compromise, deși nu se știe dacă atacurile au avut succes. Deocamdată, numărul persoanelor vizate și identitatea celor aflați în spatele atacurilor rămân necunoscute, relatează Euronews.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/alerta-de-spionaj-in-germania-parlamentari-si-ministri-avertizati-de-apple-ca-telefoanele-lor-ar-fi-putut-fi-compromise-4017939</guid>
+        <pubDate>Mon, 02 Nov 2026 09:58:23 +0000</pubDate>
+    </item>
+    <item>
+        <title>Indienii cer demisia șefului comisiei electorale. Mii de susținători ai opoziției au ieșit în stradă</title>
+        <link>https://www.mediafax.ro/externe/indienii-cer-demisia-sefului-comisiei-electorale-mii-de-sustinatori-ai-opozitiei-au-iesit-in-strada-23835680</link>
+        <description>Mii de protestatari, susținători ai opoziției, au ieșit în stradă în Delhi, pentru a cere demisia șefului Comisiei Electorale. Cetățenii din India cred că ultima revizuire a listelor electorale ar favoriza partidul naționalist-hindus.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/indienii-cer-demisia-sefului-comisiei-electorale-mii-de-sustinatori-ai-opozitiei-au-iesit-in-strada-23835680</guid>
+        <pubDate>Mon, 02 Nov 2026 09:53:11 +0000</pubDate>
+    </item>
+    <item>
+        <title>AI-ul este, deocamdată, doar un multiplicator. Dar ce anume multiplicăm?</title>
+        <link>https://adevarul.ro/blogurile-adevarul/ai-ul-este-deocamdata-doar-un-multiplicator-dar-2568256.html</link>
+        <description>Inteligența artificială ne permite să transformăm ideile în realitate mai repede ca oricând. Dar viteza nu garantează și calitatea. AI-ul este, deocamdată, un multiplicator al creativității, competenței și viziunii umane, dar și al superficialității.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/blogurile-adevarul/ai-ul-este-deocamdata-doar-un-multiplicator-dar-2568256.html</guid>
+        <pubDate>Mon, 02 Nov 2026 09:56:40 +0000</pubDate>
+    </item>
     <item>
         <title>Câți bani administrează fondurile de pensii din Pilonul II și unde sunt investiți</title>
         <link>https://www.digi24.ro/stiri/economie/cati-bani-administreaza-fondurile-de-pensii-din-pilonul-ii-si-unde-sunt-investiti-4017931</link>
@@ -446,46 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/adevarul-juridic/universitatea-din-romania-care-le-pune-studentilor-2568229.html</guid>
         <pubDate>Mon, 02 Nov 2026 08:22:39 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sângele în scaun și cum este identificată sursa sângerării</title>
-        <link>https://www.digi24.ro/sanatate-digimatinal/sangele-in-scaun-si-cum-este-identificata-sursa-sangerarii-4017817</link>
-        <description>Prezența sângelui roșu în scaun sau eliminarea acestuia prin anus poate avea cauze variate, de la afecțiuni benigne până la boli digestive importante. Chiar dacă episodul este redus sau se oprește spontan, identificarea sursei este necesară pentru stabilirea tratamentului potrivit. Aflăm mai mult despre rectoragie de la Dr. Vlad Simion, medic specialist gastroenterologie.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/sanatate-digimatinal/sangele-in-scaun-si-cum-este-identificata-sursa-sangerarii-4017817</guid>
-        <pubDate>Mon, 02 Nov 2026 08:27:10 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ionuț Moșteanu (USR) face aluzie la invitații PSD de la botezul din weekend din cauza cărora ar fi întârziat un avion pe ruta Timișoara-București</title>
-        <link>https://www.g4media.ro/ionut-mosteanu-usr-face-aluzie-la-invitatii-psd-de-la-botezul-din-weekend-din-cauza-carora-ar-fi-intarziat-un-avion-pe-ruta-timisoara-bucuresti.html</link>
-        <description>Ionuț Moșteanu (USR) spune că un avion Timișoara – București a întârziat o oră din cauza unor pasageri care nu s-au mai îmbarcat. Fostul ministru USR al Apărării face aluzie la invitații PSD de la botezul copilului lui Alfred Simonis: ”Credeți că erau niște ciocoi pesediști care se cred mai presus de reguli și de…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/ionut-mosteanu-usr-face-aluzie-la-invitatii-psd-de-la-botezul-din-weekend-din-cauza-carora-ar-fi-intarziat-un-avion-pe-ruta-timisoara-bucuresti.html</guid>
-        <pubDate>Mon, 02 Nov 2026 08:16:16 +0000</pubDate>
-    </item>
-    <item>
-        <title>Incident la centrala termică a unei școli din Prahova. O conductă fisurată a provocat o degajare masivă de abur / 43 de elevi și șase profesori au ieșit din clădire</title>
-        <link>https://www.mediafax.ro/social/explozie-in-camera-centralei-termice-a-unei-scoli-din-prahova-43-de-elevi-si-sase-profesori-au-parasit-cladirea-23835625</link>
-        <description>O degajare masivă de abur s-a produs luni dimineață în camera centralei termice a Școlii Gimnaziale „Alexandru Popescu” din Telega Vale, județul Prahova, după ce o conductă de apă s-a fisurat. Deși inițial a fost semnalată o explozie, pompierii au stabilit, în urma verificărilor, că nu a avut loc o explozie propriu-zisă. Nu au fost înregistrate victime, iar centrala termică nu a fost afectată.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/explozie-in-camera-centralei-termice-a-unei-scoli-din-prahova-43-de-elevi-si-sase-profesori-au-parasit-cladirea-23835625</guid>
-        <pubDate>Mon, 02 Nov 2026 07:44:24 +0000</pubDate>
-    </item>
-    <item>
-        <title>Alegeri de la jumătatea mandatului în SUA: ce miză au Trump, republicanii și democrații?</title>
-        <link>https://adevarul.ro/stiri-externe/sua/alegeri-de-la-jumatatea-mandatului-in-sua-ce-miza-2568020.html</link>
-        <description>Americanii votează pe 3 noiembrie pentru a decide cine controlează Congresul. Rezultatul ar putea schimba capacitatea lui Trump de a adopta legi, de a obține confirmarea numirilor și de a face față anchetelor.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/alegeri-de-la-jumatatea-mandatului-in-sua-ce-miza-2568020.html</guid>
-        <pubDate>Mon, 02 Nov 2026 08:41:39 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ministrul Dezvoltării, prezent la Gala MEDIAFAX 35. Alexandru Stoica: Contez pe sprijinul MEDIAFAX în continuare, pentru știrile corecte</title>
-        <link>https://www.mediafax.ro/mediafax-35/ministrul-dezvoltarii-prezent-la-gala-mediafax-35-alexandru-stoica-contez-pe-sprijinul-mediafax-in-continuare-pentru-stirile-corecte-23835581</link>
-        <description>La Gala MEDIAFAX 35 a fost prezent și ministrul Dezvoltării, Lucrărilor Publice și Administrației, Alexandru Stoica. El a vorbit despre importanța presei libere într-o Românie tot mai fragmentată, dar și despre care este una dintre principalele surse de informare ale primarilor din țară.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/mediafax-35/ministrul-dezvoltarii-prezent-la-gala-mediafax-35-alexandru-stoica-contez-pe-sprijinul-mediafax-in-continuare-pentru-stirile-corecte-23835581</guid>
-        <pubDate>Mon, 02 Nov 2026 08:29:41 +0000</pubDate>
     </item>
 </channel>
 </rss>
