@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>De la războiul cu Iranul la inteligența artificială: cele șase teme care ar putea decide alegerile de la jumătatea mandatului în SUA</title>
+        <link>https://adevarul.ro/stiri-externe/sua/de-la-razboiul-cu-iranul-la-inteligenta-2567885.html</link>
+        <description>Alegerile de la jumătatea mandatului, programate pe 3 noiembrie în Statele Unite, vor reprezenta un test important pentru cel de-al doilea mandat al lui Donald Trump. Rezultatul scrutinului va arăta dacă democrații reușesc să recâștige o parte din puterea politică de la Washington.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/de-la-razboiul-cu-iranul-la-inteligenta-2567885.html</guid>
+        <pubDate>Mon, 02 Nov 2026 02:05:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Alegeri parțiale în SUA. Care sunt cursele electorale de urmărit și de ce sunt importante?</title>
+        <link>https://adevarul.ro/stiri-externe/sua/alegeri-partiale-in-sua-care-sunt-cursele-2567891.html</link>
+        <description>Alegerile parțiale din SUA, de pe 3 noiembrie, pot schimba echilibrul puterii la Washington pentru restul mandatului lui Donald Trump, iar cursele pentru Senat din Michigan, Georgia, Maine, Ohio și Texas ar putea face diferența.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/alegeri-partiale-in-sua-care-sunt-cursele-2567891.html</guid>
+        <pubDate>Mon, 02 Nov 2026 02:35:25 +0000</pubDate>
+    </item>
     <item>
         <title>Apărarea spațială a Pământului, considerată de nepătruns, a suferit o breșă. Se va repeta acest lucru în viitor?</title>
         <link>https://adevarul.ro/stiri-externe/in-lume/apararea-spatiala-a-pamantului-considerata-de-2568151.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/sport/dinamo-uta-arad-2-0-cainii-isi-recapata-2568164.html</guid>
         <pubDate>Sun, 01 Nov 2026 20:44:33 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ilie Bolojan: Nu se pune problema schimbării mele de la conducerea PNL</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-nu-se-pune-problema-schimbarii-mele-de-la-conducerea-pnl-4017569</link>
-        <description>Preşedintele PNL, Ilie Bolojan, a spus duminică seara, la Timişoara, că nu se pune problema schimbării sale de la conducerea partidului, întrucât deciziile luate de liberali, inclusiv intrarea în opoziţie şi încetarea colaborării cu PSD, au fost adoptate cu o majoritate consistentă. Bolojan a subliniat că PNL nu va mai avea o colaborare instituţională cu social-democraţii în perioada următoare.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-nu-se-pune-problema-schimbarii-mele-de-la-conducerea-pnl-4017569</guid>
-        <pubDate>Sun, 01 Nov 2026 20:47:26 +0000</pubDate>
-    </item>
-    <item>
-        <title>Sute de mii de ucraineni în beznă după atacurile Rusiei asupra infrastructurii energetice</title>
-        <link>https://adevarul.ro/stiri-externe/europa/sute-de-mii-de-ucraineni-in-bezna-dupa-atacurile-2568153.html</link>
-        <description>Atacurile rusești asupra infrastructurii energetice a Ucrainei au lăsat mii de gospodării fără electricitate, a declarat duminică președintele ucrainean Volodimir Zelenski.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/sute-de-mii-de-ucraineni-in-bezna-dupa-atacurile-2568153.html</guid>
-        <pubDate>Sun, 01 Nov 2026 20:03:29 +0000</pubDate>
     </item>
 </channel>
 </rss>
