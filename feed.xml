@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 02:01:18 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Donald Trump spune că un acord pentru încheierea războiului din Ucraina este aproape, după o întâlnire cu emisarul lui Putin</title>
+        <link>https://www.mediafax.ro/externe/donald-trump-spune-ca-un-acord-pentru-incheierea-razboiului-din-ucraina-este-aproape-dupa-o-intalnire-cu-emisarul-lui-putin-23838467</link>
+        <description>Președintele american Donald Trump a declarat vineri că a avut o întâlnire privată cu Kirill Dmitriev, emisarul special al președintelui rus Vladimir Putin, și că un acord pentru încheierea războiului din Ucraina ar putea fi încheiat în curând.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/donald-trump-spune-ca-un-acord-pentru-incheierea-razboiului-din-ucraina-este-aproape-dupa-o-intalnire-cu-emisarul-lui-putin-23838467</guid>
+        <pubDate>Fri, 06 Nov 2026 01:18:36 +0000</pubDate>
+    </item>
+    <item>
+        <title>Cum să-ți menții creierul tânăr. Ce legătură au orele la care mănânci cu sănătatea</title>
+        <link>https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/cum-sa-ti-mentii-creierul-tanar-ce-legatura-au-2569257.html</link>
+        <description>Orele la care mâncăm ar putea avea un efect neașteptat asupra creierului. Un studiu recent a arătat că, după o lună în care au mâncat doar opt ore pe zi, participanții au slăbit, au avut rezultate mai bune la unele teste de memorie, iar creierul lor părea cu aproximativ nouă luni mai tânăr</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/sport-si-nutritie/cum-sa-ti-mentii-creierul-tanar-ce-legatura-au-2569257.html</guid>
+        <pubDate>Fri, 06 Nov 2026 01:04:25 +0000</pubDate>
+    </item>
     <item>
         <title>Donald Trump dă vina pe democrați pentru prăbușirea burselor americane după alegerile intermediare</title>
         <link>https://www.mediafax.ro/externe/donald-trump-da-vina-pe-democrati-pentru-prabusirea-burselor-americane-dupa-alegerile-intermediare-23838459</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/cine-se-afla-in-spatele-valului-de-amenintari-cu-bomba-care-a-afectat-20-de-zboruri-cerul-vostru-va-deveni-rosu-3mdfbtb</guid>
         <pubDate>Thu, 05 Nov 2026 17:48:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Luca Niculescu, despre controlul privind SAFE. „Nu trebuie să creadă cineva că noi punem sub semnul îndoielii acest program”</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/luca-niculescu-despre-controlul-privind-safe-nu-2569344.html</link>
-        <description>Premierul Luca Niculescu a subliniat, joi, că SAFE este un program de care România are mare nevoie, dar şi faptul că transparenţa modului în care sunt cheltuiţi banii publici reprezintă o obligaţie.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/luca-niculescu-despre-controlul-privind-safe-nu-2569344.html</guid>
-        <pubDate>Thu, 05 Nov 2026 21:28:40 +0000</pubDate>
-    </item>
-    <item>
-        <title>„A venit ca un trăsnet pe cerul senin”. Președintele Israelului, surprins de decizia lui Trump privind ajutorul militar</title>
-        <link>https://www.mediafax.ro/externe/a-venit-ca-un-trasnet-pe-cerul-senin-presedintele-israelului-surprins-de-decizia-lui-trump-privind-ajutorul-militar-23838396</link>
-        <description>Președintele israelian Isaac Herzog a descris anunțul lui Donald Trump privind oprirea ajutorului militar american pentru Israel drept „un trăsnet pe cer senin”, decizia luându-l prin surprindere, în condițiile în care acordul dintre cele două țări era valabil până în 2028.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/a-venit-ca-un-trasnet-pe-cerul-senin-presedintele-israelului-surprins-de-decizia-lui-trump-privind-ajutorul-militar-23838396</guid>
-        <pubDate>Thu, 05 Nov 2026 20:36:28 +0000</pubDate>
     </item>
 </channel>
 </rss>
