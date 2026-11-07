@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:01:25 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Liderii lumii se reunesc în Turcia. Reducerea consumului de combustibili fosili, pe agenda discuțiilor</title>
+        <link>https://www.mediafax.ro/externe/liderii-lumii-se-reunesc-in-turcia-reducerea-consumului-de-combustibili-fosili-pe-agenda-discutiilor-23839091</link>
+        <description>Reducerea utilizării combustibililor fosili și finanțarea măsurilor de adaptare la schimbările climatice sunt principalele teme ale conferinței ONU COP31, care începe luni, 9 noiembrie, la Antalya, în Turcia.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/liderii-lumii-se-reunesc-in-turcia-reducerea-consumului-de-combustibili-fosili-pe-agenda-discutiilor-23839091</guid>
+        <pubDate>Sat, 07 Nov 2026 01:50:57 +0000</pubDate>
+    </item>
+    <item>
+        <title>Românul care l-a consiliat pe Trump dezvăluie ce sfaturi i-ar da acum: „Să nu uităm că pe vremuri a fost democrat”</title>
+        <link>https://adevarul.ro/securitate-si-aparare/romanul-care-l-a-consiliat-pe-trump-dezvaluie-ce-2569320.html</link>
+        <description>Într-o analiză exclusivă, românul Greg Scărlătoiu, fost consilier al liderului de la Casa Albă, dezvăluie culisele adevăratelor cauze ale eșecului republican de la jumătatea mandatului și explică ce mutări strategice mai pot salva moștenirea politică a președintelui.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/romanul-care-l-a-consiliat-pe-trump-dezvaluie-ce-2569320.html</guid>
+        <pubDate>Sat, 07 Nov 2026 01:39:25 +0000</pubDate>
+    </item>
     <item>
         <title>Un străin mutat în Cluj-Napoca a ajuns într-un „război” culinar cu o bunicuță, vecina sa</title>
         <link>https://adevarul.ro/stiri-interne/societate/un-strain-mutat-in-cluj-napoca-a-ajuns-intr-un-2569462.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/creditorii-au-aprobat-planul-de-restructurare-pentru-liberty-galati-si-sectia-tubular-care-este-pretul-de-pornire-al-vanzarii-4025703</guid>
         <pubDate>Fri, 06 Nov 2026 20:14:33 +0000</pubDate>
-    </item>
-    <item>
-        <title>Un stil mai informal. Papa Leon vrea o schimbare în comunicarea Vaticanului</title>
-        <link>https://www.mediafax.ro/externe/un-stil-mai-informal-papa-leon-vrea-o-schimbare-in-comunicarea-vaticanului-23839041</link>
-        <description>Papa Leon al XIV-lea a prezentat-o pe María Montserrat Alvarado, noua șefă a Departamentului pentru Comunicare al Vaticanului, evidențiind experiența și creativitatea acesteia, într-un semnal al unei posibile schimbări de ton în comunicarea Sfântului Scaun.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-stil-mai-informal-papa-leon-vrea-o-schimbare-in-comunicarea-vaticanului-23839041</guid>
-        <pubDate>Fri, 06 Nov 2026 20:34:31 +0000</pubDate>
-    </item>
-    <item>
-        <title>Primarul PSD al Buzăului, fotografie alături de Ilie Bolojan și Ciprian Ciucu. Ce spune fostul premier despre întâlnire</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/primarul-psd-al-buzaului-fotografie-alaturi-de-ilie-bolojan-si-ciprian-ciucu-ce-spune-fostul-premier-despre-intalnire-4025577</link>
-        <description>Primarul municipiului Buzău, Constantin Toma (PSD), a publicat vineri o fotografie în care apare alături de fostul premier Ilie Bolojan și de primarul Capitalei, Ciprian Ciucu, aflați în vizită la Buzău. Ulterior, Bolojan a explicat în fața liberalilor buzoieni în ce împrejurări a avut loc întâlnirea cu edilul PSD, precizând că aceasta nu a avut nicio semnificație politică.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/primarul-psd-al-buzaului-fotografie-alaturi-de-ilie-bolojan-si-ciprian-ciucu-ce-spune-fostul-premier-despre-intalnire-4025577</guid>
-        <pubDate>Fri, 06 Nov 2026 20:24:29 +0000</pubDate>
     </item>
 </channel>
 </rss>
