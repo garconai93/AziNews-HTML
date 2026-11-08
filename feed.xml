@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 08 Nov 2026 02:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:01:22 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Operațiune de salvare în toiul nopții, în Retezat. Un turist a căzut de pe creastă și este căutat cu drone și câini de salvare</title>
+        <link>https://www.mediafax.ro/social/operatiune-de-salvare-in-toiul-noptii-in-retezat-un-turist-a-cazut-de-pe-creasta-si-este-cautat-cu-drone-si-caini-de-salvare-23839536</link>
+        <description>Salvamontiștii hunedoreni intervin în Masivul Retezat pentru salvarea unui turist care ar fi alunecat pe gheață și a căzut de pe o creastă montană. Două echipe de salvatori au fost mobilizate, cu o dronă cu termoviziune și un echipaj canin.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/operatiune-de-salvare-in-toiul-noptii-in-retezat-un-turist-a-cazut-de-pe-creasta-si-este-cautat-cu-drone-si-caini-de-salvare-23839536</guid>
+        <pubDate>Sun, 08 Nov 2026 02:16:32 +0000</pubDate>
+    </item>
+    <item>
+        <title>Tot mai mulți copii de 12 ani vor pudre proteice ca să aibă mușchi. Ce riscuri ascunde dorința de a arăta ca influencerii de pe TikTok</title>
+        <link>https://adevarul.ro/stiri-interne/societate/tot-mai-multi-copii-de-12-ani-vor-pudre-proteice-2566083.html</link>
+        <description>La numai 12 ani, unii copii vor deja să își dezvolte musculatura cu ajutorul pudrelor proteice, influențați de prieteni și de modelele promovate pe rețelele sociale. Produsele asociate până nu demult mai ales cu adulții care merg la sală încep să fie consumate și de preadolescenți.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/tot-mai-multi-copii-de-12-ani-vor-pudre-proteice-2566083.html</guid>
+        <pubDate>Sun, 08 Nov 2026 02:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Salarii atractive în anunțuri, câștiguri mai mici în realitate. La ce trebuie să fie atenți candidații</title>
         <link>https://adevarul.ro/stiri-interne/societate/salarii-atractive-in-anunturi-castiguri-mai-mici-2568955.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-locale/iasi/cazuri-extreme-de-intoxicatie-cu-alcool-la-iasi-2569739.html</guid>
         <pubDate>Sat, 07 Nov 2026 19:14:54 +0000</pubDate>
-    </item>
-    <item>
-        <title>Răzvan Nicolescu, expert și fost ministru al Energiei, îl contrazice pe Bogdan Aurescu: ”Zona Neptun Deep nu a făcut niciodată obiectul vreunei dispute cu un alt stat”</title>
-        <link>https://www.g4media.ro/razvan-nicolescu-expert-si-fost-ministru-al-energiei-il-contrazice-pe-bogdan-aurescu-zona-neptun-deep-nu-a-facut-niciodata-obiectul-vreunei-dispute-cu-un-alt-stat.html</link>
-        <description>Răzvan Nicolescu, expert și fost ministru al Energiei, îl contrazice pe Bogdan Aurescu, judecător al Curții Internaționale de Justiție: Zona Neptun Deep nu a făcut niciodată obiectul vreunei dispute cu un alt stat, i-a transmis Nicolescu. Nicolescu, ministru delegat în 2014 la Energie, a mai transmis că ”le recomandă oficialilor sa fie atenți, profesioniști si…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/razvan-nicolescu-expert-si-fost-ministru-al-energiei-il-contrazice-pe-bogdan-aurescu-zona-neptun-deep-nu-a-facut-niciodata-obiectul-vreunei-dispute-cu-un-alt-stat.html</guid>
-        <pubDate>Sat, 07 Nov 2026 19:08:46 +0000</pubDate>
-    </item>
-    <item>
-        <title>Trump vrea să-l numească pe șeful UFC secretar de presă al Casei Albe: „Un luptător violent și războinic”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/trump-vrea-sa-l-numeasca-pe-seful-ufc-secretar-de-2569744.html</link>
-        <description>Președintele SUA, Donald Trump, a transmis sâmbătă, 7 noiembrie, că i-a cerut directorului executiv al UFC, Dana White, să ocupe funcţia de secretar de presă al Casei Albe.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/trump-vrea-sa-l-numeasca-pe-seful-ufc-secretar-de-2569744.html</guid>
-        <pubDate>Sat, 07 Nov 2026 19:39:20 +0000</pubDate>
     </item>
 </channel>
 </rss>
