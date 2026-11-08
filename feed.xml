@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 08 Nov 2026 22:48:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 23:01:22 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Barcelona câștigă derby-ul cu Atlético Madrid și urcă pe primul loc în campionatul Spaniei. Spectacol cu trei goluri în duelul de pe Metropolitano</title>
+        <link>https://www.mediafax.ro/sport/barcelona-castiga-derby-ul-cu-atletico-madrid-si-urca-pe-primul-loc-in-campionatul-spaniei-spectacol-cu-trei-goluri-in-duelul-de-pe-metropolitano-23839940</link>
+        <description>FC Barcelona a câștigat cu 2-1 derby-ul cu Atlético Madrid, disputat duminică seară, în etapa a 12-a din campionatul Spaniei. Catalanii au revenit după ce au fost conduși cu 1-0 și au urcat pe primul loc în clasament.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/barcelona-castiga-derby-ul-cu-atletico-madrid-si-urca-pe-primul-loc-in-campionatul-spaniei-spectacol-cu-trei-goluri-in-duelul-de-pe-metropolitano-23839940</guid>
+        <pubDate>Sun, 08 Nov 2026 22:53:26 +0000</pubDate>
+    </item>
     <item>
         <title>Noul om forte de la Casa Albă. Cele cinci principii ale „doctrinei Miller“</title>
         <link>https://adevarul.ro/stiri-externe/sua/noul-om-forte-de-la-casa-alba-cele-cinci-2569827.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/marco-bezzecchi-a-castigat-marele-premiu-al-qatarului-la-motogp.html</guid>
         <pubDate>Sun, 08 Nov 2026 18:13:50 +0000</pubDate>
-    </item>
-    <item>
-        <title>Marele Premiu al Braziliei – Lando Norris profită de problemele lui Antonelli și câștigă sub cerul noros de la Interlagos / Mercedes este campioană la constructori</title>
-        <link>https://www.g4media.ro/marele-premiu-al-braziliei-lando-norris-profita-de-problemele-lui-antonelli-si-castiga-sub-cerul-noros-de-la-interlagos-mercedes-este-campioana-la-constructori.html</link>
-        <description>Lando Norris a câștigat Marele Premiu al Braziliei, duminică, profitând de problemele proaspătului campion mondial Kimi Antonelli. La constructori, după această etapă putem vorbi despre o nouă campioană la constructori: Mercedes Știre în curs de actualizare.</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/marele-premiu-al-braziliei-lando-norris-profita-de-problemele-lui-antonelli-si-castiga-sub-cerul-noros-de-la-interlagos-mercedes-este-campioana-la-constructori.html</guid>
-        <pubDate>Sun, 08 Nov 2026 18:42:06 +0000</pubDate>
     </item>
 </channel>
 </rss>
