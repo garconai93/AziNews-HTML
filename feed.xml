@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 01:01:19 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>A renunțat la o carieră de succes în România și a luat-o de la zero în America. Povestea cofetarului care a cucerit New Yorkul</title>
+        <link>https://adevarul.ro/stiri-interne/societate/a-renuntat-la-o-cariera-de-succes-in-romania-si-a-2569565.html</link>
+        <description>John Niță a lăsat în urmă o carieră de succes în România comunistă și a emigrat în Statele Unite, unde a cumpărat o cofetărie cu doar 2.000 de dolari avans. Astăzi, afacerea din New York are vânzări de aproape un milion de dolari anual și este condusă de fiul său.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/a-renuntat-la-o-cariera-de-succes-in-romania-si-a-2569565.html</guid>
+        <pubDate>Sun, 08 Nov 2026 00:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Prima lovitură politică pentru Netanyahu. Rivalul său, desemnat să formeze noul guvern al Israelului</title>
         <link>https://www.mediafax.ro/externe/prima-lovitura-politica-pentru-netanyahu-rivalul-sau-desemnat-sa-formeze-noul-guvern-al-israelului-23839507</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/externe/momente-de-panica-pentru-34-de-elevi-italieni-aflati-in-cracovia-in-timpul-atacului-armat-ce-s-a-intamplat-cu-ei-23839468</guid>
         <pubDate>Sat, 07 Nov 2026 19:52:10 +0000</pubDate>
-    </item>
-    <item>
-        <title>Max Verstappen va pleca de la coada grilei în Marele Premiu al Braziliei / Listă serioasă de penalizări pentru piloți la Sao Paolo</title>
-        <link>https://www.g4media.ro/max-verstappen-va-pleca-de-la-coada-grilei-in-marele-premiu-al-braziliei-lista-serioasa-de-penalizari-pentru-piloti-la-sao-paolo.html</link>
-        <description>Max Verstappen va pleca de la coada grilei în cursa pentru Marele Premiu al Braziliei, programată duminică, pe circuitul din Sao Paolo. Neerlandezul se alătură unei liste serioase de penalizări care îi cuprinde și pe Lewis Hamilton, Charles Leclerc și George Russell. Red Bull ar fi depășit limita permisă pentru motorul cu ardere internă, turbocompresor…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/max-verstappen-va-pleca-de-la-coada-grilei-in-marele-premiu-al-braziliei-lista-serioasa-de-penalizari-pentru-piloti-la-sao-paolo.html</guid>
-        <pubDate>Sat, 07 Nov 2026 19:15:58 +0000</pubDate>
     </item>
 </channel>
 </rss>
