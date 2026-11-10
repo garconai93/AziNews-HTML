@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment_retry.outputs.page_url || steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
       - uses: actions/configure-pages@v5
@@ -34,3 +34,15 @@ jobs:
           path: .
       - id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+        with:
+          timeout: 300000
+
+      # GitHub Pages blochează uneori publicarea („deployment_queued” sau API indisponibil);
+      # o a doua încercare rezolvă de obicei, iar workflow-ul pică doar dacă și ea eșuează.
+      - name: Reîncearcă publicarea
+        if: steps.deployment.outcome == 'failure'
+        id: deployment_retry
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 420000
