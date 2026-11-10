@@ -5,8 +5,48 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 09 Nov 2026 23:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:01:34 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Donald Trump anunță că războiul cu Iranul s-a încheiat. Ce spun iranienii</title>
+        <link>https://www.mediafax.ro/politic/donald-trump-anunta-ca-razboiul-cu-iranul-s-a-incheiat-ce-spun-iranienii-23840563</link>
+        <description>Președintele american Donald Trump a afirmat luni că războiul cu Iranul este „practic încheiat”. Declarația a fost făcută în timpul unei conferințe de presă de la Casa Albă organizată în urma unor discuții cu premierul Qatarului. Totuși, iranienii au catalogat afirmațiile drept „știri false”.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/donald-trump-anunta-ca-razboiul-cu-iranul-s-a-incheiat-ce-spun-iranienii-23840563</guid>
+        <pubDate>Mon, 09 Nov 2026 23:28:19 +0000</pubDate>
+    </item>
+    <item>
+        <title>Avertizare de călătorie în Spania. O grevă generală va paraliza țara</title>
+        <link>https://www.mediafax.ro/social/avertizare-de-calatorie-in-spania-o-greva-generala-va-paraliza-tara-23840565</link>
+        <description>Autoritățile române au emis o avertizare de călătorie privitoare la Spania. O grevă generală va paraliza țara, au transmis românii. Greva va fi miercuri.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/avertizare-de-calatorie-in-spania-o-greva-generala-va-paraliza-tara-23840565</guid>
+        <pubDate>Mon, 09 Nov 2026 23:44:55 +0000</pubDate>
+    </item>
+    <item>
+        <title>Lovitură pentru influenceri: UE pregătește noi interdicții pentru cei care își manipulează urmăritorii. Reclamele mascate, în vizor</title>
+        <link>https://adevarul.ro/stiri-externe/europa/lovitura-pentru-influenceri-ue-pregateste-noi-2570224.html</link>
+        <description>Comisia Europeană pregătește un nou pachet legislativ prin care urmărește să combată practicile înșelătoare folosite pe rețelele sociale, în comerțul online și în industria jocurilor video. Proiectul, denumit Digital Fairness Act (DFA), urmează să fie prezentat miercuri și are ca obiectiv consolidar</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/lovitura-pentru-influenceri-ue-pregateste-noi-2570224.html</guid>
+        <pubDate>Mon, 09 Nov 2026 23:00:42 +0000</pubDate>
+    </item>
+    <item>
+        <title>De ce a spus Rășinariul „NU” mineritului. De ce nu au convins promisiunile investitorului și ce ar fi trebuit să primească localnicii în schimb</title>
+        <link>https://adevarul.ro/stiri-locale/sibiu/de-ce-a-spus-rasinariul-nu-mineritului-de-ce-nu-2570129.html</link>
+        <description>La referendumul de duminică, 8 noiembrie, aproape toți cei care au votat s-au pronunțat împotriva exploatărilor miniere în comuna Rășinari. Primarul spune că oamenii nu au primit suficiente informații despre zăcământ, economistul Radu Nechita oferă și o perspectivă economică a rezultatului.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/sibiu/de-ce-a-spus-rasinariul-nu-mineritului-de-ce-nu-2570129.html</guid>
+        <pubDate>Mon, 09 Nov 2026 23:28:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>De la Cracovia la Bistrița: cum ajung tinerii să transforme extremismul online în violență</title>
+        <link>https://adevarul.ro/securitate-si-aparare/de-la-cracovia-la-bistrita-cum-ajung-tinerii-sa-2569906.html</link>
+        <description>Atacul armat din Cracovia și cel dejucat la o școală din Bistrița au readus în atenție asemănările dintre comportamentele unor tineri atrași de violență și simbolistica extremistă. Analistul Cătălin Buciumeanu explică pentru „Adevărul” cum se propagă aceste modele peste granițe.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/de-la-cracovia-la-bistrita-cum-ajung-tinerii-sa-2569906.html</guid>
+        <pubDate>Mon, 09 Nov 2026 23:07:25 +0000</pubDate>
+    </item>
     <item>
         <title>Luca Niculescu și Ursula von der Leyen, discuții despre securitatea în regiunea Mării Negre, bugetul UE şi priorităţile României</title>
         <link>https://www.digi24.ro/stiri/actualitate/politica/luca-niculescu-si-ursula-von-der-leyen-discutii-despre-securitatea-in-regiunea-marii-negre-bugetul-ue-si-prioritatile-romaniei-4029033</link>
@@ -446,46 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/externe/atacul-armat-din-cracovia-care-au-fost-primele-cuvinte-ale-unuia-dintre-politistii-raniti-dupa-ce-a-iesit-din-coma-23840520</guid>
         <pubDate>Mon, 09 Nov 2026 19:12:41 +0000</pubDate>
-    </item>
-    <item>
-        <title>Războiul cipurilor și armele seducției / Cum funcționează „capcana cu miere”, tactica în care ar fi fost atras șeful Nvidia</title>
-        <link>https://www.g4media.ro/razboiul-cipurilor-si-armele-seductiei-cum-functioneaza-capcana-cu-miere-tactica-in-care-ar-fi-fost-atras-seful-nvidia.html</link>
-        <description>Exploatarea unei relaţii amoroase sau sexuale pentru a obţine informaţii, pentru a influenţa o „ţintă” sau pentru a compromite o persoană reprezintă o practică veche a serviciilor de informaţii, supranumită „capcana cu miere”, informează Agerpres, care citează AFP. Jensen Huang, CEO-ul producătorului Nvidia, un gigant din sectorul semiconductorilor, este implicat într-un scandal legat de o…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/razboiul-cipurilor-si-armele-seductiei-cum-functioneaza-capcana-cu-miere-tactica-in-care-ar-fi-fost-atras-seful-nvidia.html</guid>
-        <pubDate>Mon, 09 Nov 2026 19:40:20 +0000</pubDate>
-    </item>
-    <item>
-        <title>Documentele CIA despre sașii și șvabii, prinși între două lumi. „Multora le-a părut rău că au plecat. S-au mai întors puțini”</title>
-        <link>https://adevarul.ro/stiri-interne/societate/documentele-cia-despre-sasii-si-svabii-prinsi-2569163.html</link>
-        <description>Comunitatea germană din România a început să se destrame în timpul războiului și în primii ani postbelici, continuând să se reducă drastic prin emigrare. În ultimii ani, unii sași și șvabi revin în locurile natale, însă puțini aleg să rămână definitiv.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/documentele-cia-despre-sasii-si-svabii-prinsi-2569163.html</guid>
-        <pubDate>Mon, 09 Nov 2026 19:15:22 +0000</pubDate>
-    </item>
-    <item>
-        <title>Negocieri de pace la Abu Dhabi. Reprezentanții UE nu intră în sală</title>
-        <link>https://www.mediafax.ro/externe/negocieri-de-pace-la-abu-dhabi-reprezentantii-ue-nu-intra-in-sala-23840505</link>
-        <description>Oficiali europeni vor merge săptămâna aceasta la Abu Dhabi, acolo unde au loc negocierile de pace dintre Rusia și Ucraina. Ele vor fi mediate de oficiali ai SUA.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/negocieri-de-pace-la-abu-dhabi-reprezentantii-ue-nu-intra-in-sala-23840505</guid>
-        <pubDate>Mon, 09 Nov 2026 19:56:14 +0000</pubDate>
-    </item>
-    <item>
-        <title>Alexandru Nazare a anunțat când va prezenta raportul privind finanţele ţării: „Va fi unul complet, credibil, echilibrat”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/alexandru-nazare-a-anuntat-cand-va-prezenta-raportul-privind-finantele-tarii-va-fi-unul-complet-credibil-echilibrat-4028829</link>
-        <description>Ministrul Finanţelor, Anexaxndru Nazare, anunţă, luni seară, că raportul privind finanţele ţării, solicitat de PSD şi premierul Luca Niculescu, va fi prezentat în a doua jumătate a săptămânii, după ce se vor primi datele de la toate ministerele.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/alexandru-nazare-a-anuntat-cand-va-prezenta-raportul-privind-finantele-tarii-va-fi-unul-complet-credibil-echilibrat-4028829</guid>
-        <pubDate>Mon, 09 Nov 2026 19:54:08 +0000</pubDate>
-    </item>
-    <item>
-        <title>Oficial american: Rusia şi Ucraina arată flexibilitate în privinţa teritoriului / ”E prima dată când simt că vedem o dorinţă reală din partea rusă de a încheia”</title>
-        <link>https://www.g4media.ro/oficial-american-rusia-si-ucraina-arata-flexibilitate-in-privinta-teritoriului-e-prima-data-cand-simt-ca-vedem-o-dorinta-reala-din-partea-rusa-de-a-incheia.html</link>
-        <description>Atât Rusia cât şi Ucraina manifestă o anumită flexibilitate în privat referitor la o posibilă schimbare de teritorii înainte de negocierile mediate de SUA la Abu Dhabi de marţi şi miercuri, pe măsură ce preşedintele Donald Trump îşi intensifică eforturile de a rezolva conflictul, a declarat luni un oficial american, informează Agerpres, care citează Reuters.…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/oficial-american-rusia-si-ucraina-arata-flexibilitate-in-privinta-teritoriului-e-prima-data-cand-simt-ca-vedem-o-dorinta-reala-din-partea-rusa-de-a-incheia.html</guid>
-        <pubDate>Mon, 09 Nov 2026 19:21:04 +0000</pubDate>
     </item>
 </channel>
 </rss>
