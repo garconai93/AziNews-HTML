@@ -5,8 +5,40 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:01:21 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>De ce le este greu românilor să economisească, chiar și după cursuri de educație financiară</title>
+        <link>https://adevarul.ro/economie/de-ce-le-este-greu-romanilor-sa-economiseasca-2570132.html</link>
+        <description>Aproape trei din zece participanți la cursuri de educație financiară spun că întâmpină dificultăți în aplicarea celor învățate. Cheltuielile curente, veniturile insuficiente și teama de pierderi limitează posibilitatea de a pune bani deoparte.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/economie/de-ce-le-este-greu-romanilor-sa-economiseasca-2570132.html</guid>
+        <pubDate>Wed, 11 Nov 2026 01:38:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Scandalul arcului de triumf. Familia Kennedy în conflict cu Donald Trump</title>
+        <link>https://www.mediafax.ro/politic/scandalul-arcului-de-triumf-familia-kennedy-in-conflict-cu-donald-trump-23841250</link>
+        <description>Familia Kennedy s-a alăturat unui proces împotriva administrației Trump, având ca scop blocarea construcției arcului de triumf de 76 de metri. Proiectul este susținut de președintele Trump. Arcul ar trebui să fie construit în Washington DC.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/scandalul-arcului-de-triumf-familia-kennedy-in-conflict-cu-donald-trump-23841250</guid>
+        <pubDate>Wed, 11 Nov 2026 01:01:27 +0000</pubDate>
+    </item>
+    <item>
+        <title>Vacanțele la târgurile de Crăciun din Europa pierd teren în fața destinațiilor din România. Ce spun agențiile de turism</title>
+        <link>https://adevarul.ro/economie/vacantele-la-targurile-de-craciun-din-europa-pierd-2570223.html</link>
+        <description>Sezonul târgurilor de Crăciun debutează în Europa, în condițiile în care operatorii din turism semnalează o scădere a cererii din partea românilor pentru deplasările în străinătate.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/economie/vacantele-la-targurile-de-craciun-din-europa-pierd-2570223.html</guid>
+        <pubDate>Wed, 11 Nov 2026 01:13:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Port de la Marea Baltică, atacat de dronele ucrainene</title>
+        <link>https://www.mediafax.ro/politic/port-de-la-marea-baltica-atacat-de-dronele-ucrainene-23841254</link>
+        <description>Un port de la Marea Baltică a fost atacat de dronele ucrainene. Informația nu este confirmată oficial de părțile implicate în conflict. Portul este folosit de navele așa numitei flote fantomă a Rusiei care transportă combustibilul rusesc interzis la export.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/port-de-la-marea-baltica-atacat-de-dronele-ucrainene-23841254</guid>
+        <pubDate>Wed, 11 Nov 2026 01:47:57 +0000</pubDate>
+    </item>
     <item>
         <title>Caraș-Severin: Singurul candidat respins la proba proiectului managerial, picat de o comisie contestată de Inspectoratul Școlar</title>
         <link>https://adevarul.ro/stiri-locale/resita/caras-severin-singurul-candidat-respins-la-proba-2570484.html</link>
@@ -454,38 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/politic/ce-se-intampla-cu-locatarii-care-au-balcoanele-inchise-ministrul-dezvoltarii-nu-am-emis-un-ordin-pentru-a-pune-oamenii-la-plata-23841201</guid>
         <pubDate>Tue, 10 Nov 2026 20:43:29 +0000</pubDate>
-    </item>
-    <item>
-        <title>Nicușor Dan, întrebat dacă s-a însurat după ce a răspuns la întrebarea „cine plătește facturile?”: „Soția, evident!”</title>
-        <link>https://adevarul.ro/politica/nicusor-dan-intrebat-daca-s-a-insurat-dupa-ce-a-2570508.html</link>
-        <description>Președintele Nicușor Dan a anunțat, marți seară, în timpul conferinței de presă de la Palatul Cotroceni, că, din luna octombrie, locuiește într-o casă de protocol.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/politica/nicusor-dan-intrebat-daca-s-a-insurat-dupa-ce-a-2570508.html</guid>
-        <pubDate>Tue, 10 Nov 2026 20:08:12 +0000</pubDate>
-    </item>
-    <item>
-        <title>Nicușor Dan: România a făcut „tot ce putea fi făcut” pentru păstrarea trupelor americane. Decizia finală aparține Washingtonului</title>
-        <link>https://adevarul.ro/politica/nicusor-dan-romania-a-facut-tot-ce-putea-fi-2570513.html</link>
-        <description>Președintele Nicușor Dan a explicat, marți seară, în cadrul conferinței de presă de la Palatul Cotroceni, că România a făcut toate eforturile în dialogul cu administrația americană privind viitorul prezenței militare a SUA pe teritoriul țării noastre,</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/politica/nicusor-dan-romania-a-facut-tot-ce-putea-fi-2570513.html</guid>
-        <pubDate>Tue, 10 Nov 2026 20:38:00 +0000</pubDate>
-    </item>
-    <item>
-        <title>Un militar american a fost arestat în Marea Britanie. Este suspectat de spionaj în favoarea Rusiei</title>
-        <link>https://www.mediafax.ro/externe/un-militar-american-a-fost-arestat-in-marea-britanie-este-suspectat-de-spionaj-in-favoarea-rusiei-23841213</link>
-        <description>Un militar american a fost arestat marți în Marea Britanie, acesta fiind suspectat de spionaj în favoarea Moscovei. Anunțul a fost făcut de poliția britanică. Arestarea bărbatului vine la o zi după ce Statele Unite și-au retras aeronavele de pe bazele militare britanice din cauza unei aparente amenințări separate din partea Iranului.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-militar-american-a-fost-arestat-in-marea-britanie-este-suspectat-de-spionaj-in-favoarea-rusiei-23841213</guid>
-        <pubDate>Tue, 10 Nov 2026 20:49:31 +0000</pubDate>
-    </item>
-    <item>
-        <title>Moscova acuză Chișinăul de „acte neprietenoase” / Un diplomat al Republicii Moldova a fost expulzat din Rusia</title>
-        <link>https://www.g4media.ro/moscova-acuza-chisinaul-de-acte-neprietenoase-un-diplomat-al-republicii-moldova-a-fost-expulzat-din-rusia.html</link>
-        <description>Rusia a anunţat marţi expulzarea unui diplomat moldovean, ca răspuns la o măsură similară luată împotriva unui angajat al ambasadei Rusiei în Republica Moldova la sfârşitul lunii octombrie, în urma prăbuşirii unei drone în această ţară, care se învecinează cu Ucraina, informează Agerpres, care citează AFP. „O notă din partea Ministerului rus de Externe a…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/moscova-acuza-chisinaul-de-acte-neprietenoase-un-diplomat-al-republicii-moldova-a-fost-expulzat-din-rusia.html</guid>
-        <pubDate>Tue, 10 Nov 2026 20:24:09 +0000</pubDate>
     </item>
 </channel>
 </rss>
