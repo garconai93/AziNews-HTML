@@ -5,8 +5,56 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 12 Nov 2026 22:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:01:19 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>O tehnologie desprinsă parcă din filmele SF ar putea revoluționa stingerea incendiilor</title>
+        <link>https://adevarul.ro/stiri-externe/sua/o-tehnologie-desprinsa-parca-din-filmele-sf-ar-2571045.html</link>
+        <description>O companie din Ohio a găsit o metodă de a combate focul cu unde sonore, în loc de apă. Tehnologia ar putea stinge un incendiu fără a inunda locuința sau spațiul comercial.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/o-tehnologie-desprinsa-parca-din-filmele-sf-ar-2571045.html</guid>
+        <pubDate>Thu, 12 Nov 2026 22:06:29 +0000</pubDate>
+    </item>
+    <item>
+        <title>Nicușor Dan, replică tăioasă unui jurnalist care i-a cerut explicații despre șeful SPP: „Nu vreți să vă oferim puțină răzbunare?”</title>
+        <link>https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-replica-taioasa-unui-jurnalist-care-2571143.html</link>
+        <description>Un schimb tensionat de replici a avut loc joi seară, la Dublin, între președintele Nicușor Dan și un jurnalist care i-a reproșat că îl menține în funcție pe șeful SPP, Lucian Pahonțu, în ciuda controverselor legate de trecutul acestuia.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/nicusor-dan-replica-taioasa-unui-jurnalist-care-2571143.html</guid>
+        <pubDate>Thu, 12 Nov 2026 22:31:51 +0000</pubDate>
+    </item>
+    <item>
+        <title>13 noiembrie. Cum a ordonat Mihai Viteazul eliminarea creditorilor turci și a dat startul războiului antiotoman</title>
+        <link>https://adevarul.ro/istoria-zilei/13-noiembrie-cum-a-ordonat-mihai-viteazul-2570985.html</link>
+        <description>La 13 noiembrie 1594, Mihai Viteazul poruncea uciderea creditorilor turci din București, episod care marca începutul unei răscoale antiotomane. Tot într-o zi de 13 noiembrie, în 1985, erupția vulcanului Nevado del Ruiz provoca dezastrul de la Armero, în Columbia.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/istoria-zilei/13-noiembrie-cum-a-ordonat-mihai-viteazul-2570985.html</guid>
+        <pubDate>Thu, 12 Nov 2026 22:01:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Italia a revenit de la 0-1 și s-a impus în fața Franței</title>
+        <link>https://adevarul.ro/sport/italia-a-revenit-de-la-0-1-si-s-a-impus-in-fata-2571144.html</link>
+        <description>Meci de gală pe stadionul „San Siro” din Milano. Echipa de fotbal a Italiei a câștigat cu 3-1, joi seara, în fața Franţei. Arbitrat de românul Istvan Kovacs, meciul a contat pentru Grupa 1 a Diviziei A din Liga Națiunilor.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/sport/italia-a-revenit-de-la-0-1-si-s-a-impus-in-fata-2571144.html</guid>
+        <pubDate>Thu, 12 Nov 2026 22:36:42 +0000</pubDate>
+    </item>
+    <item>
+        <title>Iranul, sub presiune pe toate fronturile. Ce este operațiunea „Iron Gate” lansată de SUA</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/iranul-sub-presiune-pe-toate-fronturile-ce-este-2571041.html</link>
+        <description>Administrația Trump intenționează să extindă presiunea asupra Teheranului prin supravegherea frontierelor terestre și a Mării Caspice, după ce blocada navală americană a afectat exporturile iraniene prin Strâmtoarea Ormuz.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/iranul-sub-presiune-pe-toate-fronturile-ce-este-2571041.html</guid>
+        <pubDate>Thu, 12 Nov 2026 22:06:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Pană majoră la Microsoft. Probleme raportate joi seara și de utilizatorii din România</title>
+        <link>https://adevarul.ro/stil-de-viata/tehnologie/pana-majora-la-microsoft-probleme-raportate-joi-2571141.html</link>
+        <description>O pană majoră a serviciilor Microsoft a afectat mii de utilizatori din mai multe regiuni, iar joi seara, 12 noiembrie, România au început și ei să raporteze probleme.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/tehnologie/pana-majora-la-microsoft-probleme-raportate-joi-2571141.html</guid>
+        <pubDate>Thu, 12 Nov 2026 22:01:35 +0000</pubDate>
+    </item>
     <item>
         <title>De la moartea lui Putin la un război pentru Estonia și amenințarea nucleară. Scenariul analiștilor RAND pentru anul 2030</title>
         <link>https://adevarul.ro/stiri-externe/europa/de-la-moartea-lui-putin-la-un-razboi-pentru-2571065.html</link>
@@ -438,54 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/ce-le-a-cerut-putin-emisarilor-lui-trump-la-2571109.html</guid>
         <pubDate>Thu, 12 Nov 2026 19:18:46 +0000</pubDate>
-    </item>
-    <item>
-        <title>Nicușor Dan, explicație după interzicerea jurnalistului Ovidiu Vanghele la conferințele de presă: Eu nu sunt un gunoi</title>
-        <link>https://www.mediafax.ro/politic/nicusor-dan-explicatie-dupa-interzicerea-jurnalistului-ovidiu-vanghele-la-conferintele-de-presa-eu-nu-sunt-un-gunoi-23842274</link>
-        <description>Președintele Nicușor Dan a reacționat joi seară, într-o conferință de presă la Dublin, după jignirile jurnalistului Ovidiu Vanghele, precizând că astfel de manifestări reprezintă o lipsă de respect față de persoană.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-explicatie-dupa-interzicerea-jurnalistului-ovidiu-vanghele-la-conferintele-de-presa-eu-nu-sunt-un-gunoi-23842274</guid>
-        <pubDate>Thu, 12 Nov 2026 18:49:24 +0000</pubDate>
-    </item>
-    <item>
-        <title>Există riscul ca România să ajungă din nou pe mâna FMI? Ce spune ministrul Finanțelor</title>
-        <link>https://www.mediafax.ro/politic/exista-riscul-ca-romania-sa-ajunga-din-nou-pe-mana-fmi-ce-spune-ministrul-finantelor-23842292</link>
-        <description>Ministrul Finanțelor, Alexandru Nazare, a afirmat joi seara, la Antena 3 CNN, că România nu este în acest moment în situația de a ajunge din nou sub monitorizare internațională sau într-un acord cu FMI, însă a avertizat că țara se află într-o poziție fragilă din perspectiva ratingului de țară. „Am mers și mergem în continuare pe sârmă”, a spus Nazare</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/exista-riscul-ca-romania-sa-ajunga-din-nou-pe-mana-fmi-ce-spune-ministrul-finantelor-23842292</guid>
-        <pubDate>Thu, 12 Nov 2026 19:30:34 +0000</pubDate>
-    </item>
-    <item>
-        <title>Nicușor Dan, despre George Simion: „Câte tâmpenii la rând poate să spună un lider politic, ca să nu îl mai luăm în seamă?”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-george-simion-cate-tampenii-la-rand-poate-sa-spuna-un-lider-politic-ca-sa-nu-il-mai-luam-in-seama-4034173</link>
-        <description>Președintele Nicușor Dan a răspuns, joi seară, acuzației președintelui AUR George Simion că ar fi dat ordin pentru ca protestul AUR din weekend să fie interzis: „Câte tâmpenii la rând poate să spună un lider politic, ca să nu îl mai luăm în seamă?”.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-george-simion-cate-tampenii-la-rand-poate-sa-spuna-un-lider-politic-ca-sa-nu-il-mai-luam-in-seama-4034173</guid>
-        <pubDate>Thu, 12 Nov 2026 19:49:03 +0000</pubDate>
-    </item>
-    <item>
-        <title>Președintele Nicușor Dan, despre interzicerea jurnalistului Ovidiu Vanghele la Cotroceni: Nu e o încălcare a libertății presei. E vorba despre demnitatea persoanei și demnitatea funcției / „E o lipsă </title>
-        <link>https://www.g4media.ro/presedintele-nicusor-dan-despre-interzicerea-jurnalistului-ovidiu-vanghele-la-cotroceni-nu-e-o-incalcare-a-libertatii-presei-e-vorba-despre-demnitatea-persoanei-si-demnitatea-functiei-e-o-lipsa-de.html</link>
-        <description>Președintele Nicușor Dan a explicat, joi seara, într-o conferință de presă la Dublin, că decizia sa privindu-l pe jurnalistul Ovidiu Vanghele este legată de faptul că acesta l-a jignit, iar ca om are dreptul să nu intre în dialog cu o persoană care nu îl respectă și, mai mult, este vorba despre demnitatea funcției publice.…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/presedintele-nicusor-dan-despre-interzicerea-jurnalistului-ovidiu-vanghele-la-cotroceni-nu-e-o-incalcare-a-libertatii-presei-e-vorba-despre-demnitatea-persoanei-si-demnitatea-functiei-e-o-lipsa-de.html</guid>
-        <pubDate>Thu, 12 Nov 2026 19:09:20 +0000</pubDate>
-    </item>
-    <item>
-        <title>Președintele l-a decorat post-mortem pe Marius Harosa, liderul juridic al mișcării Roșia Montană: „Este o mare pierdere”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/presedintele-l-a-decorat-post-mortem-pe-marius-harosa-liderul-juridic-al-miscarii-rosia-montana-este-o-mare-pierdere-4034197</link>
-        <description>Preşedintele Nicuşor Dan a afirmat, joi seară, că a decis decorarea post-mortem a avocatului Marius Harosa, liderul juridic al mişcării Roşia Montană, pentru că, în zeci de cauze, pro bono, a reprezentat interesul public.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/presedintele-l-a-decorat-post-mortem-pe-marius-harosa-liderul-juridic-al-miscarii-rosia-montana-este-o-mare-pierdere-4034197</guid>
-        <pubDate>Thu, 12 Nov 2026 19:37:59 +0000</pubDate>
-    </item>
-    <item>
-        <title>Controale în 25 de ambulatorii din țară, după sesizările pacienților. Rogobete: „Nu este o vânătoare de vrăjitoare!”</title>
-        <link>https://adevarul.ro/stiri-interne/sanatate/controale-in-25-de-ambulatorii-din-tara-dupa-2571114.html</link>
-        <description>Ministrul Sănătății, Alexandru Rogobete, a anunțat joi, 12 noiembrie, că vor fi efectuate controale comune în aproximativ 25 de ambulatorii publice și private din 13 orașe, pentru verificarea neregulilor semnalate de pacienți.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/controale-in-25-de-ambulatorii-din-tara-dupa-2571114.html</guid>
-        <pubDate>Thu, 12 Nov 2026 19:51:10 +0000</pubDate>
     </item>
 </channel>
 </rss>
