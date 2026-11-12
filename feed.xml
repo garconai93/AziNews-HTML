@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Armata argentiniană a fost desemnată organizație teroristă</title>
+        <link>https://www.mediafax.ro/politic/armata-argentiniana-a-fost-desemnata-organizatie-terorista-23841788</link>
+        <description>Armata argentiniană a fost desemnată organizație teroristă de către autoritățile din Iran. Este replica iranienilor la decizia guvernului argentinian care a desemnat Corpul Gardienilor Revoluției Islamice (IRGC) din Iran drept „organizație teroristă”.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/armata-argentiniana-a-fost-desemnata-organizatie-terorista-23841788</guid>
+        <pubDate>Thu, 12 Nov 2026 00:58:33 +0000</pubDate>
+    </item>
     <item>
         <title>Aceste aparate electrocasnice nu trebuie niciodată conectate la un prelungitor: greșeala banală din bucătărie care poate declanșa un incendiu în casă</title>
         <link>https://www.libertatea.ro/lifestyle/aparate-care-nu-se-pun-in-prelungitor-electrocasnicele-care-pot-lua-foc-xx3jx19</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/spania-paralizata-de-prima-greva-generala-din-2570820.html</guid>
         <pubDate>Wed, 11 Nov 2026 20:21:40 +0000</pubDate>
-    </item>
-    <item>
-        <title>Grindeanu anunță desființarea a 100 de instituții ale statului, reduceri de impozite și indexarea pensiilor</title>
-        <link>https://adevarul.ro/politica/ce-spune-grindeanu-despre-contractele-rheinmetall-2570810.html</link>
-        <description>Președintele PSD, Sorin Grindeanu, a declarat miercuri seară că a auzit în repetate rânduri promisiunea potrivit căreia între 50% și 70% din valoarea contractelor finanțate prin programul SAFE, inclusiv cele încheiate cu Rheinmetall, urma să fie investită în România</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/politica/ce-spune-grindeanu-despre-contractele-rheinmetall-2570810.html</guid>
-        <pubDate>Wed, 11 Nov 2026 20:03:58 +0000</pubDate>
     </item>
 </channel>
 </rss>
