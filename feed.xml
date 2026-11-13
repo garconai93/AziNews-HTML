@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Rafinăria de petrol din Volgograd și o unitate de producție din Rostov-pe-Don, în flăcări în urma unui atac cu drone ucrainene</title>
+        <link>https://www.mediafax.ro/politic/rafinaria-de-petrol-din-volgograd-si-o-unitate-de-productie-din-rostov-pe-don-in-flacari-in-urma-unui-atac-cu-drone-ucrainene-23842355</link>
+        <description>Forțele ucrainene au lovit o importantă rafinărie de petrol din orașul rus Volgograd, precum și o unitate de producție din Rostov-pe-Don, în cursul unui atac cu drone desfășurat în noaptea de joi spre vineri.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/rafinaria-de-petrol-din-volgograd-si-o-unitate-de-productie-din-rostov-pe-don-in-flacari-in-urma-unui-atac-cu-drone-ucrainene-23842355</guid>
+        <pubDate>Fri, 13 Nov 2026 03:07:08 +0000</pubDate>
+    </item>
+    <item>
+        <title>Iubirea de pe aplicațiile de dating poate fi o capcană. Cum folosesc escrocii inteligența artificială pentru a-și înșela victimele</title>
+        <link>https://adevarul.ro/stiri-interne/societate/iubirea-de-pe-aplicatiile-de-dating-poate-fi-o-2570078.html</link>
+        <description>Se apropie sărbătorile, iar singurătatea îi poate împinge pe unii dintre noi să caute iubirea pe aplicațiile de dating. Însă persoana care pare să ne înțeleagă atât de bine ar putea să nu existe cu adevărat dincolo de ecranul telefonului.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/iubirea-de-pe-aplicatiile-de-dating-poate-fi-o-2570078.html</guid>
+        <pubDate>Fri, 13 Nov 2026 03:30:25 +0000</pubDate>
+    </item>
     <item>
         <title>Cum verifici dacă un magazin online este o capcană. Metoda prin care inteligența artificială identifică comercianții suspecți</title>
         <link>https://adevarul.ro/economie/cum-verifici-daca-un-magazin-online-este-o-2570639.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/mapn-are-in-instruire-2-000-de-militari-voluntari-in-acest-an-radu-oprea-tinta-este-de-peste-120-000-de-militari-activi-pana-2044-4034329</guid>
         <pubDate>Thu, 12 Nov 2026 20:45:37 +0000</pubDate>
-    </item>
-    <item>
-        <title>SUA au plătit Venezuelei 12 miliarde de dolari pentru resurse naturale</title>
-        <link>https://www.g4media.ro/sua-au-platit-venezuelei-12-miliarde-de-dolari-pentru-resurse-naturale.html</link>
-        <description>Statele Unite au plătit Venezuelei 12 miliarde de dolari după ce au preluat controlul asupra resurselor naturale venezuelene, arată un raport al Departamentului de Stat de la Washington, relatează Agerpres. Începând din 3 ianuarie, când forţele americane l-au răsturnat de la putere pe preşedintele venezuelan Nicolas Maduro, în contul Venezuela Custody au intrat peste 12,26…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/sua-au-platit-venezuelei-12-miliarde-de-dolari-pentru-resurse-naturale.html</guid>
-        <pubDate>Thu, 12 Nov 2026 20:21:33 +0000</pubDate>
-    </item>
-    <item>
-        <title>Alexandru Nazare: Nu cred că suntem în poziția în care să ajungem din nou sub o monitorizare internațională sau într-un acord cu FMI, dar depinde cum tratăm examenele din ianuarie, februarie și martie</title>
-        <link>https://www.g4media.ro/alexandru-nazare-nu-cred-ca-suntem-in-pozitia-in-care-sa-ajungem-din-nou-sub-o-monitorizare-internationala-sau-intr-un-acord-cu-fmi-dar-depinde-cum-tratam-examenele-din-ianuarie-februarie-si-martie.html</link>
-        <description>Prezent în emisiune la Antena3-CNN, ministrul Finanțelor Alexandru Nazare a fost chestionat dacă este posibil ca România să ajungă din nou pe mâna FMI. Nazare a afirmat că toate riscurile prezentate de președintele României Nicușor Dan în raport cu agențiile de rating sunt corecte. „Am avut multe momente de cumpănă, am mers și mergem în…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/alexandru-nazare-nu-cred-ca-suntem-in-pozitia-in-care-sa-ajungem-din-nou-sub-o-monitorizare-internationala-sau-intr-un-acord-cu-fmi-dar-depinde-cum-tratam-examenele-din-ianuarie-februarie-si-martie.html</guid>
-        <pubDate>Thu, 12 Nov 2026 20:51:13 +0000</pubDate>
     </item>
 </channel>
 </rss>
