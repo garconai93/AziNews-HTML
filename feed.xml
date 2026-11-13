@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:01:23 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Accident grav pe o șosea din Vaslui. Două tinere se aflau într-o mașină scăpată de sub control</title>
+        <link>https://www.mediafax.ro/social/accident-grav-pe-o-sosea-din-vaslui-doua-tinere-se-aflau-intr-o-masina-scapata-de-sub-control-23842338</link>
+        <description>Un accident grav s-a produs în noaptea de joi spre vineri pe o șosea din Vaslui. Două tinere se aflau într-o mașină care a scăpat de sub control și a ajuns pe câmp. Una dintre victime a fost găsită în stare de inconștiență.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/accident-grav-pe-o-sosea-din-vaslui-doua-tinere-se-aflau-intr-o-masina-scapata-de-sub-control-23842338</guid>
+        <pubDate>Fri, 13 Nov 2026 00:16:49 +0000</pubDate>
+    </item>
+    <item>
+        <title>Comasarea localităților, dorită în principiu, evitată în practică. Ce îi nemulțumește pe primari: „Nu se înghesuie nimeni”</title>
+        <link>https://adevarul.ro/stiri-locale/slatina/comasarea-localitatilor-dorita-in-principiu-2570774.html</link>
+        <description>Peste jumătate dintre orașele din România nu mai ating pragul legal de 10.000 de locuitori și ar putea fi retrogradate la statutul de comune sau comasate cu alte localități. Deși acceptă că reorganizarea administrativă este necesară, primarii se tem de pierderea statutului.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/slatina/comasarea-localitatilor-dorita-in-principiu-2570774.html</guid>
+        <pubDate>Fri, 13 Nov 2026 00:03:25 +0000</pubDate>
+    </item>
     <item>
         <title>Putin propune o misiune umanitară în orașul Kostiantînivka. Ucrainenii cred că este o capcană</title>
         <link>https://www.mediafax.ro/politic/putin-propune-o-misiune-umanitara-in-orasul-kostiantinivka-ucrainenii-cred-ca-este-o-capcana-23842331</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/cristian-mungiu-reprezinta-romania-la-american-film-market-tara-noastra-desemnata-country-of-focus-23842276</guid>
         <pubDate>Thu, 12 Nov 2026 19:05:14 +0000</pubDate>
-    </item>
-    <item>
-        <title>Nicușor Dan, despre aplicarea rezultatelor referendumului pe București: Dacă vrem să avem încrederea cetățenilor, trebuie să le aplicăm</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-aplicarea-rezultatelor-referendumului-pe-bucuresti-daca-vrem-sa-avem-increderea-cetatenilor-trebuie-sa-le-aplicam-4034195</link>
-        <description>Nicușor Dan a fost întrebat, cu ocazia conferințeide presă susținute la Dublin, când ar putea avea loc aplicarea rezultatelor referendumului pentru București.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-despre-aplicarea-rezultatelor-referendumului-pe-bucuresti-daca-vrem-sa-avem-increderea-cetatenilor-trebuie-sa-le-aplicam-4034195</guid>
-        <pubDate>Thu, 12 Nov 2026 19:35:06 +0000</pubDate>
-    </item>
-    <item>
-        <title>Câți bani ar putea plăti România pentru militarii SUA. Oprea: „Costurile vor fi mai mici decât în Polonia. Nu vorbim de 15.000 de euro”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/cati-bani-ar-putea-plati-romania-pentru-militarii-sua-radu-oprea-costurile-de-cazare-si-acomodare-vor-fi-mai-mici-decat-in-polonia-4034143</link>
-        <description>România își dorește o prezență militară americană mai consistentă și capacități de luptă mai puternice pe teritoriul său. Ministrul Apărării, Radu Oprea, a declarat în exclusivitate la Digi24 că Bucureștiul a discutat oferta adresată Statelor Unite și cu partenerii polonezi și că există posibilitatea ca militarii americani să fie găzduiți în bazele deja existente. În ceea ce privește costurile, oficialul a precizat că suma de 15.000 de euro vehiculată nu este corectă, iar cheltuielile de…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/cati-bani-ar-putea-plati-romania-pentru-militarii-sua-radu-oprea-costurile-de-cazare-si-acomodare-vor-fi-mai-mici-decat-in-polonia-4034143</guid>
-        <pubDate>Thu, 12 Nov 2026 19:38:41 +0000</pubDate>
     </item>
 </channel>
 </rss>
