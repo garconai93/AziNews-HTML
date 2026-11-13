@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:01:22 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>32 de persoane rănite pe râul Mississippi. O navă de croazieră s-a izbit de un petrolier</title>
+        <link>https://www.mediafax.ro/externe/32-de-persoane-ranite-pe-raul-mississippi-o-nava-de-croaziera-s-a-izbit-de-un-petrolier-23842797</link>
+        <description>Un petrolier a pierdut controlul direcției și s-a izbit de o navă de croazieră pe râul Mississippi. 32 de persoane au fost rănite în urma impactului. Autoritățile au intervenit de urgență într-o operațiune de salvare. Nava „American Heritage” a fost parțial scufundată.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/32-de-persoane-ranite-pe-raul-mississippi-o-nava-de-croaziera-s-a-izbit-de-un-petrolier-23842797</guid>
+        <pubDate>Fri, 13 Nov 2026 22:59:21 +0000</pubDate>
+    </item>
     <item>
         <title>14 noiembrie. Ziua în care a început revolta muncitorilor din Brașov împotriva regimului lui Nicolae Ceaușescu</title>
         <link>https://adevarul.ro/istoria-zilei/14-noiembrie-ziua-in-care-a-inceput-revolta-2571175.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/doi-romani-aflati-in-yemen-repatriati-de-urgenta-avertismentul-mae-parasiti-tara-imediat.html</guid>
         <pubDate>Fri, 13 Nov 2026 18:38:35 +0000</pubDate>
-    </item>
-    <item>
-        <title>Podul de fier construit pe vremea lui Carol I, lăsat să se degradeze peste un secol. Cât a ajuns să coste repararea bijuteriei inginerești</title>
-        <link>https://adevarul.ro/stiri-locale/slatina/podul-de-fier-construit-pe-vremea-lui-carol-i-2570796.html</link>
-        <description>Construit în vremea regelui Carol I, aruncat în aer în Primul Război Mondial și refăcut ulterior, podul de fier de la Slatina a rezistat mai bine de un secol. Nu a reușit, însă, să obțină o reabilitare capitală în ultimele decenii.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/slatina/podul-de-fier-construit-pe-vremea-lui-carol-i-2570796.html</guid>
-        <pubDate>Fri, 13 Nov 2026 18:34:57 +0000</pubDate>
     </item>
 </channel>
 </rss>
