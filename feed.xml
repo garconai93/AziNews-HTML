@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 14 Nov 2026 03:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:01:24 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>E greșit să spui „poftă bună” înainte de masă? Ce spun regulile de bune maniere și de unde vine expresia</title>
+        <link>https://adevarul.ro/stiri-interne/societate/e-gresit-sa-spui-pofta-buna-inainte-de-masa-ce-2569536.html</link>
+        <description>Urarea „poftă bună”, nelipsită de la mesele în familie, între prieteni sau la restaurant, este considerată de unii specialiști în etichetă o încălcare a bunelor maniere. În anumite medii sociale expresia este evitată.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/e-gresit-sa-spui-pofta-buna-inainte-de-masa-ce-2569536.html</guid>
+        <pubDate>Sat, 14 Nov 2026 03:15:25 +0000</pubDate>
+    </item>
     <item>
         <title>Nava spațială Starship a companiei lui Musk a reintrat pe orbită. Racheta-purtătoare a aterizat în apele Golfului Mexic</title>
         <link>https://www.mediafax.ro/externe/nava-spatiala-starship-a-companiei-lui-musk-a-reintrat-pe-orbita-racheta-purtatoare-a-aterizat-in-apele-golfului-mexic-23842810</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/cine-ar-putea-sa-i-ia-locul-lui-jensen-huang-la-conducerea-nvidia-rene-haas-seful-arm-holdings-este-in-carti-ft-4035905</guid>
         <pubDate>Fri, 13 Nov 2026 19:23:20 +0000</pubDate>
-    </item>
-    <item>
-        <title>MAE: Doi români au fost repatriați din Yemen. Este în vigoare un avertisment de călătorie: „Părăsiți imediat țara”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/mae-doi-romani-au-fost-repatriati-din-yemen-este-in-vigoare-un-avertisment-de-calatorie-parasiti-imediat-tara-4035771</link>
-        <description>Ministerul de Externe anunţă, vineri seară, că doi cetăţeni români au fost repatriaţi din Yemen, prin Egipt. Autorităţile române au emis pentru zona respectivă un avertisment de călătorie de nivel 9/9: „PĂRĂSIŢI IMEDIAT ŢARA!", pe fondul acţiunilor militare din această ţară.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/mae-doi-romani-au-fost-repatriati-din-yemen-este-in-vigoare-un-avertisment-de-calatorie-parasiti-imediat-tara-4035771</guid>
-        <pubDate>Fri, 13 Nov 2026 18:04:45 +0000</pubDate>
     </item>
 </channel>
 </rss>
