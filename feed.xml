@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:01:26 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Nava spațială Starship a companiei lui Musk a reintrat pe orbită. Racheta-purtătoare a aterizat în apele Golfului Mexic</title>
+        <link>https://www.mediafax.ro/externe/nava-spatiala-starship-a-companiei-lui-musk-a-reintrat-pe-orbita-racheta-purtatoare-a-aterizat-in-apele-golfului-mexic-23842810</link>
+        <description>Încercarea companiei SpaceX de a-și recupera întreagă navă spațială Starship nu a avut succes. Vineri, când se pregătea de aterizarea la rampa de lansare, racheta-purtătoare a căzut în flăcări, în Golful Mexic. Nava spațială a reușit totuși să intre pe orbită, în cadrul celui mai îndrăzneț test de până acum.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/nava-spatiala-starship-a-companiei-lui-musk-a-reintrat-pe-orbita-racheta-purtatoare-a-aterizat-in-apele-golfului-mexic-23842810</guid>
+        <pubDate>Sat, 14 Nov 2026 01:12:50 +0000</pubDate>
+    </item>
+    <item>
+        <title>Meseriile în era AI. De la „mai așteaptă zece oameni la poartă” la angajatorii care bat la ușa școlilor</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/meseriile-in-era-ai-de-la-mai-asteapta-zece-2571085.html</link>
+        <description>Oferta educațională pentru viitorul an școlar se concepe în această perioadă în cancelariile liceelor tehnologice. Lupta între teoretic și tehnologic rămâne deschisă, însă argumentul că meseriașii nu vor fi înlocuiți complet, prea curând, de AI câștigă teren.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/meseriile-in-era-ai-de-la-mai-asteapta-zece-2571085.html</guid>
+        <pubDate>Sat, 14 Nov 2026 01:09:25 +0000</pubDate>
+    </item>
     <item>
         <title>„Alții cu facultăți grele nu ajung la suma asta”. Meseria din spatele conturilor OnlyFans, plătită cu 2.500 de euro lunar</title>
         <link>https://adevarul.ro/stiri-interne/societate/altii-cu-facultati-grele-nu-ajung-la-suma-asta-2568700.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/mae-doi-romani-au-fost-repatriati-din-yemen-este-in-vigoare-un-avertisment-de-calatorie-parasiti-imediat-tara-4035771</guid>
         <pubDate>Fri, 13 Nov 2026 18:04:45 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ce urmărește cu adevărat Rusia în negocierile cu Ucraina. Axa Mikolaiv-Odesa-Transnistria și semnalul de alarmă pentru România</title>
-        <link>https://www.digi24.ro/stiri/externe/ce-urmareste-cu-adevarat-rusia-in-negocierile-cu-ucraina-axa-mikolaiv-odesa-transnistria-si-semnalul-de-alarma-pentru-romania-4035779</link>
-        <description>Invitat la Digi24, generalul în retragere Virgil Bălăceanu a explicat că toate cerințele Rusiei legate de un posibil acord de pace cu Kievul se rezumă, în esență, la un singur lucru: Ucraina să fie exclusă din orice aranjament de securitate. În același timp, acesta a avertizat că România trebuie să fie foarte atentă, pentru că dacă vor exista concesiile teritoriale despre care se discută în prezent, prin controlarea Hersonului, Rusia ar avea o deschidere mult mai ușoară spre axa Mikolaiv-Odesa…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ce-urmareste-cu-adevarat-rusia-in-negocierile-cu-ucraina-axa-mikolaiv-odesa-transnistria-si-semnalul-de-alarma-pentru-romania-4035779</guid>
-        <pubDate>Fri, 13 Nov 2026 18:20:55 +0000</pubDate>
-    </item>
-    <item>
-        <title>Doi români aflați în Yemen, repatriați de urgență. Avertismentul MAE: „Părăsiți țara imediat”</title>
-        <link>https://www.mediafax.ro/externe/doi-romani-aflati-in-yemen-repatriati-de-urgenta-avertismentul-mae-parasiti-tara-imediat-23842740</link>
-        <description>Ministerul Afacerilor Externe a anunțat vineri că doi români aflați în Yemen au fost aduși în țară, în siguranță. Yemen se află sub alertă, în urma conflictului dintre rebelii Houthi și Arabia Saudită, iar oficialii au transmis un mesaj critic: „Părăsiți țara imediat”.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/doi-romani-aflati-in-yemen-repatriati-de-urgenta-avertismentul-mae-parasiti-tara-imediat-23842740</guid>
-        <pubDate>Fri, 13 Nov 2026 18:16:09 +0000</pubDate>
     </item>
 </channel>
 </rss>
