@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:59:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:01:24 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Estonia acuză Rusia de o tentativă de incendiere a unei companii din domeniul apărării / Premierul estonian anunță că se pregătește să închidă frontiera cu Rusia</title>
+        <link>https://www.g4media.ro/estonia-acuza-rusia-de-o-tentativa-de-incendiere-a-unei-companii-din-domeniul-apararii-premierul-estonian-anunta-ca-se-pregateste-sa-inchida-frontiera-cu-rusia.html</link>
+        <description>Estonia a acuzat serviciul de informații militare al Rusiei că a ordonat o tentativă de incendiere a unui producător estonian de drone, ceea ce a determinat Tallinnul să amenințe cu închiderea frontierei cu Rusia, relatează Politico. Intruși au fost descoperiți la sediul Threod Systems din Viimsi, în afara capitalei estoniene, la scurt timp după ora…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/estonia-acuza-rusia-de-o-tentativa-de-incendiere-a-unei-companii-din-domeniul-apararii-premierul-estonian-anunta-ca-se-pregateste-sa-inchida-frontiera-cu-rusia.html</guid>
+        <pubDate>Sun, 15 Nov 2026 15:00:24 +0000</pubDate>
+    </item>
     <item>
         <title>Susținători ai lui Călin Georgescu s-au supărat pe George Simion: „Noi, băieții din stradă, te declarăm pe tine un laș și un trădător”</title>
         <link>https://www.digi24.ro/stiri/actualitate/politica/sustinatori-ai-lui-calin-georgescu-s-au-suparat-pe-george-simion-noi-baietii-din-strada-te-declaram-pe-tine-un-las-si-un-tradator-4037329</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/inca-un-om-a-murit-in-urma-accidentelor-de-pe-autostrada-trakia-din-bulgaria-bilantul-victimelor-a-urcat-la-13-49g3zyz</guid>
         <pubDate>Sun, 15 Nov 2026 10:52:26 +0000</pubDate>
-    </item>
-    <item>
-        <title>Nicușor Dan s-a întâlnit cu directorul general UNESCO, la Phnom Penh. România marchează 70 de ani de la aderarea la organizație</title>
-        <link>https://www.mediafax.ro/politic/nicusor-dan-s-a-intalnit-cu-directorul-general-unesco-la-phnom-penh-romania-marcheaza-70-de-ani-de-la-aderarea-la-organizatie-23843399</link>
-        <description>Președintele Nicușor Dan s-a întâlnit duminică, la Phnom Penh, cu directorul general UNESCO, Khaled El-Enany, în contextul marcării a 70 de ani de la aderarea României la organizație.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/nicusor-dan-s-a-intalnit-cu-directorul-general-unesco-la-phnom-penh-romania-marcheaza-70-de-ani-de-la-aderarea-la-organizatie-23843399</guid>
-        <pubDate>Sun, 15 Nov 2026 12:58:01 +0000</pubDate>
     </item>
 </channel>
 </rss>
