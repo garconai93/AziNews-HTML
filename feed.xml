@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 03:01:21 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Rusia și SUA ar putea negocia o nouă ordine mondială cu sprijinul Chinei. Zelenski se teme de o nouă Ialta</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/rusia-si-sua-ar-putea-negocia-o-noua-ordine-2571556.html</link>
+        <description>Un posibil summit trilateral între Donald Trump, Vladimir Putin și Xi Jinping, preconizat în marja reuniunii APEC din China, stârnește îngrijorări în Ucraina și în Europa de Est.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/rusia-si-sua-ar-putea-negocia-o-noua-ordine-2571556.html</guid>
+        <pubDate>Sun, 15 Nov 2026 02:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Scumpirile taie din călătoriile românilor. Aproape jumătate au renunțat la vacanțe, excursii sau vizite</title>
         <link>https://adevarul.ro/economie/scumpirile-taie-din-calatoriile-romanilor-aproape-2570086.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/targul-de-craciun-2026-la-viena-100-de-casute-si-brad-secular-de-31-de-metri-tw0b0vv</guid>
         <pubDate>Sat, 14 Nov 2026 18:23:34 +0000</pubDate>
-    </item>
-    <item>
-        <title>Un șofer a cumpărat un Ferrari 458 roșu din China cu 21.000 km la bord, dar mecanicii au descoperit că bolidul rulase 260.000 km</title>
-        <link>https://www.libertatea.ro/stiri/un-sofer-a-cumparat-un-ferrari-458-rosu-din-china-cu-21000-km-la-bord-dar-mecanicii-au-descoperit-adevarul-kexll5d</link>
-        <description>Un Ferrari 458 Italia, importat din China în Canada prin Columbia Britanică, s-a dovedit a avea un kilometraj real de 260.000 km, deși afișa doar 21.000 km pe bord. Descoperirea a fost făcută de echipa Daily Driven Exotics și a scos la iveală numeroase probleme ascunse ale bolidului.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/stiri/un-sofer-a-cumparat-un-ferrari-458-rosu-din-china-cu-21000-km-la-bord-dar-mecanicii-au-descoperit-adevarul-kexll5d</guid>
-        <pubDate>Sat, 14 Nov 2026 18:14:31 +0000</pubDate>
     </item>
 </channel>
 </rss>
