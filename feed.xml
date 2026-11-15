@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 15 Nov 2026 03:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:01:22 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Cine sunt marii datornici către stat și câți bani mai poate recupera ANAF</title>
+        <link>https://adevarul.ro/economie/cine-sunt-marii-datornici-catre-stat-si-cati-bani-2571298.html</link>
+        <description>Aproape 81 de miliarde de lei. Atât datorează statului 48.882 de companii, potrivit unei centralizări realizate pe baza listei ANAF pentru 30 septembrie 2026. O parte importantă a restanțelor aparține însă unor firme aflate în insolvență, faliment sau dizolvare.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/economie/cine-sunt-marii-datornici-catre-stat-si-cati-bani-2571298.html</guid>
+        <pubDate>Sun, 15 Nov 2026 03:52:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Mii de lei la service din cauza unor greșeli banale. Obiceiurile care îți distrug mașina fără să-ți dai seama</title>
+        <link>https://adevarul.ro/stil-de-viata/auto/mii-de-lei-la-service-din-cauza-unor-greseli-2570515.html</link>
+        <description>Obiceiurile proaste și miturile răspândite printre șoferi pot distruge în timp chiar și cele mai rezistente mașini. Specialiștii, dar și mecanicii cu experiență din întreaga lume, au întocmit o listă cu cele mai frecvente și mai dăunătoare greșeli pentru sănătatea automobilului.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/auto/mii-de-lei-la-service-din-cauza-unor-greseli-2570515.html</guid>
+        <pubDate>Sun, 15 Nov 2026 03:05:25 +0000</pubDate>
+    </item>
     <item>
         <title>Rusia și SUA ar putea negocia o nouă ordine mondială cu sprijinul Chinei. Zelenski se teme de o nouă Ialta</title>
         <link>https://adevarul.ro/stiri-externe/in-lume/rusia-si-sua-ar-putea-negocia-o-noua-ordine-2571556.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/reactia-furioasa-a-rusiei-dupa-ce-liderii-ue-au-2571564.html</guid>
         <pubDate>Sat, 14 Nov 2026 19:40:46 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ilie Bolojan, emoționat la nunta fiicei sale. Mesajul transmis de fostul premier după ce Lucia Maria s-a căsătorit cu Daniel Bota</title>
-        <link>https://www.mediafax.ro/politic/ilie-bolojan-emotionat-la-nunta-fiicei-sale-mesajul-transmis-de-fostul-premier-dupa-ce-lucia-maria-s-a-casatorit-cu-daniel-bota-23843139</link>
-        <description>Ilie Bolojan a oferit prima declarație după nunta fiicei sale celei mari, Lucia Maria, care s-a căsătorit cu Daniel Bota, sâmbătă, la Oradea. Fostul premier a mărturisit că este o zi de mare bucurie pentru el.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/ilie-bolojan-emotionat-la-nunta-fiicei-sale-mesajul-transmis-de-fostul-premier-dupa-ce-lucia-maria-s-a-casatorit-cu-daniel-bota-23843139</guid>
-        <pubDate>Sat, 14 Nov 2026 18:51:07 +0000</pubDate>
-    </item>
-    <item>
-        <title>S-a deschis Târgul Principal de Crăciun de la Viena, cu un brad de 31 de metri și un patinoar de 3.000 mp</title>
-        <link>https://www.libertatea.ro/lifestyle/targul-de-craciun-2026-la-viena-100-de-casute-si-brad-secular-de-31-de-metri-tw0b0vv</link>
-        <description>Târgul de Crăciun din fața Primăriei din Viena și-a deschis porțile, aducând bucuria sărbătorilor de iarnă în capitala Austriei. Primarul Michael Ludwig a dat startul festivităților, aprinzând luminițele din bradul oficial, un molid impresionant de 31 de metri, donat de landul Vorarlberg.</description>
-        <source url="https://azinews.ro/feed.xml">Libertatea</source>
-        <guid isPermaLink="true">https://www.libertatea.ro/lifestyle/targul-de-craciun-2026-la-viena-100-de-casute-si-brad-secular-de-31-de-metri-tw0b0vv</guid>
-        <pubDate>Sat, 14 Nov 2026 18:23:34 +0000</pubDate>
     </item>
 </channel>
 </rss>
