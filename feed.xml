@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:01:19 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Scumpirile taie din călătoriile românilor. Aproape jumătate au renunțat la vacanțe, excursii sau vizite</title>
+        <link>https://adevarul.ro/economie/scumpirile-taie-din-calatoriile-romanilor-aproape-2570086.html</link>
+        <description>Costurile mai mari ale energiei îi determină pe români să limiteze călătoriile și să reducă inclusiv cheltuieli esențiale. Un sondaj BEI arată că 47% dintre respondenții din România au renunțat la o vacanță, o excursie de weekend sau o vizită la apropiați, față de 30% în UE.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/economie/scumpirile-taie-din-calatoriile-romanilor-aproape-2570086.html</guid>
+        <pubDate>Sun, 15 Nov 2026 01:04:25 +0000</pubDate>
+    </item>
     <item>
         <title>Cum a reușit o defecțiune Microsoft să blocheze instituții-cheie din întreaga lume: pericolul dependenței de o singură companie</title>
         <link>https://adevarul.ro/economie/cum-a-reusit-o-defectiune-microsoft-sa-blocheze-2571557.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Libertatea</source>
         <guid isPermaLink="true">https://www.libertatea.ro/stiri/un-sofer-a-cumparat-un-ferrari-458-rosu-din-china-cu-21000-km-la-bord-dar-mecanicii-au-descoperit-adevarul-kexll5d</guid>
         <pubDate>Sat, 14 Nov 2026 18:14:31 +0000</pubDate>
-    </item>
-    <item>
-        <title>Rusia susține că Europa ar fi mai sigură fără NATO. Zaharova compară Alianța cu o „măsea stricată”</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/rusia-sustine-ca-europa-ar-fi-mai-sigura-fara-nato-zaharova-compara-alianta-cu-o-masea-stricata-4036891</link>
-        <description>Europa ar fi mai sigură fără NATO, a susținut sâmbătă purtătoarea de cuvânt a Ministerului rus de Externe, Maria Zaharova, care a comparat Alianța Nord-Atlantică cu o „măsea stricată” ce slăbește securitatea continentului.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/rusia-sustine-ca-europa-ar-fi-mai-sigura-fara-nato-zaharova-compara-alianta-cu-o-masea-stricata-4036891</guid>
-        <pubDate>Sat, 14 Nov 2026 18:38:13 +0000</pubDate>
     </item>
 </channel>
 </rss>
