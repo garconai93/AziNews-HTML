@@ -5,8 +5,32 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 16 Nov 2026 03:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:01:19 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Secretul tunelului feroviar Holdea, de lângă marile tuneluri ale Autostrăzii Lugoj–Deva. Descoperiri uimitoare la săparea lui</title>
+        <link>https://adevarul.ro/stiri-locale/timisoara/secretul-tunelului-feroviar-holdea-de-langa-2571335.html</link>
+        <description>Marile tuneluri construite în vestul României, pe Autostrada A1 Lugoj–Deva, se învecinează cu un alt tunel spectaculos, care a străpuns aceleași dealuri încă de la sfârșitul secolului al XIX-lea, odată cu construcția căii ferate care conecta Banatul de Valea Mureșului.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/timisoara/secretul-tunelului-feroviar-holdea-de-langa-2571335.html</guid>
+        <pubDate>Mon, 16 Nov 2026 03:41:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>De ce sunt primele ore ale dimineții mai periculoase pentru creier. Riscul de AVC crește cu 72%, avertizează medicii</title>
+        <link>https://www.mediafax.ro/stiinta-sanatate/de-ce-sunt-primele-ore-ale-diminetii-mai-periculoase-pentru-creier-riscul-de-avc-creste-cu-72-avertizeaza-medicii-23840428</link>
+        <description>Riscul de accident vascular cerebral (AVC) crește în primele ore ale dimineții, când tensiunea arterială urcă, iar sângele devine mai predispus la formarea cheagurilor, avertizează experții medicali.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stiinta-sanatate/de-ce-sunt-primele-ore-ale-diminetii-mai-periculoase-pentru-creier-riscul-de-avc-creste-cu-72-avertizeaza-medicii-23840428</guid>
+        <pubDate>Mon, 16 Nov 2026 03:00:02 +0000</pubDate>
+    </item>
+    <item>
+        <title>O nouă modificare a numărului de elevi la clasă? „Dacă mai acceptăm și asta, ne merităm soarta”</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/o-noua-modificare-a-numarului-de-elevi-la-clasa-2571542.html</link>
+        <description>Ministerul Educației a pus în consultare publică proiectul metodologiei de fundamentare a cifrei de școlarizare pentru anul 2027–2028. Documentul introduce, printre altele, criterii economice mai restrictive pentru clasele din mediul urban și municipii. Dascălii sunt revoltați.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/o-noua-modificare-a-numarului-de-elevi-la-clasa-2571542.html</guid>
+        <pubDate>Mon, 16 Nov 2026 03:03:25 +0000</pubDate>
+    </item>
     <item>
         <title>Utilizatorii folosesc inteligența artificială pentru a scăpa de reclamele de pe televizoarele smart. Cum își construiesc propriul sistem de operare</title>
         <link>https://www.mediafax.ro/tehnologie/utilizatorii-folosesc-inteligenta-artificiala-pentru-a-scapa-de-reclamele-de-pe-televizoarele-smart-cum-isi-construiesc-propriul-sistem-de-operare-23841389</link>
@@ -462,30 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/horoscop/horoscop-luni-16-noiembrie-banii-vin-ca-o-2571706.html</guid>
         <pubDate>Sun, 15 Nov 2026 20:01:32 +0000</pubDate>
-    </item>
-    <item>
-        <title>Un studiu răstoarnă tot ce se știa despre viața pisicilor din Egiptul antic. Nu erau toate venerate ca simboluri ale puterii divine</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/descoperiri/un-studiu-rastoarna-tot-ce-se-stia-despre-viata-pisicilor-din-egiptul-antic-nu-erau-toate-venerate-ca-simboluri-ale-puterii-divine-4033155</link>
-        <description>Pisicile domestice nu au dus întotdeauna o viață răsfățată în Egiptul antic, în ciuda venerației pentru aceste feline. Unele dintre ele trăiau chiar în condiții precare, suferind de răni și boli, relevă un nou studiu citat de The Independent.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/descoperiri/un-studiu-rastoarna-tot-ce-se-stia-despre-viata-pisicilor-din-egiptul-antic-nu-erau-toate-venerate-ca-simboluri-ale-puterii-divine-4033155</guid>
-        <pubDate>Sun, 15 Nov 2026 20:10:05 +0000</pubDate>
-    </item>
-    <item>
-        <title>Haos pe aeroporturile din SUA. Peste 5.200 de zboruri au fost afectate într-o singură zi. Când revine traficul aerian la normal</title>
-        <link>https://www.mediafax.ro/externe/haos-pe-aeroporturile-din-sua-peste-5-200-de-zboruri-au-fost-afectate-intr-o-singura-zi-cand-revine-traficul-aerian-la-normal-23843510</link>
-        <description>Traficul aerian din Statele Unite continuă să fie afectat pentru a treia zi consecutiv, după o problemă tehnică majoră care a paralizat sistemul de control al traficului aerian. Peste 5.200 de zboruri au fost anulate sau întârziate duminică, 16 noiembrie, în timp ce autoritățile americane estimează că situația ar putea reveni la normal până luni.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/haos-pe-aeroporturile-din-sua-peste-5-200-de-zboruri-au-fost-afectate-intr-o-singura-zi-cand-revine-traficul-aerian-la-normal-23843510</guid>
-        <pubDate>Sun, 15 Nov 2026 19:20:39 +0000</pubDate>
-    </item>
-    <item>
-        <title>Cum crede AUR că ar trebui făcută reforma administrativ-teritorială a României: „E nevoie de reformarea întregului aparat de stat”</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/cum-crede-aur-ca-ar-trebui-facuta-reforma-administrativ-teritoriala-a-romaniei-e-nevoie-de-reformarea-intregului-aparat-de-stat-4037541</link>
-        <description>Alianța pentru Unirea Românilor (AUR) a prezentat, cu ocazia Forumului Aleșilor Locali din România, desfășurat la Palatul Parlamentului, propria viziune privind reorganizarea administrativă.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/cum-crede-aur-ca-ar-trebui-facuta-reforma-administrativ-teritoriala-a-romaniei-e-nevoie-de-reformarea-intregului-aparat-de-stat-4037541</guid>
-        <pubDate>Sun, 15 Nov 2026 19:31:55 +0000</pubDate>
     </item>
 </channel>
 </rss>
