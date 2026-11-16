@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:01:18 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Ce faci la 16 ani când ai nevoie de psiholog, dar părinții nu te lasă? Senatorii au respins proiectul, decizia finală e la deputați. Ce cere ministrul Educației</title>
+        <link>https://adevarul.ro/dezvoltare-personala/consiliere/ce-faci-la-16-ani-cand-ai-nevoie-de-psiholog-dar-2570410.html</link>
+        <description>Un adolescent care suferă de anxietate, este victima violenței sau trece prin probleme grave în familie poate ajunge să nu primească sprijin psihologic la școală fără acordul părinților.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/dezvoltare-personala/consiliere/ce-faci-la-16-ani-cand-ai-nevoie-de-psiholog-dar-2570410.html</guid>
+        <pubDate>Sun, 15 Nov 2026 23:02:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>De ce ne simțim mai obosiți toamna. Ce se întâmplă cu organismul când zilele devin mai scurte</title>
+        <link>https://www.mediafax.ro/life-entertaiment/de-ce-ne-simtim-mai-obositi-toamna-ce-se-intampla-cu-organismul-cand-zilele-devin-mai-scurte-23838786</link>
+        <description>Schimbarea anotimpurilor poate influența nivelul de energie, calitatea somnului și starea de spirit. Odată cu venirea toamnei și reducerea numărului de ore cu lumină naturală, unele persoane observă că se trezesc mai greu, sunt mai obosite pe parcursul zilei sau au nevoie de mai mult timp pentru a-și desfășura activitățile obișnuite.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-entertaiment/de-ce-ne-simtim-mai-obositi-toamna-ce-se-intampla-cu-organismul-cand-zilele-devin-mai-scurte-23838786</guid>
+        <pubDate>Sun, 15 Nov 2026 23:12:46 +0000</pubDate>
+    </item>
     <item>
         <title>„Mai puneți pungile de la Glovo pe masă...” Imaginea din București care a stârnit o revoltă online privind igiena curierilor</title>
         <link>https://adevarul.ro/stiri-interne/societate/mai-puneti-pungile-de-la-glovo-pe-masa-2569544.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-locale/timisoara/frauda-la-examenul-de-rezidentiat-de-la-timisoara-2571690.html</guid>
         <pubDate>Sun, 15 Nov 2026 18:23:54 +0000</pubDate>
-    </item>
-    <item>
-        <title>Unul avea un ton capricios, iar celălalt era uneori încăpățânat. Biden povestește despre experiențele cu Putin și Zelenski</title>
-        <link>https://adevarul.ro/stiri-externe/sua/unul-avea-un-ton-capricios-iar-celalalt-era-2571680.html</link>
-        <description>Fostul președinte american Joe Biden povestește în memoriile sale despre interacțiunile cu liderul rus Vladimir Putin și președintele ucrainean Volodimir Zelenski. Biden spune că a avut experiențe diferite în discuțiile cu cei doi lideri, pe care îi descrie în termeni contrastanți.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/unul-avea-un-ton-capricios-iar-celalalt-era-2571680.html</guid>
-        <pubDate>Sun, 15 Nov 2026 17:00:32 +0000</pubDate>
-    </item>
-    <item>
-        <title>Franţa interzice vânzarea de dispozitive pirotehnice până pe 27 noiembrie, din cauza incidentelor violente de la proteste</title>
-        <link>https://www.g4media.ro/franta-interzice-vanzarea-de-dispozitive-pirotehnice-pana-pe-27-noiembrie-din-cauza-incidentelor-violente-de-la-proteste.html</link>
-        <description>Guvernul francez a interzis până pe 27 noiembrie vânzarea şi utilizarea dispozitivelor pirotehnice în toată ţara din cauza înmulţirii incidentelor violente în timpul protestelor şi blocajelor la instituţiile de învăţământ care au avut loc în Franţa de la mijlocul lunii septembrie, informează Agerpres. Interdicţia vine după ce astfel de dispozitive au fost folosite în mai…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/franta-interzice-vanzarea-de-dispozitive-pirotehnice-pana-pe-27-noiembrie-din-cauza-incidentelor-violente-de-la-proteste.html</guid>
-        <pubDate>Sun, 15 Nov 2026 17:06:14 +0000</pubDate>
     </item>
 </channel>
 </rss>
