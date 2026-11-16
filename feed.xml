@@ -5,8 +5,424 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:01:27 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Tragedie în Argentina. Un fotbalist de 18 ani a murit lovit în cap de o minge</title>
+        <link>https://adevarul.ro/sport/tragedie-in-argentina-un-fotbalist-de-18-ani-a-2571879.html</link>
+        <description>Component al echipei Futbol Club Ezeiza, Abel Nunez (18 ani) a decedat în urma unui traumatism cranian suferit în timpul unui meci de fotbal din divizia a cincea din Argentina. Accidentarea acestuia s-a produs săptămâna trecută.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/sport/tragedie-in-argentina-un-fotbalist-de-18-ani-a-2571879.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:36:44 +0000</pubDate>
+    </item>
+    <item>
+        <title>Riscul unui accident nuclear în Ucraina crește în această iarnă, avertizează autoritățile de reglementare: „Să înceteze atacurile”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/riscul-unui-accident-nuclear-in-ucraina-creste-in-aceasta-iarna-avertizeaza-autoritatile-de-reglementare-sa-inceteze-atacurile-4038493</link>
+        <description>Riscul unui accident nuclear în Ucraina crește în această iarnă, au declarat luni autoritățile de reglementare în domeniul siguranței nucleare din 38 de țări, îndemnând Rusia să înceteze atacurile asupra infrastructurii energetice a țării, relatează Reuters.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/riscul-unui-accident-nuclear-in-ucraina-creste-in-aceasta-iarna-avertizeaza-autoritatile-de-reglementare-sa-inceteze-atacurile-4038493</guid>
+        <pubDate>Mon, 16 Nov 2026 12:37:53 +0000</pubDate>
+    </item>
+    <item>
+        <title>„Nu le-am promis primarilor un an ușor”. Alexandru Nazare anunță ce pregătește Guvernul pentru bugetul din 2027</title>
+        <link>https://www.mediafax.ro/economic/nu-le-am-promis-primarilor-un-an-usor-alexandru-nazare-anunta-ce-pregateste-guvernul-pentru-bugetul-din-2027-23843959</link>
+        <description>Ministrul Finanțelor, Alexandru Nazare, avertizează că nerespectarea angajamentelor de reducere a deficitului bugetar ar putea afecta ratingul de țară al României și ar putea duce la creșterea costurilor de împrumut.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/nu-le-am-promis-primarilor-un-an-usor-alexandru-nazare-anunta-ce-pregateste-guvernul-pentru-bugetul-din-2027-23843959</guid>
+        <pubDate>Mon, 16 Nov 2026 12:44:07 +0000</pubDate>
+    </item>
+    <item>
+        <title>Estonia își va închide punctele de frontieră cu Rusia după o acțiune de „sabotaj” pe care o atribuie Moscovei. Reacția Kremlinului | AUDIO</title>
+        <link>https://www.europafm.ro/estonia-inchide-frontiera-rusia-1-decembrie-tentativa-sabotaj/</link>
+        <description>Estonia va închide toate punctele de trecere a frontierei cu Rusia începând cu 1 decembrie, după o tentativă de sabotaj asupra unei companii din industria de apărare. Serviciile estoniene de contrainformații au confirmat că Rusia se afla în spatele tentativei de atac.</description>
+        <source url="https://azinews.ro/feed.xml">Europa FM</source>
+        <guid isPermaLink="true">https://www.europafm.ro/estonia-inchide-frontiera-rusia-1-decembrie-tentativa-sabotaj/</guid>
+        <pubDate>Mon, 16 Nov 2026 12:18:41 +0000</pubDate>
+    </item>
+    <item>
+        <title>Guvernul pregătește desființarea sau comasarea a 100 de instituții și agenții. Ce planuri are pentru TAROM și Compania de Autostrăzi | AUDIO</title>
+        <link>https://www.europafm.ro/guvernul-pregateste-desfiintarea-sau-comasarea-a-100-de-institutii-si-agentii-ce-planuri-are-pentru-tarom-si-compania-de-autostrazi/</link>
+        <description>Vicepremierul Marian Neacșu a prezentat prima variantă a reformei instituțiilor publice, care vizează aproximativ 100 de structuri. Proiectul prevede comasări pentru reducerea cheltuielilor, reorganizarea Companiei de Autostrăzi și măsuri pentru menținerea TAROM în activitate.</description>
+        <source url="https://azinews.ro/feed.xml">Europa FM</source>
+        <guid isPermaLink="true">https://www.europafm.ro/guvernul-pregateste-desfiintarea-sau-comasarea-a-100-de-institutii-si-agentii-ce-planuri-are-pentru-tarom-si-compania-de-autostrazi/</guid>
+        <pubDate>Mon, 16 Nov 2026 12:16:49 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un actor francez și-a recunoscut vinovăția și prezintă scuze victimelor. Gérard Depardieu era acuzat de agresiune sexuală</title>
+        <link>https://www.mediafax.ro/externe/un-actor-francez-si-a-recunoscut-vinovatia-si-prezinta-scuze-victimelor-gerard-depardieu-era-acuzat-de-agresiune-sexuala-23843893</link>
+        <description>Gérard Depardieu, actorul francez acuzat de agresiune sexuală, își recunoaște faptele, după aproape doi ani în instanță. Acesta le-a adresat scuze victimelor.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/un-actor-francez-si-a-recunoscut-vinovatia-si-prezinta-scuze-victimelor-gerard-depardieu-era-acuzat-de-agresiune-sexuala-23843893</guid>
+        <pubDate>Mon, 16 Nov 2026 12:09:42 +0000</pubDate>
+    </item>
+    <item>
+        <title>„Își vor căuta de muncă în altă parte”. Ce spune Marian Neacșu despre soarta „clientelei de partid” după reforma companiilor de stat</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/isi-vor-cauta-de-munca-in-alta-parte-ce-spune-marian-neacsu-despre-soarta-clientelei-de-partid-dupa-reforma-companiilor-de-stat-4038445</link>
+        <description>PSD anunță reorganizarea mai multor instituții și companii de stat începând cu luna martie a anului viitor. Măsura ar urma să ducă și la concedieri importante din aparatul de stat, cărora liderul PSD Marian Necașu le promite sprijin pentru reconversie profesională. Cât despre clientela politică care există instituții și companii, vicepremierul spune că va trebui să-și caute de muncă în altă parte.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/isi-vor-cauta-de-munca-in-alta-parte-ce-spune-marian-neacsu-despre-soarta-clientelei-de-partid-dupa-reforma-companiilor-de-stat-4038445</guid>
+        <pubDate>Mon, 16 Nov 2026 12:22:05 +0000</pubDate>
+    </item>
+    <item>
+        <title>Care va fi tendința prețurilor în perioada sărbătorilor de iarnă? Anunțul guvernatorului BNR</title>
+        <link>https://www.mediafax.ro/economic/care-va-fi-tendinta-preturilor-in-perioada-sarbatorilor-de-iarna-anuntul-guvernatorului-bnr-23843908</link>
+        <description>Mugur Isărescu, guvernatorul BNR, a afirmat luni, într-o conferință de presă privind noul Raport trimestrial asupra inflației, că anticipează o ușoară creștere a ratei anuale a inflației până la sfârșitul anului, pe fondul evoluției prețurilor la energie și la produsele petroliere, urmată de o scădere aproape continuă începând de anul viitor. El a făcut precizări și în privința prețurilor în perioada sărbătorilor de iarnă.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/care-va-fi-tendinta-preturilor-in-perioada-sarbatorilor-de-iarna-anuntul-guvernatorului-bnr-23843908</guid>
+        <pubDate>Mon, 16 Nov 2026 11:58:43 +0000</pubDate>
+    </item>
+    <item>
+        <title>Gérard Depardieu renunță la recurs și își recunoaște vinovăția în dosarul agresiunilor sexuale. Condamnarea la 18 luni cu suspendare devine definitivă</title>
+        <link>https://www.europafm.ro/gerard-depardieu-renunta-la-recurs-si-isi-recunoaste-vinovatia-in-dosarul-agresiunilor-sexuale-condamnarea-la-18-luni-cu-suspendare-devine-definitiva/</link>
+        <description>Actorul francez Gérard Depardieu a renunțat la recurs în dosarul în care a fost condamnat pentru agresarea sexuală a două femei pe platourile de filmare. Acesta și-a recunoscut vinovăția și le-a cerut scuze victimelor.</description>
+        <source url="https://azinews.ro/feed.xml">Europa FM</source>
+        <guid isPermaLink="true">https://www.europafm.ro/gerard-depardieu-renunta-la-recurs-si-isi-recunoaste-vinovatia-in-dosarul-agresiunilor-sexuale-condamnarea-la-18-luni-cu-suspendare-devine-definitiva/</guid>
+        <pubDate>Mon, 16 Nov 2026 13:01:13 +0000</pubDate>
+    </item>
+    <item>
+        <title>Comisia Europeană a aprobat parțial a cincea cerere de plată a României din PNRR. Care sunt jaloanele şi ţintele care n-au fost îndeplinite</title>
+        <link>https://www.mediafax.ro/economic/comisia-europeana-a-aprobat-partial-a-cincea-cerere-de-plata-a-romaniei-din-pnrr-care-sunt-jaloanele-si-tintele-care-n-au-fost-indeplinite-23843951</link>
+        <description>Comisia Europeană a aprobat parțial cea de-a cincea cerere de plată a României din PNRR, potrivit unui comunicat de presă emis luni. Cererea de plată a fost depusă de România în vară, în valoare de 2,84 miliarde de euro, iar Comisia va plăti doar 2,67 miliarde de euro.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/economic/comisia-europeana-a-aprobat-partial-a-cincea-cerere-de-plata-a-romaniei-din-pnrr-care-sunt-jaloanele-si-tintele-care-n-au-fost-indeplinite-23843951</guid>
+        <pubDate>Mon, 16 Nov 2026 12:28:26 +0000</pubDate>
+    </item>
+    <item>
+        <title>Contestația la arestul preventiv în cazul lui Călin Georgescu se judecă vineri la Curtea de Apel. Tribunalul Ilfov în pronunțare, dar decizia poate rămâne fără obiect</title>
+        <link>https://www.mediafax.ro/politic/contestatia-la-arestul-preventiv-in-cazul-lui-calin-georgescu-se-judeca-vineri-la-curtea-de-apel-tribunalul-ilfov-in-pronuntare-dar-decizia-poate-ramane-fara-obiect-23843945</link>
+        <description>Călin Georgescu a fost adus luni la Tribunalul Ilfov, unde magistrații analizează dacă fostul candidat la alegerile prezidențiale va rămâne în arest preventiv în dosarul de înșelăciune cu un prejudiciu estimat la peste 1,1 milioane de euro. În paralel, la Curtea de Apel București urmează să fie judecată contestația DIICOT împotriva unei decizii prin care Tribunalul București a dispus înlocuirea arestului preventiv cu arestul la domiciliu.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/contestatia-la-arestul-preventiv-in-cazul-lui-calin-georgescu-se-judeca-vineri-la-curtea-de-apel-tribunalul-ilfov-in-pronuntare-dar-decizia-poate-ramane-fara-obiect-23843945</guid>
+        <pubDate>Mon, 16 Nov 2026 12:22:30 +0000</pubDate>
+    </item>
+    <item>
+        <title>Jaf armat la un magazin Pokemon din Danemarca. Hoţii au furat cartonaşe în valoare de peste 140.000 de dolari</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/jaf-armat-la-un-magazin-pokemon-din-danemarca-hotii-au-furat-cartonase-in-valoare-de-peste-140-000-de-dolari-4038449</link>
+        <description>Poliţia daneză a demarat duminică o anchetă de amploare după ce mai mulţi hoţi mascaţi au dat o spargere la un magazin specializat în comercializarea de cartonaşe Pokemon, situat în nordul capitalei Copenhaga, de unde au sustras obiecte de colecţie în valoare de peste 130.000 de euro (143.000 de dolari), informează agenţia de presă DPA.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/jaf-armat-la-un-magazin-pokemon-din-danemarca-hotii-au-furat-cartonase-in-valoare-de-peste-140-000-de-dolari-4038449</guid>
+        <pubDate>Mon, 16 Nov 2026 12:22:22 +0000</pubDate>
+    </item>
+    <item>
+        <title>Contrabandă cu țigări în trenul internațional Kiev - Chișinău - București: ce au descoperit anchetatorii</title>
+        <link>https://www.digi24.ro/stiri/contrabanda-cu-tigari-in-trenul-international-kiev-chisinau-bucuresti-ce-au-descoperit-anchetatorii-4038401</link>
+        <description>Şase persoane, printre care şi un angajat CFR, sunt cercetate pentru contrabandă asimilată, într-un dosar în care procurorii susţin că ţigări provenite din Republica Moldova au fost introduse în România cu trenul IR 401, pe ruta Kiev – Chişinău – Bucureşti, ascunse în diferite compartimente ale vagoanelor. După ce pasagerii coborau în Gara de Nord, trenul era dus în staţia Revizia Griviţa, acolo unde marfa era descărcată, cu sprijinul unui angajat al CFR. Apoi, aceasta era transportată la…</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/contrabanda-cu-tigari-in-trenul-international-kiev-chisinau-bucuresti-ce-au-descoperit-anchetatorii-4038401</guid>
+        <pubDate>Mon, 16 Nov 2026 12:07:23 +0000</pubDate>
+    </item>
+    <item>
+        <title>Marcus Aurelius a fost declarat mort, iar un general i-a luat tronul! Rebeliunea care a zguduit Imperiul Roman (P)</title>
+        <link>https://www.mediafax.ro/cultura-media/marcus-aurelius-a-fost-declarat-mort-iar-un-general-i-a-luat-tronul-rebeliunea-care-a-zguduit-imperiul-roman-p-23843973</link>
+        <description>În anul 175 d.Hr., un zvon despre moartea împăratului Marcus Aurelius a provocat una dintre cele mai periculoase crize politice ale domniei sale. Avidius Cassius, un general roman cu o reputație militară impresionantă, s-a proclamat împărat în Orient, deși Marcus Aurelius era încă în viață. În doar câteva săptămâni, Imperiul Roman s-a confruntat cu perspectiva unui război civil, iar în centrul scandalului a ajuns chiar Faustina, soția împăratului. Povestea rebeliunii dezvăluie cât de fragilă…</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/cultura-media/marcus-aurelius-a-fost-declarat-mort-iar-un-general-i-a-luat-tronul-rebeliunea-care-a-zguduit-imperiul-roman-p-23843973</guid>
+        <pubDate>Mon, 16 Nov 2026 12:44:01 +0000</pubDate>
+    </item>
+    <item>
+        <title>Ce se întâmplă cu listarea companiilor de stat la bursă și cu oamenii numiți politic în conduceri. Explicațiile vicepremierului Marian Neacșu | AUDIO</title>
+        <link>https://www.europafm.ro/ce-se-intampla-cu-listarea-companiilor-de-stat-la-bursa-si-cu-oamenii-numiti-politic-in-conduceri-explicatiile-vicepremierului-marian-neacsu/</link>
+        <description>Vicepremierul Marian Neacșu spune că listarea companiilor de stat la bursă va fi analizată după creșterea eficienței și profitabilității acestora. Întrebat despre clientela de partid din companii, afirmă că unii ar putea „să-și caute de muncă în altă parte”.</description>
+        <source url="https://azinews.ro/feed.xml">Europa FM</source>
+        <guid isPermaLink="true">https://www.europafm.ro/ce-se-intampla-cu-listarea-companiilor-de-stat-la-bursa-si-cu-oamenii-numiti-politic-in-conduceri-explicatiile-vicepremierului-marian-neacsu/</guid>
+        <pubDate>Mon, 16 Nov 2026 12:01:48 +0000</pubDate>
+    </item>
+    <item>
+        <title>Fostă concurentă la „Puterea Dragostei”, prinsă după aproape două săptămâni într-un dosar pentru trafic de droguri</title>
+        <link>https://adevarul.ro/stiri-locale/cluj-napoca/fosta-concurenta-la-puterea-dragostei-prinsa-2571881.html</link>
+        <description>Andreea Claudia Pirui, fostă concurentă a emisiunii „Puterea Dragostei”, a fost prinsă de polițiști luni, 16 noiembrie, la o unitate de cazare din Cluj, fiind acuzată de trafic de droguri de mare risc.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/cluj-napoca/fosta-concurenta-la-puterea-dragostei-prinsa-2571881.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:54:13 +0000</pubDate>
+    </item>
+    <item>
+        <title>Polonia a reținut trei adolescenţi suspectaţi de pregătirea unui atac terorist / Ar avea legături cu o mişcare neo-nazistă</title>
+        <link>https://www.g4media.ro/polonia-a-retinut-trei-adolescenti-suspectati-de-pregatirea-unui-atac-terorist-ar-avea-legaturi-cu-o-miscare-neo-nazista.html</link>
+        <description>Agenţia de Securitate Internă a Poloniei (ABW) a reţinut trei adolescenţi suspectaţi că pregăteau un atac terorist, a anunţat luni, pe platforma X, Tomasz Siemoniak, ministrul care coordonează serviciile speciale poloneze, transmite agenția de știri Reuters, citată de Agerpres. Suspecţii, un adolescent de 16 ani şi doi adolescenţi de 17 ani, aveau legături cu o…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/polonia-a-retinut-trei-adolescenti-suspectati-de-pregatirea-unui-atac-terorist-ar-avea-legaturi-cu-o-miscare-neo-nazista.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:10:20 +0000</pubDate>
+    </item>
+    <item>
+        <title>A murit Dino Sani, campion mondial cu Brazilia în 1958 și câștigător al Cupei Campionilor Europeni cu AC Milan. Avea 94 de ani</title>
+        <link>https://www.mediafax.ro/sport/a-murit-dino-sani-campion-mondial-cu-brazilia-in-1958-si-castigator-al-cupei-campionilor-europeni-cu-ac-milan-avea-94-de-ani-23843933</link>
+        <description>Fostul fotbalist și antrenor brazilian Dino Sani, campion mondial cu naționala Braziliei la ediția din 1958 și câștigător al Cupei Campionilor Europeni cu AC Milan, a murit duminică, 15 noiembrie, la vârsta de 94 de ani, a anunțat Confederația Braziliană de Fotbal (CBF).</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/a-murit-dino-sani-campion-mondial-cu-brazilia-in-1958-si-castigator-al-cupei-campionilor-europeni-cu-ac-milan-avea-94-de-ani-23843933</guid>
+        <pubDate>Mon, 16 Nov 2026 12:17:19 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un livrator nepalez, atacat în timp ce urmărea hoțul care îi furase bicicleta. Martoră: „Trei femei au intervenit, paznicii au stat deoparte”</title>
+        <link>https://adevarul.ro/stiri-locale/bucuresti/un-livrator-nepalez-atacat-in-timp-ce-urmarea-2571811.html</link>
+        <description>Un livrator din Nepal în vârstă de 35 de ani, a fost agresat în fața unui magazin din zona Pieței Domenii, din București, după ce a încercat să-și recupereze bicicleta pe care un tânăr i-ar fi furat-o.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/bucuresti/un-livrator-nepalez-atacat-in-timp-ce-urmarea-2571811.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:13:35 +0000</pubDate>
+    </item>
+    <item>
+        <title>Șefa diplomației UE consideră „absurde” cererile Rusiei în negocierile privind Ucraina: „Folosesc acea strategie obișnuită a lor”</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/sefa-diplomatiei-ue-considera-absurde-cererile-rusiei-in-negocierile-privind-ucraina-folosesc-acea-strategie-obisnuita-a-lor-4038399</link>
+        <description>Șefa diplomației UE, Kaja Kallas, a calificat luni drept „absurde” cererile Rusiei de concesii în războiul pe care îl poartă împotriva Ucrainei, susținând că este de datoria Moscovei să facă primul pas pentru a pune capăt războiului pe care l-a declanșat, relatează Politico.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/sefa-diplomatiei-ue-considera-absurde-cererile-rusiei-in-negocierile-privind-ucraina-folosesc-acea-strategie-obisnuita-a-lor-4038399</guid>
+        <pubDate>Mon, 16 Nov 2026 12:08:19 +0000</pubDate>
+    </item>
+    <item>
+        <title>Dacian Cioloș’s first reaction after the Francophonie Summit postponed secretary-general election</title>
+        <link>https://www.mediafax.ro/english/dacian-cioloss-first-reaction-after-the-francophonie-summit-postponed-secretary-general-election-23843930</link>
+        <description>Dacian Cioloș had a first reaction on Monday, shortly after the member states of the International Organization of La Francophonie (OIF) failed to reach an agreement on the election of the future secretary general, during the summit held on November 15-16, 2026, in Phnom Penh, Cambodia.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/english/dacian-cioloss-first-reaction-after-the-francophonie-summit-postponed-secretary-general-election-23843930</guid>
+        <pubDate>Mon, 16 Nov 2026 12:05:52 +0000</pubDate>
+    </item>
+    <item>
+        <title>TRANSCRIPTS FROM THE PSD MEETING. Grindeanu demands administrative reform without exceptions: There cannot be two rules. Attack on Bolojan and warning for UDMR</title>
+        <link>https://www.mediafax.ro/english/transcripts-from-the-psd-meeting-grindeanu-demands-administrative-reform-without-exceptions-there-cannot-be-two-rules-attack-on-bolojan-and-warning-for-udmr-23843921</link>
+        <description>PSD leader Sorin Grindeanu launched criticism on Monday against former Prime Minister Ilie Bolojan and the way he carried out administrative reforms, during a meeting of the Social Democrats' leadership.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/english/transcripts-from-the-psd-meeting-grindeanu-demands-administrative-reform-without-exceptions-there-cannot-be-two-rules-attack-on-bolojan-and-warning-for-udmr-23843921</guid>
+        <pubDate>Mon, 16 Nov 2026 11:58:32 +0000</pubDate>
+    </item>
+    <item>
+        <title>Instanța a blocat lucrările de modernizare a Falezei Dunării din Galați în valoare de peste 200 de milioane de lei</title>
+        <link>https://www.mediafax.ro/social/instanta-a-blocat-lucrarile-de-modernizare-a-falezei-dunarii-din-galati-in-valoare-de-peste-200-de-milioane-de-lei-23843891</link>
+        <description>Tribunalul București a blocat lucrările de modernizare a Falezei Dunării din Galați. Instanța a decis luni să suspende autorizația de construire și hotărârile de consiliu local cu privire la proiect până la pronunțarea pe fond. Lucrările de modernizare au o valoare totală de 226 milioane de lei.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/instanta-a-blocat-lucrarile-de-modernizare-a-falezei-dunarii-din-galati-in-valoare-de-peste-200-de-milioane-de-lei-23843891</guid>
+        <pubDate>Mon, 16 Nov 2026 11:54:05 +0000</pubDate>
+    </item>
+    <item>
+        <title>Fără lenjerie intimă în timpul unei transmisiuni live. Gafa unui deputat ucrainean</title>
+        <link>https://adevarul.ro/stiri-externe/europa/fara-lenjerie-intima-in-timpul-unei-transmisiuni-2571873.html</link>
+        <description>Un interviu televizat dedicat problemelor din sectorul energetic ucrainean, transmis în direct, a fost marcat de un incident în care deputatul ucrainean Oleksi Kucerenko a apărut într-o ipostază compromițătoare, potrivit Click!</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/fara-lenjerie-intima-in-timpul-unei-transmisiuni-2571873.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:41:44 +0000</pubDate>
+    </item>
+    <item>
+        <title>Traficul aerian din SUA revine treptat la normal. Numărul de zboruri anulate sau întârziate continuă să scadă</title>
+        <link>https://www.mediafax.ro/stirile-zilei/traficul-aerian-din-sua-revine-treptat-la-normal-numarul-de-zboruri-anulate-sau-intarziate-continua-sa-scada-23843938</link>
+        <description>Luni, traficul aerian din SUA a început să revină la normal după ce toate zborurile au fost suspendate vineri la nivel național. Numărul de zboruri anulate sau întârziate este în scădere comparativ cu ziua precedentă.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/traficul-aerian-din-sua-revine-treptat-la-normal-numarul-de-zboruri-anulate-sau-intarziate-continua-sa-scada-23843938</guid>
+        <pubDate>Mon, 16 Nov 2026 12:59:09 +0000</pubDate>
+    </item>
+    <item>
+        <title>România ar putea fi împărțită în opt regiuni. Lia Olguța Vasilescu avansează o variantă pentru reorganizarea țării: „Să o facem pe structura actualelor ADR-uri”</title>
+        <link>https://www.mediafax.ro/politic/romania-ar-putea-fi-impartita-in-opt-regiuni-lia-olguta-vasilescu-avanseaza-o-varianta-pentru-reorganizarea-tarii-sa-o-facem-pe-structura-actualelor-adr-uri-23843941</link>
+        <description>Harta administrativă a României ar putea fi redesenată pornind de la cele opt regiuni de dezvoltare existente. Este una dintre variantele avansate de primarul Craiovei, Lia Olguța Vasilescu, care conduce și Asociația Municipiilor din România. Edilul susține că o eventuală regionalizare ar trebui să simplifice administrația și să faciliteze accesarea fondurilor europene. Vasilescu precizează însă că nu există, în prezent, nicio decizie privind reorganizarea administrativ-teritorială și că…</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/romania-ar-putea-fi-impartita-in-opt-regiuni-lia-olguta-vasilescu-avanseaza-o-varianta-pentru-reorganizarea-tarii-sa-o-facem-pe-structura-actualelor-adr-uri-23843941</guid>
+        <pubDate>Mon, 16 Nov 2026 12:18:44 +0000</pubDate>
+    </item>
+    <item>
+        <title>Marian Neacșu, despre situația TAROM: Sunt greșeli de management și de administrare, dacă le identificăm, vom ține compania în viață</title>
+        <link>https://www.digi24.ro/stiri/economie/transporturi/marian-neacsu-despre-situatia-tarom-sunt-greseli-de-management-si-de-administrare-daca-le-identificam-vom-tine-compania-in-viata-4038441</link>
+        <description>Vicepremierul Marian Neacşu a declarat, luni, că de-a lungul timpului, la TAROM s-au făcut o serie de mari greşeli şi de management, dar mai ales de administrare, iar dacă reuşesc să le identifice şi crede că vor reuşi, vor putea să ţină compania în viaţă.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/transporturi/marian-neacsu-despre-situatia-tarom-sunt-greseli-de-management-si-de-administrare-daca-le-identificam-vom-tine-compania-in-viata-4038441</guid>
+        <pubDate>Mon, 16 Nov 2026 12:22:17 +0000</pubDate>
+    </item>
+    <item>
+        <title>A doua tinerețe. Zodia care înflorește abia după 50 de ani</title>
+        <link>https://www.mediafax.ro/life-inedit/a-doua-tinerete-zodia-care-infloreste-abia-dupa-50-de-ani-23843906</link>
+        <description>Există o zodie care devine tot mai fascinantă după 50 de ani. Pentru femeile născute sub acest semn abia atunci începe cea mai luminoasă etapă a vieții.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/life-inedit/a-doua-tinerete-zodia-care-infloreste-abia-dupa-50-de-ani-23843906</guid>
+        <pubDate>Mon, 16 Nov 2026 11:55:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>O regiune din România, printre cele mai periculoase din UE pentru șoferi. Numărul deceselor rutiere depășește de două ori media europeană</title>
+        <link>https://www.mediafax.ro/social/o-regiune-din-romania-printre-cele-mai-periculoase-din-ue-pentru-soferi-numarul-deceselor-rutiere-depaseste-de-doua-ori-media-europeana-23843907</link>
+        <description>O regiune din România se află printre cele mai periculoase din Uniunea Europeană în privința accidentelor rutiere mortale. Potrivit datelor publicate luni de Eurostat, această zonă înregistrează o rată a mortalității rutiere de peste două ori mai mare decât media europeană.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/o-regiune-din-romania-printre-cele-mai-periculoase-din-ue-pentru-soferi-numarul-deceselor-rutiere-depaseste-de-doua-ori-media-europeana-23843907</guid>
+        <pubDate>Mon, 16 Nov 2026 12:09:38 +0000</pubDate>
+    </item>
+    <item>
+        <title>Ce spune premierul Luca Niculescu despre reorganizarea teritorială: După comasarea voluntară, „vom vedea care este cea mai bună soluție”. Olguța Vasilescu: Vor fi discuții cu Asociația Municipiilor | </title>
+        <link>https://www.europafm.ro/ce-spune-premierul-luca-niculescu-despre-reorganizarea-teritoriala-dupa-comasarea-voluntara-vom-vedea-care-este-cea-mai-buna-solutie-olguta-vasilescu-vor-fi-discutii-cu-asociatia/</link>
+        <description>Premierul Luca Niculescu nu a precizat dacă își va asuma răspunderea în Parlament pentru reforma administrativ-teritorială. Comasarea voluntară ar urma să fie încheiată până în martie.</description>
+        <source url="https://azinews.ro/feed.xml">Europa FM</source>
+        <guid isPermaLink="true">https://www.europafm.ro/ce-spune-premierul-luca-niculescu-despre-reorganizarea-teritoriala-dupa-comasarea-voluntara-vom-vedea-care-este-cea-mai-buna-solutie-olguta-vasilescu-vor-fi-discutii-cu-asociatia/</guid>
+        <pubDate>Mon, 16 Nov 2026 12:58:16 +0000</pubDate>
+    </item>
+    <item>
+        <title>INTERVIU | Fostul premier și europarlamentar belgian Guy Verhofstadt, despre „amendamentul Fritz” din Legea Integrității: „Curtea Constituțională este în mâinile clasei politice / E nevoie de schimbar</title>
+        <link>https://www.g4media.ro/interviu-fostul-premier-si-europarlamentar-belgian-guy-verhofstadt-despre-amendamentul-fritz-din-legea-integritatii-curtea-constitutionala-este-in-mainile-clasei-politic.html</link>
+        <description>Fostul europarlamentar liberal și premier belgian Guy Verhofstadt a criticat dur Curtea Constituțională a României pentru validarea amendamentului din Legea integrității în urma căruia Dominic Fritz a rămas fără mandatul de primar al Timișoarei. „Această Curte Constituțională se află în mâinile clasei politice și ascultă de aceasta”, a declarat Verhofstadt într-un interviu în exclusivitate pentru…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/interviu-fostul-premier-si-europarlamentar-belgian-guy-verhofstadt-despre-amendamentul-fritz-din-legea-integritatii-curtea-constitutionala-este-in-mainile-clasei-politic.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:23:16 +0000</pubDate>
+    </item>
+    <item>
+        <title>Partidele SENS și URSPDF anunță că pregătesc un pol verde progresist de centru-stânga pentru alegerile din 2028</title>
+        <link>https://www.g4media.ro/partidele-sens-si-urspdf-anunta-ca-pregatesc-un-pol-verde-progresist-de-centru-stanga-pentru-alegerile-din-2028.html</link>
+        <description>Partidul SENS și Uniunea pentru Reforma Statului și Protecția Drepturilor Fundamentale (URSPDF) au încheiat un acord de colaborare în perspectiva alegerilor din 2028, potrivit unui comunicar. Cele două organizații au agreat un set de principii și politici publice comune de la care să construiască o alternativă de guvernare bazată pe justiție socială, democrație și responsabilitate…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/partidele-sens-si-urspdf-anunta-ca-pregatesc-un-pol-verde-progresist-de-centru-stanga-pentru-alegerile-din-2028.html</guid>
+        <pubDate>Mon, 16 Nov 2026 13:00:42 +0000</pubDate>
+    </item>
+    <item>
+        <title>Cum a ajuns STB în insolvență, cu datorii de peste 3 miliarde de lei. Lecțiile pe care le poate învăța Capitala de la Viena sau Tallinn</title>
+        <link>https://www.digi24.ro/stiri/economie/companii/cum-a-ajuns-stb-in-insolventa-cu-datorii-de-peste-3-miliarde-de-lei-lectiile-pe-care-le-poate-invata-capitala-de-la-viena-sau-tallinn-4038485</link>
+        <description>STB a ajuns în insolvență după ani în care tarifele reduse, costurile tot mai mari, subvențiile insuficiente și problemele de administrare au alimentat un circuit al datoriilor, arată o analiză Frames. Compania avea plăți restante de aproximativ 1,14 miliarde de lei la sfârșitul anului 2025, iar administratorul judiciar estimează datoriile totale, cu penalități, la peste trei miliarde de lei. Analiștii susțin că reorganizarea trebuie să schimbe modelul de funcționare, nu doar să reeșaloneze…</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/companii/cum-a-ajuns-stb-in-insolventa-cu-datorii-de-peste-3-miliarde-de-lei-lectiile-pe-care-le-poate-invata-capitala-de-la-viena-sau-tallinn-4038485</guid>
+        <pubDate>Mon, 16 Nov 2026 12:33:26 +0000</pubDate>
+    </item>
+    <item>
+        <title>Performanță de top și siguranță agronomică într-un singur hibrid!</title>
+        <link>https://www.mediafax.ro/comunicate/performanta-de-top-si-siguranta-agronomica-intr-un-singur-hibrid-23843965</link>
+        <description>În 2026, floarea-soarelui și-a consolidat importanța în structura culturilor din România, într-un context în care fermierii urmăresc tot mai atent nu doar producția maximă, dar mai ales profitabilitatea fiecărui hectar și eficiența inputurilor utilizate. Din această perspectivă, floarea-soarelui are un avantaj important. Este o cultură capabilă să valorifice foarte bine resursele existente în sol și…</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/comunicate/performanta-de-top-si-siguranta-agronomica-intr-un-singur-hibrid-23843965</guid>
+        <pubDate>Mon, 16 Nov 2026 12:35:07 +0000</pubDate>
+    </item>
+    <item>
+        <title>Avertisment. Rezistența la antibiotice ar putea cauza zeci de milioane de decese în următorii 25 de ani</title>
+        <link>https://www.mediafax.ro/sanatate/avertisment-rezistenta-la-antibiotice-ar-putea-cauza-zeci-de-milioane-de-decese-in-urmatorii-25-de-ani-23843943</link>
+        <description>Rezistența la antibiotice și la alte medicamente ar putea cauza zeci de milioane de decese în următorii 25 de ani. Avertismentul vine de la Organizația Mondială a Sănătății (OMS). Experții agenției ONU spun că viitorul medicinei moderne este în pericol.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/avertisment-rezistenta-la-antibiotice-ar-putea-cauza-zeci-de-milioane-de-decese-in-urmatorii-25-de-ani-23843943</guid>
+        <pubDate>Mon, 16 Nov 2026 12:27:44 +0000</pubDate>
+    </item>
+    <item>
+        <title>O universitate trece la cursuri online din cauza facturilor la încălzire. Ministerul Educației critică decizia</title>
+        <link>https://adevarul.ro/stiri-interne/educatie/o-universitate-trece-la-cursuri-online-din-cauza-2571852.html</link>
+        <description>Facturile tot mai mari la încălzire și energie electrică au determinat Universitatea „Aurel Vlaicu” din Arad să decidă mutarea temporară a activității didactice în mediul online.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/educatie/o-universitate-trece-la-cursuri-online-din-cauza-2571852.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:03:29 +0000</pubDate>
+    </item>
+    <item>
+        <title>Ce face astăzi Ștefan Pricopie, românul care a câștigat „Nobelul Junior” pentru Economie la 22 de ani</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/ce-face-astazi-stefan-pricopie-romanul-care-a-2571877.html</link>
+        <description>La șapte ani după ce a câștigat „Nobelul Junior” pentru Economie, la doar 22 de ani, Ștefan Pricopie și-a construit o carieră internațională, ajungând să lucreze în cercetare economică și inteligență artificială la Londra.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/ce-face-astazi-stefan-pricopie-romanul-care-a-2571877.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:42:30 +0000</pubDate>
+    </item>
+    <item>
+        <title>UE a aprobat cea mai mare plată unică pentru Ucraina</title>
+        <link>https://www.mediafax.ro/externe/ue-a-aprobat-cea-mai-mare-plata-unica-pentru-ucraina-23843900</link>
+        <description>Președintele ucrainean Volodimir Zelenski a declarat că Uniunea Europeană a aprobat cea mai mare plată unică efectuată vreodată către Ucraina.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/ue-a-aprobat-cea-mai-mare-plata-unica-pentru-ucraina-23843900</guid>
+        <pubDate>Mon, 16 Nov 2026 12:10:19 +0000</pubDate>
+    </item>
+    <item>
+        <title>Bulgaria cere ca două bănci rusești să fie eliminate de pe lista sancțiunilor UE / Principalii acționari ai acestora sunt companii bulgare</title>
+        <link>https://www.g4media.ro/bulgaria-cere-ca-doua-banci-rusesti-sa-fie-eliminate-de-pe-lista-sanctiunilor-ue-principalii-actionari-ai-acestora-sunt-companii-bulgare.html</link>
+        <description>Bulgaria a solicitat ca două bănci rusești – First Investment Bank și Investment Cooperative Bank – să fie eliminate de pe ultima listă de sancțiuni ale UE împotriva Rusiei, deoarece sunt deținute de companii bulgare care nu gestionează fonduri de la persoane incluse pe listele de sancțiuni, potrivit segabg.com. Sancțiunile ar trebui aprobate definitiv astăzi.…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/bulgaria-cere-ca-doua-banci-rusesti-sa-fie-eliminate-de-pe-lista-sanctiunilor-ue-principalii-actionari-ai-acestora-sunt-companii-bulgare.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:34:22 +0000</pubDate>
+    </item>
+    <item>
+        <title>România a fost realeasă în Consiliul Uniunii Internațională a Telecomunicațiilor</title>
+        <link>https://www.g4media.ro/pavel-popescu-romania-a-fost-realeasa-in-consiliul-uniunii-internationala-a-telecomunicatiilor.html</link>
+        <description>Pavel Popescu, vicepreședinte arbitrului pieței telecom (ANCOM), a declarat luni că România a fost realeasă în Consiliul Uniunii Internațională a Telecomunicațiilor (ITU), un organism internațional care stabilește standardele globale în domeniu. ”După cea mai grea competiție din ultimii 32 de ani, în urma unui efort diplomatic incredibil de echipă condus de ANCOM cu absolut toate…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/pavel-popescu-romania-a-fost-realeasa-in-consiliul-uniunii-internationala-a-telecomunicatiilor.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:08:39 +0000</pubDate>
+    </item>
+    <item>
+        <title>Marcus Aurelius a fost declarat mort, iar un general i-a luat tronul! Rebeliunea care a zguduit Imperiul Roman (P)</title>
+        <link>https://www.g4media.ro/marcus-aurelius-a-fost-declarat-mort-iar-un-general-i-a-luat-tronul-rebeliunea-care-a-zguduit-imperiul-roman-p.html</link>
+        <description>În anul 175 d.Hr., un zvon despre moartea împăratului Marcus Aurelius a provocat una dintre cele mai periculoase crize politice ale domniei sale. Avidius Cassius, un general roman cu o reputație militară impresionantă, s-a proclamat împărat în Orient, deși Marcus Aurelius era încă în viață. În doar câteva săptămâni, Imperiul Roman s-a confruntat cu perspectiva…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/marcus-aurelius-a-fost-declarat-mort-iar-un-general-i-a-luat-tronul-rebeliunea-care-a-zguduit-imperiul-roman-p.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:47:46 +0000</pubDate>
+    </item>
+    <item>
+        <title>Turos Lóránd: Reforma administrativ-teritorială nu este o amenințare la adresa UDMR, ci o amenințare la adresa fiecărei comunități locale din România</title>
+        <link>https://www.g4media.ro/turos-lorand-reforma-administrativ-teritoriala-nu-este-o-amenintare-la-adresa-udmr-ci-o-amenintare-la-adresa-fiecarei-comunitati-locale-din-romania.html</link>
+        <description>Liderul senatorilor UDMR, Turos Lóránd, a declarat, luni, că propunerea PSD privind reforma administrativ-teritorială pune în pericol interesele fiecărei comunități locale. „Este o amenințare la adresa comunităților locale din România, indiferent că vorbim despre județul Olt, Vaslui sau Harghita”, a declarat liderul senatorilor UDMR, citat într-un comunicat de presă. „Comunitățile locale nu pot fi tratate…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/turos-lorand-reforma-administrativ-teritoriala-nu-este-o-amenintare-la-adresa-udmr-ci-o-amenintare-la-adresa-fiecarei-comunitati-locale-din-romania.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:48:59 +0000</pubDate>
+    </item>
+    <item>
+        <title>Apple lansează o aplicație bazată pe inteligență artificială pentru întrebări medicale. Compania vrea să studieze răspunsurile generate de AI</title>
+        <link>https://www.mediafax.ro/tehnologie/apple-lanseaza-o-aplicatie-bazata-pe-inteligenta-artificiala-pentru-intrebari-medicale-compania-vrea-sa-studieze-raspunsurile-generate-de-ai-23843957</link>
+        <description>Apple lansează o aplicație experimentală bazată pe inteligență artificială, prin care utilizatorii pot pune întrebări despre sănătate și pot primi răspunsuri fundamentate pe studii și publicații medicale. Compania americană va desfășura un studiu de peste 12 luni, la care ar putea participa până la 200.000 de persoane din Statele Unite.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/apple-lanseaza-o-aplicatie-bazata-pe-inteligenta-artificiala-pentru-intrebari-medicale-compania-vrea-sa-studieze-raspunsurile-generate-de-ai-23843957</guid>
+        <pubDate>Mon, 16 Nov 2026 12:28:59 +0000</pubDate>
+    </item>
+    <item>
+        <title>Forțele pro-guvernamentale din Yemen se retrag din zona strâmtorii Bab al-Mandab pentru a apăra orașul Aden de rebelii houthi</title>
+        <link>https://www.g4media.ro/fortele-pro-guvernamentale-din-yemen-se-retrag-din-zona-stramtorii-bab-al-mandab-pentru-a-apara-orasul-aden-de-rebelii-houthi.html</link>
+        <description>Forțele yemenite pro-guvernamentale, susținute de Arabia Saudită, au anunțat că își redistribuie trupele pentru a apăra orașul Aden, capitala provizorie a țării, după mai multe săptămâni de confruntări intense cu rebelii houthi, sprijiniți de Iran, relatează BBC. Forțele Armate din Sud au declarat că se retrag din zona care domină strâmtoarea Bab al-Mandab, un punct…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/fortele-pro-guvernamentale-din-yemen-se-retrag-din-zona-stramtorii-bab-al-mandab-pentru-a-apara-orasul-aden-de-rebelii-houthi.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:57:47 +0000</pubDate>
+    </item>
+    <item>
+        <title>Un fost muncitor și-a construit de la zero un Bugatti de milioane, cu doar 6.000 de euro</title>
+        <link>https://www.mediafax.ro/auto/un-fost-muncitor-si-a-construit-de-la-zero-un-bugatti-de-milioane-cu-doar-6-000-de-euro-23843970</link>
+        <description>Un Bugatti Type 35 originală valorează milioane de euro. Un fost muncitor din Alsacia și-a construit unul cu mâna lui, de la zero, în șapte ani și peste 3.000 de ore de muncă.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/auto/un-fost-muncitor-si-a-construit-de-la-zero-un-bugatti-de-milioane-cu-doar-6-000-de-euro-23843970</guid>
+        <pubDate>Mon, 16 Nov 2026 12:43:10 +0000</pubDate>
+    </item>
+    <item>
+        <title>Ucraina primește un sprijin financiar record de la Uniunea Europeană: 8 miliarde de euro. Ce condiții a îndeplinit Kievul</title>
+        <link>https://www.digi24.ro/stiri/externe/ue/ucraina-primeste-un-sprijin-financiar-record-de-la-uniunea-europeana-8-miliarde-de-euro-ce-conditii-a-indeplinit-kievul-4038417</link>
+        <description>Uniunea Europeană a aprobat, luni, un ajutor de puțin sub 8 miliarde de euro pentru Ucraina, cea mai mare plată unică realizată vreodată, informează DPA.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/ucraina-primeste-un-sprijin-financiar-record-de-la-uniunea-europeana-8-miliarde-de-euro-ce-conditii-a-indeplinit-kievul-4038417</guid>
+        <pubDate>Mon, 16 Nov 2026 12:12:14 +0000</pubDate>
+    </item>
+    <item>
+        <title>Rezistenţa la antibiotice ar putea provoca 39 de milioane de decese până în 2050, avertizează Organizaţia Mondială a Sănătăţii</title>
+        <link>https://www.g4media.ro/rezistenta-la-antibiotice-ar-putea-provoca-39-de-milioane-de-decese-pana-in-2050-avertizeaza-organizatia-mondiala-a-sanatatii.html</link>
+        <description>Apariţia bacteriilor rezistente la antibiotice şi la alte antimicrobiene, uneori ca urmare a utilizării necorespunzătoare a acestora, provoacă peste un milion de decese anual şi, la ritmul în care evoluează în prezent situaţia, ar putea duce la 39 de milioane de decese în următorii 25 de ani, a avertizat luni Organizaţia Mondială a Sănătăţii (OMS),…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/rezistenta-la-antibiotice-ar-putea-provoca-39-de-milioane-de-decese-pana-in-2050-avertizeaza-organizatia-mondiala-a-sanatatii.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:03:52 +0000</pubDate>
+    </item>
+    <item>
+        <title>O nouă „provocare” periculoasă de pe TikTok: „Când mașina e la doi metri, pac!” Copiii se prefac că sar în fața mașinilor, apoi fug</title>
+        <link>https://adevarul.ro/stiri-locale/galati/o-noua-provocare-periculoasa-de-pe-tiktok-cand-2571866.html</link>
+        <description>Așteaptă pe marginea drumului până când o mașină se apropie, apoi țâșnesc pe trecerea de pietoni, simulând că se aruncă în fața vehiculului. În ultima clipă, se retrag. Este jocul extrem de periculos al unor copii din Galați, surprins în mai multe înregistrări realizate cu o cameră de bord.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-locale/galati/o-noua-provocare-periculoasa-de-pe-tiktok-cand-2571866.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:27:17 +0000</pubDate>
+    </item>
+    <item>
+        <title>Pacienții vor primi SMS sau e-mail când le sunt decontate servicii medicale. Alexandru Rogobete anunță controale pentru depistarea fraudelor | AUDIO</title>
+        <link>https://www.europafm.ro/pacientii-vor-primi-sms-sau-e-mail-cand-le-sunt-decontate-servicii-medicale-alexandru-rogobete-anunta-controale-pentru-depistarea-fraudelor/</link>
+        <description>Ministerul Sănătății pregătește notificări prin SMS, e-mail sau WhatsApp pentru pacienții pe numele cărora sunt decontate servicii medicale. Alexandru Rogobete anunță controale în ambulatorii și cabinete private, după suspiciuni de decontări fictive pentru investigații medicale.</description>
+        <source url="https://azinews.ro/feed.xml">Europa FM</source>
+        <guid isPermaLink="true">https://www.europafm.ro/pacientii-vor-primi-sms-sau-e-mail-cand-le-sunt-decontate-servicii-medicale-alexandru-rogobete-anunta-controale-pentru-depistarea-fraudelor/</guid>
+        <pubDate>Mon, 16 Nov 2026 12:35:54 +0000</pubDate>
+    </item>
+    <item>
+        <title>LPF anunță programul etapelor 17 și 18 din Superliga. Când se joacă Universitatea Craiova – Dinamo, duelul primelor clasate</title>
+        <link>https://www.mediafax.ro/sport/lpf-anunta-programul-etapelor-17-si-18-din-superliga-cand-se-joaca-universitatea-craiova-dinamo-duelul-primelor-clasate-23843968</link>
+        <description>Liga Profesionistă de Fotbal (LPF) a anunțat luni programul etapelor a 17-a și a 18-a din Superliga. Etapa a 17-a cuprinde duelul primelor clasate la finalul turului, Universitatea Craiova și Dinamo București.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/lpf-anunta-programul-etapelor-17-si-18-din-superliga-cand-se-joaca-universitatea-craiova-dinamo-duelul-primelor-clasate-23843968</guid>
+        <pubDate>Mon, 16 Nov 2026 12:49:55 +0000</pubDate>
+    </item>
+    <item>
+        <title>Îți cauți simptomele pe Internet și întrebi AI ce boală ai? Un medic explică riscurile</title>
+        <link>https://adevarul.ro/stiri-interne/societate/iti-cauti-simptomele-pe-internet-si-intrebi-ai-ce-2571853.html</link>
+        <description>Accesul rapid la informații medicale îi ajută pe tineri să afle mai multe despre simptome și afecțiuni, însă poate încuraja și autodiagnosticarea sau respingerea recomandărilor specialiștilor.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/iti-cauti-simptomele-pe-internet-si-intrebi-ai-ce-2571853.html</guid>
+        <pubDate>Mon, 16 Nov 2026 11:57:57 +0000</pubDate>
+    </item>
+    <item>
+        <title>Farmaciștii îi dau dreptate jurnalistei Liliana Ruse în disputa cu ministrul Alexandru Rogobete: Medicamentul oncologic Lyrica se găsește în cantități limitate în doar opt județe / În București nu exi</title>
+        <link>https://www.g4media.ro/farmacistii-ii-dau-dreptate-jurnalistei-liliana-ruse-in-disputa-cu-ministrul-alexandru-rogobete-medicamentul-oncologic-lyrica-se-gaseste-in-cantitati-limitate-in-doar-opt-judete-in-bucuresti-nu-exi.html</link>
+        <description>Asociația Farmaciilor și Farmaciștilor din România (AFFR) a anunțat luni că medicamentul oncologic Lyrica poate fi cumpărat în doar opt județe, printre acestea nefiind listat Bucureștiul sau Ilfovul. Asociația a intervenit după ce jurnalista Liliana Ruse (Digi24) a scris pe facebook că nu a găsit medicamentul în nici o farmacie din București. În replică, ministrul…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/farmacistii-ii-dau-dreptate-jurnalistei-liliana-ruse-in-disputa-cu-ministrul-alexandru-rogobete-medicamentul-oncologic-lyrica-se-gaseste-in-cantitati-limitate-in-doar-opt-judete-in-bucuresti-nu-exi.html</guid>
+        <pubDate>Mon, 16 Nov 2026 12:19:10 +0000</pubDate>
+    </item>
     <item>
         <title>Reacția Ministerului Educaţiei, după ce o universitate anunţă trecerea la cursuri online pentru a face economii la plata utilităţilor</title>
         <link>https://www.digi24.ro/stiri/actualitate/educatie/reactia-ministerului-educatiei-dupa-ce-o-universitate-anunta-trecerea-la-cursuri-online-pentru-a-face-economii-la-plata-utilitatilor-4038269</link>
@@ -70,422 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/rusia-respinge-acuzatia-sri-ca-a-orchestrat-un-atac-cibernetic-impotriva-unei-institutii-guvernamentale-romane-4038361</guid>
         <pubDate>Mon, 16 Nov 2026 11:46:34 +0000</pubDate>
-    </item>
-    <item>
-        <title>Actorul francez Gerard Depardieu și-a retras recursul în procesul de agresiune sexuală din 2025 și a prezentat scuze victimelor</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/actorul-francez-gerard-depardieu-si-a-retras-recursul-in-procesul-de-agresiune-sexuala-din-2025-si-a-prezentat-scuze-victimelor-4038321</link>
-        <description>Actorul francez Gérard Depardieu și-a retras luni recursul împotriva condamnării din 2025 pentru agresiune sexuală, recunoscându-și vinovăția și cerându-și scuze victimelor, relatează Reuters.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/actorul-francez-gerard-depardieu-si-a-retras-recursul-in-procesul-de-agresiune-sexuala-din-2025-si-a-prezentat-scuze-victimelor-4038321</guid>
-        <pubDate>Mon, 16 Nov 2026 11:58:24 +0000</pubDate>
-    </item>
-    <item>
-        <title>STUDIU: Numărul de raportări de imagini generate de inteligența artificială cu abuzuri sexuale împotriva copiilor a crescut cu peste 8.400 % în ultimii doi ani</title>
-        <link>https://www.g4media.ro/studiu-numarul-de-raportari-de-imagini-generate-de-inteligenta-artificiala-cu-abuzuri-sexuale-impotriva-copiilor-a-crescut-cu-peste-8-400-in-ultimii-doi-ani.html</link>
-        <description>Un grup de cercetători din Scoţia a constatat că numărul de raportări de imagini generate de inteligenţa artificială (AI) cu abuzuri sexuale împotriva copiilor a crescut cu peste 8400% în ultimii doi ani, transmite agenția de știri dpa, citată de Agerpres. Din 2023 până în 2025, numărul de cazuri raportate în întreaga lume a crescut…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/studiu-numarul-de-raportari-de-imagini-generate-de-inteligenta-artificiala-cu-abuzuri-sexuale-impotriva-copiilor-a-crescut-cu-peste-8-400-in-ultimii-doi-ani.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:07:36 +0000</pubDate>
-    </item>
-    <item>
-        <title>AQUA Carpatica își extinde prezența în rețeaua Rossmann din Polonia, de la 300 la aproape 2.000 de magazine</title>
-        <link>https://adevarul.ro/economie/aqua-carpatica-isi-extinde-prezenta-in-reteaua-2571859.html</link>
-        <description>AQUA Carpatica își consolidează prezența pe piața poloneză prin extinderea distribuției în rețeaua Rossmann, liderul pieței de drogherii din Polonia și unul dintre cei mai importanți retaileri de profil din Europa.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/economie/aqua-carpatica-isi-extinde-prezenta-in-reteaua-2571859.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:35:35 +0000</pubDate>
-    </item>
-    <item>
-        <title>Situația medicamentelor care lipsesc din farmacii. Ministrul Sănătății va discuta la Bruxelles cu producătorii și distribuitorii de medicamente la nivel european | AUDIO</title>
-        <link>https://www.europafm.ro/situatia-medicamentelor-care-lipsesc-din-farmacii-ministrul-sanatatii-va-discuta-la-bruxelles-cu-producatorii-si-distribuitorii-de-medicamente-la-nivel-european/</link>
-        <description>Ministrul Sănătății, Alexandru Rogobete, anunță discuții la Bruxelles cu producătorii și distribuitorii de medicamente. Unele tratamente ar exista în depozite, dar nu ar ajunge în farmacii.</description>
-        <source url="https://azinews.ro/feed.xml">Europa FM</source>
-        <guid isPermaLink="true">https://www.europafm.ro/situatia-medicamentelor-care-lipsesc-din-farmacii-ministrul-sanatatii-va-discuta-la-bruxelles-cu-producatorii-si-distribuitorii-de-medicamente-la-nivel-european/</guid>
-        <pubDate>Mon, 16 Nov 2026 11:57:03 +0000</pubDate>
-    </item>
-    <item>
-        <title>Muşat &amp; Asociaţii SCA deschide un nou capitol: inteligența artificială juridică Harvey intră în practica societății</title>
-        <link>https://www.digi24.ro/legile-afacerilor/musat-asociatii-sca-deschide-un-nou-capitol-inteligenta-artificiala-juridica-harvey-intra-in-practica-societatii-4038105</link>
-        <description>Volumul documentelor dintr-o tranzacție, ritmul modificărilor legislative și așteptările clienților privind celeritatea au transformat timpul într-o resursă la fel de prețioasă ca expertiza. În acest context, Muşat &amp; Asociaţii SCA anunță că a integrat în activitatea sa curentă Harvey, platforma de inteligență artificială dezvoltată special pentru profesioniștii din domeniul juridic și al serviciilor profesionale.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/legile-afacerilor/musat-asociatii-sca-deschide-un-nou-capitol-inteligenta-artificiala-juridica-harvey-intra-in-practica-societatii-4038105</guid>
-        <pubDate>Mon, 16 Nov 2026 11:45:25 +0000</pubDate>
-    </item>
-    <item>
-        <title>Cum va fi vremea în următoarele două săptămâni. Prognoza meteo pentru perioada 16 - 29 noiembrie pentru fiecare regiune</title>
-        <link>https://www.digi24.ro/meteo/cum-va-fi-vremea-in-urmatoarele-doua-saptamani-prognoza-meteo-pentru-perioada-16-29-noiembrie-pentru-fiecare-regiune-4038349</link>
-        <description>Administrația Națională de Meteorologie a emis prognoza meteo pentru următoarele două săptămâni. Conform meteorologilor, vremea va fi schimbătoare în perioada 16 - 29 noiembrie.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/meteo/cum-va-fi-vremea-in-urmatoarele-doua-saptamani-prognoza-meteo-pentru-perioada-16-29-noiembrie-pentru-fiecare-regiune-4038349</guid>
-        <pubDate>Mon, 16 Nov 2026 11:43:08 +0000</pubDate>
-    </item>
-    <item>
-        <title>Actorul Gerard Depardieu renunţă la recurs în procesul în care este acuzat de agresiuni sexuale şi prezintă „scuze” victimelor / Fusese condamnat în primă instanță la 18 luni de închisoare cu suspenda</title>
-        <link>https://www.g4media.ro/actorul-gerard-depardieu-renunta-la-recurs-in-procesul-in-care-este-acuzat-de-agresiuni-sexuale-si-prezinta-scuze-victimelor-fusese-condamnat-in-prima-instanta-la-18-luni-de-inchisoare-cu.html</link>
-        <description>Actorul francez Gerard Depardieu a anunţat luni că îşi retrage recursul în procesul în care este acuzat de agresiuni sexuale asupra a două femei în timpul filmărilor la pelicula „Les volets verts” din 2021, ceea ce face definitivă condamnarea sa la 18 luni de închisoare cu suspendare, pronunţată în mai 2025, transmit agenţiile de presă…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/actorul-gerard-depardieu-renunta-la-recurs-in-procesul-in-care-este-acuzat-de-agresiuni-sexuale-si-prezinta-scuze-victimelor-fusese-condamnat-in-prima-instanta-la-18-luni-de-inchisoare-cu.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:55:16 +0000</pubDate>
-    </item>
-    <item>
-        <title>O școală îi învață pe elevi cum să obțină primul loc de muncă. Pregătirea începe din primii ani de liceu</title>
-        <link>https://adevarul.ro/stiri-externe/europa/o-scoala-ii-invata-pe-elevi-cum-sa-obtina-primul-2571864.html</link>
-        <description>Elevii unei școli din Marea Britanie învață încă din primii ani de liceu cum să se prezinte în fața unui angajator, cum să dea mâna cu un recrutor și cum să răspundă la întrebările de la un interviu de angajare.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/o-scoala-ii-invata-pe-elevi-cum-sa-obtina-primul-2571864.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:51:22 +0000</pubDate>
-    </item>
-    <item>
-        <title>Proteste în Manila înainte de sosirea lui Donald Trump. Sute de manifestanți au scandat „Afară! Filipine nu este de vânzare”</title>
-        <link>https://adevarul.ro/stiri-externe/sua/proteste-in-manila-inainte-de-sosirea-lui-donald-2571814.html</link>
-        <description>Sute de activiști au ieșit luni pe străzile capitalei filipineze Manila pentru a protesta față de vizita președintelui american Donald Trump, așteptat să participe la summitul Asociației Națiunilor din Asia de Sud-Est (ASEAN).</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/proteste-in-manila-inainte-de-sosirea-lui-donald-2571814.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:00:26 +0000</pubDate>
-    </item>
-    <item>
-        <title>Guvernul sud-coreean ia măsuri drastice împotriva folosirii IA în timpul examenului naţional de admitere la facultate, după un recent scandal legat de fraudarea unui important examen pentru contabili </title>
-        <link>https://www.g4media.ro/guvernul-sud-coreean-ia-masuri-drastice-impotriva-folosirii-ia-in-timpul-examenului-national-de-admitere-la-facultate-dupa-un-recent-scandal-legat-de-fraudarea-unui-important-examen-pentru-contabili.html</link>
-        <description>Guvernul din Coreea de Sud va implementa o întreagă serie de măsuri, între care strângerea dispozitivelor inteligente şi blocarea reţelelor Wi-Fi publice, cu ocazia examenului naţional pentru admiterea la facultate care are loc în această săptămână, relatează luni agențiile de știri Yonhap şi Reuters, citate de Agerpres. Decizia vine într-un context în care încrederea publică…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/guvernul-sud-coreean-ia-masuri-drastice-impotriva-folosirii-ia-in-timpul-examenului-national-de-admitere-la-facultate-dupa-un-recent-scandal-legat-de-fraudarea-unui-important-examen-pentru-contabili.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:49:36 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ungaria: Autoritățile anti-corupție au confiscat averea unui fost ministru din Guvernul Orban, găsită îngropată în pădure și în diverse clădiri | AUDIO</title>
-        <link>https://www.europafm.ro/ungaria-autoritatile-anti-coruptie-au-confiscat-averea-unui-fost-ministru-din-guvernul-orban-gasita-ingropata-in-padure-si-in-diverse-cladiri/</link>
-        <description>Autoritățile din Ungaria au confiscat 17 milioane de euro găsite în păduri, depozite și locuințe. Banii ar aparține unui fost ministru din Guvernul Viktor Orbán, vizat într-o anchetă de corupție.</description>
-        <source url="https://azinews.ro/feed.xml">Europa FM</source>
-        <guid isPermaLink="true">https://www.europafm.ro/ungaria-autoritatile-anti-coruptie-au-confiscat-averea-unui-fost-ministru-din-guvernul-orban-gasita-ingropata-in-padure-si-in-diverse-cladiri/</guid>
-        <pubDate>Mon, 16 Nov 2026 11:04:32 +0000</pubDate>
-    </item>
-    <item>
-        <title>PSD vrea ca proiectul privind reforma administrației centrale să intre în Guvern până la 1 martie și să fie adoptat prin angajarea răspunderii în Parlament / Marian Neacșu: „Creativitatea parlamentari</title>
-        <link>https://www.g4media.ro/psd-vrea-ca-proiectul-privind-reforma-administratiei-centrale-sa-intre-in-guvern-pana-la-1-martie-si-sa-fie-adoptat-prin-angajarea-raspunderii-in-parlament-marian-neacsu-creativitatea-parl.html</link>
-        <description>Vicepremierul Marian Neacșu a declarat, luni, într-o conferință de presă că PSD vrea ca proiectul privind reforma administrației centrale să intre în Guvern până la 1 martie 2027 și să fie adoptat prin angajarea răspunderii în Parlament. Marian Neacșu a susținut că, dacă proiectul ar intra în dezbaterea Parlamentului, ar putea fi modificat substanțial. El…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/psd-vrea-ca-proiectul-privind-reforma-administratiei-centrale-sa-intre-in-guvern-pana-la-1-martie-si-sa-fie-adoptat-prin-angajarea-raspunderii-in-parlament-marian-neacsu-creativitatea-parl.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:45:45 +0000</pubDate>
-    </item>
-    <item>
-        <title>Cei 155 de miliardari ai Rusiei au o avere record, dar nu au influență politică. Cum își imaginează viață după Putin?</title>
-        <link>https://adevarul.ro/stiri-externe/rusia/cei-155-de-miliardari-ai-rusiei-au-o-avere-2571837.html</link>
-        <description>Rusia are mai mulți miliardari ca oricând, iar averea lor însumează aproape 700 de miliarde de dolari. Totuși, cei mai bogați ruși nu au nicio putere politică, iar mulți dintre ei se tem să vorbească. Analiștii spun că, în tăcere, unii încep să se gândească la Rusia de după Putin.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/rusia/cei-155-de-miliardari-ai-rusiei-au-o-avere-2571837.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:47:01 +0000</pubDate>
-    </item>
-    <item>
-        <title>Alertă în Marea Neagră. O navă cargo care plecase din Tulcea s-a scufundat în zona economică exclusivă bulgară</title>
-        <link>https://www.digi24.ro/stiri/actualitate/evenimente/alerta-in-marea-neagra-o-nava-cargo-care-plecase-din-tulcea-a-transmis-un-semnal-de-urgenta-in-zona-economica-exclusiva-bulgara-4038275</link>
-        <description>O navă de marfă sub pavilion somalez, care plecase din Tulcea, a transmis un semnal de urgență în zona economică exclusivă bulgară a Mării Negre, după ce echipajul a raportat că nava se scufundă. Semnalul a fost recepționat la ora 9:15 la Centrul de Coordonare a Salvării Maritime – Varna, potrivit Ministerului Transporturilor și Comunicațiilor din Bulgaria, citat de BTA.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/evenimente/alerta-in-marea-neagra-o-nava-cargo-care-plecase-din-tulcea-a-transmis-un-semnal-de-urgenta-in-zona-economica-exclusiva-bulgara-4038275</guid>
-        <pubDate>Mon, 16 Nov 2026 11:42:20 +0000</pubDate>
-    </item>
-    <item>
-        <title>Tirurile așteaptă în Vama Siret până la 6 ore, pe sensul spre Ucraina / Cauza: Volum mare de mărfuri și capacitate redusă de lucru pe partea ucraineană</title>
-        <link>https://www.g4media.ro/tirurile-asteapta-in-vama-siret-pana-la-6-ore-pe-sensul-spre-ucraina-cauza-volum-mare-de-marfuri-si-capacitate-redusa-de-lucru-pe-partea-ucraineana.html</link>
-        <description>Timpul de aşteptare al automarfarelor la Vama Siret, pe sensul de trecere spre Ucraina, a scăzut, luni, şi era estimat, în jurul orei 10:00, la aproximativ 360 de minute, faţă de 420 de minute înregistrate anterior, scrie Agerpres. Timpul de aşteptare al tirurilor în Vama Siret, pe sensul de trecere spre Ucraina, este în medie…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/tirurile-asteapta-in-vama-siret-pana-la-6-ore-pe-sensul-spre-ucraina-cauza-volum-mare-de-marfuri-si-capacitate-redusa-de-lucru-pe-partea-ucraineana.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:30:53 +0000</pubDate>
-    </item>
-    <item>
-        <title>Întâlnire a autorităţilor cu părinţi ai elevilor de la Liceul „Lenau” din Timișoara privind cazul copilului fotografiat cu un cuţit în clasă / Mai mulți părinţi au refuzat să-şi lase copiii să intre l</title>
-        <link>https://www.g4media.ro/intalnire-a-autoritatilor-cu-parinti-ai-elevilor-de-la-liceul-lenau-din-timisoara-privind-cazul-copilului-fotografiat-cu-un-cutit-in-clasa-mai-multi-parinti-au-refuzat-sa-si-lase-c.html</link>
-        <description>Şefa Inspectoratului Şcolar Judeţean (IŞJ) Timiş, Aura Danielescu, a declarat, luni, pentru Agerpres, că în cursul zilei va avea loc o întâlnire la sediul instituţiei cu părinţi ai elevilor de la Liceul „Nikolaus Lenau” din Timişoara, precum şi cu alte instituţii implicate, în legătură cu cazul copilului care a postat pe Facebook o fotografie în…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/intalnire-a-autoritatilor-cu-parinti-ai-elevilor-de-la-liceul-lenau-din-timisoara-privind-cazul-copilului-fotografiat-cu-un-cutit-in-clasa-mai-multi-parinti-au-refuzat-sa-si-lase-c.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:18:03 +0000</pubDate>
-    </item>
-    <item>
-        <title>Înmatriculările de autoturisme noi din România au scăzut cu 6,2% în luna octombrie / Electricele și plug-in hybrid câștigă teren</title>
-        <link>https://www.g4media.ro/inmatricularile-de-autoturisme-noi-din-romania-au-scazut-cu-62-in-luna-octombrie-electricele-si-plug-in-hybrid-castiga-teren.html</link>
-        <description>Înmatriculările de autoturisme noi din România au scăzut cu 6,2% în octombrie 2026, comparativ cu aceeași lună a anului trecut, până la 11.927 de unități, potrivit datelor publicate luni de Asociația Producătorilor și Importatorilor de Automobile (APIA), pe baza informațiilor DGPCI. Pe primele zece luni ale anului, au fost înmatriculate 108.188 de autoturisme noi, în…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/inmatricularile-de-autoturisme-noi-din-romania-au-scazut-cu-62-in-luna-octombrie-electricele-si-plug-in-hybrid-castiga-teren.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:08:16 +0000</pubDate>
-    </item>
-    <item>
-        <title>Luca Niculescu, despre reforma administrativă: „Comasarea voluntară va fi făcută până în martie”. Ce spune despre angajarea răspunderii</title>
-        <link>https://www.digi24.ro/stiri/economie/luca-niculescu-despre-reforma-administrativa-comasarea-voluntara-va-fi-facuta-pana-in-martie-ce-spune-despre-angajarea-raspunderii-4037953</link>
-        <description>Premierul Luca Niculescu a anunțat luni, după întâlnirea cu reprezentanții Asociației Municipiilor din România, că procesul de comasare voluntară este prevăzut până în luna martie, iar ulterior Guvernul va analiza soluțiile pentru continuarea reformei administrativ-teritoriale. Șeful Executivului nu a precizat dacă va urma o etapă de comasare obligatorie sau dacă Guvernul își va angaja răspunderea pe proiect. Lia Olguța Vasilescu a declarat că reorganizarea județelor este, deocamdată, doar o…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/luca-niculescu-despre-reforma-administrativa-comasarea-voluntara-va-fi-facuta-pana-in-martie-ce-spune-despre-angajarea-raspunderii-4037953</guid>
-        <pubDate>Mon, 16 Nov 2026 11:07:58 +0000</pubDate>
-    </item>
-    <item>
-        <title>BREAKING Comisia Europeană a aprobat parțial a cincea cerere de plată a României din PNRR: plătește 2,67 miliarde de euro față de suma cerută de 2,84 miliarde de euro / Cererea a fost depusă de guvern</title>
-        <link>https://www.g4media.ro/breaking-comisia-europeana-a-aprobat-partial-a-cincea-cerere-de-plata-a-romaniei-din-pnrr-plateste-267-miliarde-de-euro-fata-de-suma-ceruta-de-284-miliarde-de-euro-cererea-a-fost-depusa-de-guvern.html</link>
-        <description>Comisia Europeană a aprobat parțial a cincea cerere de plată a României din PNRR și va plăti 2,67 miliarde de euro față de suma cerută de 2,84 miliarde de euro, potrivit unui comunicat al Comisiei. Cererea a fost depusă de guvernul Bolojan în luna august. Reformele și investițiile aferente acestei cereri de plată au vizat…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/breaking-comisia-europeana-a-aprobat-partial-a-cincea-cerere-de-plata-a-romaniei-din-pnrr-plateste-267-miliarde-de-euro-fata-de-suma-ceruta-de-284-miliarde-de-euro-cererea-a-fost-depusa-de-guvern.html</guid>
-        <pubDate>Mon, 16 Nov 2026 11:30:28 +0000</pubDate>
-    </item>
-    <item>
-        <title>Misterul dispariției miliardelor Hermès: moștenitorul acuză furt, judecătorii cer o evaluare psihiatrică</title>
-        <link>https://www.digi24.ro/stiri/externe/mapamond/misterul-disparitiei-miliardelor-hermes-mostenitorul-acuza-furt-judecatorii-cer-o-evaluare-psihiatrica-4038319</link>
-        <description>Un moștenitor al imperiului Hermès susține că i-a fost furată o avere de 9 miliarde de dolari. Judecătorii au ordonat o evaluare psihiatrică.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/mapamond/misterul-disparitiei-miliardelor-hermes-mostenitorul-acuza-furt-judecatorii-cer-o-evaluare-psihiatrica-4038319</guid>
-        <pubDate>Mon, 16 Nov 2026 11:30:43 +0000</pubDate>
-    </item>
-    <item>
-        <title>Reforma administrativ-teritorială: Vicepremierul Marian Neacșu se îndoiește că primăriile „se vor înghesui” să accepte comasarea voluntară | AUDIO</title>
-        <link>https://www.europafm.ro/reforma-administrativ-teritoriala-vicepremierul-marian-neacsu-se-indoieste-ca-primariile-se-vor-inghesui-sa-accepte-comasarea-voluntara/</link>
-        <description>Vicepremierul Marian Neacșu spune că reforma administrativ-teritorială prin comasarea voluntară a comunelor ar putea să nu aibă succes dacă autoritățile locale nu vor primi suficiente avantaje.</description>
-        <source url="https://azinews.ro/feed.xml">Europa FM</source>
-        <guid isPermaLink="true">https://www.europafm.ro/reforma-administrativ-teritoriala-vicepremierul-marian-neacsu-se-indoieste-ca-primariile-se-vor-inghesui-sa-accepte-comasarea-voluntara/</guid>
-        <pubDate>Mon, 16 Nov 2026 11:19:49 +0000</pubDate>
-    </item>
-    <item>
-        <title>Bunica a vrut să lase averea unei singure nepoate. Soluția instanței de judecată</title>
-        <link>https://adevarul.ro/adevarul-juridic/bunica-a-vrut-sa-lase-averea-unei-singure-nepoate-2571772.html</link>
-        <description>Nepoata favorizată prin testament a susținut că trebuie să primească întreaga gospodărie, fără să îi plătească celeilalte o compensație pentru aceasta.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/adevarul-juridic/bunica-a-vrut-sa-lase-averea-unei-singure-nepoate-2571772.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:21:25 +0000</pubDate>
-    </item>
-    <item>
-        <title>Vicepremierul Marian Neacșu, sceptic în privința comasării voluntare a localităților: nu cred că va fi foarte mare înghesuială pe zona asta</title>
-        <link>https://www.mediafax.ro/politic/vicepremierul-marian-neacsu-sceptic-in-privinta-comasarii-voluntare-a-localitatilor-nu-cred-ca-va-fi-foarte-mare-inghesuiala-pe-zona-asta-23843830</link>
-        <description>Vicepremierul și ministrul de Interne, Marian Neacșu, consideră că reforma administrativ-teritorială trebuie realizată în cursul anului viitor, altfel: „înseamnă că am îngropat-o definitiv”. El nu este, însă foarte optimist în privința interesului pentru comasarea voluntară a localităților.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/vicepremierul-marian-neacsu-sceptic-in-privinta-comasarii-voluntare-a-localitatilor-nu-cred-ca-va-fi-foarte-mare-inghesuiala-pe-zona-asta-23843830</guid>
-        <pubDate>Mon, 16 Nov 2026 10:54:06 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ministerul Finanțelor a aprobat normele pentru împrumuturile pe care primăriile le pot contracta pentru termoficare în această iarnă</title>
-        <link>https://www.digi24.ro/stiri/economie/energie/ministerul-finantelor-a-aprobat-normele-pentru-imprumuturile-pe-care-primariile-le-pot-contracta-pentru-termoficare-in-aceasta-iarna-4038115</link>
-        <description>Ministerul Finanțelor a aprobat normele prin care autoritățile locale pot contracta împrumuturi pentru asigurarea energiei termice în sezonul rece 2026-2027. Bugetul total al mecanismului este de 300 de milioane de lei, iar solicitările pot fi depuse exclusiv electronic, până la 31 decembrie 2026 inclusiv. Sumele aprobate vor fi virate în cel mult șapte zile lucrătoare de la semnarea convenției de împrumut.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/energie/ministerul-finantelor-a-aprobat-normele-pentru-imprumuturile-pe-care-primariile-le-pot-contracta-pentru-termoficare-in-aceasta-iarna-4038115</guid>
-        <pubDate>Mon, 16 Nov 2026 10:14:44 +0000</pubDate>
-    </item>
-    <item>
-        <title>Vreme neobișnuit de caldă în România, urmată de o răcire accentuată. Când se schimbă temperaturile</title>
-        <link>https://www.mediafax.ro/social/vreme-neobisnuit-de-calda-in-romania-urmata-de-o-racire-accentuata-cand-se-schimba-temperaturile-23843840</link>
-        <description>România va avea parte de câteva zile cu temperaturi peste cele normale pentru această perioadă, cu maxime de până la 18 grade în Dobrogea și 17 grade în sudul țării. Potrivit prognozei ANM pentru următoarele două săptămâni, după 20 noiembrie urmează o răcire semnificativă și ploi.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/vreme-neobisnuit-de-calda-in-romania-urmata-de-o-racire-accentuata-cand-se-schimba-temperaturile-23843840</guid>
-        <pubDate>Mon, 16 Nov 2026 10:41:53 +0000</pubDate>
-    </item>
-    <item>
-        <title>„Un demers consistent și ambițios”. Luca Niculescu laudă campania lui Dacian Cioloș pentru șefia Francofoniei</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/un-demers-consistent-si-ambitios-luca-niculescu-lauda-campania-lui-dacian-ciolos-pentru-sefia-francofoniei-4038163</link>
-        <description>Premierul Luca Niculescu a transmis, luni, că Dacian Cioloş a făcut o campanie consistentă şi ambiţioasă pentru funcţia de secretar general al Francofoniei, demersul fiind construit în jurul unei viziuni care a pus în prim-plan rolul Francofoniei în promovarea păcii, dezvoltării economice şi incluziunii.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/un-demers-consistent-si-ambitios-luca-niculescu-lauda-campania-lui-dacian-ciolos-pentru-sefia-francofoniei-4038163</guid>
-        <pubDate>Mon, 16 Nov 2026 10:38:13 +0000</pubDate>
-    </item>
-    <item>
-        <title>BNR estimează o inflație de 7,4% la finalul anului 2026. Mugur Isărescu: Scăderea va începe abia de anul viitor | AUDIO</title>
-        <link>https://www.europafm.ro/bnr-prognoza-inflatie-74-la-suta-decembrie-2026-37-2027/</link>
-        <description>BNR estimează că inflația va ajunge la 7,4% în decembrie 2026 și va coborî la 3,7% la finalul anului viitor. Mugur Isărescu explică factorii care mențin prețurile ridicate.</description>
-        <source url="https://azinews.ro/feed.xml">Europa FM</source>
-        <guid isPermaLink="true">https://www.europafm.ro/bnr-prognoza-inflatie-74-la-suta-decembrie-2026-37-2027/</guid>
-        <pubDate>Mon, 16 Nov 2026 10:43:25 +0000</pubDate>
-    </item>
-    <item>
-        <title>PSD răspunde la amenințarea UDMR privind reforma administrativă: „Poate depune moțiune. Ar fi o onoare să pice Guvernul” (surse)</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/psd-raspunde-la-amenintarea-udmr-privind-reforma-administrativa-poate-depune-motiune-ar-fi-o-onoare-sa-pice-guvernul-surse-4038125</link>
-        <description>Președintele PSD, Sorin Grindeanu, a declarat, luni, în cadrul ședinței social-democraților, că reforma administrativă se aplică în întreaga țară, nu doar în localitățile românești, potrivit surselor din partid. Liderul Camerei Deputaților răspunde astfel protestelor lui Kelemen Hunor, care avertiza că dacă reforma administrativă afectează drepturile maghiarilor, „UDMR va reacționa dur”.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/psd-raspunde-la-amenintarea-udmr-privind-reforma-administrativa-poate-depune-motiune-ar-fi-o-onoare-sa-pice-guvernul-surse-4038125</guid>
-        <pubDate>Mon, 16 Nov 2026 10:16:29 +0000</pubDate>
-    </item>
-    <item>
-        <title>Navă de marfă cu 12 membri la bord, în pericol de scufundare în zona economică a Bulgariei din Marea Neagră. Intervin patru nave, inclusiv din România</title>
-        <link>https://www.europafm.ro/nava-de-marfa-cu-12-membri-la-bord-in-pericol-de-scufundare-in-zona-economica-a-bulgariei-din-marea-neagra-intervin-patru-nave-inclusiv-din-romania/</link>
-        <description>O navă sub pavilion somalez, cu 12 membri ai echipajului la bord, a transmis un semnal de urgență în zona economică a Bulgariei. Cargoul plecase din România spre Egipt.</description>
-        <source url="https://azinews.ro/feed.xml">Europa FM</source>
-        <guid isPermaLink="true">https://www.europafm.ro/nava-de-marfa-cu-12-membri-la-bord-in-pericol-de-scufundare-in-zona-economica-a-bulgariei-din-marea-neagra-intervin-patru-nave-inclusiv-din-romania/</guid>
-        <pubDate>Mon, 16 Nov 2026 10:31:20 +0000</pubDate>
-    </item>
-    <item>
-        <title>FOTO VIDEO Contrabandă cu țigări prin intermediul cursei de tren Kiev-Chișinău–București / Un angajat CFR, anchetat / 41 de percheziții în București și județele Ilfov, Dâmbovița, Giurgiu, Prahova și T</title>
-        <link>https://www.g4media.ro/foto-video-contrabanda-cu-tigari-prin-intermediul-cursei-de-tren-kiev-chisinau-bucuresti-un-angajat-cfr-anchetat-41-de-perchezitii-in-bucuresti-si-judetele-ilfov-dambovita-giurgiu-prah.html</link>
-        <description>Parchetul de pe lângă Judecătoria Sectorului 1 București efectuează cercetări într-un dosar de contrabandă cu țigări care ar fi fost efectuată prin intermediul cursei de tren Kiev-Chișinău–București. „În perioada octombrie – noiembrie 2026, prin intermediul cursei de tren IR 401 pe relația Kiev – Chișinău – București, deservită de conductori de tren de naționalitate moldovenească…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/foto-video-contrabanda-cu-tigari-prin-intermediul-cursei-de-tren-kiev-chisinau-bucuresti-un-angajat-cfr-anchetat-41-de-perchezitii-in-bucuresti-si-judetele-ilfov-dambovita-giurgiu-prah.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:10:44 +0000</pubDate>
-    </item>
-    <item>
-        <title>Revolut, pusă sub administrare judiciară în Italia. Tranzacții suspecte de aproape 42 de milioane de euro, descoperite de anchetatori</title>
-        <link>https://www.mediafax.ro/externe/revolut-pusa-sub-administrare-judiciara-in-italia-tranzactii-suspecte-de-aproape-42-de-milioane-de-euro-descoperite-de-anchetatori-23843794</link>
-        <description>Un tribunal din Milano a decis plasarea Revolut sub administrare judiciară timp de un an, după ce a constatat deficiențe grave în sistemele de prevenire a spălării banilor. Potrivit anchetatorilor, persoane suspectate sau condamnate pentru infracțiuni au folosit conturile băncii pentru a ascunde aproape 42 de milioane de euro.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/revolut-pusa-sub-administrare-judiciara-in-italia-tranzactii-suspecte-de-aproape-42-de-milioane-de-euro-descoperite-de-anchetatori-23843794</guid>
-        <pubDate>Mon, 16 Nov 2026 10:35:57 +0000</pubDate>
-    </item>
-    <item>
-        <title>USR susține că locuitorii Sectorului 1 nu vor mai fi nevoiţi să plătească taxa de salubrizare de 10 lei de persoană din 2027, primăria afirmă contrariul</title>
-        <link>https://www.g4media.ro/usr-sustine-ca-locuitorii-sectorului-1-nu-vor-mai-fi-nevoiti-sa-plateasca-taxa-de-salubrizare-de-10-lei-de-persoana-din-2027-primaria-afirma-contrariul.html</link>
-        <description>USR și primăria Sectorului 1 se contrazic luni în declarații vizavi de taxa de 10 de lei de persoană pe care locuitorii ar trebui să o plătească de la 1 ianuarie 2027. Locuitorii Sectorului 1 nu vor mai fi nevoiţi să plătească taxa de salubrizare de 9,99 lei de persoană, anunţată de administraţia locală pentru…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/usr-sustine-ca-locuitorii-sectorului-1-nu-vor-mai-fi-nevoiti-sa-plateasca-taxa-de-salubrizare-de-10-lei-de-persoana-din-2027-primaria-afirma-contrariul.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:46:40 +0000</pubDate>
-    </item>
-    <item>
-        <title>Isărescu, bilanț la aproape 20 de ani de la aderarea la UE: „A fost șansa noastră”. Cele două mari restanțe ale României</title>
-        <link>https://www.digi24.ro/stiri/economie/isarescu-bilant-la-aproape-20-de-ani-de-la-aderarea-la-ue-a-fost-sansa-noastra-cele-doua-mari-restante-ale-romaniei-4038207</link>
-        <description>România nu a reușit, în aproape două decenii de apartenență la Uniunea Europeană, să își conecteze toate regiunile prin infrastructură și să adere la zona euro, a declarat luni guvernatorul BNR, Mugur Isărescu. El a descris aderarea la UE drept un „proiect istoric" și „șansa" pe care România a valorificat-o, dar a atras atenția asupra investițiilor și reformelor rămase nefinalizate.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/isarescu-bilant-la-aproape-20-de-ani-de-la-aderarea-la-ue-a-fost-sansa-noastra-cele-doua-mari-restante-ale-romaniei-4038207</guid>
-        <pubDate>Mon, 16 Nov 2026 10:52:01 +0000</pubDate>
-    </item>
-    <item>
-        <title>Contrabandă cu țigări pe ruta Kiev – Chișinău – București. Un angajat CFR, implicat într-o rețea care descărca marfa la Grivița</title>
-        <link>https://www.mediafax.ro/social/contrabanda-cu-tigari-pe-ruta-kiev-chisinau-bucuresti-un-angajat-cfr-implicat-intr-o-retea-care-descarca-marfa-la-grivita-23843831</link>
-        <description>Șase persoane, printre care și un angajat al CFR, au fost puse sub acuzare într-un dosar de contrabandă cu țigări introduse în România prin intermediul trenului internațional Kiev - Chișinău - București.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/contrabanda-cu-tigari-pe-ruta-kiev-chisinau-bucuresti-un-angajat-cfr-implicat-intr-o-retea-care-descarca-marfa-la-grivita-23843831</guid>
-        <pubDate>Mon, 16 Nov 2026 10:45:33 +0000</pubDate>
-    </item>
-    <item>
-        <title>Dacian Cioloș, victimă colaterală a conflictului în care au luptat și mercenarii lui Horațiu Potra. Cum a ajuns România prinsă în conflictul dintre Rwanda și RD Congo</title>
-        <link>https://www.mediafax.ro/politic/dacian-ciolos-victima-colaterala-a-conflictului-in-care-au-luptat-si-mercenarii-lui-horatiu-potra-cum-a-ajuns-romania-prinsa-in-conflictul-dintre-rwanda-si-rd-congo-23843801</link>
-        <description>Dacian Cioloș a ajuns victima colaterală a unuia dintre cele mai fierbinți conflicte din Africa. Candidatura fostului premier român la conducerea Organizației Internaționale a Francofoniei (OIF) a fost blocată de rivalitatea dintre Rwanda și Republica Democrată Congo, două țări aflate într-o confruntare militară și diplomatică ce amenință să destabilizeze întreaga regiune a Marilor Lacuri. Este același conflict în care au fost implicați și sute de mercenari români coordonați de Horațiu Potra…</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/dacian-ciolos-victima-colaterala-a-conflictului-in-care-au-luptat-si-mercenarii-lui-horatiu-potra-cum-a-ajuns-romania-prinsa-in-conflictul-dintre-rwanda-si-rd-congo-23843801</guid>
-        <pubDate>Mon, 16 Nov 2026 10:24:44 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ești părinte-elicopter? Află ce înseamnă acest concept de la Bianca Poptean, psiholog și psihoterapeut, realizator al rubricii „Cu mințile curate”, difuzate în fiecare luni în emisiunea Deșteptarea, l</title>
-        <link>https://www.europafm.ro/esti-parinte-elicopter-afla-ce-inseamna-acest-concept-de-la-bianca-poptean-psiholog-si-psihoterapeut-realizator-al-rubricii-cu-mintile-curate-difuzate-in-fiecare-luni-in-emisiune/</link>
-        <description>Părintele-elicopter este cel care vrea să știe tot timpul ce face copilul lui. Fie că transformă dormitorul matrimonial în loc de joacă pentru copil, fie că urmărește imaginile camerelor de luat vederi de la grădinița celui mic, e tot timpul la curent cu activitățile acestuia. Există studii care spun că, spre deosebire de acum 30,…</description>
-        <source url="https://azinews.ro/feed.xml">Europa FM</source>
-        <guid isPermaLink="true">https://www.europafm.ro/esti-parinte-elicopter-afla-ce-inseamna-acest-concept-de-la-bianca-poptean-psiholog-si-psihoterapeut-realizator-al-rubricii-cu-mintile-curate-difuzate-in-fiecare-luni-in-emisiune/</guid>
-        <pubDate>Mon, 16 Nov 2026 10:29:35 +0000</pubDate>
-    </item>
-    <item>
-        <title>Misiunea „Volia”: cum acționează Armata franceză pe teritoriul Ucrainei (RFI)</title>
-        <link>https://www.digi24.ro/stiri/externe/ue/misiunea-volia-cum-actioneaza-armata-franceza-pe-teritoriul-ucrainei-rfi-4038119</link>
-        <description>Soldaţi francezi ar opera de mai multe luni în Ucraina, cu misiunea de a instrui soldaţi ucraineni şi de a participa la mentenanţa echipamentelor, potrivit informaţiilor dezvăluite, luni, de postul Radio France Internationale (RFI), citat de AFP.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/ue/misiunea-volia-cum-actioneaza-armata-franceza-pe-teritoriul-ucrainei-rfi-4038119</guid>
-        <pubDate>Mon, 16 Nov 2026 10:16:33 +0000</pubDate>
-    </item>
-    <item>
-        <title>Romelu Lukaku se retrage din naționala Belgiei. Mesaj emoționant al atacantului după o carieră internațională de 16 ani, fiind golgheterul reprezentativei „diavolilor roșii”</title>
-        <link>https://www.mediafax.ro/sport/romelu-lukaku-se-retrage-din-nationala-belgiei-mesaj-emotionant-al-atacantului-dupa-o-cariera-internationala-de-16-ani-fiind-golgheterul-reprezentativei-diavolilor-rosii-23843834</link>
-        <description>Romelu Lukaku și-a anunțat luni retragerea din echipa națională a Belgiei, la vârsta de 33 de ani, după o carieră internațională de 16 ani, mulțumind coechipierilor, antrenorilor și suporterilor pentru experiența trăită alături de reprezentativa „diavolilor roșii”.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/romelu-lukaku-se-retrage-din-nationala-belgiei-mesaj-emotionant-al-atacantului-dupa-o-cariera-internationala-de-16-ani-fiind-golgheterul-reprezentativei-diavolilor-rosii-23843834</guid>
-        <pubDate>Mon, 16 Nov 2026 10:46:06 +0000</pubDate>
-    </item>
-    <item>
-        <title>Hellas Direct schimbă modul în care funcționează asigurările auto în România prin FlexiPay, disponibil acum și online</title>
-        <link>https://www.g4media.ro/hellas-direct-schimba-modul-in-care-functioneaza-asigurarile-auto-in-romania-prin-flexipay-disponibil-acum-si-online.html</link>
-        <description>Asigurare RCA în 12 plăți lunare, aprobare 100%, fără bănci, fără credite și fără verificări de bonitate. Totul disponibil direct pe hellasdirect.ro, doar cu un card de debit. Hellas Direct le oferă acum șoferilor români o nouă modalitate de a cumpăra și plăti direct asigurarea auto. Odată cu lansarea ofertei sale online de asigurări pe…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/hellas-direct-schimba-modul-in-care-functioneaza-asigurarile-auto-in-romania-prin-flexipay-disponibil-acum-si-online.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:09:46 +0000</pubDate>
-    </item>
-    <item>
-        <title>Înalta Curte condusă de Lia Savonea refuză să anuleze sancțiunea aplicată lui Cristi Danileț de CSM în 2019, tot sub conducerea Liei Savonea / ICCJ invocă în motivație „efectele reduse” ale sancțiunii</title>
-        <link>https://www.g4media.ro/inalta-curte-condusa-de-lia-savonea-refuza-sa-anuleze-sanctiunea-aplicata-lui-cristi-danilet-de-csm-in-2019-tot-sub-conducerea-lieri-savonea-iccj-invoca-in-motivatie-efectele-reduse.html</link>
-        <description>Înalta Curte de Casație și Justiție, condusă de Lia Savonea, a respins cererea de revizuire depusă de fostul judecător Cristi Danileț, care cerea anularea unei decizii de sancționare a sa, a comunicat instituția. Fostul judecător a fost sancționat în 2019 de CSM, condus în acel moment tot de Lia Savonea, pentru două postări pe Facebook…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/inalta-curte-condusa-de-lia-savonea-refuza-sa-anuleze-sanctiunea-aplicata-lui-cristi-danilet-de-csm-in-2019-tot-sub-conducerea-lieri-savonea-iccj-invoca-in-motivatie-efectele-reduse.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:03:57 +0000</pubDate>
-    </item>
-    <item>
-        <title>Cristi Danileț pierde la Înalta Curte, în ciuda hotărârii CEDO. De ce i-a fost respinsă cererea</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/cristi-danilet-pierde-la-inalta-curte-in-ciuda-2571815.html</link>
-        <description>Înalta Curte de Casație și Justiție (ÎCCJ) a respins luni, 16 noiembrie, cererea de revizuire formulată în cazul judecătorului Cristi Danileț, în baza hotărârii Marii Camere a Curții Europene a Drepturilor Omului (CEDO) din 15 decembrie 2025.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/cristi-danilet-pierde-la-inalta-curte-in-ciuda-2571815.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:08:50 +0000</pubDate>
-    </item>
-    <item>
-        <title>Vicepremierul anunță calendarul pentru adoptarea reformei companiilor de stat. Când va avea loc asumarea răspunderii</title>
-        <link>https://www.mediafax.ro/politic/vicepremierul-anunta-calendarul-pentru-adoptarea-reformei-companiilor-de-stat-cand-va-avea-loc-asumarea-raspunderii-23843804</link>
-        <description>Marian Neacșu, singurul vicepremier din Guvern și ministrul de Interne, a prezentat luni calendarul pe care îl propune pentru adoptarea reformei din companiile de stat. Tot procesul ar trebui să se încheie după 1 martie 2027, când proiectul va fi prezentat Parlamentului.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/vicepremierul-anunta-calendarul-pentru-adoptarea-reformei-companiilor-de-stat-cand-va-avea-loc-asumarea-raspunderii-23843804</guid>
-        <pubDate>Mon, 16 Nov 2026 10:48:59 +0000</pubDate>
-    </item>
-    <item>
-        <title>Dacian Cioloș, reacție dură după eșecul alegerilor pentru șefia Francofoniei: „O zi foarte tristă”. Fostul premier acuză că un stat refuză să accepte înfrângerea electorală/Nicușor Dan: Candidatura lu</title>
-        <link>https://www.mediafax.ro/externe/dacian-ciolos-reactie-dura-dupa-esecul-alegerilor-pentru-sefia-francofoniei-o-zi-foarte-trista-fostul-premier-acuza-ca-un-stat-refuza-sa-accepte-infrangerea-electorala-nicusor-dan-23843553</link>
-        <description>Statele membre ale Organizației Internaționale a Francofoniei (OIF) nu au reușit să ajungă la un acord privind alegerea viitorului secretar general, în cadrul summitului desfășurat în perioada 15-16 noiembrie 2026, la Phnom Penh, în Cambodgia.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/dacian-ciolos-reactie-dura-dupa-esecul-alegerilor-pentru-sefia-francofoniei-o-zi-foarte-trista-fostul-premier-acuza-ca-un-stat-refuza-sa-accepte-infrangerea-electorala-nicusor-dan-23843553</guid>
-        <pubDate>Mon, 16 Nov 2026 10:18:57 +0000</pubDate>
-    </item>
-    <item>
-        <title>Csoma Botond califică discuțiile despre comasarea comunelor drept „burtologie crasă” și amintește de tratatele semnate de România</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/csoma-botond-califica-discutiile-despre-comasarea-comunelor-drept-burtologie-crasa-si-aminteste-de-tratatele-semnate-de-romania-4038143</link>
-        <description>Liderul depuaților UDMR, Csoma Botond, a reacționat, într-o declarație pentru Digi24, la informațiile potrivit cărora în ședința conducerii PSD de luni, Sorin Grindeanu a criticat atitudinea UDMR privind reforma administrativă și ar fi spus nu pot fi două reguli, „în care unii să fie speciali”. Deputatul UDMR a catalogat modul în care s-a început dezbaterea privind reforma administrativ teritorială drept „burtologie crasă” și a amintit că UDMR susține că această reformă este necesară, dar…</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/csoma-botond-califica-discutiile-despre-comasarea-comunelor-drept-burtologie-crasa-si-aminteste-de-tratatele-semnate-de-romania-4038143</guid>
-        <pubDate>Mon, 16 Nov 2026 10:53:29 +0000</pubDate>
-    </item>
-    <item>
-        <title>Patru tineri, arestați preventiv pentru viol asupra unui minor. Victima, luată cu forța din casă</title>
-        <link>https://www.mediafax.ro/social/patru-tineri-arestati-preventiv-pentru-viol-asupra-unui-minor-victima-luata-cu-forta-din-casa-23843869</link>
-        <description>Patru tineri, cu vârste între 17 și 25 de ani, au fost arestați preventiv pentru 30 de zile într-un dosar instrumentat de DIICOT Teleorman, în care sunt cercetați pentru pornografie infantilă, viol asupra unui minor, lipsire de libertate și violare de domiciliu.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/patru-tineri-arestati-preventiv-pentru-viol-asupra-unui-minor-victima-luata-cu-forta-din-casa-23843869</guid>
-        <pubDate>Mon, 16 Nov 2026 10:53:20 +0000</pubDate>
-    </item>
-    <item>
-        <title>Schimbări în lotul României pentru ultimul meci din World Rugby Nations Cup 2026. „Stejarii” întâlnesc Canada, vineri, la București</title>
-        <link>https://www.mediafax.ro/sport/schimbari-in-lotul-romaniei-pentru-ultimul-meci-din-world-rugby-nations-cup-2026-stejarii-intalnesc-canada-vineri-la-bucuresti-23843796</link>
-        <description>Naționala de rugby a României a operat modificări în lotul de pregătire pentru ultima partidă din ediția inaugurală a World Rugby Nations Cup, împotriva Canadei, programată vineri, 20 noiembrie, de la ora 18:30, pe Stadionul Național de Rugby Arcul de Triumf din București.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/schimbari-in-lotul-romaniei-pentru-ultimul-meci-din-world-rugby-nations-cup-2026-stejarii-intalnesc-canada-vineri-la-bucuresti-23843796</guid>
-        <pubDate>Mon, 16 Nov 2026 10:24:47 +0000</pubDate>
-    </item>
-    <item>
-        <title>Guvernatorul BNR respinge scenariul unui acord cu FMI: „Fondul vine când avem o criză valutară. Nu este cazul României"</title>
-        <link>https://www.digi24.ro/stiri/economie/finante-economie/guvernatorul-bnr-respinge-scenariul-unui-acord-cu-fmi-fondul-vine-cand-avem-o-criza-valutara-nu-este-cazul-romaniei-4038149</link>
-        <description>România nu se află în situația de a apela la un acord de finanțare cu Fondul Monetar Internațional, deoarece nu traversează o criză valutară și dispune de rezerve, a declarat luni guvernatorul BNR, Mugur Isărescu. El a precizat că țara are nevoie de finanțare, însă banii trebuie să vină din investiții străine, fonduri europene și împrumuturi de pe piețele de capital.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/finante-economie/guvernatorul-bnr-respinge-scenariul-unui-acord-cu-fmi-fondul-vine-cand-avem-o-criza-valutara-nu-este-cazul-romaniei-4038149</guid>
-        <pubDate>Mon, 16 Nov 2026 10:30:22 +0000</pubDate>
-    </item>
-    <item>
-        <title>PSD pregătește restructurarea aparatului de stat. Instituții comasate și companii care ar putea dispărea. Marian Neacșu: „Noțiunea de reformă s-a demonetizat”</title>
-        <link>https://adevarul.ro/politica/marian-neacsu-despre-restructurarea-companiilor-2571826.html</link>
-        <description>Vicepremierul Marian Neacșu a prezentat luni conducerii PSD un plan de restructurare a aparatului public central, a instituțiilor subordonate și a companiilor la care statul este acționar majoritar.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/politica/marian-neacsu-despre-restructurarea-companiilor-2571826.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:22:06 +0000</pubDate>
-    </item>
-    <item>
-        <title>Cod galben de vânt puternic în zonele montane / Rafalele ajung la 120 km/h la altitudini mari</title>
-        <link>https://www.g4media.ro/cod-galben-de-vant-puternic-in-zonele-montane-rafalele-ajung-la-120-km-h-la-altitudini-mari.html</link>
-        <description>Administraţia Naţională de Meteorologie a emis luni o atenţionare Cod galben de vânt puternic în zonele montane, unde rafalele vor atinge viteze de 70-90 km/h, iar la altitudini mari de 90-120 km/h, scrie Agerpres. Avertizarea va intra în vigoare marţi, la ora 6:00, şi va fi valabilă până miercuri, la ora 10:00. De asemenea, pe…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/cod-galben-de-vant-puternic-in-zonele-montane-rafalele-ajung-la-120-km-h-la-altitudini-mari.html</guid>
-        <pubDate>Mon, 16 Nov 2026 10:16:56 +0000</pubDate>
-    </item>
-    <item>
-        <title>Muşat &amp; Asociaţii SCA deschide un nou capitol: inteligența artificială juridică Harvey intră în practica societății</title>
-        <link>https://www.digi24.ro/stiri/actualitate/social/legea-pensiilor/musat-asociatii-sca-deschide-un-nou-capitol-inteligenta-artificiala-juridica-harvey-intra-in-practica-societatii-4038105</link>
-        <description>Volumul documentelor dintr-o tranzacție, ritmul modificărilor legislative și așteptările clienților privind celeritatea au transformat timpul într-o resursă la fel de prețioasă ca expertiza. În acest context, Muşat &amp; Asociaţii SCA anunță că a integrat în activitatea sa curentă Harvey, platforma de inteligență artificială dezvoltată special pentru profesioniștii din domeniul juridic și al serviciilor profesionale.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/social/legea-pensiilor/musat-asociatii-sca-deschide-un-nou-capitol-inteligenta-artificiala-juridica-harvey-intra-in-practica-societatii-4038105</guid>
-        <pubDate>Mon, 16 Nov 2026 10:30:59 +0000</pubDate>
-    </item>
-    <item>
-        <title>Doi jandarmi, condamnați după ce au bătut un copil de 15 ani și un alt bărbat. Agresiunea a fost surprinsă de camerele de supraveghere</title>
-        <link>https://www.mediafax.ro/social/doi-jandarmi-condamnati-dupa-ce-au-batut-un-copil-de-15-ani-si-un-alt-barbat-agresiunea-a-fost-surprinsa-de-camerele-de-supraveghere-23843778</link>
-        <description>Doi jandarmi au fost condamnați de Tribunalul Militar București după ce au agresat un copil de 15 ani și un alt bărbat, în timpul unei intervenții. Violențele au fost surprinse de camerele de supraveghere montate în curtea unei locuințe, iar imaginile au avut un rol important în stabilirea faptelor.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/social/doi-jandarmi-condamnati-dupa-ce-au-batut-un-copil-de-15-ani-si-un-alt-barbat-agresiunea-a-fost-surprinsa-de-camerele-de-supraveghere-23843778</guid>
-        <pubDate>Mon, 16 Nov 2026 10:18:13 +0000</pubDate>
-    </item>
-    <item>
-        <title>Par cartofi prăjiți, dar sunt plini de fibre, vitamina A și potasiu</title>
-        <link>https://www.mediafax.ro/sanatate/par-cartofi-prajiti-dar-sunt-plini-de-fibre-vitamina-a-si-potasiu-23843837</link>
-        <description>Feliile de cartofi dulci la cuptor arată ca niște cartofi prăjiți, dar au mai multe fibre și mai puține grăsimi. Cum le faci crocante cu doar câteva linguri de ulei.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/sanatate/par-cartofi-prajiti-dar-sunt-plini-de-fibre-vitamina-a-si-potasiu-23843837</guid>
-        <pubDate>Mon, 16 Nov 2026 10:40:04 +0000</pubDate>
     </item>
 </channel>
 </rss>
