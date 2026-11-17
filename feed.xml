@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 17 Nov 2026 03:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:01:33 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Unde mai găsești analize gratuite când marile laboratoare spun că nu mai au fonduri. Explicațiile șefei CNAS</title>
+        <link>https://www.mediafax.ro/social/unde-mai-gasesti-analize-gratuite-cand-marile-laboratoare-spun-ca-nu-mai-au-fonduri-explicatiile-sefei-cnas-23844292</link>
+        <description>Pacienții care nu mai găsesc locuri pentru analize medicale decontate de Casa Națională de Asigurări de Sănătate (CNAS) ar putea avea o soluție. În timp ce clinicile cunoscute au programările ocupate chiar și cu trei luni înainte, unii furnizori mai puțin cunoscuți au fonduri disponibile inclusiv spre sfârșitul lunii, susține președintele interimar al CNAS, Larisa Mezinu-Bălan. Instituția pregătește și o hartă digitală care să îi ajute pe români să găsească mai ușor laboratoarele și clinicile…</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/unde-mai-gasesti-analize-gratuite-cand-marile-laboratoare-spun-ca-nu-mai-au-fonduri-explicatiile-sefei-cnas-23844292</guid>
+        <pubDate>Tue, 17 Nov 2026 03:53:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>„Honey trap”, arma veche a spionajului care îi poate vulnerabiliza chiar și pe cei mai puternici oameni. De la Mata Hari la scandalul Nvidia</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/honey-trap-arma-veche-a-spionajului-care-ii-2571844.html</link>
+        <description>Scandalul din jurul lui Jensen Huang, care a plecat de la conducerea Nvidia după dezvăluirile despre relația cu o femeie suspectată de spionaj pentru China, a readus în atenție o metodă veche de manipulare.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/honey-trap-arma-veche-a-spionajului-care-ii-2571844.html</guid>
+        <pubDate>Tue, 17 Nov 2026 03:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Un tablou ascuns zeci de ani într-un dulap a fost scos la licitație cu 5 milioane de dolari: „Lucrarea era cunoscută doar din fotografii”</title>
         <link>https://www.libertatea.ro/lifestyle/tablou-evaluat-5-milioane-dolari-ascuns-zeci-de-ani-dulap-sua-scos-la-licitatie-xfcevvh</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/primarul-din-ghimbav-respinge-pierderea-statutului-de-oras-dupa-monaco-si-luxemburg-vine-ghimbavul-la-bugetul-pe-cap-de-locuitor.html</guid>
         <pubDate>Mon, 16 Nov 2026 20:33:16 +0000</pubDate>
-    </item>
-    <item>
-        <title>„Un acord final va necesita decizii dificile”. Jared Kushner semnalează progrese spre încheierea războiului în Ucraina</title>
-        <link>https://www.digi24.ro/stiri/externe/un-acord-final-va-necesita-decizii-dificile-jared-kushner-semnaleaza-progrese-spre-incheierea-razboiului-in-ucraina-4039281</link>
-        <description>Unul dintre emisarii preşedintelui american Donald Trump pentru soluţionarea negociată a războiului din Ucraina, Jared Kushner, care este şi ginerele său, a afirmat luni că se înregistrează progrese în direcţia unui acord care să pună capăt acestui conflict, deşi există în continuare provocări semnificative.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/un-acord-final-va-necesita-decizii-dificile-jared-kushner-semnaleaza-progrese-spre-incheierea-razboiului-in-ucraina-4039281</guid>
-        <pubDate>Mon, 16 Nov 2026 20:31:02 +0000</pubDate>
-    </item>
-    <item>
-        <title>VIDEO Traian Băsescu despre botezul PSD și nunta PNL: Un subiect minor / ”Pot să vă spun că partenera domnului Bolojan arăta superb și a avut o rochie superbă„</title>
-        <link>https://www.g4media.ro/video-traian-basescu-despre-botezul-psd-si-nunta-pnl-un-subiect-minor-pot-sa-va-spun-ca-partenera-domnului-bolojan-arata-superb-si-a-avut-o-rochie-superba.html</link>
-        <description>Fostul președinte al României, Traian Băsescu spune că nu are încă o opinie autorizată prin care să vorbească despre activitatea guvernului PSD, iar despre subiectul botezului copilului președintelui PSD, Alfred Simonis susține că e un subiect minor. La fel ca și cel legat de nunta fiicei fostului premier Ilie Bolojan. ”Deocamdată, PSD e singur la…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/video-traian-basescu-despre-botezul-psd-si-nunta-pnl-un-subiect-minor-pot-sa-va-spun-ca-partenera-domnului-bolojan-arata-superb-si-a-avut-o-rochie-superba.html</guid>
-        <pubDate>Mon, 16 Nov 2026 20:25:45 +0000</pubDate>
     </item>
 </channel>
 </rss>
