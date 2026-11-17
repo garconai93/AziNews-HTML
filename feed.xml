@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:56:47 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Cum ajunge un fragment video să stârnească un val de indignare. Lecția controverselor de la concertul Theo Rose</title>
+        <link>https://adevarul.ro/stiri-interne/societate/cum-ajunge-un-fragment-video-sa-starneasca-un-val-2572241.html</link>
+        <description>Apariția unor copii îmbrăcați în uniforme de pionieri pe scenă, la concertul lui Theo Rose, a stârnit un val de critici pe rețelele sociale. Unii au acuzat-o pe artistă că promovează comunismul, în timp ce organizatorii au explicat că spectacolul urmărea, dimpotrivă, să condamne regimul comunist.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/cum-ajunge-un-fragment-video-sa-starneasca-un-val-2572241.html</guid>
+        <pubDate>Tue, 17 Nov 2026 23:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Liga Națiunilor: Învinsă de Bosnia, România termină pe ultimul loc. Clasamentul grupei și pe cine ar putea întâlni Tricolorii la baraj</title>
         <link>https://www.digi24.ro/stiri/sport/fotbal/liga-natiunilor-invinsa-de-bosnia-romania-termina-pe-ultimul-loc-clasamentul-grupei-si-pe-cine-ar-putea-intalni-tricolori-la-baraj-4041123</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/neacsu-patru-companii-de-stat-au-acumulat-90-din-pierderile-inregistrate-in-2024-datoriile-societatilor-ajung-la-18-miliarde-de-lei-4040955</guid>
         <pubDate>Tue, 17 Nov 2026 20:22:38 +0000</pubDate>
-    </item>
-    <item>
-        <title>Marian Neacșu prezintă amploarea pierderilor companiilor de stat: un miliard de euro în 2024 și datorii de 18 miliarde de lei</title>
-        <link>https://www.mediafax.ro/politic/marian-neacsu-prezinta-amploarea-pierderilor-companiilor-de-stat-un-miliard-de-euro-in-2024-si-datorii-de-18-miliarde-de-lei-23844938</link>
-        <description>Companiile de stat au înregistrat pierderi de aproximativ un miliard de euro în 2024, iar datoriile totale acumulate se ridică la circa 18 miliarde de lei, a declarat marți seară vicepremierul și ministrul Afacerilor Interne, Marian Neacșu.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/marian-neacsu-prezinta-amploarea-pierderilor-companiilor-de-stat-un-miliard-de-euro-in-2024-si-datorii-de-18-miliarde-de-lei-23844938</guid>
-        <pubDate>Tue, 17 Nov 2026 20:19:47 +0000</pubDate>
     </item>
 </channel>
 </rss>
