@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 17 Nov 2026 01:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 02:01:25 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Marea Neagră devine verde. Fenomenul spectaculos surprins din satelit și avertismentul specialiștilor</title>
+        <link>https://www.mediafax.ro/stirile-zilei/marea-neagra-devine-verde-fenomenul-spectaculos-surprins-din-satelit-si-avertismentul-specialistilor-23844295</link>
+        <description>Marea Neagră își schimbă culoarea, iar fenomenul poate ascunde probleme serioase pentru ecosistemul marin. Imaginile surprinse în 2026 de sateliții europeni arată întinderi uriașe de apă colorate în verde și turcoaz, inclusiv în apropierea litoralului românesc. În spatele acestui spectacol vizual se află proliferarea masivă a unor microorganisme marine. Specialiștii avertizează că excesul de substanțe nutritive provenite din agricultură și din apele uzate poate transforma astfel de înfloriri…</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/marea-neagra-devine-verde-fenomenul-spectaculos-surprins-din-satelit-si-avertismentul-specialistilor-23844295</guid>
+        <pubDate>Tue, 17 Nov 2026 01:43:58 +0000</pubDate>
+    </item>
+    <item>
+        <title>Europa regândește educația în era ecranelor: Suedia revine la manuale, Spania vrea să suspende TikTok. Ce se întâmplă cu elevii din România</title>
+        <link>https://adevarul.ro/stiri-interne/societate/europa-regandeste-educatia-in-era-ecranelor-2570691.html</link>
+        <description>În timp ce elevii își pot rezolva temele în câteva secunde cu ajutorul inteligenței artificiale, Suedia revine la manuale și caiete, iar Spania cere suspendarea temporară a TikTok din cauza materialelor cu abuzuri sexuale asupra copiilor.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/europa-regandeste-educatia-in-era-ecranelor-2570691.html</guid>
+        <pubDate>Tue, 17 Nov 2026 01:00:25 +0000</pubDate>
+    </item>
     <item>
         <title>Cum arată enclavele sărăciei, comunele înființate din calcul electoral. Ce spun localnicii despre întoarcerea la comunele-mamă, după două decenii de exod și depopulare</title>
         <link>https://adevarul.ro/stiri-interne/cum-arata-enclavele-saraciei-comunele-infiintate-2571402.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/zelenski-anunta-discutii-cu-negociatorii-europeni-si-americani-si-cere-rachete-europene-pentru-a-lovi-rusia-4039201</guid>
         <pubDate>Mon, 16 Nov 2026 19:40:58 +0000</pubDate>
-    </item>
-    <item>
-        <title>Traian Băsescu îl critică pe Nicușor Dan pentru vizita în Cambodgia: „Ar trebui să fie acasă ca președinte. Ce să faci la Francofonie?”</title>
-        <link>https://adevarul.ro/politica/traian-basescu-il-critica-pe-nicusor-dan-pentru-2572017.html</link>
-        <description>Traian Băsescu l-a criticat luni seară, 16 noiembrie, pe Nicușor Dan pentru participarea la Summitul Francofoniei din Cambodgia, susținând că președintele ar fi trebuit să acorde mai multă atenție incidentelor tot mai frecvente din Marea Neagră.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/politica/traian-basescu-il-critica-pe-nicusor-dan-pentru-2572017.html</guid>
-        <pubDate>Mon, 16 Nov 2026 19:37:27 +0000</pubDate>
-    </item>
-    <item>
-        <title>Salariile, un subiect tabu la locul de muncă. Câți angajați se tem să ceară explicații despre bani</title>
-        <link>https://adevarul.ro/economie/salariile-un-subiect-tabu-la-locul-de-munca-cati-2571920.html</link>
-        <description>Discuțiile despre salarii rămân un subiect sensibil la locul de muncă. Aproape șase din zece angajați chestionați (59%) spun că au evitat să vorbească despre bani de teama consecințelor, potrivit unui studiu Cult Research.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/economie/salariile-un-subiect-tabu-la-locul-de-munca-cati-2571920.html</guid>
-        <pubDate>Mon, 16 Nov 2026 19:06:25 +0000</pubDate>
     </item>
 </channel>
 </rss>
