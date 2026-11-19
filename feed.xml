@@ -5,8 +5,40 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:01:21 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Luca Niculescu, despre cele mai utile momente în care IA a fost utilizată în sectorul public. „O coagulare a felului în care ne ținem datele”</title>
+        <link>https://www.mediafax.ro/stirile-zilei/luca-niculescu-despre-cele-mai-utile-momente-in-care-ia-a-fost-utilizata-in-sectorul-public-o-coagulare-a-felului-in-care-ne-tinem-datele-23846040</link>
+        <description>Premierul Luca Niculescu a vorbit joi, în cadrul celei de-a doua ediții a Summitului pentru Guvernanță Digitală, despre momentele în care inteligența artificială a fost utilă în sectorul public.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/luca-niculescu-despre-cele-mai-utile-momente-in-care-ia-a-fost-utilizata-in-sectorul-public-o-coagulare-a-felului-in-care-ne-tinem-datele-23846040</guid>
+        <pubDate>Thu, 19 Nov 2026 12:59:42 +0000</pubDate>
+    </item>
+    <item>
+        <title>Captură importantă de droguri în București. 50 de kilograme de cocaină și 2,5 kilograme de canabis, ascunse în podeaua unei mașini și în camere de hotel</title>
+        <link>https://www.mediafax.ro/social/captura-importanta-de-droguri-in-bucuresti-50-de-kilograme-de-cocaina-si-25-kilograme-de-canabis-ascunse-in-podeaua-unei-masini-si-in-camere-de-hotel-23846050</link>
+        <description>O amplă operațiune a polițiștilor și procurorii DIICOT, în București a dus la reținerea a două persoane, în vârstă de 22 și 33 de ani, după ce au fost prinse în flagrant cu peste 50 de kilograme de cocaină și 2,5 kilograme de canabis. O mare parte din droguri erau ascunse într-un compartiment secret din podeaua mașinii, dotat cu un sistem electronic de deschidere pe bază de cartelă.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/social/captura-importanta-de-droguri-in-bucuresti-50-de-kilograme-de-cocaina-si-25-kilograme-de-canabis-ascunse-in-podeaua-unei-masini-si-in-camere-de-hotel-23846050</guid>
+        <pubDate>Thu, 19 Nov 2026 12:55:35 +0000</pubDate>
+    </item>
+    <item>
+        <title>România și alte șase state, avertizate de Comisia Europeană. Bruxelles reclamă reguli fiscale discriminatorii pentru fonduri de pensii</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/romania-si-alte-sase-state-avertizate-de-comisia-europeana-bruxelles-reclama-reguli-fiscale-discriminatorii-pentru-fonduri-de-pensii-4044145</link>
+        <description>Comisia Europeană a declanșat proceduri de constatare a neîndeplinirii obligațiilor împotriva României și a altor șase state membre, acuzându-le că aplică reguli fiscale discriminatorii fondurilor de pensii și societăților de asigurări de viață din alte țări ale Uniunii Europene. Bruxelles-ul consideră că aceste prevederi încalcă libera circulație a capitalurilor și cere modificarea legislației. Statele vizate au la dispoziție două luni pentru a răspunde.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/romania-si-alte-sase-state-avertizate-de-comisia-europeana-bruxelles-reclama-reguli-fiscale-discriminatorii-pentru-fonduri-de-pensii-4044145</guid>
+        <pubDate>Thu, 19 Nov 2026 12:56:58 +0000</pubDate>
+    </item>
+    <item>
+        <title>Radu Oprea: Astăzi suntem o țară în prima linie. Ministrul Apărării, despre contextul geopolitic: Cum reușim să susținem Ucraina dacă economia ucraineană nu funcționează?</title>
+        <link>https://www.mediafax.ro/politic/radu-oprea-astazi-suntem-o-tara-in-prima-linie-ministrul-apararii-despre-contextul-geopolitic-cum-reusim-sa-sustinem-ucraina-daca-economia-ucraineana-nu-functioneaza-23846042</link>
+        <description>Ministrul Apărării a vorbit despre provocările cu care se confrună România, în contextul geopolitic actual, dar și despre fondurile care îi vor reveni țării noastre după ultimele decizii de la Bruxelles. Radu Oprea a pus accent pe problemele aduse de războiul de la graniță.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/politic/radu-oprea-astazi-suntem-o-tara-in-prima-linie-ministrul-apararii-despre-contextul-geopolitic-cum-reusim-sa-sustinem-ucraina-daca-economia-ucraineana-nu-functioneaza-23846042</guid>
+        <pubDate>Thu, 19 Nov 2026 12:58:17 +0000</pubDate>
+    </item>
     <item>
         <title>„Mi-e frică de 2028”. Nicușor Dan: Am depus multă energie pe problema de securitate. Ca societate, am pierdut timp pe mize mici</title>
         <link>https://www.digi24.ro/stiri/actualitate/politica/mi-e-frica-de-2028-nicusor-dan-am-depus-multa-energie-pe-problema-de-securitate-ca-societate-am-pierdut-timp-pe-mize-mici-4044107</link>
@@ -454,38 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/social/inspectoare-de-la-finantele-arges-retinute-de-dna-ar-fi-primit-mita-pentru-a-proteja-firme-de-controale-fiscale-23845988</guid>
         <pubDate>Thu, 19 Nov 2026 11:51:24 +0000</pubDate>
-    </item>
-    <item>
-        <title>Se răzgândește Sorana Cîrstea? Vestea pe care fanii o așteptau: de ce nu și-a anunțat încă retragerea</title>
-        <link>https://adevarul.ro/sport/se-razgandeste-sorana-cirstea-vestea-pe-care-2572770.html</link>
-        <description>Sorana Cîrstea anunțase că acesta va fi ultimul din cariera sa. La două săptămâni după ultimul turneu la care a participat, românca nu și-a confirmat încă retragerea din circuit.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/sport/se-razgandeste-sorana-cirstea-vestea-pe-care-2572770.html</guid>
-        <pubDate>Thu, 19 Nov 2026 11:18:54 +0000</pubDate>
-    </item>
-    <item>
-        <title>Munca prin platforme, o oportunitate de venit pentru studenți și cei care au nevoie de un program flexibil</title>
-        <link>https://www.g4media.ro/munca-prin-platforme-o-oportunitate-de-venit-pentru-studenti-si-cei-care-au-nevoie-de-un-program-flexibil.html</link>
-        <description>Munca prin platforme devine, pentru anumite categorii de persoane, o soluție de acces rapid la venituri și la piața muncii. Studenții, părinții care trebuie să își împartă timpul între familie și serviciu, dar și persoanele aflate la început de drum profesional se numără printre cei pentru care flexibilitatea poate face diferența. Un studiu realizat de…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/munca-prin-platforme-o-oportunitate-de-venit-pentru-studenti-si-cei-care-au-nevoie-de-un-program-flexibil.html</guid>
-        <pubDate>Thu, 19 Nov 2026 11:34:38 +0000</pubDate>
-    </item>
-    <item>
-        <title>Europarlamentarul Virgil Popescu anunță un acord pentru amânarea unor norme UE privind metanul: „Protejăm prețurile la energie”</title>
-        <link>https://www.digi24.ro/stiri/economie/europarlamentarul-virgil-popescu-anunta-un-acord-pentru-amanarea-unor-norme-ue-privind-metanul-protejam-preturile-la-energie-4043971</link>
-        <description>Parlamentul European și statele membre au ajuns la un acord privind amânarea cu doi ani a unor cerințe de raportare și monitorizare a emisiilor de metan, a anunțat joi europarlamentarul Virgil Popescu. Înțelegerea urmează să fie supusă votului în plenul Parlamentului European.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/economie/europarlamentarul-virgil-popescu-anunta-un-acord-pentru-amanarea-unor-norme-ue-privind-metanul-protejam-preturile-la-energie-4043971</guid>
-        <pubDate>Thu, 19 Nov 2026 11:32:36 +0000</pubDate>
-    </item>
-    <item>
-        <title>Victor Negrescu: Europa trebuie să își consolideze alianțele, în contextul redefinirii relațiilor dintre SUA, China și Rusia</title>
-        <link>https://www.mediafax.ro/politic/victor-negrescu-europa-trebuie-sa-isi-consolideze-aliantele-in-contextul-redefinirii-relatiilor-dintre-sua-china-si-rusia-23845969</link>
-        <description>Vicepreședintele Parlamentului European, Victor Negrescu, consideră că Uniunea Europeană trebuie să își diversifice parteneriatele strategice și să își consolideze influența internațională, în contextul schimbărilor geopolitice și al relațiilor dintre Statele Unite, China și Rusia.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/victor-negrescu-europa-trebuie-sa-isi-consolideze-aliantele-in-contextul-redefinirii-relatiilor-dintre-sua-china-si-rusia-23845969</guid>
-        <pubDate>Thu, 19 Nov 2026 11:40:04 +0000</pubDate>
     </item>
 </channel>
 </rss>
