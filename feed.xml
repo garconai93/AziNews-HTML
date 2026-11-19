@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:01:28 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Vaccinul gripal cu doză mare ar putea reduce riscul de Alzheimer. Ce au descoperit cercetătorii americani</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/vaccinul-gripal-cu-doza-mare-ar-putea-reduce-2572334.html</link>
+        <description>Un vaccin administrat în fiecare an pentru prevenirea gripei ar putea avea un beneficiu suplimentar, neașteptat: asocierea cu un risc mai mic de apariție a bolii Alzheimer.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/vaccinul-gripal-cu-doza-mare-ar-putea-reduce-2572334.html</guid>
+        <pubDate>Thu, 19 Nov 2026 03:00:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Ce se întâmplă în SUA? Cinci incidente tehnice în cinci zile, fără explicație comună</title>
+        <link>https://adevarul.ro/stiri-externe/sua/ce-se-intampla-in-sua-cinci-incidente-tehnice-in-2572580.html</link>
+        <description>O serie de incidente tehnice care au afectat e-mailul, transportul aerian, banci și o agenție de informații a făcut mulți americani să se întrebe dacă este vorba de simple defecțiuni sau de ceva mai grav. Până acum nu a fost confirmat niciun atac cibernetic.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/sua/ce-se-intampla-in-sua-cinci-incidente-tehnice-in-2572580.html</guid>
+        <pubDate>Thu, 19 Nov 2026 03:30:25 +0000</pubDate>
+    </item>
     <item>
         <title>Cum ar putea arăta harta Bucureștiului, după reforma administrativ-teritorială. Politicienii români pot „fura meserie” de la Londra, Madrid, Paris, Berlin sau Viena</title>
         <link>https://adevarul.ro/stiri-interne/societate/cum-ar-putea-arata-harta-bucurestiului-dupa-2572350.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/o-lista-cu-politicieni-italieni-anti-ucraineni-starneste-reactii-dure-la-roma-italia-cere-explicatii-ucrainei-4042899</guid>
         <pubDate>Wed, 18 Nov 2026 20:06:29 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ioana Ciocan, întâlnire cu Roxana Mînzatu la Bruxelles. Discuții despre finanțarea culturii în viitorul buget european</title>
-        <link>https://www.mediafax.ro/stirile-zilei/ioana-ciocan-intalnire-cu-roxana-minzatu-la-bruxelles-discutii-despre-finantarea-culturii-in-viitorul-buget-european-23845649</link>
-        <description>Ministra Culturii, Ioana Ciocan, s-a întâlnit cu Roxana Mînzatu, vicepreședinta executivă a Comisiei Europene pentru a discuta despre viitorul finanțării sectorului cultural, protejarea patrimoniului și susținerea profesioniștilor din domeniu.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/ioana-ciocan-intalnire-cu-roxana-minzatu-la-bruxelles-discutii-despre-finantarea-culturii-in-viitorul-buget-european-23845649</guid>
-        <pubDate>Wed, 18 Nov 2026 20:03:09 +0000</pubDate>
-    </item>
-    <item>
-        <title>GTA 6, primele recenzii după lansare. Ce spun criticii și ce note a obținut cel mai așteptat joc al anului</title>
-        <link>https://www.digi24.ro/stiri/sci-tech/gta-6-primele-recenzii-dupa-lansare-ce-spun-criticii-si-ce-note-a-obtinut-cel-mai-asteptat-joc-al-anului-4042913</link>
-        <description>După 13 ani de așteptare și mai multe amânări, Grand Theft Auto 6 (GTA 6), unul dintre cele mai așteptate jocuri video din toate timpurile, a fost primit cu entuziasm de critici, care îl descriu drept o „capodoperă”. Noul joc al Rockstar Games a obținut un scor de 99 din 100 pe Metacritic, egalând un record care datează din 1998, relatează BBC.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/sci-tech/gta-6-primele-recenzii-dupa-lansare-ce-spun-criticii-si-ce-note-a-obtinut-cel-mai-asteptat-joc-al-anului-4042913</guid>
-        <pubDate>Wed, 18 Nov 2026 20:23:49 +0000</pubDate>
     </item>
 </channel>
 </rss>
