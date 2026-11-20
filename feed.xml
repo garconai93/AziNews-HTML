@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Fri, 20 Nov 2026 02:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:01:24 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Furie în Italia | Un senegalez poligam, cu 11 copii, dintre care 9 în Africa, primește alocații de la statul italian | Salvini: „Incredibil!”</title>
+        <link>https://www.mediafax.ro/externe/furie-in-italia-un-senegalez-poligam-cu-11-copii-dintre-care-9-in-africa-primeste-alocatii-de-la-statul-italian-salvini-incredibil-23846368</link>
+        <description>Statul italian va plăti alocații pentru nouă copii care nu au pus piciorul în Italia. Un tribunal din Prato i-a dat dreptate unui muncitor senegalez cu unsprezece copii din mai multe relații, iar Salvini cere să se pună capăt „absurdității“.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/furie-in-italia-un-senegalez-poligam-cu-11-copii-dintre-care-9-in-africa-primeste-alocatii-de-la-statul-italian-salvini-incredibil-23846368</guid>
+        <pubDate>Fri, 20 Nov 2026 02:03:05 +0000</pubDate>
+    </item>
     <item>
         <title>Casa Verde Baterii: Câți bani trebuie să scoată prosumatorii din buzunar și cum își pot crește șansele de finanțare</title>
         <link>https://adevarul.ro/economie/casa-verde-baterii-cati-bani-trebuie-sa-scoata-2572793.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/grindeanu-reforma-administrativa-trebuie-facuta-intr-un-calendar-clar-daca-pierdem-timpul-s-ar-putea-sa-nu-se-mai-intample-4044913</guid>
         <pubDate>Thu, 19 Nov 2026 20:22:38 +0000</pubDate>
-    </item>
-    <item>
-        <title>Dronele navale ale Ucrainei au ajuns să se confrunte direct cu cele rusești în schimburi de focuri pe mare</title>
-        <link>https://adevarul.ro/stiri-externe/europa/dronele-navale-ale-ucrainei-au-ajuns-sa-se-2572608.html</link>
-        <description>Marina ucraineană susține că o dronă navală Sargan 3000 a distrus un aparat fără pilot al Rusiei, folosind o turelă automată de armament. Confruntările marchează o nouă etapă în războiul naval dintre cele două țări.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/dronele-navale-ale-ucrainei-au-ajuns-sa-se-2572608.html</guid>
-        <pubDate>Thu, 19 Nov 2026 20:04:51 +0000</pubDate>
     </item>
 </channel>
 </rss>
