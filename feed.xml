@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 04:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Când se plătește concediul de odihnă neefectuat și cât valorează o zi</title>
+        <link>https://adevarul.ro/economie/cand-se-plateste-concediul-de-odihna-neefectuat-si-2571551.html</link>
+        <description>Puțini angajați ajung la finalul anului fără nicio zi de concediu rămasă neefectuată, iar întrebarea care revine constant în discuțiile cu departamentul de resurse umane este dacă acele zile pot fi transformate în bani.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/economie/cand-se-plateste-concediul-de-odihna-neefectuat-si-2571551.html</guid>
+        <pubDate>Sat, 21 Nov 2026 03:00:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Paradoxul regimului de la Teheran: femeile loialiste primesc arme și pilotează drone pentru a apăra sistemul care le îngrădește libertățile</title>
+        <link>https://adevarul.ro/stiri-externe/in-lume/paradoxul-regimului-de-la-teheran-femeile-2573149.html</link>
+        <description>Regimul islamic din Iran își intensifică eforturile de militarizare a societății, implicând tot mai mult femeile în activități de instruire militară și apărare.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/in-lume/paradoxul-regimului-de-la-teheran-femeile-2573149.html</guid>
+        <pubDate>Sat, 21 Nov 2026 03:30:25 +0000</pubDate>
+    </item>
     <item>
         <title>Pilula testată de un an și jumătate, daraxonrasib, a dat rezultate spectaculoase la 90% dintre pacienții cu cancer pancreatic</title>
         <link>https://www.mediafax.ro/sanatate/pilula-testata-de-un-an-si-jumatate-daraxonrasib-a-dat-rezultate-spectaculoase-la-90-dintre-pacientii-cu-cancer-pancreatic-23847140</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/externe/trump-se-inconjoara-de-prea-multi-oameni-care-ii-dau-mereu-dreptate-spune-sotia-sa-melania-4046661</guid>
         <pubDate>Fri, 20 Nov 2026 20:45:38 +0000</pubDate>
-    </item>
-    <item>
-        <title>Scenariul care ar putea pune NATO în dificultate după ce două rachete și o dronă au căzut pe teritoriul Poloniei</title>
-        <link>https://adevarul.ro/securitate-si-aparare/scenariul-care-ar-putea-pune-nato-in-dificultate-2573119.html</link>
-        <description>Expertul în securitate Claudiu Degeratu analizează riscul unui conflict militar direct cu Rusia și explică de ce Alianța se bazează mai degrabă pe prudență în relația cu Moscova.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/scenariul-care-ar-putea-pune-nato-in-dificultate-2573119.html</guid>
-        <pubDate>Fri, 20 Nov 2026 20:27:25 +0000</pubDate>
-    </item>
-    <item>
-        <title>Trump: Nu vom permite ca centrele de date să fie amplasate în alte țări</title>
-        <link>https://www.mediafax.ro/externe/trump-nu-vom-permite-ca-centrele-de-date-sa-fie-amplasate-in-alte-tari-23847085</link>
-        <description>Președintele SUA, Donald Trump a declarat, vineri, că firmele americane se vor confrunta cu „o taxă uriașă” dacă vor construi centre de date în alte țări. Cu toate acestea, companii americane precum Google, Amazon sau Microsoft au deja centre în Europa, dar și Asia sau America Latină.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-nu-vom-permite-ca-centrele-de-date-sa-fie-amplasate-in-alte-tari-23847085</guid>
-        <pubDate>Fri, 20 Nov 2026 20:14:30 +0000</pubDate>
     </item>
 </channel>
 </rss>
