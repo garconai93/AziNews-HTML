@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 22 Nov 2026 21:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 22:01:18 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Polonia confirmă că trei rachete de croazieră rusești au încălcat spațiul aerian al țării / Toate au fost fabricate în regiunea Moscovei</title>
+        <link>https://www.mediafax.ro/externe/polonia-confirma-ca-trei-rachete-de-croaziera-rusesti-au-incalcat-spatiul-aerian-al-tarii-toate-au-fost-fabricate-in-regiunea-moscovei-23847638</link>
+        <description>Polonia a confirmat că trei rachete de croazieră rusești de tip Kh-101 au pătruns în spațiul său aerian, în urma incidentului produs vineri, în apropierea graniței cu Ucraina. Primele concluzii ale anchetei arată că toate cele trei rachete au fost fabricate recent într-o uzină din Dubna, în regiunea Moscovei.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/polonia-confirma-ca-trei-rachete-de-croaziera-rusesti-au-incalcat-spatiul-aerian-al-tarii-toate-au-fost-fabricate-in-regiunea-moscovei-23847638</guid>
+        <pubDate>Sun, 22 Nov 2026 21:59:52 +0000</pubDate>
+    </item>
+    <item>
+        <title>Moartea lui Dudu Georgescu este învăluită în mister. S-ar fi găsit un cuțit în corpul lui!</title>
+        <link>https://adevarul.ro/sport/moartea-lui-dudu-georgescu-este-invaluita-in-2573546.html</link>
+        <description>Potrivit site-ului „Gazeta Sporturilor”, moartea fostului mare golgheter Dudu Georgescu n-ar fi fost una naturală, din cauza unor probleme de sănătate. Astfel, soția acestuia l-ar fi găsit seara în casă, cu leziuni grave pe corp.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/sport/moartea-lui-dudu-georgescu-este-invaluita-in-2573546.html</guid>
+        <pubDate>Sun, 22 Nov 2026 21:57:11 +0000</pubDate>
+    </item>
     <item>
         <title>Incendiu puternic la un hotel din Poiana Brașov. Aproximativ 150 de persoane au fost evacuate | Pompierii intervin cu mai multe autospeciale</title>
         <link>https://www.mediafax.ro/social/incendiu-puternic-la-un-hotel-din-poiana-brasov-aproximativ-150-de-persoane-au-fost-evacuate-pompierii-intervin-cu-mai-multe-autospeciale-23847593</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/subsecretarul-american-al-apararii-europa-trebuie-sa-preia-conducerea-sprijinului-militar-pentru-ucraina-si-a-apararii-conventionale-a-continentului-colby-va-propune-cate-trupe-sua-vor-ramane-in-ro.html</guid>
         <pubDate>Sun, 22 Nov 2026 18:54:20 +0000</pubDate>
-    </item>
-    <item>
-        <title>De la inteligența artificială generală la „superinteligență”: patru posibile căi de dezvoltare</title>
-        <link>https://www.mediafax.ro/tehnologie/de-la-inteligenta-artificiala-generala-la-superinteligenta-patru-posibile-cai-de-dezvoltare-23846791</link>
-        <description>Inteligența artificială ar putea depăși nivelul uman prin sisteme tot mai puternice, grupuri de agenți care colaborează sau procese de autoîmbunătățire, potrivit unei analize publicate de Google DeepMind Institute.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/tehnologie/de-la-inteligenta-artificiala-generala-la-superinteligenta-patru-posibile-cai-de-dezvoltare-23846791</guid>
-        <pubDate>Sun, 22 Nov 2026 18:44:01 +0000</pubDate>
-    </item>
-    <item>
-        <title>Meseria care își schimbă numele în România după trei decenii. Peste 76.000 de contracte de muncă vor fi modificate</title>
-        <link>https://adevarul.ro/stiri-interne/societate/meseria-care-isi-schimba-numele-in-romania-dupa-2573523.html</link>
-        <description>Denumirea „femeie de serviciu” urmează să dispară din Clasificarea Ocupațiilor din România (COR), după mai bine de trei decenii în care a fost utilizată în documentele oficiale. Ministerul Muncii a avizat schimbarea.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/meseria-care-isi-schimba-numele-in-romania-dupa-2573523.html</guid>
-        <pubDate>Sun, 22 Nov 2026 18:05:44 +0000</pubDate>
     </item>
 </channel>
 </rss>
