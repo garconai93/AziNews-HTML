@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Trump a încercat să reia legătura cu Kim Jong Un, dar a fost ignorat | Scrisoarea trimisă liderului nord-coreean a fost returnată nedeschisă</title>
+        <link>https://www.mediafax.ro/externe/trump-a-incercat-sa-reia-legatura-cu-kim-jong-un-dar-a-fost-ignorat-scrisoarea-trimisa-liderului-nord-coreean-a-fost-returnata-nedeschisa-23847645</link>
+        <description>Președintele american Donald Trump a încercat în repetate rânduri să reia dialogul cu liderul nord-coreean Kim Jong Un, însă demersurile sale au fost întâmpinate cu tăcere, iar o scrisoare trimisă acestuia a fost returnată fără să fie deschisă. Informațiile au fost publicate de The Wall Street Journal, care citează persoane familiarizate cu situația.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/trump-a-incercat-sa-reia-legatura-cu-kim-jong-un-dar-a-fost-ignorat-scrisoarea-trimisa-liderului-nord-coreean-a-fost-returnata-nedeschisa-23847645</guid>
+        <pubDate>Mon, 23 Nov 2026 00:18:35 +0000</pubDate>
+    </item>
     <item>
         <title>Școala-fantomă din umbra Castelului Corvinilor. Soarta neașteptată a clădirilor istorice care au fost cândva mândria României</title>
         <link>https://adevarul.ro/stil-de-viata/magazin/scoala-fantoma-din-umbra-castelului-corvinilor-2573312.html</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/sport/liverpool-a-umilit-o-pe-manchester-united-la-debutul-lui-mauricio-pochettino-23847603</guid>
         <pubDate>Sun, 22 Nov 2026 19:23:29 +0000</pubDate>
-    </item>
-    <item>
-        <title>Google a extins Ask Maps în peste 30 de țări europene / Cum poate inteligența artificială să planifice călătorii</title>
-        <link>https://www.g4media.ro/google-a-extins-ask-maps-in-peste-30-de-tari-europene-cum-poate-inteligenta-artificiala-sa-planifice-calatorii.html</link>
-        <description>Google extinde funcția Ask Maps, bazată pe inteligența artificială Gemini, în peste 30 de țări europene și introduce instrumente care le permit utilizatorilor să își planifice călătoriile direct din Google Maps, relatază Euronews.com. Noua versiune poate construi itinerarii pentru excursii de o zi sau vacanțe de mai multe zile, poate recomanda opriri pe traseu și…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/google-a-extins-ask-maps-in-peste-30-de-tari-europene-cum-poate-inteligenta-artificiala-sa-planifice-calatorii.html</guid>
-        <pubDate>Sun, 22 Nov 2026 19:50:55 +0000</pubDate>
     </item>
 </channel>
 </rss>
