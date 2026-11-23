@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:01:20 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Atacurile iraniene din Strâmtoarea Ormuz sunt la cel mai ridicat nivel de la începutul conflictului / Trump nu e impresionat</title>
+        <link>https://www.mediafax.ro/externe/atacurile-iraniene-din-stramtoarea-ormuz-sunt-la-cel-mai-ridicat-nivel-de-la-inceputul-conflictului-trump-nu-e-impresionat-23847659</link>
+        <description>Numărul atacurilor raportate asupra transportului maritim din Strâmtoarea Ormuz și din zona învecinată a atins cel mai ridicat nivel de la izbucnirea războiului cu Iranul, arată date maritime. Teheranul încearcă să-și recapete controlul asupra căii navigabile esențiale, pe fondul scăderii prețurilor la petrol.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/atacurile-iraniene-din-stramtoarea-ormuz-sunt-la-cel-mai-ridicat-nivel-de-la-inceputul-conflictului-trump-nu-e-impresionat-23847659</guid>
+        <pubDate>Mon, 23 Nov 2026 02:23:00 +0000</pubDate>
+    </item>
+    <item>
+        <title>Arsenalul care a pus la încercare apărarea antiaeriană a Rusiei: cele 11 drone și rachete folosite pentru a lovi podul din Crimeea</title>
+        <link>https://adevarul.ro/stiri-externe/europa/arsenalul-care-a-pus-la-incercare-apararea-2573476.html</link>
+        <description>Kievul a mobilizat o combinație de 11 tipuri de drone și rachete de croazieră pentru a depăși apărarea antiaeriană rusă și a lovi podul Kerci, care leagă Rusia de peninsula Crimeea, ocupată de Moscova. Le point face o trecere în revistă a armamentului folosit.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/arsenalul-care-a-pus-la-incercare-apararea-2573476.html</guid>
+        <pubDate>Mon, 23 Nov 2026 02:09:25 +0000</pubDate>
+    </item>
     <item>
         <title>Flăcări pe cerul nopții / Rafinăria rusă din Novoșahtinsk arde după un atac cu drone ucrainene luni</title>
         <link>https://www.mediafax.ro/externe/flacari-pe-cerul-noptii-rafinaria-rusa-din-novosahtinsk-arde-dupa-un-atac-cu-drone-ucrainene-luni-23847653</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/externe/le-pen-neaga-ca-ar-fi-primit-informatii-de-la-un-functionar-al-ministerului-de-interne-francez-23847606</guid>
         <pubDate>Sun, 22 Nov 2026 20:00:58 +0000</pubDate>
-    </item>
-    <item>
-        <title>Simion pretinde că raportul privind anularea alegerilor prezidențiale din 2024 va fi prezentat luni seară</title>
-        <link>https://www.g4media.ro/simion-pretinde-ca-raportul-privind-anularea-alegerilor-prezidentiale-din-2024-va-fi-prezentat-luni-seara.html</link>
-        <description>Președintele partidului extremist AUR, George Simion, a anunțat duminică seară că raportul privind anularea alegerilor prezidențiale din 2024 va fi prezentat luni, 23 noiembrie. Liderul formațiunii nu a precizat cine va prezenta documentul și nici unde va avea loc evenimentul. „Cum Nicușor nu a mai prezentat nimic, țara trebuie să meargă mai departe: Raportul privind…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/simion-pretinde-ca-raportul-privind-anularea-alegerilor-prezidentiale-din-2024-va-fi-prezentat-luni-seara.html</guid>
-        <pubDate>Sun, 22 Nov 2026 19:19:41 +0000</pubDate>
-    </item>
-    <item>
-        <title>Incendiu puternic la un hotel din Poiana Braşov. Intervin pompieri din patru județe</title>
-        <link>https://www.digi24.ro/stiri/actualitate/incendiu-puternic-la-un-hotel-din-poiana-brasov-intervin-pompieri-din-patru-judete-4048199</link>
-        <description>Un incendiu a izbucnit, duminică seara, la mansarda şi la faţada unui hotel din Poiana Braşov, pompierii intervenind cu mai multe autospeciale pentru a preveni extinderea focului. Forţele de intervenţie au fost suplimentate din judeţele Prahova, Covasna şi Argeş. Primele informaţii arată că nu sunt persoane surprinse în clădire.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/incendiu-puternic-la-un-hotel-din-poiana-brasov-intervin-pompieri-din-patru-judete-4048199</guid>
-        <pubDate>Sun, 22 Nov 2026 19:41:12 +0000</pubDate>
     </item>
 </channel>
 </rss>
