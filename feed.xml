@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:01:25 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Școala-fantomă din umbra Castelului Corvinilor. Soarta neașteptată a clădirilor istorice care au fost cândva mândria României</title>
+        <link>https://adevarul.ro/stil-de-viata/magazin/scoala-fantoma-din-umbra-castelului-corvinilor-2573312.html</link>
+        <description>Castele părăsite, palate balneare în pragul prăbușirii și școli monumentale devastate de hoți și incendii au devenit „clădiri-fantomă” ale României. Fostele simboluri ale prosperității și dezvoltării comunităților au ajuns ruine, după decenii de abandon.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stil-de-viata/magazin/scoala-fantoma-din-umbra-castelului-corvinilor-2573312.html</guid>
+        <pubDate>Sun, 22 Nov 2026 23:17:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Haos pe aeroporturile din SUA înainte de Ziua Recunoștinței / Aproximativ 1.000 de zboruri Delta au avut întârzieri din cauza unei probleme tehnice</title>
+        <link>https://www.mediafax.ro/externe/haos-pe-aeroporturile-din-sua-inainte-de-ziua-recunostintei-aproximativ-1-000-de-zboruri-delta-au-avut-intarzieri-din-cauza-unei-probleme-tehnice-23847642</link>
+        <description>Aproximativ 1.000 de zboruri operate de compania aeriană Delta Air Lines au înregistrat întârzieri duminică, după o defecțiune a unui sistem automatizat folosit pentru calcularea greutății aeronavelor.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/haos-pe-aeroporturile-din-sua-inainte-de-ziua-recunostintei-aproximativ-1-000-de-zboruri-delta-au-avut-intarzieri-din-cauza-unei-probleme-tehnice-23847642</guid>
+        <pubDate>Sun, 22 Nov 2026 23:08:14 +0000</pubDate>
+    </item>
     <item>
         <title>Vladimir Putin a acceptat în privat garanții de securitate pentru Ucraina, pe modelul articolului 5 din NATO, dar a cerut anumite condiții</title>
         <link>https://www.libertatea.ro/stiri/vladimir-putin-a-acceptat-in-privat-garantii-de-securitate-pentru-ucraina-pe-modelul-articolului-5-din-nato-dar-a-cerut-anumite-conditii-v25clw7</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/google-a-extins-ask-maps-in-peste-30-de-tari-europene-cum-poate-inteligenta-artificiala-sa-planifice-calatorii.html</guid>
         <pubDate>Sun, 22 Nov 2026 19:50:55 +0000</pubDate>
-    </item>
-    <item>
-        <title>Drulă acuză că nodul rutier A0-A3 a fost extins nejustificat, cu un cost suplimentar de 61 de milioane de lei</title>
-        <link>https://www.g4media.ro/drula-acuza-ca-nodul-rutier-a0-a3-a-fost-extins-nejustificat-cu-un-cost-suplimentar-de-61-de-milioane-de-lei.html</link>
-        <description>Deputatul USR Cătălin Drulă, fost ministru al Transporturilor, susține că nodul rutier dintre Autostrada A0 și Autostrada A3 a fost extins de la 82 la 208 hectare, deși suprafața suplimentară nu ar fi fost necesară din punct de vedere tehnic. Potrivit acestuia, modificarea proiectului a dus la exproprierea a 125 de hectare în plus și…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/drula-acuza-ca-nodul-rutier-a0-a3-a-fost-extins-nejustificat-cu-un-cost-suplimentar-de-61-de-milioane-de-lei.html</guid>
-        <pubDate>Sun, 22 Nov 2026 19:50:06 +0000</pubDate>
-    </item>
-    <item>
-        <title>Cele mai bune stațiuni de schi din Europa pentru familii: Scandinavia și Andorra domină clasamentul / Stațiunea Straja, prezentă în top</title>
-        <link>https://www.g4media.ro/cele-mai-bune-statiuni-de-schi-din-europa-pentru-familii-scandinavia-si-andorra-domina-clasamentul-statiunea-straja-prezenta-in-top.html</link>
-        <description>Stațiunile de schi din Scandinavia și Andorra se numără printre cele mai bune destinații europene pentru vacanțele în familie din această iarnă, potrivit unui nou studiu care a analizat 144 de stațiuni de pe continent, citat de Euronews.com. România este reprezentată în clasament de Straja, apreciată în special pentru prețurile accesibile și facilitățile dedicate familiilor.…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/cele-mai-bune-statiuni-de-schi-din-europa-pentru-familii-scandinavia-si-andorra-domina-clasamentul-statiunea-straja-prezenta-in-top.html</guid>
-        <pubDate>Sun, 22 Nov 2026 19:20:10 +0000</pubDate>
     </item>
 </channel>
 </rss>
