@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:01:25 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>JD Vance ar fi jucat un rol important în readucerea lui Jensen Huang la conducerea Nvidia. Vicepreședintele SUA ar fi colaborat cu Donald Trump</title>
+        <link>https://www.mediafax.ro/stirile-zilei/jd-vance-ar-fi-jucat-un-rol-important-in-readucerea-lui-jensen-huang-la-conducerea-nvidia-vicepresedintele-sua-ar-fi-colaborat-cu-donald-trump-23848314</link>
+        <description>Vicepreședintele american JD Vance ar fi colaborat îndeaproape cu președintele Statelor Unite Donald Trump, pentru a convinge Consiliul de Administrație al Nvidia să-l readucă pe Jensen Huang la conducerea companiei.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/jd-vance-ar-fi-jucat-un-rol-important-in-readucerea-lui-jensen-huang-la-conducerea-nvidia-vicepresedintele-sua-ar-fi-colaborat-cu-donald-trump-23848314</guid>
+        <pubDate>Tue, 24 Nov 2026 02:31:24 +0000</pubDate>
+    </item>
     <item>
         <title>Alertă în Polonia. O dronă rusească a încălcat pentru scurt timp spațiul aerian al țării în timpul unui atac asupra Ucrainei</title>
         <link>https://www.mediafax.ro/stirile-zilei/lerta-in-polonia-o-drona-ruseasca-a-incalcat-pentru-scurt-timp-spatiul-aerian-al-tarii-in-timpul-unui-atac-asupra-ucrainei-23848307</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Digi24</source>
         <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ce-se-va-intampla-cu-judetele-maghiare-la-reorganizarea-administrativa-benea-se-poate-ajunge-la-o-solutie-prin-negociere-si-compromis-4049933</guid>
         <pubDate>Mon, 23 Nov 2026 20:21:28 +0000</pubDate>
-    </item>
-    <item>
-        <title>Rapid învinge pe Sepsi în încheierea etapei a 16-a din Superliga și devansează pe Dinamo în clasament</title>
-        <link>https://www.mediafax.ro/sport/rapid-invinge-pe-sepsi-in-incheierea-etapei-a-16-a-din-superliga-si-devanseaza-pe-dinamo-in-clasament-23848245</link>
-        <description>Rapid București a învins pe Sepsi OSK Sfântu Gheorghe, luni seara, în deplasare, în ultimul meci al etapei a 16-a din Superliga de fotbal, și a urcat pe locul al doilea în clasament, devansând pe Dinamo București, care a pierdut al doilea meci la rând.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/sport/rapid-invinge-pe-sepsi-in-incheierea-etapei-a-16-a-din-superliga-si-devanseaza-pe-dinamo-in-clasament-23848245</guid>
-        <pubDate>Mon, 23 Nov 2026 20:13:19 +0000</pubDate>
     </item>
 </channel>
 </rss>
