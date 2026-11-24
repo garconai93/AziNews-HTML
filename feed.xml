@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 04:01:25 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>China condamnă la moarte un oficial pentru spionaj în favoarea unei țări străine. Ar fi primit 150.000 de dolari în schimbul informațiilor</title>
+        <link>https://www.mediafax.ro/stirile-zilei/china-condamna-la-moarte-un-oficial-pentru-spionaj-in-favoarea-unei-tari-straine-ar-fi-primit-150-000-de-dolari-in-schimbul-informatiilor-23848320</link>
+        <description>Un oficial chinez a fost condamnat la moarte pentru spionaj în favoarea unei țări străine. Ar fi furnizat 35 de informații clasificate drept secrete naționale și ar fi primit plăți în valoare de 150.000 de dolari.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/china-condamna-la-moarte-un-oficial-pentru-spionaj-in-favoarea-unei-tari-straine-ar-fi-primit-150-000-de-dolari-in-schimbul-informatiilor-23848320</guid>
+        <pubDate>Tue, 24 Nov 2026 03:52:19 +0000</pubDate>
+    </item>
+    <item>
+        <title>O decorațiune de brad specifică anilor ’90 este din nou la modă. Cum să împodobești bradul potrivit tendințelor</title>
+        <link>https://www.mediafax.ro/stirile-zilei/o-decoratiune-de-brad-specifica-anilor-90-este-din-nou-la-moda-cum-sa-impodobesti-bradul-potrivit-tendintelor-23848317</link>
+        <description>Populară în anii optzeci și nouăzeci, o decorațiune specifică de brad este din nou la modă. Deși până de curând era considerată un kitsch, a început să fie la mare căutare decenii mai târziu.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/o-decoratiune-de-brad-specifica-anilor-90-este-din-nou-la-moda-cum-sa-impodobesti-bradul-potrivit-tendintelor-23848317</guid>
+        <pubDate>Tue, 24 Nov 2026 03:04:47 +0000</pubDate>
+    </item>
     <item>
         <title>JD Vance ar fi jucat un rol important în readucerea lui Jensen Huang la conducerea Nvidia. Vicepreședintele SUA ar fi colaborat cu Donald Trump</title>
         <link>https://www.mediafax.ro/stirile-zilei/jd-vance-ar-fi-jucat-un-rol-important-in-readucerea-lui-jensen-huang-la-conducerea-nvidia-vicepresedintele-sua-ar-fi-colaborat-cu-donald-trump-23848314</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/accident-la-fabrica-de-bere-din-miercurea-ciuc-un-rezervor-cu-soda-caustica-s-a-fisurat-3-raniti-sunt-transportati-la-spital.html</guid>
         <pubDate>Mon, 23 Nov 2026 20:04:30 +0000</pubDate>
-    </item>
-    <item>
-        <title>Virusul care se răspândește în Anglia. Cât timp poate supraviețui pe obiectele din locuință și care sunt simptomele infecției</title>
-        <link>https://adevarul.ro/stiri-externe/europa/virusul-care-se-raspandeste-in-anglia-cat-timp-2573863.html</link>
-        <description>Autoritățile sanitare britanice semnalează o creștere a numărului de îmbolnăviri provocate de norovirus, un agent patogen foarte contagios, care poate cauza vărsături și diaree. Specialiștii le recomandă oamenilor să respecte cu strictețe regulile de igienă și să curețe periodic obiectele.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/virusul-care-se-raspandeste-in-anglia-cat-timp-2573863.html</guid>
-        <pubDate>Mon, 23 Nov 2026 20:29:48 +0000</pubDate>
-    </item>
-    <item>
-        <title>Ce se va întâmpla cu județele maghiare la reorganizarea administrativă. Benea: Se poate ajunge la o soluție prin negociere și compromis</title>
-        <link>https://www.digi24.ro/stiri/actualitate/politica/ce-se-va-intampla-cu-judetele-maghiare-la-reorganizarea-administrativa-benea-se-poate-ajunge-la-o-solutie-prin-negociere-si-compromis-4049933</link>
-        <description>Dragoș Benea a declarat luni seara, în exclusivitate pentru Digi24, că nu se așteaptă la un consens politic privind reorganizarea administrativ-teritorială, inclusiv în privința județelor cu populație majoritar maghiară. Coordonatorul proiectului PSD susține însă că se poate ajunge la o soluție prin negociere și compromis, astfel încât reforma să nu fie blocată.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/ce-se-va-intampla-cu-judetele-maghiare-la-reorganizarea-administrativa-benea-se-poate-ajunge-la-o-solutie-prin-negociere-si-compromis-4049933</guid>
-        <pubDate>Mon, 23 Nov 2026 20:21:28 +0000</pubDate>
     </item>
 </channel>
 </rss>
