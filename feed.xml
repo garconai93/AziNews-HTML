@@ -5,8 +5,16 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Tue, 24 Nov 2026 00:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:01:21 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Mai multe avioane rusești au intrat în zona de apărare aeriană a Coreei de Sud. Țara a trimis avioane de vânătoare ca răspuns</title>
+        <link>https://www.mediafax.ro/externe/mai-multe-avioane-rusesti-au-intrat-in-zona-de-aparare-aeriana-a-coreei-de-sud-tara-a-trimis-avioane-de-vanatoare-ca-raspuns-23848304</link>
+        <description>Mai multe avioane de război rusești au intrat pentru scurt timp în zona de apărare aeriană a Coreei de Sud deasupra Mării de Est, marți dimineața. Forțele Aeriene Sud-Coreene au trimis avioane de vânătoare ca răspuns.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/externe/mai-multe-avioane-rusesti-au-intrat-in-zona-de-aparare-aeriana-a-coreei-de-sud-tara-a-trimis-avioane-de-vanatoare-ca-raspuns-23848304</guid>
+        <pubDate>Tue, 24 Nov 2026 00:39:10 +0000</pubDate>
+    </item>
     <item>
         <title>„Gata cu predicțiile catastrofale”. Donald Trump afirmă că știința climatică extremă a fost demontată</title>
         <link>https://www.mediafax.ro/stirile-zilei/gata-cu-predictiile-catastrofale-donald-trump-afirma-ca-stiinta-climatica-extrema-a-fost-demontata-23848293</link>
@@ -478,14 +486,6 @@
         <source url="https://azinews.ro/feed.xml">G4Media</source>
         <guid isPermaLink="true">https://www.g4media.ro/se-schimba-scaunele-in-bt-arena-capitonate-integral-cu-tapiterie-din-piele-ecologica-boc-standarde-internationale-de-top.html</guid>
         <pubDate>Mon, 23 Nov 2026 20:36:10 +0000</pubDate>
-    </item>
-    <item>
-        <title>Țara pe care Moscova o avertizează că ar putea declanșa un război deschis. Cinci puncte de frontieră cu Rusia, închise</title>
-        <link>https://adevarul.ro/stiri-externe/europa/tara-pe-care-moscova-o-avertizeaza-ca-ar-putea-2573861.html</link>
-        <description>Ministerul de Externe al Rusiei a transmis un avertisment dur Estoniei, acuzând autoritățile de la Tallinn de acțiuni provocatoare care ar putea duce la un conflict militar direct. Declarația vine după ce Estonia a anunțat că va închide, începând cu 1 decembrie, punctele de trecere a frontierei.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-externe/europa/tara-pe-care-moscova-o-avertizeaza-ca-ar-putea-2573861.html</guid>
-        <pubDate>Mon, 23 Nov 2026 20:12:40 +0000</pubDate>
     </item>
 </channel>
 </rss>
