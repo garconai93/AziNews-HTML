@@ -5,8 +5,40 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Wed, 25 Nov 2026 01:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:01:24 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Vaccinarea oilor se extinde, dar exporturile rămân blocate. Crescătorii țin animalele în ferme și acumulează pierderi</title>
+        <link>https://adevarul.ro/stiri-interne/societate/vaccinarea-oilor-se-extinde-dar-exporturile-raman-2573866.html</link>
+        <description>Vaccinarea oilor și caprelor se extinde la nivel național, însă nu aduce și certitudinea reluării exporturilor. De luni de zile, crescătorii sunt nevoiți să țină animalele în ferme, cu cheltuieli tot mai mari și fără compensații, iar pentru perioada de după 1 ianuarie 2027 nu au încă un calendar.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/societate/vaccinarea-oilor-se-extinde-dar-exporturile-raman-2573866.html</guid>
+        <pubDate>Wed, 25 Nov 2026 01:03:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Real Madrid, victorie la scor cu PSV în Liga Campionilor, scor 5-1 / Rezultatele serii</title>
+        <link>https://www.g4media.ro/real-madrid-victorie-la-scor-cu-psv-in-liga-campionilor-scor-5-1-rezultatele-serii.html</link>
+        <description>Condusă cu 0-1 la pauză pe Santiago Bernabeu, Real Madrid a avut o parte secundă de vis și a învins-o la scor pe PSV Eindhoven în etapa a 5-a din grupa extinsă a Ligii Campionilor, marți seară, scor 5-1. Ivan Perisic a deschis scorul după un penalti în prima repriză, în minutul 32, iar campioana…</description>
+        <source url="https://azinews.ro/feed.xml">G4Media</source>
+        <guid isPermaLink="true">https://www.g4media.ro/real-madrid-victorie-la-scor-cu-psv-in-liga-campionilor-scor-5-1-rezultatele-serii.html</guid>
+        <pubDate>Wed, 25 Nov 2026 01:13:41 +0000</pubDate>
+    </item>
+    <item>
+        <title>Există o grupă de sânge mai bună decât celelalte? Ce riscuri și avantaje sunt asociate grupelor A, B, AB și O</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/exista-o-grupa-de-sange-mai-buna-decat-celelalte-2574171.html</link>
+        <description>De cele mai multe ori, oamenii își află grupa sanguină atunci când au nevoie de o transfuzie sau în urma unor analize medicale. Totuși, aceasta ar putea oferi și câteva indicii despre anumite riscuri pentru sănătate.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/exista-o-grupa-de-sange-mai-buna-decat-celelalte-2574171.html</guid>
+        <pubDate>Wed, 25 Nov 2026 01:34:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Donald Trump se va întâlni cu secretarul general al NATO în Florida. Discuțiile au loc după ce președintele american și-a încheiat vizita în Asia</title>
+        <link>https://www.mediafax.ro/stirile-zilei/donald-trump-se-va-intalni-cu-secretarul-general-al-nato-in-florida-discutiile-au-loc-dupa-ce-presedintele-american-si-a-incheiat-vizita-in-asia-23848932</link>
+        <description>Președintele american Donald Trump se va întâlni miercuri cu secretarul general al NATO, Mark Rutte, în Florida. Discuțiile dintre cei doi au loc după ce liderul de la Casa Albă și-a încheiat turneul în Asia, unde s-a întâlnit cu liderul rus Vladimir Putin și cu președintele chinez Xi Jinping.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/donald-trump-se-va-intalni-cu-secretarul-general-al-nato-in-florida-discutiile-au-loc-dupa-ce-presedintele-american-si-a-incheiat-vizita-in-asia-23848932</guid>
+        <pubDate>Wed, 25 Nov 2026 01:51:12 +0000</pubDate>
+    </item>
     <item>
         <title>O navă de război rusă, suspectată că a bruiat semnalul GPS al 140 de avioane în largul coastei britanice. Zboruri British Airways, Ryanair și easyJet, afectate</title>
         <link>https://adevarul.ro/stiri-externe/europa/o-nava-de-razboi-rusa-suspectata-ca-a-bruiat-2574156.html</link>
@@ -454,38 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Adevarul</source>
         <guid isPermaLink="true">https://adevarul.ro/stiri-locale/alba-iulia/apartament-din-alba-iulia-inchiriat-prin-booking-2574197.html</guid>
         <pubDate>Tue, 24 Nov 2026 20:50:38 +0000</pubDate>
-    </item>
-    <item>
-        <title>Datoriile de 5 miliarde de lei către magistrați: Guvernul pregătește o nouă eșalonare / Ministru: ”Să găsim acea formulă care să fie constituțională”</title>
-        <link>https://www.g4media.ro/datoriile-de-5-miliarde-de-lei-catre-magistrati-guvernul-pregateste-o-noua-esalonare-ministru-sa-gasim-acea-formula-care-sa-fie-constitutionala.html</link>
-        <description>Radu Marinescu susține că plata restanțelor salariale câștigate în instanță de magistrați trebuie făcută printr-o formulă de eșalonare care să respecte hotărârile judecătorești, dar să nu afecteze stabilitatea financiară și bugetară a României, relatează Mediafax. Guvernul caută o formulă legală și constituțională pentru plata restanțelor salariale ale magistraților, care se ridică la aproximativ 5 miliarde…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/datoriile-de-5-miliarde-de-lei-catre-magistrati-guvernul-pregateste-o-noua-esalonare-ministru-sa-gasim-acea-formula-care-sa-fie-constitutionala.html</guid>
-        <pubDate>Tue, 24 Nov 2026 20:57:49 +0000</pubDate>
-    </item>
-    <item>
-        <title>Structuri antice masive în Cartierul Regal din Alexandria, Egipt / Ar putea fi un mormânt regal</title>
-        <link>https://www.g4media.ro/structuri-antice-masive-in-cartierul-regal-din-alexandria-egipt-ar-putea-fi-un-mormant-regal.html</link>
-        <description>Autorităţile din Egipt au anunţat marţi descoperirea unor fundaţii masive din piatră de calcar în Cartierul Regal al Alexandriei antice, situat în guvernoratul Alexandria din nordul ţării, iar primele indicii sugerează că acele structuri ar fi putut avea un scop funerar, relatează Agerpres, care citează agenţia de presă Xinhua. Descoperirea a fost făcută în zona…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/structuri-antice-masive-in-cartierul-regal-din-alexandria-egipt-ar-putea-fi-un-mormant-regal.html</guid>
-        <pubDate>Tue, 24 Nov 2026 20:08:01 +0000</pubDate>
-    </item>
-    <item>
-        <title>Radu Marinescu: Eșalonarea restanțelor salariale ale magistraților, o soluție pentru protejarea stabilității financiare a României</title>
-        <link>https://www.mediafax.ro/politic/radu-marinescu-esalonarea-restantelor-salariale-ale-magistratilor-o-solutie-pentru-protejarea-stabilitatii-financiare-a-romaniei-23848879</link>
-        <description>Radu Marinescu susține, marți seara, că plata restanțelor salariale câștigate în instanță de magistrați trebuie făcută printr-o formulă de eșalonare care să respecte hotărârile judecătorești, dar să nu afecteze stabilitatea financiară și bugetară a României.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/politic/radu-marinescu-esalonarea-restantelor-salariale-ale-magistratilor-o-solutie-pentru-protejarea-stabilitatii-financiare-a-romaniei-23848879</guid>
-        <pubDate>Tue, 24 Nov 2026 20:41:46 +0000</pubDate>
-    </item>
-    <item>
-        <title>Conturile pe rețelele sociale ar putea fi făcute cu portofelul electronic. Propunerea ministrului Digitalizării pentru protejarea minorilor</title>
-        <link>https://adevarul.ro/stiri-interne/evenimente/conturile-pe-retelele-sociale-ar-putea-fi-facute-2574194.html</link>
-        <description>România ar trebui să adopte o poziție comună cu celelalte state membre ale Uniunii Europene în privința limitării accesului minorilor la rețelele sociale, consideră ministrul delegat pentru digitalizare și inteligență artificială, Bogdan Dumitru.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/evenimente/conturile-pe-retelele-sociale-ar-putea-fi-facute-2574194.html</guid>
-        <pubDate>Tue, 24 Nov 2026 20:39:43 +0000</pubDate>
     </item>
 </channel>
 </rss>
