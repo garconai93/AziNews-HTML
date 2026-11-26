@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:01:23 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Rusia readuce amenințarea nucleară în prim-plan. Cât de eficientă mai este descurajarea și cât de expusă este Europa</title>
+        <link>https://adevarul.ro/securitate-si-aparare/rusia-readuce-amenintarea-nucleara-in-prim-plan-2574184.html</link>
+        <description>Retorica nucleară de la Moscova revine în prim-plan prin avertismentele lui Dmitri Medvedev, însă specialiștii arată că descurajarea nucleară are limite clare. Generalul Virgil Bălăceanu și Liviu Horovitz explică de ce expirarea tratatelor și atacurile hibride schimbă ecuația de securitate.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/rusia-readuce-amenintarea-nucleara-in-prim-plan-2574184.html</guid>
+        <pubDate>Thu, 26 Nov 2026 01:30:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>„Arată bine, îi urez noroc”. Donald Trump îl felicită pe Robert Pattinson pentru rolul lui James Bond</title>
+        <link>https://www.mediafax.ro/stirile-zilei/arata-bine-ii-urez-noroc-donald-trump-il-felicita-pe-robert-pattinson-pentru-rolul-lui-james-bond-23849636</link>
+        <description>Președintele american Donald Trump l-a felicitat pe Robert Pattinson după ce a obținut rolul lui James Bond. Liderul de la Casa Albă a declarat că actorul „arată bine” și i-a urat noroc în interpretarea agentului 007.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/arata-bine-ii-urez-noroc-donald-trump-il-felicita-pe-robert-pattinson-pentru-rolul-lui-james-bond-23849636</guid>
+        <pubDate>Thu, 26 Nov 2026 01:36:12 +0000</pubDate>
+    </item>
     <item>
         <title>Umbra Enron planează asupra Nvidia. De ce stârnește gigantul AI amintiri despre unul dintre cele mai mari scandaluri financiare din istorie</title>
         <link>https://adevarul.ro/stiri-externe/sua/umbra-enron-planeaza-asupra-nvidia-de-ce-2574436.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/sanatate/in-spital-nu-se-intra-ca-in-gara-ministrul-sanatatii-anunta-noi-masuri-pentru-combaterea-infectiilor-nosocomiale-23849563</guid>
         <pubDate>Wed, 25 Nov 2026 20:30:26 +0000</pubDate>
-    </item>
-    <item>
-        <title>Elena Lasconi: „Ilie Bolojan este și creația mea”. Despre perioada în care a fost premier: „Dureroasă, sângeroasă”</title>
-        <link>https://www.digi24.ro/stiri/elena-lasconi-ilie-bolojan-este-si-creatia-mea-despre-perioada-in-care-a-fost-premier-dureroasa-sangeroasa-4053233</link>
-        <description>Primarul municipiului Câmpulung, Elena Lasconi, fost candidat la prezidențiale, a declarat, miercuri seară, la Digi24, că Luca Niculescu este „prim-ministrul PSD-ului”, iar Nicușor Dan este „în cârdășie cu PSD”. Ea susține că perioada în care a fost în funcție Guvernul Bolojan a fost „dureroasă, sângeroasă”, deși afirmă că are „mare încredere” în președintele PNL. „Este și creația mea, că am fost primul candidat care l-a propus ca prim-ministru”, susține Lasconi.</description>
-        <source url="https://azinews.ro/feed.xml">Digi24</source>
-        <guid isPermaLink="true">https://www.digi24.ro/stiri/elena-lasconi-ilie-bolojan-este-si-creatia-mea-despre-perioada-in-care-a-fost-premier-dureroasa-sangeroasa-4053233</guid>
-        <pubDate>Wed, 25 Nov 2026 20:56:52 +0000</pubDate>
-    </item>
-    <item>
-        <title>UE pierde peste 200 de miliarde de euro anual din taxe necolectate / Comisia propune folosirea AI</title>
-        <link>https://www.g4media.ro/ue-pierde-peste-200-de-miliarde-de-euro-anual-din-taxe-necolectate-comisia-propune-folosirea-ai.html</link>
-        <description>Statele membre ale Uniunii Europene pierd anual peste 200 de miliarde de euro din taxe și impozite care nu ajung la bugetele publice, din cauza evaziunii fiscale, evitării obligațiilor fiscale, deficiențelor administrative și erorilor neintenționate, scrie Reuters. Comisia Europeană propune modernizarea administrațiilor fiscale, inclusiv prin folosirea inteligenței artificiale, pentru reducerea acestor pierderi. Executivul european a…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/ue-pierde-peste-200-de-miliarde-de-euro-anual-din-taxe-necolectate-comisia-propune-folosirea-ai.html</guid>
-        <pubDate>Wed, 25 Nov 2026 20:40:04 +0000</pubDate>
     </item>
 </channel>
 </rss>
