@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 22:01:24 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>ANRE actualizează calendarul contoarelor inteligente. 70% dintre locurile de consum vor fi integrate în sistemele de măsurare inteligentă până la finalul lui 2028</title>
+        <link>https://www.mediafax.ro/stirile-zilei/anre-actualizeaza-calendarul-contoarelor-inteligente-70-dintre-locurile-de-consum-vor-fi-integrate-in-sistemele-de-masurare-inteligenta-pana-la-finalul-lui-2028-23850366</link>
+        <description>Autoritatea Națională de Reglementare în domeniul Energiei a anunțat joi că 70% dintre locurile de consum din România vor fi integrate în sistemele de măsurare inteligentă până la 31 decembrie 2028. Ce beneficii vor avea consumatorii.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/stirile-zilei/anre-actualizeaza-calendarul-contoarelor-inteligente-70-dintre-locurile-de-consum-vor-fi-integrate-in-sistemele-de-masurare-inteligenta-pana-la-finalul-lui-2028-23850366</guid>
+        <pubDate>Thu, 26 Nov 2026 22:00:04 +0000</pubDate>
+    </item>
+    <item>
+        <title>Noi secretari de stat în aparatul de lucru al vicepremierului Marian Neacşu. Noi numiri și la Secretariatul General al Guvernului</title>
+        <link>https://www.digi24.ro/stiri/actualitate/politica/noi-secretari-de-stat-in-aparatul-de-lucru-al-vicepremierului-marian-neacsu-noi-numiri-si-la-secretariatul-general-al-guvernului-4055057</link>
+        <description>Florin-Alexandru Gavril şi Adeline Dan vor ocupa funcţiile de secretar de stat în cadrul Secretariatului General al Guvernului.</description>
+        <source url="https://azinews.ro/feed.xml">Digi24</source>
+        <guid isPermaLink="true">https://www.digi24.ro/stiri/actualitate/politica/noi-secretari-de-stat-in-aparatul-de-lucru-al-vicepremierului-marian-neacsu-noi-numiri-si-la-secretariatul-general-al-guvernului-4055057</guid>
+        <pubDate>Thu, 26 Nov 2026 21:59:47 +0000</pubDate>
+    </item>
     <item>
         <title>Grindeanu: Suntem într-o situaţie economică mult mai proastă. Șeful PSD vorbește de o gaură de 50 de miliarde de lei lăsată de Bolojan</title>
         <link>https://www.digi24.ro/stiri/actualitate/politica/grindeanu-suntem-intr-o-situatie-economica-mult-mai-proasta-seful-psd-vorbeste-de-o-gaura-de-50-de-miliarde-de-lei-lasata-de-bolojan-4054985</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/politic/centre-de-colectare-si-contracte-cu-supermarketurile-planul-anuntat-de-florin-barbu-pentru-producatorii-romani-23850324</guid>
         <pubDate>Thu, 26 Nov 2026 19:29:44 +0000</pubDate>
-    </item>
-    <item>
-        <title>NATO cere pregătirea întregii societăți pentru război. „România nu reușește să-și pregătească nici măcar rezerviștii”, avertizează doi generali</title>
-        <link>https://adevarul.ro/securitate-si-aparare/nato-cere-pregatirea-intregii-societati-pentru-2574746.html</link>
-        <description>Pe fondul avertismentelor lui Mark Rutte privind reziliența societăților, generalii Bălăceanu și Dănilă arată marile probleme ale României. De la amânarea legilor și a exercițiilor reale de mobilizare până la nevoia de a apăra obiectivele, analiza pune cap la cap principalele vulnerabilități</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/securitate-si-aparare/nato-cere-pregatirea-intregii-societati-pentru-2574746.html</guid>
-        <pubDate>Thu, 26 Nov 2026 19:16:02 +0000</pubDate>
-    </item>
-    <item>
-        <title>George Simion, declarație controversată în ziua în care a devenit inculpat: „Să-i las fără piele de șinșila și să-i jupoi”. Mesaj pentru Nicușor Dan</title>
-        <link>https://adevarul.ro/politica/george-simion-declaratie-controversata-in-ziua-in-2574816.html</link>
-        <description>George Simion a făcut o nouă declarație controversată, joi seară, la Râmnicu Vâlcea, în aceeași zi în care a devenit inculpat pentru instigare publică. Liderul AUR a reluat expresia „să-i jupoi”, folosită în declarațiile care au dus la deschiderea dosarului penal.</description>
-        <source url="https://azinews.ro/feed.xml">Adevarul</source>
-        <guid isPermaLink="true">https://adevarul.ro/politica/george-simion-declaratie-controversata-in-ziua-in-2574816.html</guid>
-        <pubDate>Thu, 26 Nov 2026 19:15:36 +0000</pubDate>
     </item>
 </channel>
 </rss>
