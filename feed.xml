@@ -5,8 +5,24 @@
     <link>https://azinews.ro</link>
     <description>Ultimele știri din România</description>
     <language>ro</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:01:23 +0000</lastBuildDate>
     <atom:link href="https://azinews.ro/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>De la primul vape la dependența de nicotină. Adolescenții români, tot mai expuși. „Vreau să stabilim clar cine verifică și cine intervine”</title>
+        <link>https://adevarul.ro/stiri-interne/sanatate/de-la-primul-vape-la-dependenta-de-nicotina-2574187.html</link>
+        <description>Un adolescent din România nu mai trebuie să aprindă o țigară pentru a intra în contact cu nicotina. Țigările electronice, dispozitivele cu arome atractive și produsele din tutun încălzit au schimbat modul în care tinerii ajung să consume această substanță.</description>
+        <source url="https://azinews.ro/feed.xml">Adevarul</source>
+        <guid isPermaLink="true">https://adevarul.ro/stiri-interne/sanatate/de-la-primul-vape-la-dependenta-de-nicotina-2574187.html</guid>
+        <pubDate>Sat, 28 Nov 2026 02:03:25 +0000</pubDate>
+    </item>
+    <item>
+        <title>Edi Iordănescu, mesaj emoționant înaintea debutului la Watford: „Simt o responsabilitate imensă față de români”</title>
+        <link>https://www.mediafax.ro/sport/edi-iordanescu-mesaj-emotionant-inaintea-debutului-la-watford-simt-o-responsabilitate-imensa-fata-de-romani-23851031</link>
+        <description>Antrenorul român Edi Iordănescu a transmis un mesaj de mulțumire și încredere înaintea primului său meci la conducerea echipei engleze Watford FC.</description>
+        <source url="https://azinews.ro/feed.xml">Mediafax</source>
+        <guid isPermaLink="true">https://www.mediafax.ro/sport/edi-iordanescu-mesaj-emotionant-inaintea-debutului-la-watford-simt-o-responsabilitate-imensa-fata-de-romani-23851031</guid>
+        <pubDate>Sat, 28 Nov 2026 02:06:55 +0000</pubDate>
+    </item>
     <item>
         <title>Piața muncii din România, tot mai greu de traversat. Candidații trimit sute de CV-uri, iar salariile nu mai țin pasul cu scumpirile</title>
         <link>https://adevarul.ro/stiri-interne/societate/piata-muncii-din-romania-tot-mai-greu-de-2573747.html</link>
@@ -470,22 +486,6 @@
         <source url="https://azinews.ro/feed.xml">Mediafax</source>
         <guid isPermaLink="true">https://www.mediafax.ro/externe/raportoarei-onu-francesca-albanese-i-s-a-refuzat-intrarea-in-costa-rica-e-comparata-cu-un-terorist-23850941</guid>
         <pubDate>Fri, 27 Nov 2026 19:06:21 +0000</pubDate>
-    </item>
-    <item>
-        <title>Alegeri în Spania: Criza locuințelor, principala temă a campaniei</title>
-        <link>https://www.mediafax.ro/externe/alegeri-in-spania-criza-locuintelor-principala-tema-a-campaniei-23850970</link>
-        <description>Spaniolii se pregătesc să voteze duminică, după luni de tensiuni politice și sociale, într-un scrutin anticipat în care Partidul Popular (PP), de centru-dreapta, conduce în sondaje, dar ar putea avea nevoie de sprijinul formațiunii Vox pentru a guverna.</description>
-        <source url="https://azinews.ro/feed.xml">Mediafax</source>
-        <guid isPermaLink="true">https://www.mediafax.ro/externe/alegeri-in-spania-criza-locuintelor-principala-tema-a-campaniei-23850970</guid>
-        <pubDate>Fri, 27 Nov 2026 19:49:22 +0000</pubDate>
-    </item>
-    <item>
-        <title>STUDIU | Viața la altitudini mari poate modifica conexiunile dintre regiuni ale creierului</title>
-        <link>https://www.g4media.ro/studiu-iata-la-altitudini-mari-poate-modifica-conexiunile-dintre-regiuni-ale-creierului.html</link>
-        <description>Persoanele care locuiesc la altitudini de peste 1.500 de metri pot prezenta modificări ale conectivității funcționale dintre anumite regiuni ale creierului, în condițiile expunerii prelungite la niveluri mai scăzute de oxigen, potrivit unui studiu realizat de cercetători chinezi și publicat în revista MedScience, relatează Science Alert. Aproximativ 500 de milioane de oameni din întreaga lume…</description>
-        <source url="https://azinews.ro/feed.xml">G4Media</source>
-        <guid isPermaLink="true">https://www.g4media.ro/studiu-iata-la-altitudini-mari-poate-modifica-conexiunile-dintre-regiuni-ale-creierului.html</guid>
-        <pubDate>Fri, 27 Nov 2026 19:00:47 +0000</pubDate>
     </item>
 </channel>
 </rss>
